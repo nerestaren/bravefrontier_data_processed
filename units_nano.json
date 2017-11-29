@@ -11523,14 +11523,14 @@
   },
   "810377": {
     "element": "fire",
-    "guide_id": 8352,
+    "guide_id": 8357,
     "id": 810377,
     "name": "Johnny",
     "rarity": 7
   },
   "810378": {
     "element": "fire",
-    "guide_id": 8353,
+    "guide_id": 8358,
     "id": 810378,
     "name": "Johnny",
     "rarity": 8
@@ -11915,14 +11915,14 @@
   },
   "820377": {
     "element": "water",
-    "guide_id": 8354,
+    "guide_id": 8359,
     "id": 820377,
     "name": "May",
     "rarity": 7
   },
   "820378": {
     "element": "water",
-    "guide_id": 8355,
+    "guide_id": 8360,
     "id": 820378,
     "name": "May",
     "rarity": 8
@@ -12242,6 +12242,13 @@
     "name": "Terror Fist Nyala",
     "rarity": 7
   },
+  "830328": {
+    "element": "earth",
+    "guide_id": 8363,
+    "id": 830328,
+    "name": "Big Sister Nyala",
+    "rarity": 8
+  },
   "830357": {
     "element": "earth",
     "guide_id": 8312,
@@ -12272,14 +12279,14 @@
   },
   "830387": {
     "element": "earth",
-    "guide_id": 8355,
+    "guide_id": 8353,
     "id": 830387,
     "name": "Baiken",
     "rarity": 7
   },
   "830388": {
     "element": "earth",
-    "guide_id": 8356,
+    "guide_id": 8354,
     "id": 830388,
     "name": "Baiken",
     "rarity": 8
@@ -12830,6 +12837,20 @@
     "name": "Light Tone",
     "rarity": 3
   },
+  "850047": {
+    "element": "light",
+    "guide_id": 8361,
+    "id": 850047,
+    "name": "Spellarcher Fionna",
+    "rarity": 7
+  },
+  "850048": {
+    "element": "light",
+    "guide_id": 8362,
+    "id": 850048,
+    "name": "Brilliant Flash Fionna",
+    "rarity": 8
+  },
   "850114": {
     "element": "light",
     "guide_id": 8101,
@@ -13126,14 +13147,14 @@
   },
   "850387": {
     "element": "light",
-    "guide_id": 8357,
+    "guide_id": 8355,
     "id": 850387,
     "name": "Leo Whitefang",
     "rarity": 7
   },
   "850388": {
     "element": "light",
-    "guide_id": 8358,
+    "guide_id": 8356,
     "id": 850388,
     "name": "Leo Whitefang",
     "rarity": 8
