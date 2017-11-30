@@ -9092,6 +9092,7 @@
     },
     {
       "bp": 10,
+      "dependency": true,
       "desc": "Raises all parameters boost from 40% to 60%"
     },
     {
