@@ -11990,6 +11990,20 @@
     "name": "Execrated Fei",
     "rarity": 6
   },
+  "820507": {
+    "element": "water",
+    "guide_id": 8366,
+    "id": 820507,
+    "name": "Lofia",
+    "rarity": 7
+  },
+  "820508": {
+    "element": "water",
+    "guide_id": 8367,
+    "id": 820508,
+    "name": "Lofia",
+    "rarity": 8
+  },
   "820547": {
     "element": "water",
     "guide_id": 8341,
@@ -13199,6 +13213,20 @@
     "guide_id": 8336,
     "id": 850548,
     "name": "Lucy Heartfilia",
+    "rarity": 8
+  },
+  "850977": {
+    "element": "light",
+    "guide_id": 8364,
+    "id": 850977,
+    "name": "Logi",
+    "rarity": 7
+  },
+  "850978": {
+    "element": "light",
+    "guide_id": 8365,
+    "id": 850978,
+    "name": "Logi",
     "rarity": 8
   },
   "860003": {

@@ -7924,6 +7924,54 @@
       "desc": "Adds resistance against 1 KO attack when HP is below 20%"
     }
   ],
+  "820508": [
+    {
+      "bp": 10,
+      "desc": "40% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Raises all parameters boost from 40% to 60%"
+    },
+    {
+      "bp": 10,
+      "desc": "Boosts Atk, Def, Rec each turn (for up to 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Considerably reduces BB gauge required for BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Allow SBB base effects to last 1 additional turn"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances BB/SBB's slight all elemental damage reduction effect"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds great HP restoration effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds low probability to perform 1 extra action within the same turn effect to SBB"
+    },
+    {
+      "bp": 25,
+      "dependency": true,
+      "desc": "Adds probability to perform 2 extra actions within the same turn effect to SBB"
+    },
+    {
+      "bp": 50,
+      "desc": "Adds great additional damage reduction for 5 turns effect to UBB"
+    }
+  ],
   "820548": [
     {
       "bp": 20,
@@ -9710,6 +9758,48 @@
     {
       "bp": 30,
       "desc": "Enhances BB's damage reduction from all elemental types effect"
+    }
+  ],
+  "850978": [
+    {
+      "bp": 20,
+      "desc": "30% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "Hugely boosts Def relative to how low remaining HP is"
+    },
+    {
+      "bp": 10,
+      "desc": "Damage taken may slightly restore HP"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates elemental damage"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds resistance against 1 KO attack when HP is below 20%"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's Atk boost relative to Def effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Enhances SBB's considerable Atk, Def boost for Light types effect"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds probable huge 1 turn Atk, Def reduction effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds probable self evasion for 1 turn effect to BB"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds probable resistance against 1 KO attack effect to BB/SBB"
     }
   ],
   "860128": [

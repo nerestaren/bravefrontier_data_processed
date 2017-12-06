@@ -22139,6 +22139,36 @@
     "rarity": 6,
     "sbb": "14 combo powerful Water and Dark attack on all enemies & boosts to own Atk, Def and Rec for 3 turns & restores own HP"
   },
+  "820507": {
+    "bb": "19 combo Water attack on all foes, 10% damage reduction from all element types for 1 turn, damage taken greatly boosts BB gauge for 3 turns & raises normal hit amount for 3 turns ",
+    "category": 820370,
+    "cost": 46,
+    "element": "water",
+    "es": "Adds status ailment removal and negation effects for 3 turns to BB/SBB",
+    "gender": "female",
+    "guide_id": 8366,
+    "id": 820507,
+    "ls": "60% boost to all parameters of Water types, damage taken greatly boosts BB gauge, 15% damage reduction for 2 turns when damage taken has exceeded certain amount & adds probable 1 turn Atk reduction effect to attack for 2 turns when damage taken has exceeded certain amount",
+    "name": "Lofia",
+    "rarity": 7,
+    "sbb": "25 combo powerful Water, Fire, Earth, Thunder attack on all foes, 10% damage reduction from all element types for 1 turn, damage taken greatly boosts BB gauge for 3 turns & greatly boosts elemental damage for 3 turns",
+    "ubb": "31 combo massive Water attack on all foes, fully restores HP for 3 turns, enormously boosts Def for 3 turns & fills BB gauge to max"
+  },
+  "820508": {
+    "bb": "24 combo powerful Water attack on all foes, 10% damage reduction from all element types for 1 turn, damage taken hugely boosts BB gauge for 3 turns, considerably raises normal hit amount for 3 turns & slightly boosts OD gauge",
+    "category": 820370,
+    "cost": 54,
+    "element": "water",
+    "es": "Hugely reduces BB gauge required for BB, adds status ailment removal and negation effects for 3 turns to BB/SBB & 20% boost to all parameters of Water types",
+    "gender": "female",
+    "guide_id": 8367,
+    "id": 820508,
+    "ls": "85% boost to all parameters of Water types, damage taken hugely boosts BB gauge, greatly restores HP for 2 turns when HP is below 50%, 20% damage reduction for 2 turns when damage taken has exceeded certain amount & adds probable 1 turn Atk reduction effect to attack for 2 turns when damage taken has exceeded certain amount",
+    "name": "Lofia",
+    "rarity": 8,
+    "sbb": "32 combo powerful Water, Fire, Earth, Thunder attack on all foes, 10% damage reduction from all element types for 1 turn, damage taken hugely boosts BB gauge for 3 turns, hugely boosts elemental damage for 3 turns & boosts critical and Spark damage of Water types for 3 turns",
+    "ubb": "34 combo massive Water attack on all foes, fully restores HP for 5 turns, enormously boosts Def for 5 turns, fills BB gauge to max & probability of activating BB/SBB/UBB twice for 5 turns"
+  },
   "820547": {
     "bb": "18 combo Water attack on all foes, adds Def ignoring effect to own attack for 3 turns, slightly boosts Spark damage of Water types for 3 turns & probable huge 1 turn Atk, Def reduction\n",
     "category": 820540,
@@ -24496,6 +24526,36 @@
     "rarity": 8,
     "sbb": "25 combo powerful Light attack on all foes, 10 combo powerful Light attack on Dark types, slightly boosts critical damage of Light types for 3 turns, slightly boosts Spark damage of Light types for 3 turns & hugely boosts Light elemental damage for 3 turns",
     "ubb": "28 combo massive Light attack on all foes, 10 combo massive Light attack on Dark types, enormously boosts critical damage for 3 turns, enormously boosts Light elemental damage for 3 turns & enormous damage reduction from Dark types for 3 turns"
+  },
+  "850977": {
+    "bb": "12 combo Light attack on all foes, considerably restores HP, negates Atk, Def, Rec reduction effects for 1 turn & hugely boosts Def for 3 turns",
+    "category": 850970,
+    "cost": 43,
+    "element": "light",
+    "es": "Negates critical damage & negates Def ignoring effects",
+    "gender": "male",
+    "guide_id": 8364,
+    "id": 850977,
+    "ls": "40% boost to max HP, boosts Atk relative to how high remaining HP is & boosts Def relative to how low remaining HP is",
+    "name": "Logi",
+    "rarity": 7,
+    "sbb": "17 combo powerful Light attack on all foes, damage taken may restore HP for 3 turns, greatly boosts Atk relative to Def for 3 turns & activates Light barrier",
+    "ubb": "21 combo massive Light attack on all foes, negates all status ailments for 3 turns, negates Atk, Def, Rec reduction effects for 3 turns, enormously boosts Def for 3 turns & enormously boosts Atk relative to Def for 3 turns"
+  },
+  "850978": {
+    "bb": "14 combo Light attack on all foes, greatly restores HP, negates Atk, Def, Rec reduction effects for 1 turn & hugely boosts Def for 3 turns",
+    "category": 850970,
+    "cost": 48,
+    "element": "light",
+    "es": "30% boost to all parameters when Sacred Shield is equipped & negates critical damage and Def ignoring effects",
+    "gender": "male",
+    "guide_id": 8365,
+    "id": 850978,
+    "ls": "50% boost to max HP, considerably boosts Atk relative to how high remaining HP is, considerably boosts Def relative to how low remaining HP is & 20% damage reduction for 2 turns when damage taken has exceeded certain amount",
+    "name": "Logi",
+    "rarity": 8,
+    "sbb": "19 combo powerful Light attack on all foes, damage taken may restore HP for 3 turns, hugely boosts Atk relative to Def for 3 turns, activates Light barrier & considerably boosts Atk, Def, Rec of Light types for 3 turns",
+    "ubb": "23 combo massive Light attack on all foes, negates all status ailments for 3 turns, negates Atk, Def, Rec reduction effects for 3 turns, enormously boosts Def for 3 turns & enormously boosts Atk relative to Def for 3 turns"
   },
   "860003": {
     "bb": "7 combo Dark elemental attack on single enemy",
