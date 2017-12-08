@@ -16793,30 +16793,30 @@
     "category": 51320,
     "cost": 46,
     "element": "light",
-    "es": "5% damage reduction from all types & 5% boost to all parameters",
+    "es": "5% damage reduction from all types & 5% boost to all parameters for all allies",
     "gender": "male",
     "guide_id": 1736,
     "id": 51326,
     "ls": "50% boost to all parameters, 5% damage reduction from all types, restores HP each turn & damage taken boosts BB gauge",
     "name": "Sacred Sword Alan",
     "rarity": 7,
-    "sbb": "15 combo powerful Light attack on all foes (damage relative to remaining HP), adds probable slight critical damage vulnerability effect for 1 turn, hugely boosts Atk, Def, Rec for 3 turns, hugely boosts allies' Atk, Def, Rec for 3 turns, enormously boosts critical hit rate and BB gauge for 3 turns & slight damage reduction from all types for 1 turn",
-    "ubb": "18 combo massive Light attack on all foes (damage relative to remaining HP), adds high probable resistance against 1 KO attack, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate and OD gauge fill rate for 3 turns, enormous damage reduction from all types for 3 turns & enormously boosts BB gauge for 3 turns"
+    "sbb": "15 combo powerful Light attack on all foes (damage relative to remaining HP), probable critical vulnerability infliction for 1 turn, hugely boosts Atk, Def, Rec for 3 turns, hugely boosts own Atk, Def, Rec for 3 turns, enormously boosts critical hit rate and BB gauge for 3 turns & slight damage reduction from all types for 1 turn",
+    "ubb": "18 combo massive Light attack on all foes (damage relative to remaining HP), adds high probability of resistance against 1 KO attack, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate and OD gauge fill rate for 3 turns, enormous damage reduction from all types for 3 turns & enormously boosts BB gauge for 3 turns"
   },
   "51327": {
     "bb": "16 combo powerful Light attack on all foes, greatly restores HP, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, negates critical and elemental damage for 1 turn & slight damage reduction from all types for 1 turn",
     "category": 51320,
     "cost": 50,
     "element": "light",
-    "es": "5% damage reduction from all types & 10% boost to  all parameters",
+    "es": "5% damage reduction from all types & 10% boost to all parameters for all allies",
     "gender": "male",
     "guide_id": 1737,
     "id": 51327,
     "ls": "60% boost to all parameters, 10% damage reduction from all types, considerably restores HP each turn & damage taken hugely boosts BB gauge",
     "name": "Divine Blade Alan",
     "rarity": 8,
-    "sbb": "19 combo powerful Light attack on all foes (damage relative to remaining HP), adds probable slight critical damage vulnerability effect for 1 turn, hugely boosts Atk, Def, Rec for 3 turns, hugely boosts allies' Atk, Def, Rec for 3 turns, enormously boosts critical hit rate and BB gauge for 3 turns & slight damage reduction from all types for 1 turn",
-    "ubb": "23 combo massive Light attack on all foes (damage relative to remaining HP), adds high probable resistance against 1 KO attack, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate and OD gauge fill rate for 3 turns, enormous damage reduction from all types for 3 turns & enormously boosts BB gauge for 3 turns"
+    "sbb": "19 combo powerful Light attack on all foes (damage relative to remaining HP), probable critical vulnerability infliction for 1 turn, hugely boosts Atk, Def, Rec for 3 turns, hugely boosts own Atk, Def, Rec for 3 turns, enormously boosts critical hit rate and BB gauge for 3 turns & slight damage reduction from all types for 1 turn",
+    "ubb": "23 combo massive Light attack on all foes (damage relative to remaining HP), adds high probability of resistance against 1 KO attack, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate and OD gauge fill rate for 3 turns, enormous damage reduction from all types for 3 turns & enormously boosts BB gauge for 3 turns"
   },
   "60011": {
     "bb": "3 combo Dark elemental attack on all enemies",
@@ -20370,34 +20370,34 @@
     "ubb": "14 combo massive Dark attack on all foes, additional 10 combo massive Dark attack on single foe, enormous 3 turn Atk, Def reduction, enormously boosts Atk for 3 turns, enormously boosts Atk relative to Def for 3 turns & enormously boosts Spark damage for 3 turns"
   },
   "61256": {
-    "bb": "27 combo Dark attack on all foes, Spark damage slightly boosts BB gauge for 3 turns, restores HP for 3 turns, enormously boosts damage for 3 turns & adds probable Spark critical for 3 turns",
+    "bb": "27 combo Dark attack on all foes, Spark damage slightly boosts BB gauge for 3 turns, restores HP for 3 turns, enormously boosts Spark damage for 3 turns & probable Spark critical for 3 turns",
     "category": 61250,
     "cost": 46,
     "element": "dark",
-    "es": "70% boost to Spark damage & considerably boosts Spark damage for 2 turns when Spark damage exceeds certain amount",
+    "es": "70% boost to Spark damage & considerably boosts Spark damage for 2 turns when Sparks exceed certain amount",
     "gender": "female",
     "guide_id": 1738,
     "id": 61256,
     "ls": "50% boost to Atk, Rec, max HP, Spark damage slightly boosts BB gauge & enormously boosts Spark damage and considerably boosts BB Atk for 2 turns when Sparks exceed certain amount",
     "name": "Ruinous Pair Ragina",
     "rarity": 7,
-    "sbb": "30 combo powerful Dark attack on all foes, adds probable 2 turn Spark damage vulnerability effect, adds 2 turn slight elemental vulnerability effect, enormously boosts Spark damage for 3 turns, hugely boosts all elemental damage for 3 turns & adds probable Spark critical for 3 turns",
-    "ubb": "33 combo massive Dark attack on all foes, adds 3 turn huge Spark damage vulnerability effect, adds 3 turn elemental vulnerability effect, enormously boosts Spark and all elemental damage for 3 turns & adds probable powerful Spark critical for 3 turns"
+    "sbb": "30 combo powerful Dark attack on all foes, probable Spark vulnerability infliction for 2 turn, probable elemental vulnerability infliction for 2 turns, enormously boosts Spark damage for 3 turns, hugely boosts all elemental damage for 3 turns & probable Spark critical for 3 turns",
+    "ubb": "33 combo massive Dark attack on all foes, Spark vulnerability infliction for 3 turns, probable elemental vulnerability infliction for 3 turns, enormously boosts Spark and all elemental damage for 3 turns & probable Spark critical for 3 turns"
   },
   "61257": {
-    "bb": "32 combo powerful Dark attack on all foes, Spark damage slightly boosts BB gauge for 3 turns, considerably restores HP for 3 turns, enormously boosts damage for 3 turns & adds probable Spark critical for 3 turns",
+    "bb": "32 combo powerful Dark attack on all foes, Spark damage slightly boosts BB gauge for 3 turns, considerably restores HP for 3 turns, enormously boosts Spark damage for 3 turns & adds probable Spark critical for 3 turns",
     "category": 61250,
     "cost": 50,
     "element": "dark",
-    "es": "80% boost to Spark damage & hugely boosts Spark damage for 2 turns when Spark damage exceeds certain amount",
+    "es": "80% boost to Spark damage & hugely boosts Spark damage for 2 turns when Sparks exceed certain amount",
     "gender": "female",
     "guide_id": 1739,
     "id": 61257,
     "ls": "60% boost to Atk, Rec, max HP, Spark damage boosts BB gauge & enormously boosts Spark damage and considerably boosts BB Atk for 2 turns when Sparks exceed certain amount",
     "name": "Deadly Edges Ragina",
     "rarity": 8,
-    "sbb": "36 combo powerful Dark attack on all foes, adds probable 2 turn Spark damage vulnerability effect, adds 2 turn slight elemental vulnerability effect, enormously boosts Spark damage and hugely boosts all elemental damage for 3 turns & adds probable Spark critical for 3 turns",
-    "ubb": "40 combo massive Dark attack on all foes, adds 3 turn enormous Spark damage vulnerability effect, adds 3 turn elemental vulnerability effect, enormously boosts Spark damage and all elemental damage for 3 turns & adds probable powerful Spark critical for 3 turns"
+    "sbb": "36 combo powerful Dark attack on all foes, probable Spark vulnerability infliction for 2 turn, probable elemental vulnerability infliction for 2 turns, enormously boosts Spark damage and hugely boosts all elemental damage for 3 turns & probable Spark critical for 3 turns",
+    "ubb": "40 combo massive Dark attack on all foes, Spark vulnerability infliction for 3 turns, probable elemental vulnerability infliction for 3 turns, enormously boosts Spark damage and all elemental damage for 3 turns & probable Spark critical for 3 turns"
   },
   "100884": {
     "category": 100880,
