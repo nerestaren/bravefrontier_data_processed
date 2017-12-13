@@ -13201,6 +13201,20 @@
     "name": "Silver Queen Gabriela",
     "rarity": 8
   },
+  "850507": {
+    "element": "light",
+    "guide_id": 8368,
+    "id": 850507,
+    "name": "Chloe",
+    "rarity": 7
+  },
+  "850508": {
+    "element": "light",
+    "guide_id": 8369,
+    "id": 850508,
+    "name": "Chloe",
+    "rarity": 8
+  },
   "850547": {
     "element": "light",
     "guide_id": 8335,

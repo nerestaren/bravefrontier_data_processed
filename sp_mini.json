@@ -9718,6 +9718,53 @@
       "desc": "Enhances SBB's BB gauge boost when damage taken effect"
     }
   ],
+  "850508": [
+    {
+      "bp": 10,
+      "desc": "40% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "30% boost to Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Damage taken considerably boosts BB gauge"
+    },
+    {
+      "bp": 40,
+      "desc": "Probable resistance against 2 KO attacks"
+    },
+    {
+      "bp": 15,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 35,
+      "desc": "Enhances BB's Taunt duration and Def boost effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances and allows BB's self evasion effect to last for 1 additional turn"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances SBB's critical damage boost effect"
+    },
+    {
+      "bp": 10,
+      "desc": "Allows BB/SBB's 50% damage reductions to last for 2 turns"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds critical damage boost for Light types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds enormous Light elemental damage boost for 3 turns effect to SBB"
+    }
+  ],
   "850548": [
     {
       "bp": 20,
