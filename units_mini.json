@@ -16776,7 +16776,7 @@
   "51317": {
     "bb": "20 combo powerful Light attack on all foes (damage relative to remaining HP), considerably boosts max HP & enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate and Spark damage for 3 turns, hugely boosts all elemental damage for 3 turns & considerably boosts critical damage for 3 turns",
     "category": 51310,
-    "cost": 58,
+    "cost": 54,
     "element": "light",
     "es": "40% boost to Atk, Def, Rec, max HP and 100% boost to Spark damage when an Attack Booster type Sphere is equipped, raises max Atk value from 99999 to 180000 & 15% boost to Atk, Def, Rec, max HP",
     "gender": "male",
