@@ -1861,6 +1861,20 @@
     "name": "Inferno Grandeur Ludero",
     "rarity": 8
   },
+  "11166": {
+    "element": "fire",
+    "guide_id": 1770,
+    "id": 11166,
+    "name": "武暁滅神ゼグスティア",
+    "rarity": 7
+  },
+  "11167": {
+    "element": "fire",
+    "guide_id": 1771,
+    "id": 11167,
+    "name": "武皇滅神ゼグスティア",
+    "rarity": 8
+  },
   "18830": {
     "element": "fire",
     "guide_id": 8046,
@@ -2624,6 +2638,13 @@
     "name": "Blizzard Fang Signas",
     "rarity": 7
   },
+  "20327": {
+    "element": "water",
+    "guide_id": 1774,
+    "id": 20327,
+    "name": "雪牙の霸導獅シグネス",
+    "rarity": 8
+  },
   "20334": {
     "element": "water",
     "guide_id": 430,
@@ -3050,6 +3071,13 @@
     "id": 20616,
     "name": "Tidal Nacre Medina",
     "rarity": 7
+  },
+  "20617": {
+    "element": "water",
+    "guide_id": 1740,
+    "id": 20617,
+    "name": "Aquamarine Knight Medina",
+    "rarity": 8
   },
   "20624": {
     "element": "water",
@@ -3702,6 +3730,20 @@
     "name": "Winged Mercy Lumis",
     "rarity": 8
   },
+  "21106": {
+    "element": "water",
+    "guide_id": 1772,
+    "id": 21106,
+    "name": "結天神ウィンティア",
+    "rarity": 7
+  },
+  "21107": {
+    "element": "water",
+    "guide_id": 1773,
+    "id": 21107,
+    "name": "愛導結神ウィンティア",
+    "rarity": 8
+  },
   "30011": {
     "element": "earth",
     "guide_id": 9,
@@ -4156,6 +4198,13 @@
     "id": 30166,
     "name": "Flora Aegis Edea",
     "rarity": 7
+  },
+  "30167": {
+    "element": "earth",
+    "guide_id": 1742,
+    "id": 30167,
+    "name": "神鎧の宝麗皇エデア",
+    "rarity": 8
   },
   "30171": {
     "element": "earth",
@@ -4885,6 +4934,13 @@
     "name": "Cyclonic Blades Dion",
     "rarity": 7
   },
+  "30607": {
+    "element": "earth",
+    "guide_id": 1741,
+    "id": 30607,
+    "name": "Parallel Tempest Dion",
+    "rarity": 8
+  },
   "30614": {
     "element": "earth",
     "guide_id": 984,
@@ -5459,6 +5515,20 @@
     "name": "Booming Charge Gandrei",
     "rarity": 8
   },
+  "31066": {
+    "element": "earth",
+    "guide_id": 1776,
+    "id": 31066,
+    "name": "司魂輪神リミルネート",
+    "rarity": 7
+  },
+  "31067": {
+    "element": "earth",
+    "guide_id": 1777,
+    "id": 31067,
+    "name": "永巡輪神リミルネート",
+    "rarity": 8
+  },
   "40011": {
     "element": "thunder",
     "guide_id": 13,
@@ -5913,6 +5983,13 @@
     "id": 40166,
     "name": "Celestial Archer Loch",
     "rarity": 7
+  },
+  "40167": {
+    "element": "thunder",
+    "guide_id": 1743,
+    "id": 40167,
+    "name": "天穹の雷霆神ロクス",
+    "rarity": 8
   },
   "40171": {
     "element": "thunder",
@@ -7151,6 +7228,20 @@
     "guide_id": 1726,
     "id": 41017,
     "name": "Killer Bolt Ordine",
+    "rarity": 8
+  },
+  "41036": {
+    "element": "thunder",
+    "guide_id": 1744,
+    "id": 41036,
+    "name": "焉天神ダルティスク",
+    "rarity": 7
+  },
+  "41037": {
+    "element": "thunder",
+    "guide_id": 1745,
+    "id": 41037,
+    "name": "真焉唯神ダルティスク",
     "rarity": 8
   },
   "50011": {
@@ -9141,6 +9232,20 @@
     "name": "Divine Blade Alan",
     "rarity": 8
   },
+  "51336": {
+    "element": "light",
+    "guide_id": 1746,
+    "id": 51336,
+    "name": "覇幻神アマデュリム",
+    "rarity": 7
+  },
+  "51337": {
+    "element": "light",
+    "guide_id": 1747,
+    "id": 51337,
+    "name": "創無覇神アマデュリム",
+    "rarity": 8
+  },
   "60011": {
     "element": "dark",
     "guide_id": 21,
@@ -9945,6 +10050,13 @@
     "id": 60356,
     "name": "Phantom Victor Zephyr",
     "rarity": 7
+  },
+  "60357": {
+    "element": "dark",
+    "guide_id": 1775,
+    "id": 60357,
+    "name": "暗絶の聖結師ゼファー",
+    "rarity": 8
   },
   "60363": {
     "element": "dark",
@@ -11080,6 +11192,20 @@
     "name": "Deadly Edges Ragina",
     "rarity": 8
   },
+  "61286": {
+    "element": "dark",
+    "guide_id": 1778,
+    "id": 61286,
+    "name": "終天神ログライザー",
+    "rarity": 7
+  },
+  "61287": {
+    "element": "dark",
+    "guide_id": 1779,
+    "id": 61287,
+    "name": "終世創神ログライザー",
+    "rarity": 8
+  },
   "100884": {
     "element": "fire",
     "guide_id": 1369,
@@ -12004,6 +12130,13 @@
     "name": "Lofia",
     "rarity": 8
   },
+  "820518": {
+    "element": "water",
+    "guide_id": 8370,
+    "id": 820518,
+    "name": "Foxblade Kitsu",
+    "rarity": 8
+  },
   "820547": {
     "element": "water",
     "guide_id": 8341,
@@ -12381,6 +12514,20 @@
     "id": 830527,
     "name": "Chrono Mage Elaina",
     "rarity": 7
+  },
+  "830537": {
+    "element": "earth",
+    "guide_id": 8371,
+    "id": 830537,
+    "name": "Winter Bjørn & Linlin",
+    "rarity": 7
+  },
+  "830538": {
+    "element": "earth",
+    "guide_id": 8372,
+    "id": 830538,
+    "name": "Cheery Bjørn & Linlin",
+    "rarity": 8
   },
   "840003": {
     "element": "thunder",
