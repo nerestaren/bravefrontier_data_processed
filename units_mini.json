@@ -25008,34 +25008,34 @@
     "rarity": 3
   },
   "860047": {
-    "bb": "MST_SKILLS_860047_DESCRIPTION",
+    "bb": "14 combo powerful Dark attack on all foes, normal attacks hit all foes for 3 turns, casts stealth on self boosting own Atk and critical hit rate for 3 turns & considerably raises normal hit amount for 3 turns",
     "category": 860040,
     "cost": 46,
     "element": "dark",
-    "es": "MST_EXTRAPASSIVESKILL_860047_DESCRIPTION",
+    "es": "Slightly boosts critical damage for all allies & adds resistance against 1 KO attack when HP is below 25%",
     "gender": "male",
     "guide_id": 8373,
     "id": 860047,
-    "ls": "MST_LEADERSKILLS_860047_DESCRIPTION",
+    "ls": "100% boost to Atk, 60% boost to Def, max HP of Dark types, 10% damage reduction from Light, Dark types, raises normal hit amount & probable normal attack on all foes\n",
     "name": "Spellscythe Ciardha",
     "rarity": 7,
-    "sbb": "MST_SKILLS_1860047_DESCRIPTION",
-    "ubb": "MST_SKILLS_2860047_DESCRIPTION"
+    "sbb": "14 combo powerful Dark attack on all foes, 4 combo powerful Dark attack on single foe (damage relative to remaining HP), casts stealth on self boosting own Atk and critical hit rate for 3 turns, considerably raises normal hit amount for 3 turns & powerful additional attack at turn's end for 3 turns",
+    "ubb": "18 combo massive Dark attack on all foes, normal attacks hit all foes for 3 turns, enormously boosts critical damage for 3 turns & considerably raises normal hit amount for 3 turns"
   },
   "860048": {
-    "bb": "MST_SKILLS_860048_DESCRIPTION",
+    "bb": "17 combo powerful Dark attack on all foes, normal attacks hit all foes for 3 turns, casts stealth on self boosting own Atk and critical hit rate for 3 turns, considerably raises normal hit amount for 3 turns & powerful additional attack at turn's end for 3 turns",
     "category": 860040,
     "cost": 54,
     "element": "dark",
-    "es": "MST_EXTRAPASSIVESKILL_860048_DESCRIPTION",
+    "es": "Slightly boosts critical damage for all allies, adds resistance against 1 KO attack when HP is below 25%, raises Atk parameter limits to 130000 & adds 20 combo powerful Dark attack against Light, Dark types effect to SBB",
     "gender": "male",
     "guide_id": 8374,
     "id": 860048,
-    "ls": "MST_LEADERSKILLS_860048_DESCRIPTION",
+    "ls": "150% boost to Atk, 80% boost to Def, max HP of Dark types, 20% damage reduction from Light, Dark types, raises normal hit amount, probable normal attack on all foes & considerably boosts ABP and CBP gain",
     "name": "Occult Reaper Ciardha",
     "rarity": 8,
-    "sbb": "MST_SKILLS_1860048_DESCRIPTION",
-    "ubb": "MST_SKILLS_2860048_DESCRIPTION"
+    "sbb": "17 combo powerful Dark attack on all foes, 4 combo powerful Dark attack on single foe (damage relative to remaining HP), casts stealth on self boosting own Atk and critical hit rate for 3 turns, considerably raises normal hit amount for 3 turns, powerful additional attack at turn's end for 3 turns & boosts critical damage of Dark types for 3 turns",
+    "ubb": "21 combo massive Dark attack on all foes, normal attacks hit all foes for 3 turns, enormously boosts critical damage for 3 turns, considerably raises normal hit amount for 3 turns & enormously boosts Atk, Def, Rec for 3 turns"
   },
   "860104": {
     "bb": "8 combo Dark elemental attack on all enemies and probable chance of Poison, Paralysis, Curse & Weak",
