@@ -25007,6 +25007,36 @@
     "name": "Dark Tone",
     "rarity": 3
   },
+  "860047": {
+    "bb": "MST_SKILLS_860047_DESCRIPTION",
+    "category": 860040,
+    "cost": 46,
+    "element": "dark",
+    "es": "MST_EXTRAPASSIVESKILL_860047_DESCRIPTION",
+    "gender": "male",
+    "guide_id": 8373,
+    "id": 860047,
+    "ls": "MST_LEADERSKILLS_860047_DESCRIPTION",
+    "name": "Spellscythe Ciardha",
+    "rarity": 7,
+    "sbb": "MST_SKILLS_1860047_DESCRIPTION",
+    "ubb": "MST_SKILLS_2860047_DESCRIPTION"
+  },
+  "860048": {
+    "bb": "MST_SKILLS_860048_DESCRIPTION",
+    "category": 860040,
+    "cost": 54,
+    "element": "dark",
+    "es": "MST_EXTRAPASSIVESKILL_860048_DESCRIPTION",
+    "gender": "male",
+    "guide_id": 8374,
+    "id": 860048,
+    "ls": "MST_LEADERSKILLS_860048_DESCRIPTION",
+    "name": "Occult Reaper Ciardha",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1860048_DESCRIPTION",
+    "ubb": "MST_SKILLS_2860048_DESCRIPTION"
+  },
   "860104": {
     "bb": "8 combo Dark elemental attack on all enemies and probable chance of Poison, Paralysis, Curse & Weak",
     "category": 860100,

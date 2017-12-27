@@ -10471,6 +10471,53 @@
       "desc": "Adds probable resistance against 1 KO attack effect to BB/SBB"
     }
   ],
+  "860048": [
+    {
+      "bp": 10,
+      "desc": "50% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Raises Atk, max HP boost from 50% to 70%"
+    },
+    {
+      "bp": 15,
+      "desc": "120% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Boosts critical damage"
+    },
+    {
+      "bp": 5,
+      "desc": "Considerably raises own normal hit amount"
+    },
+    {
+      "bp": 50,
+      "desc": "Probable resistance against 1 KO attack"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 30,
+      "desc": ""
+    },
+    {
+      "bp": 40,
+      "desc": "Enhances SBB's additional damage at turn's end effect but reduces duration to 1 turn"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances hit count and damage of UBB's hugely raises normal hit amount effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds probable self evasion for 1 turn effect to BB"
+    }
+  ],
   "860128": [
     {
       "bp": 10,

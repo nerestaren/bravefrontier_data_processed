@@ -13453,6 +13453,20 @@
     "name": "Dark Tone",
     "rarity": 3
   },
+  "860047": {
+    "element": "dark",
+    "guide_id": 8373,
+    "id": 860047,
+    "name": "Spellscythe Ciardha",
+    "rarity": 7
+  },
+  "860048": {
+    "element": "dark",
+    "guide_id": 8374,
+    "id": 860048,
+    "name": "Occult Reaper Ciardha",
+    "rarity": 8
+  },
   "860104": {
     "element": "dark",
     "guide_id": 8043,
