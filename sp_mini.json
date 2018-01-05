@@ -10116,6 +10116,56 @@
       "desc": "Allows UBB self-buff effects to last for 10 turns"
     }
   ],
+  "850358": [
+    {
+      "bp": 10,
+      "desc": "防御力・回復力・最大ＨＰを８０％アップ"
+    },
+    {
+      "bp": 10,
+      "desc": "Hugely boosts damage against status afflicted foes"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "確率で被ダメージを超絶軽減"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 150000"
+    },
+    {
+      "bp": 35,
+      "desc": "Enhances BB's additional damage reduction effect"
+    },
+    {
+      "bp": 15,
+      "desc": ""
+    },
+    {
+      "bp": 15,
+      "desc": ""
+    },
+    {
+      "bp": 25,
+      "desc": "Adds slight damage reduction from Light, Dark types for 2 turns effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": ""
+    },
+    {
+      "bp": 30,
+      "desc": ""
+    }
+  ],
   "850368": [
     {
       "bp": 10,
