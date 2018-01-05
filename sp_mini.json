@@ -3414,7 +3414,7 @@
   "31067": [
     {
       "bp": 10,
-      "desc": "防御力・回復力・最大ＨＰを８０％アップ"
+      "desc": "80% boost to Def, Rec, max HP"
     },
     {
       "bp": 20,
@@ -3426,7 +3426,7 @@
     },
     {
       "bp": 20,
-      "desc": "確率で被ダメージを超絶軽減"
+      "desc": "Probable damage reduction to 1"
     },
     {
       "bp": 30,
@@ -10119,7 +10119,7 @@
   "850358": [
     {
       "bp": 10,
-      "desc": "防御力・回復力・最大ＨＰを８０％アップ"
+      "desc": "80% boost to Def, Rec, max HP"
     },
     {
       "bp": 10,
@@ -10135,7 +10135,7 @@
     },
     {
       "bp": 20,
-      "desc": "確率で被ダメージを超絶軽減"
+      "desc": "Probable damage reduction to 1"
     },
     {
       "bp": 10,
@@ -10147,11 +10147,11 @@
     },
     {
       "bp": 15,
-      "desc": ""
+      "desc": "Allows SBB's huge 1 turn Atk reduction effect to last for 2 turns and enhances its success rate"
     },
     {
       "bp": 15,
-      "desc": ""
+      "desc": "Enhances BB/SBB's greatly restores HP effect"
     },
     {
       "bp": 25,
@@ -10159,11 +10159,11 @@
     },
     {
       "bp": 30,
-      "desc": ""
+      "desc": "Adds considerable Atk, Def, Rec boost of Light types for 3 turns effect to BB/SBB"
     },
     {
       "bp": 30,
-      "desc": ""
+      "desc": "Adds Light barrier effect to BB/SBB"
     }
   ],
   "850368": [
