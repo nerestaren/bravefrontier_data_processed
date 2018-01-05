@@ -24662,6 +24662,36 @@
     "sbb": "32 combo powerful Light attack on all foes, reduces damage taken by 50% for 1 turn, boosts Atk relative to Def for 3 turns & boosts BB Atk for 3 turns for all allies",
     "ubb": "40 combo massive Light attack on all foes, reduces damage taken by 75% for 2 turns & creates a Dark elemental barrier for all allies"
   },
+  "850357": {
+    "bb": "MST_SKILLS_850357_DESCRIPTION",
+    "category": 850350,
+    "cost": 52,
+    "element": "light",
+    "es": "MST_EXTRAPASSIVESKILL_850357_DESCRIPTION",
+    "gender": "female",
+    "guide_id": 8375,
+    "id": 850357,
+    "ls": "MST_LEADERSKILLS_850357_DESCRIPTION",
+    "name": "Brilliant Persenet",
+    "rarity": 7,
+    "sbb": "MST_SKILLS_1850357_DESCRIPTION",
+    "ubb": "MST_SKILLS_2850357_DESCRIPTION"
+  },
+  "850358": {
+    "bb": "MST_SKILLS_850358_DESCRIPTION",
+    "category": 850350,
+    "cost": 60,
+    "element": "light",
+    "es": "MST_EXTRAPASSIVESKILL_850358_DESCRIPTION",
+    "gender": "female",
+    "guide_id": 8376,
+    "id": 850358,
+    "ls": "MST_LEADERSKILLS_850358_DESCRIPTION",
+    "name": "Bright Star Persenet",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1850358_DESCRIPTION",
+    "ubb": "MST_SKILLS_2850358_DESCRIPTION"
+  },
   "850367": {
     "bb": "13 combo powerful Light attack on single foe, inflicts Weak effect & probable huge Atk reduction for 1 turn",
     "category": 850360,

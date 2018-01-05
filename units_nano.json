@@ -13278,6 +13278,20 @@
     "name": "Mad Heretic Gazia",
     "rarity": 7
   },
+  "850357": {
+    "element": "light",
+    "guide_id": 8375,
+    "id": 850357,
+    "name": "Brilliant Persenet",
+    "rarity": 7
+  },
+  "850358": {
+    "element": "light",
+    "guide_id": 8376,
+    "id": 850358,
+    "name": "Bright Star Persenet",
+    "rarity": 8
+  },
   "850367": {
     "element": "light",
     "guide_id": 8229,
