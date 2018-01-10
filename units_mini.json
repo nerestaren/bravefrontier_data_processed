@@ -21991,14 +21991,19 @@
     "ubb": "18 combo Water attack on all foes, casts shield for 3 turns, boosts BB gauge fill rate for 3 turns & probable Atk, Def reduction"
   },
   "820148": {
+    "bb": "24 combo powerful Water attack on all foes, activates Earth barrier, hugely restores HP for 3 turns, hugely boosts Def, Rec for 3 turns, negates all status ailments for 3 turns & negates Atk, Def, Rec reductions for 3 turns",
     "category": 820140,
-    "cost": 54,
+    "cost": 60,
     "element": "water",
+    "es": "50% boost to Rec, max HP & boosts BC, HC drop rates for all allies when Tridon's Trident is equipped, 100% boost to Def for 2 turns when HP is below 50% & negates Def ignoring effect ",
     "gender": "male",
     "guide_id": 8350,
     "id": 820148,
-    "name": "Omni Tridon",
-    "rarity": 8
+    "ls": "100% boost to max HP, considerably boosts Def, Rec relative to remaining HP, enormously boosts BB Atk for 2 turns when BC collected has exceeded certain amount, 20% damage reduction for 2 turns when HC collected has exceeded certain amount & 10% damage reduction",
+    "name": "Tridon the Judicious",
+    "rarity": 8,
+    "sbb": "34 combo powerful Water attack on all foes, activates Earth shield for 2 turns, greatly boosts BC, HC drop rate for 3 turns, hugely boosts Def, Rec for 3 turns & hugely boosts Atk, Def relative to Rec for 3 turns",
+    "ubb": "40 combo massive Water attack on all foes, activates Non-elemental shield, enormously boosts BC, HC drop rate for 3 turns, 75% damage reduction for 3 turns, enormously boosts Atk, Def relative to Rec for 3 turns & enormously boosts BB Atk for 3 turns"
   },
   "820157": {
     "bb": "20 combo powerful Water attack on all foes & Spark damage restores HP and boosts BB gauge for 3 turns",
