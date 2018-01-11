@@ -8347,7 +8347,7 @@
     },
     {
       "bp": 10,
-      "desc": ""
+      "desc": "Enhances LS's damage reduction from normal attacks effect"
     },
     {
       "bp": 10,
@@ -8355,23 +8355,23 @@
     },
     {
       "bp": 25,
-      "desc": ""
+      "desc": "Enhances SBB's considerable Atk, Def boost relative to max HP effect"
     },
     {
       "bp": 25,
-      "desc": ""
+      "desc": "Adds critical damage negation effect to LS"
     },
     {
       "bp": 30,
-      "desc": ""
+      "desc": "Adds probable huge 2 turn Atk, Def reduction effect to BB/SBB"
     },
     {
       "bp": 30,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、攻撃ＢＢの威力を大幅にアップ」を追加"
+      "desc": "Adds enormous BB Atk boost for 3 turns effect to BB/SBB"
     },
     {
       "bp": 25,
-      "desc": ""
+      "desc": "Adds resistance against 1 KO attack when HP is below 35%"
     }
   ],
   "820378": [
