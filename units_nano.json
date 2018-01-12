@@ -12039,6 +12039,20 @@
     "name": "Boreal Tempest Haile",
     "rarity": 7
   },
+  "820357": {
+    "element": "water",
+    "guide_id": 8377,
+    "id": 820357,
+    "name": "Riverblade Kawab",
+    "rarity": 7
+  },
+  "820358": {
+    "element": "water",
+    "guide_id": 8378,
+    "id": 820358,
+    "name": "Crocodile Lord Kawab",
+    "rarity": 8
+  },
   "820377": {
     "element": "water",
     "guide_id": 8359,
