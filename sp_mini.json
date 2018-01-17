@@ -1134,16 +1134,16 @@
   "11167": [
     {
       "bp": 10,
-      "desc": "攻撃力・最大ＨＰを８０％アップ"
+      "desc": "80% boost to Atk, max HP"
     },
     {
       "bp": 10,
-      "desc": "スパークダメージを１５０％アップ"
+      "desc": "150% boost to Spark damage"
     },
     {
       "bp": 10,
       "dependency": true,
-      "desc": "スパークダメージを１５０％アップを１７０％にグレードアップ"
+      "desc": "170% boost to Spark damage"
     },
     {
       "bp": 20,
@@ -1151,28 +1151,28 @@
     },
     {
       "bp": 10,
-      "desc": "攻撃力の上限値（９９９９９）を１８００００まで解放する"
+      "desc": "Raises Atk parameter limits to 180000"
     },
     {
       "bp": 15,
       "dependency": true,
-      "desc": "攻撃力の上限値（９９９９９）を１８００００まで解放するを２０００００にグレードアップ"
+      "desc": "Raises Atk parameter limits to 200000"
     },
     {
       "bp": 35,
-      "desc": "ＳＢＢに「味方全体に３ターン、確率でスパーククリティカルが発生」を追加"
+      "desc": "Adds probable Spark critical for 3 turns effect to SBB"
     },
     {
       "bp": 35,
-      "desc": "ＳＢＢに「味方全体に３ターン、通常攻撃ＨＩＴ数をかなり増加」を追加"
+      "desc": "Adds considerable hit amount increase for 3 turns effect to SBB"
     },
     {
       "bp": 20,
-      "desc": "ＳＢＢに「味方全体に３ターン、状態異常の敵へのダメージを超絶アップ」を追加"
+      "desc": "Adds enormous damage boost against status afflicted foes for 3 turns effect to SBB"
     },
     {
       "bp": 30,
-      "desc": "ＳＢＢに「味方全体に３ターン、全属性の弱点属性ダメージを大幅にアップ」を追加"
+      "desc": "Adds huge all elemental damage boost for 3 turns effect to SBB"
     }
   ],
   "20017": [
@@ -1267,7 +1267,7 @@
     },
     {
       "bp": 10,
-      "desc": "スパークダメージを半減"
+      "desc": "50% Spark damage reduction"
     },
     {
       "bp": 10,
@@ -1279,19 +1279,19 @@
     },
     {
       "bp": 20,
-      "desc": "ＳＢＢの「炎・水・樹・雷属性の弱点属性ダメージを大幅にアップ」効果量を増加"
+      "desc": "Enhances SBB's huge Fire, Water, Earth, Thunder elemental damage boost effect"
     },
     {
       "bp": 25,
-      "desc": "ＳＢＢの「確率でクリティカルダメージ耐性を少し低下」の効果量・発動率を増加"
+      "desc": "Enhances SBB's probable slight critical damage vulnerability effect and its success rate"
     },
     {
       "bp": 25,
-      "desc": "ＳＢＢの「確率で弱点属性ダメージ耐性を少し低下」の効果量・発動率を増加"
+      "desc": "Enhances SBB's probable slight elemental damage vulnerability effect and its success rate"
     },
     {
       "bp": 25,
-      "desc": "ＢＢに「味方全体に３ターン、炎・樹・雷属性ユニットの攻撃力・防御力・回復力をかなりアップ」を追加"
+      "desc": "Adds considerable Atk, Def, Rec boost for Fire, Earth, Thunder types for 3 turns effect to BB"
     }
   ],
   "20537": [
@@ -2329,11 +2329,11 @@
   "21107": [
     {
       "bp": 10,
-      "desc": "防御力・最大ＨＰを８０％アップ"
+      "desc": "80% boost to Def, max HP"
     },
     {
       "bp": 10,
-      "desc": "ターン毎に防御力・回復力をアップ（５ターン目まで上昇量が増加する）"
+      "desc": "Boosts Def, Rec each turn (for up to 5 turns)"
     },
     {
       "bp": 20,
@@ -2345,19 +2345,19 @@
     },
     {
       "bp": 10,
-      "desc": "スパークダメージを半減"
+      "desc": "50% Spark damage reduction"
     },
     {
       "bp": 10,
-      "desc": "追加ダメージを軽減"
+      "desc": "Adds damage reduction"
     },
     {
       "bp": 60,
-      "desc": "確率で１回まで戦闘不能を耐える"
+      "desc": "Probable resistance against 1 KO attack"
     },
     {
       "bp": 20,
-      "desc": "ＢＢ及びＳＢＢの「全属性ユニットからの被ダメージを少し軽減」効果量を増加"
+      "desc": "Enhances BB/SBB's slight all elemental damage reduction effect"
     },
     {},
     {
@@ -2431,15 +2431,15 @@
     },
     {
       "bp": 20,
-      "desc": "ＢＢ及びＳＢＢの「１ターン、被ダメージを半分に軽減」の効果継続ターン数が２ターンになる"
+      "desc": "Allows BB/SBB's 50% damage reductions to last for 2 turns"
     },
     {
       "bp": 30,
-      "desc": "ＢＢ及びＳＢＢの「確率で攻撃力を１ターン大幅に低下」の効果継続ターン数が２ターンになる"
+      "desc": "Allows BB/SBB's probable huge 1 turn Atk reduction to last for 2 turns"
     },
     {
       "bp": 30,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、被ダメージ時、確率で攻撃力を２ターン低下する効果を付与」を追加"
+      "desc": "Adds probable 2 turn Atk reduction to attack when attacked for 3 turns to BB/SBB"
     },
     {
       "bp": 30,
@@ -3418,11 +3418,11 @@
     },
     {
       "bp": 20,
-      "desc": "被ダメージ時、ＢＢゲージを増加"
+      "desc": "Damage taken boosts BB gauge"
     },
     {
       "bp": 20,
-      "desc": "被ダメージ時、確率でＨＰを大回復"
+      "desc": "Damage taken may greatly restore HP"
     },
     {
       "bp": 20,
@@ -3430,27 +3430,27 @@
     },
     {
       "bp": 30,
-      "desc": "ＢＢ及びＳＢＢに「自分のＢＢゲージをＢＢまで満タンにする」を追加"
+      "desc": "Adds fills own BB gauge to max effect to BB/SBB"
     },
     {
       "bp": 20,
-      "desc": "ＳＢＢの「最大ＨＰをかなりアップ」効果量を増加"
+      "desc": "Enhances SBB's considerable max HP boost effect"
     },
     {
       "bp": 10,
-      "desc": "ＢＢに「味方全体に樹属性のバリアを付与」を追加"
+      "desc": "Adds Earth barrier effect to BB"
     },
     {
       "bp": 30,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、回復力を大幅にアップ」を追加"
+      "desc": "Adds huge boost to Rec for 3 turns effect to BB/SBB"
     },
     {
       "bp": 30,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、回復力に応じて攻撃力を大幅にアップ」を追加"
+      "desc": "Adds huge Atk boost relative to Rec for 3 turns effect to BB/SBB"
     },
     {
       "bp": 50,
-      "desc": "ＵＢＢに「味方全体に高確率で一度だけ戦闘不能を耐える効果を付与」を追加"
+      "desc": "Adds high probability of resistance against 1 KO attack effect to UBB"
     }
   ],
   "40017": [
@@ -3540,7 +3540,7 @@
     },
     {
       "bp": 30,
-      "desc": "スパーク時、ＢＢゲージを超絶増加"
+      "desc": "Spark damage enormously boosts BB gauge"
     },
     {
       "bp": 10,
@@ -3553,11 +3553,11 @@
     {
       "bp": 15,
       "dependency": true,
-      "desc": "攻撃力の上限値（９９９９９）を１３００００まで解放するを１６００００にグレードアップ"
+      "desc": "Raises Atk parameter limits to 160000"
     },
     {
       "bp": 25,
-      "desc": "ＢＢ及びＳＢＢの「味方全体のスパークダメージを超絶アップ」効果量を増加"
+      "desc": "Enhances BB/SBB's enormous Spark damage boost"
     },
     {
       "bp": 30,
@@ -3565,7 +3565,7 @@
     },
     {
       "bp": 35,
-      "desc": "ＢＢ及びＳＢＢに「３ターン、自分に確率でスパーククリティカルが発生」を追加"
+      "desc": "Adds probable Spark critical to self for 3 turns effect to BB/SBB"
     }
   ],
   "40507": [
@@ -4486,7 +4486,7 @@
     },
     {
       "bp": 10,
-      "desc": "残りＨＰが多いほど、攻撃力・防御力をアップ"
+      "desc": "Boosts Atk, Def relative to remaining HP"
     },
     {
       "bp": 20,
@@ -4510,15 +4510,15 @@
     },
     {
       "bp": 35,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、全属性の弱点属性ダメージを大幅にアップ」を追加"
+      "desc": "Adds huge all elemental damage boost for 3 turns effect to BB/SBB"
     },
     {
       "bp": 30,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、攻撃力に応じて防御力を大幅にアップ」を追加"
+      "desc": "Adds huge Def boost relative to Atk for 3 turns effect to BB/SBB"
     },
     {
       "bp": 30,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、防御力に応じて攻撃力を大幅にアップ」を追加"
+      "desc": "Adds huge Atk boost relative to Def for 3 turns effect to BB/SBB"
     }
   ],
   "50017": [
@@ -5847,16 +5847,16 @@
   "51337": [
     {
       "bp": 10,
-      "desc": "攻撃力・防御力・回復力・最大ＨＰを６０％アップ"
+      "desc": "60% boost to all parameters"
     },
     {
       "bp": 10,
       "dependency": true,
-      "desc": "攻撃力・防御力・回復力・最大ＨＰを６０％アップを８０％にグレードアップ"
+      "desc": "80% boost to all parameters"
     },
     {
       "bp": 20,
-      "desc": "確率で通常攻撃を全体攻撃化"
+      "desc": "Normal attacks may hit all foes"
     },
     {
       "bp": 20,
@@ -5864,7 +5864,7 @@
     },
     {
       "bp": 25,
-      "desc": "弱点属性ダメージを無効＆クリティカルを無効"
+      "desc": "Negates elemental and critical damage"
     },
     {
       "bp": 10,
@@ -5876,15 +5876,15 @@
     },
     {
       "bp": 25,
-      "desc": "ＳＢＢに「敵全体に確率で全状態異常をランダムに発生」を追加"
+      "desc": "Adds probable random status ailment infliction effect to SBB"
     },
     {
       "bp": 35,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、通常攻撃を全体攻撃化」を追加"
+      "desc": "Adds normal attack hits all foes for 3 turns effect to BB/SBB"
     },
     {
       "bp": 10,
-      "desc": "ＢＢ及びＳＢＢに「敵全体に３ターン、ターン終了時に強力な追加ダメージ」を追加"
+      "desc": "Adds powerful additional attack at turn's end effect for 3 turns to BB/SBB"
     }
   ],
   "60017": [
@@ -6127,7 +6127,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "攻撃力・防御力・回復力・最大ＨＰを２０％アップを４０％にグレードアップ"
+      "desc": "Raises all parameters boost from 20% to 40%"
     },
     {
       "bp": 10,
@@ -6140,11 +6140,11 @@
     },
     {
       "bp": 30,
-      "desc": "通常攻撃ＨＩＴ数を増加"
+      "desc": "Raises normal hit amount"
     },
     {
       "bp": 20,
-      "desc": "攻撃力の上限値（９９９９９）を１３００００まで解放する"
+      "desc": "Raises Atk parameter limits to 130000"
     },
     {
       "bp": 35,
@@ -6152,7 +6152,7 @@
     },
     {
       "bp": 35,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、ターン毎にＨＰを大回復」を追加"
+      "desc": "Adds great HP restoration effect for 3 turns to BB/SBB"
     },
     {
       "bp": 30,
@@ -6160,7 +6160,7 @@
     },
     {
       "bp": 20,
-      "desc": "ＢＢに「味方全体に３ターン、光属性ユニットの攻撃力・防御力・回復力をかなりアップ」を追加"
+      "desc": "Adds considerable Atk, Def, Rec boost for Light types for 3 turns effect to BB"
     }
   ],
   "60497": [
@@ -7168,7 +7168,7 @@
   "61287": [
     {
       "bp": 10,
-      "desc": "80% boost to all parameters"
+      "desc": "Raises all parameters boost to 80%"
     },
     {
       "bp": 10,
@@ -7177,7 +7177,7 @@
     },
     {
       "bp": 10,
-      "desc": "スパークダメージを１５０％アップ"
+      "desc": "150% boost to Spark damage"
     },
     {
       "bp": 30,
@@ -7189,35 +7189,35 @@
     },
     {
       "bp": 10,
-      "desc": "攻撃力の上限値（９９９９９）を１８００００まで解放する"
+      "desc": "Raises Atk parameter limits to 180000"
     },
     {
       "bp": 10,
-      "desc": "リーダースキルの「獲得経験値を大幅にアップ」効果をグレードアップ"
+      "desc": "Enhances LS's huge EXP boost effect"
     },
     {
       "bp": 25,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、スパークダメージを超絶アップ」を追加"
+      "desc": "Adds enormous Spark damage boost for 3 turns effect to BB/SBB"
     },
     {
       "bp": 25,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、攻撃ＢＢの威力を大幅にアップ」を追加"
+      "desc": "Adds huge BB Atk boost for 3 turns effect to BB/SBB"
     },
     {
       "bp": 25,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、全属性の弱点属性ダメージを大幅にアップ」を追加"
+      "desc": "Adds huge all elemental damage boost for 3 turns effect to BB/SBB"
     },
     {
       "bp": 25,
-      "desc": "ＢＢ及びＳＢＢに「味方全体に３ターン、スパーク時、ＢＢゲージを増加」を追加"
+      "desc": "Adds Spark damage boosts BB gauge for 3 turns effect to BB/SBB"
     },
     {
       "bp": 30,
-      "desc": "ＢＢ及びＳＢＢに「敵全体に確率で攻撃力・防御力を２ターン大幅に低下」を追加"
+      "desc": "Adds probable huge Atk, Def reduction for 2 turns effect to BB/SBB"
     },
     {
       "bp": 30,
-      "desc": "ＢＢ及びＳＢＢに「敵全体に確率で弱点属性ダメージ耐性を２ターン少し低下」を追加"
+      "desc": "Adds probable slight elemental damage vulnerability for 2 turns effect to BB/SBB"
     },
     {
       "bp": 30,
@@ -8049,7 +8049,7 @@
   "820148": [
     {
       "bp": 10,
-      "desc": "攻撃力・防御力・回復力・最大ＨＰを６０％アップ"
+      "desc": "60% boost to all parameters"
     },
     {
       "bp": 10,
@@ -8326,7 +8326,7 @@
   "820358": [
     {
       "bp": 10,
-      "desc": "80% boost to all parameters"
+      "desc": "Raises all parameters boost to 80%"
     },
     {
       "bp": 10,
@@ -8355,7 +8355,7 @@
     },
     {
       "bp": 25,
-      "desc": "Enhances SBB's considerable Atk, Def, Rec boost relative to max HP effect"
+      "desc": "Enhances SBB's considerable Atk, Def boost relative to max HP effect"
     },
     {
       "bp": 25,

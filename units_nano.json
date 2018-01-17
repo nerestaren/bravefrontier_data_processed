@@ -4203,7 +4203,7 @@
     "element": "earth",
     "guide_id": 1742,
     "id": 30167,
-    "name": "神鎧の宝麗皇エデア",
+    "name": "Graceful Ruler Edea",
     "rarity": 8
   },
   "30171": {
@@ -5988,7 +5988,7 @@
     "element": "thunder",
     "guide_id": 1743,
     "id": 40167,
-    "name": "天穹の雷霆神ロクス",
+    "name": "Divine Storm Loch",
     "rarity": 8
   },
   "40171": {
@@ -7234,14 +7234,14 @@
     "element": "thunder",
     "guide_id": 1744,
     "id": 41036,
-    "name": "焉天神ダルティスク",
+    "name": "Celestial Enigma Daltisk",
     "rarity": 7
   },
   "41037": {
     "element": "thunder",
     "guide_id": 1745,
     "id": 41037,
-    "name": "真焉唯神ダルティスク",
+    "name": "True Revelation Daltisk",
     "rarity": 8
   },
   "50011": {
@@ -9236,14 +9236,14 @@
     "element": "light",
     "guide_id": 1746,
     "id": 51336,
-    "name": "覇幻神アマデュリム",
+    "name": "Divine Vision Amadream",
     "rarity": 7
   },
   "51337": {
     "element": "light",
     "guide_id": 1747,
     "id": 51337,
-    "name": "創無覇神アマデュリム",
+    "name": "Intact Champion Amadream",
     "rarity": 8
   },
   "60011": {
