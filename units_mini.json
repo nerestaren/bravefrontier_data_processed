@@ -21754,6 +21754,21 @@
     "rarity": 6,
     "sbb": "24 combo powerful Fire and Water attack on all enemies, boost to spark damage for 3 turns & probable 1 turn Atk reduction"
   },
+  "811118": {
+    "bb": "13 combo Fire attack on all foes, 8 combo Fire and Water attack on all foes, Spark damage considerably restores HP for 3 turns, Spark damage boosts BB gauge & boosts Spark damage of Fire and Water types for 3 turns",
+    "category": 811110,
+    "cost": 45,
+    "element": "fire",
+    "es": "Adds Water barrier to BB/SBB & boosts Atk, Def, Rec when BB gauge is over 50%",
+    "gender": "male",
+    "guide_id": 8171,
+    "id": 811118,
+    "ls": "60% boost to Atk, max HP, 100% boost to Spark damage, boosts Spark damage for 2 turns when Sparks have exceeded certain amount & hugely boosts Fire and Water elemental damage ",
+    "name": "Fabled Kurewa & Kuraginn",
+    "rarity": 8,
+    "sbb": "16 combo Fire attack on all foes, 10 combo Fire and Water attack on all foes, hugely boosts Spark damage for 3 turns, probable huge 1 turn Atk, Def reduction & boosts Spark damage of Fire and Water types for 3 turns",
+    "ubb": "29 combo massive Fire and Water attack on all foes, enormously boosts Spark damage for 3 turns, enormously boosts Atk, Def, Rec of Fire and Water types for 3 turns & enormous Spark vulnerability infliction for 2 turns"
+  },
   "820003": {
     "bb": "12 combo Water attack on all enemies",
     "category": 820000,

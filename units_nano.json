@@ -11773,6 +11773,13 @@
     "name": "Brave Kurewa & Kuraginn",
     "rarity": 6
   },
+  "811118": {
+    "element": "fire",
+    "guide_id": 8171,
+    "id": 811118,
+    "name": "Fabled Kurewa & Kuraginn",
+    "rarity": 8
+  },
   "820003": {
     "element": "water",
     "guide_id": 8003,
