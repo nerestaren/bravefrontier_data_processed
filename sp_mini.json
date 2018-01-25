@@ -2359,7 +2359,10 @@
       "bp": 20,
       "desc": "Enhances BB/SBB's slight all elemental damage reduction effect"
     },
-    {},
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's Spark and additional damage reduction effect"
+    },
     {
       "bp": 30,
       "desc": "Adds status ailment removal effect to BB/SBB"
