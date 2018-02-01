@@ -11752,6 +11752,20 @@
     "name": "Natsu Dragneel",
     "rarity": 8
   },
+  "810557": {
+    "element": "fire",
+    "guide_id": 8379,
+    "id": 810557,
+    "name": "Pyretic Yan & Yuan",
+    "rarity": 7
+  },
+  "810558": {
+    "element": "fire",
+    "guide_id": 8380,
+    "id": 810558,
+    "name": "Calescent Yan & Yuan",
+    "rarity": 8
+  },
   "811016": {
     "element": "fire",
     "guide_id": 8150,

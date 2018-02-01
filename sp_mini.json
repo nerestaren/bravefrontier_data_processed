@@ -8003,6 +8003,56 @@
       "desc": "Adds Spark damage boosts BB gauge for 3 turns effect to BB/SBB"
     }
   ],
+  "810558": [
+    {
+      "bp": 10,
+      "desc": "80% boost to Def, Rec, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly boosts critical hit damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 150000"
+    },
+    {
+      "bp": 30,
+      "desc": "Probable resistance against 1 KO attack"
+    },
+    {
+      "bp": 10,
+      "desc": "Enhances BB's foe's BB gauge fill rate reduction effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB/SBB's Water shield effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB/SBB's considerable Atk, Def boost for Fire types effect"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds huge boost to BB gauge effect to BB/SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds enormous Fire elemental damage boost for 3 turns effect to SBB​"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds huge boost to Atk, Def relative to Rec for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 40,
+      "desc": "Adds probable enormous 3 turn Rec reduction effect to BB/SBB"
+    }
+  ],
   "811118": [
     {
       "bp": 10,

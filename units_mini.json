@@ -21713,6 +21713,36 @@
     "sbb": "37 combo powerful Fire attack on all foes (damage relative to remaining HP), 4 combo massive Fire attack on single foe (damage relative to remaining HP), hugely boosts Atk, Def, Rec relative to max HP for 3 turns, boosts critical damage of Fire types for 3 turns, considerably boosts own Atk, Def, Rec for 3 turns & enormously boosts own critical hit rate and Spark damage for 3 turns",
     "ubb": "40 combo massive Fire attack on all foes (damage relative to remaining HP), 4 combo massive Fire attack on single foe (damage relative to remaining HP), enormously boosts critical damage for 3 turns, hugely boosts max HP, enormously boosts Atk, Def, Rec relative to max HP for 3 turns & enormous damage reduction for 2 turns"
   },
+  "810557": {
+    "bb": "15 combo powerful Fire attack on all foes, reduce foe's BB gauge fill rate for 3 turns, damage taken hugely boosts BB gauge for 3 turns, hugely restores HP for 3 turns & considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Fire types for 3 turns",
+    "category": 811110,
+    "cost": 52,
+    "element": "fire",
+    "es": "15% boost to all parameters of Fire types & greatly boosts BB/SBB activation rates for all allies",
+    "gender": "female",
+    "guide_id": 8379,
+    "id": 810557,
+    "ls": "60% boost to Atk, max HP, 100% boost to Def, Rec of Fire types, considerably restores HP each turn, hugely boosts BB gauge when damage dealt has exceeded certain amount & damage taken hugely boosts BB gauge",
+    "name": "Pyretic Yan & Yuan",
+    "rarity": 7,
+    "sbb": "19 combo powerful Fire attack on all foes, 3 combo powerful Fire attack on single foe, damage taken hugely boosts BB gauge for 3 turns, hugely restores HP for 3 turns & considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Fire types for 3 turns",
+    "ubb": "23 combo massive Fire attack on all foes, enormously boosts BB gauge for 3 turns, hugely boosts all elemental damage for 3 turns, fully restores HP for 3 turns & enormously boosts Atk, Def, Rec for 3 turns"
+  },
+  "810558": {
+    "bb": "17 combo powerful Fire attack on all foes, reduce foe's BB gauge fill rate for 3 turns, damage taken hugely boosts BB gauge for 3 turns, hugely restores HP for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Fire types for 3 turns & activates Water shield for 2 turns",
+    "category": 811110,
+    "cost": 60,
+    "element": "fire",
+    "es": "25% boost to all parameters of Fire types, greatly boosts BB/SBB activation rates for all allies, damage taken may slightly reduce foe's BB gauge fill rate for 1 turn & adds powerful Fire attack on single foe effect to BB/SBB",
+    "gender": "female",
+    "guide_id": 8380,
+    "id": 810558,
+    "ls": "80% boost to Atk, max HP, 120% boost to Def, Rec of Fire types, considerably restores HP each turn, hugely boosts BB gauge when damage dealt has exceeded certain amount & damage taken hugely boosts BB gauge",
+    "name": "Calescent Yan & Yuan",
+    "rarity": 8,
+    "sbb": "21 combo powerful Fire attack on all foes, 4 combo powerful Fire attack on single foe, damage taken hugely boosts BB gauge for 3 turns, hugely restores HP for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Fire types for 3 turns & activates Water shield for 2 turns",
+    "ubb": "25 combo massive Fire attack on all foes, enormously boosts BB gauge for 3 turns, hugely boosts all elemental damage for 3 turns, fully restores HP for 3 turns, enormously boosts Atk, Def, Rec for 3 turns & enormously boosts OD gauge"
+  },
   "811016": {
     "bb": "15 combo powerful Fire attack on all foes & boosts critical hit rate for 3 turns",
     "category": 811010,
