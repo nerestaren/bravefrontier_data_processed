@@ -24659,6 +24659,36 @@
     "sbb": "21 combo powerful Light attack on all foes (damage relative to remaining HP), 4 combo powerful Light attack on single foe, considerably boosts Light types' Atk, Def, Rec for 3 turns, enormously boosts Light types' critical hit rate for 3 turns, boosts Atk relative to Def for 3 turns, enormously boosts critical damage for 3 turns & boosts own Atk, Def, Rec for 3 turns",
     "ubb": "25 combo massive Light attack on all foes, enormously boosts critical damage for 3 turns, enormously boosts Light types' Atk for 3 turns, considerably raises normal hit amount for 3 turns & high probability of raising allies from KO"
   },
+  "850297": {
+    "bb": "Enormously boosts BB gauge for 3 turns, enormously boosts BB gauge when guarding for 3 turns, considerably boosts OD gauge fill rate at turn's end for 3 turns & slightly boosts OD gauge",
+    "category": 850290,
+    "cost": 52,
+    "element": "light",
+    "es": "Negates status ailments, adds status ailment removal effect to BB/SBB/UBB & 10% boost to all parameters for all allies",
+    "gender": "female",
+    "guide_id": 8381,
+    "id": 850297,
+    "ls": "70% boost to Atk and max HP, considerably boosts Spark damage, greatly boosts critical and elemental damage",
+    "name": "Priestess Snow Miku",
+    "rarity": 7,
+    "sbb": "15 combo powerful Light attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, hugely boosts Atk relative to Def for 3 turns, hugely boosts all elemental damage for 3 turns & slight critical and elemental vulnerability infliction for 2 turns",
+    "ubb": "18 combo massive Light attack on all foes (uses all allies' BB gauge), enormously boosts Atk, Def, Rec for 3 turns, damage taken enormously restores HP for 3 turns, resistance against 1 KO attack for 4 turns & enormously boosts OD gauge fill rate at turn's end for 3 turns"
+  },
+  "850298": {
+    "bb": "Enormously boosts BB gauge for 3 turns, enormously boosts BB gauge when guarding for 3 turns, considerably boosts OD gauge fill rate at turn's end for 3 turns, slightly boosts OD gauge & greatly boosts max HP",
+    "category": 850290,
+    "cost": 60,
+    "element": "light",
+    "es": "40% boost to all parameters when Kagura Suzu is equipped, negates status ailments, adds status ailment removal effect to BB/SBB/UBB, hugely restores HP for 3 turns when guarding for all allies & 15% boost to all parameters for all allies",
+    "gender": "female",
+    "guide_id": 8382,
+    "id": 850298,
+    "ls": "80% boost to Atk and max HP, greatly boosts Spark damage, greatly boosts critical and elemental damage & raises Atk parameter limits to 130000",
+    "name": "Priestess Snow Miku",
+    "rarity": 8,
+    "sbb": "17 combo powerful Light attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, hugely boosts Atk relative to Def for 3 turns, hugely boosts all elemental damage for 3 turns, critical and elemental vulnerability infliction for 2 turns & probability of activating BB/SBB/UBB twice for 2 turns",
+    "ubb": "21 combo massive Light attack on all foes (uses all allies' BB gauge), enormously boosts Atk, Def, Rec for 3 turns, damage taken enormously restores HP for 3 turns, resistance against 1 KO attack for 5 turns, enormously boosts OD gauge fill rate at turn's end for 3 turns & enormously boosts max HP"
+  },
   "850315": {
     "bb": "Boosts BB gauge on use, reduces all elemental damage for 3 turns & damage taken boosts BB gauge for 3 turns",
     "category": 850310,
