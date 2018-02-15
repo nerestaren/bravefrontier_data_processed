@@ -12935,6 +12935,20 @@
     "name": "Owlrider Jute Eerikki",
     "rarity": 8
   },
+  "840437": {
+    "element": "thunder",
+    "guide_id": 8384,
+    "id": 840437,
+    "name": "Berserker Zelion",
+    "rarity": 7
+  },
+  "840438": {
+    "element": "thunder",
+    "guide_id": 8385,
+    "id": 840438,
+    "name": "Demon Ulfhednar Zelion",
+    "rarity": 8
+  },
   "840507": {
     "element": "thunder",
     "guide_id": 8269,
@@ -13773,6 +13787,13 @@
     "guide_id": 8347,
     "id": 860318,
     "name": "Little Sister Nyami",
+    "rarity": 8
+  },
+  "860328": {
+    "element": "dark",
+    "guide_id": 8383,
+    "id": 860328,
+    "name": "Randolph and Ravenna",
     "rarity": 8
   },
   "860356": {

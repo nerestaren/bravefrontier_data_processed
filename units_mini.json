@@ -24021,6 +24021,36 @@
     "sbb": "25 combo powerful Thunder attack on all foes (consecutive usage boosts damage), adds probable evasion for 1 turn, considerably boosts critical damage for 3 turns, hugely boosts Atk for 3 turns, boosts critical hit rate for 3 turns, adds probable Spark critical for 3 turns & hugely boosts own Atk for 3 turns",
     "ubb": "28 combo massive Thunder attack on all foes, hugely boosts max HP, enormously boosts Atk for 5 turns, boosts critical hit rate for 3 turns, normal attacks hit all foes for 3 turns & hugely raises normal hit amount for 3 turns"
   },
+  "840437": {
+    "bb": "MST_SKILLS_840437_DESCRIPTION",
+    "category": 840430,
+    "cost": 46,
+    "element": "thunder",
+    "es": "MST_EXTRAPASSIVESKILL_840437_DESCRIPTION",
+    "gender": "male",
+    "guide_id": 8384,
+    "id": 840437,
+    "ls": "MST_LEADERSKILLS_840437_DESCRIPTION",
+    "name": "Berserker Zelion",
+    "rarity": 7,
+    "sbb": "MST_SKILLS_1840437_DESCRIPTION",
+    "ubb": "MST_SKILLS_2840437_DESCRIPTION"
+  },
+  "840438": {
+    "bb": "MST_SKILLS_840438_DESCRIPTION",
+    "category": 840430,
+    "cost": 54,
+    "element": "thunder",
+    "es": "MST_EXTRAPASSIVESKILL_840438_DESCRIPTION",
+    "gender": "male",
+    "guide_id": 8385,
+    "id": 840438,
+    "ls": "MST_LEADERSKILLS_840438_DESCRIPTION",
+    "name": "Demon Ulfhednar Zelion",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1840438_DESCRIPTION",
+    "ubb": "MST_SKILLS_2840438_DESCRIPTION"
+  },
   "840507": {
     "bb": "4 combo powerful Thunder attack on all foes (damage relative to remaining HP), powerful Thunder attack on single foe, hugely boosts Atk, Def, Rec for 3 turns, adds probable 1 turn Atk reduction to attack for 3 turns & adds Light, Dark elements to attack for 3 turns",
     "category": 840500,
@@ -25663,6 +25693,21 @@
     "rarity": 8,
     "sbb": "23 combo powerful Dark attack on all foes, 5 combo powerful Dark attack on single foe (consecutive uses boost damage), casts stealth on self boosting own Atk and critical hit rate for 2 turns, boosts own Spark damage for 3 turns & probable Spark critical for 3 turns",
     "ubb": "32 combo massive Dark attack on all foes, 9 combo massive Dark attack on single foe (damage relative to HP remaining), adds evasion for 1 turn, enormously boosts Spark damage for 3 turns, adds probable powerful Spark critical for 3 turns & enormously boosts Atk and critical hit rate for 3 turns"
+  },
+  "860328": {
+    "bb": "MST_SKILLS_860328_DESCRIPTION",
+    "category": 860320,
+    "cost": 54,
+    "element": "dark",
+    "es": "MST_EXTRAPASSIVESKILL_860328_DESCRIPTION",
+    "gender": "other",
+    "guide_id": 8383,
+    "id": 860328,
+    "ls": "MST_LEADERSKILLS_860328_DESCRIPTION",
+    "name": "Randolph and Ravenna",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1860328_DESCRIPTION",
+    "ubb": "MST_SKILLS_2860328_DESCRIPTION"
   },
   "860356": {
     "bb": "15 combo powerful Dark attack on all foes, greatly restores HP, hugely boosts BB Atk for 3 turns & greatly boosts Rec relative to max HP for 3 turns",
