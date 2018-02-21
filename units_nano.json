@@ -2642,7 +2642,7 @@
     "element": "water",
     "guide_id": 1774,
     "id": 20327,
-    "name": "雪牙の霸導獅シグネス",
+    "name": "Alpha Leader Signas",
     "rarity": 8
   },
   "20334": {
@@ -5519,14 +5519,14 @@
     "element": "earth",
     "guide_id": 1776,
     "id": 31066,
-    "name": "司魂輪神リミルネート",
+    "name": "Soul Spiral Limilnate",
     "rarity": 7
   },
   "31067": {
     "element": "earth",
     "guide_id": 1777,
     "id": 31067,
-    "name": "永巡輪神リミルネート",
+    "name": "Endless Cycle Limilnate",
     "rarity": 8
   },
   "40011": {
@@ -10055,7 +10055,7 @@
     "element": "dark",
     "guide_id": 1775,
     "id": 60357,
-    "name": "暗絶の聖結師ゼファー",
+    "name": "Sacred Teachings Zephyr",
     "rarity": 8
   },
   "60363": {
@@ -11196,14 +11196,14 @@
     "element": "dark",
     "guide_id": 1778,
     "id": 61286,
-    "name": "終天神ログライザー",
+    "name": "Holy End Roglizer",
     "rarity": 7
   },
   "61287": {
     "element": "dark",
     "guide_id": 1779,
     "id": 61287,
-    "name": "終世創神ログライザー",
+    "name": "Perpetual Flaw Roglizer",
     "rarity": 8
   },
   "100884": {
@@ -12037,6 +12037,20 @@
     "guide_id": 8319,
     "id": 820288,
     "name": "White Death Ravea",
+    "rarity": 8
+  },
+  "820297": {
+    "element": "water",
+    "guide_id": 8386,
+    "id": 820297,
+    "name": "Twinkle Snow Miku",
+    "rarity": 7
+  },
+  "820298": {
+    "element": "water",
+    "guide_id": 8387,
+    "id": 820298,
+    "name": "Twinkle Snow Miku",
     "rarity": 8
   },
   "820315": {
