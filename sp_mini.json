@@ -9118,6 +9118,57 @@
       "desc": "Allows SBB's buff effects to last for additional turn"
     }
   ],
+  "830298": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows BB's damage reduction effect to last for additional 2 turns"
+    },
+    {
+      "bp": 25,
+      "desc": "Enhances SBB's Spark damage boost for Earth types effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows SBB's huge 1 turn Atk reduction effect to last for 2 turns and enhances its success rate"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds Stealth for self with Atk, Def and critical hit rate boost for 2 turns effect to BB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds huge boost to Def relative to Atk for 3 turns effect to BB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds slight OD gauge boost effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds probability of activating BB/SBB/UBB twice for 1 turn effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Enhances success rate of activating BB/SBB/UBB twice for 1 turn effect and allows it to last for additional turn"
+    }
+  ],
   "830328": [
     {
       "bp": 20,

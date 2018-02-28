@@ -22968,6 +22968,36 @@
     "sbb": "19 combo powerful Earth attack on all foes, greatly boosts Earth types' Atk, Def, Rec for 3 turns, enormously boosts Earth types' critical hit rate for 3 turns, hugely boosts Atk relative to Def for 3 turns, considerably boosts OD gauge fill rate at turn's end for 3 turns, hugely boosts BC, HC drop rate for 3 turns & raises normal hit amount for 3 turns",
     "ubb": "22 combo massive Earth attack on all foes, enormously boosts Atk relative to Def for 3 turns, enormously boosts OD gauge fill rate at turn's end for 3 turns, hugely raises normal hit amount for 3 turns & hugely boosts max HP"
   },
+  "830297": {
+    "bb": "11 combo powerful Earth attack on all foes, 5 combo massive Earth attack on single Thunder foe, Spark damage boosts BB gauge for 3 turns & probable 1 turn huge Atk reduction",
+    "category": 830290,
+    "cost": 52,
+    "element": "earth",
+    "es": "Resistance against 1 KO attack when HP is below 20%, Spark damage slightly boosts BB gauge for all allies & 15% boost to Spark damage for all allies",
+    "gender": "female",
+    "guide_id": 8388,
+    "id": 830297,
+    "ls": "150% boost to Atk, 30% boost to critical hit rate and 70% boost to max HP of Earth types, 130% boost to Spark damage, Spark damage boosts BB gauge & hugely boosts Earth elemental damage",
+    "name": "Senbonzakura Miku",
+    "rarity": 7,
+    "sbb": "18 combo powerful Earth attack on all foes (damage relative to remaining HP), greatly boosts Spark damage for 3 turns, Spark damage boosts BB gauge for 3 turns, hugely boosts Earth elemental damage for 3 turns & probable 1 turn huge Atk reduction",
+    "ubb": "22 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts Atk and critical hit rate for 3 turns, enormously boosts Spark damage for 3 turns, enormously boosts Earth elemental damage for 3 turns & 3 turn enormous Atk, Def reduction"
+  },
+  "830298": {
+    "bb": "13 combo powerful Earth attack on all foes, 5 combo massive Earth attack on single Thunder foe, 50% damage reduction for 1 turn, Spark damage boosts BB gauge for 3 turns, greatly boosts max HP & probable 1 turn huge Atk reduction",
+    "category": 830290,
+    "cost": 60,
+    "element": "earth",
+    "es": "40% boost to all parameters when Sakura Onusa is equipped, resistance against 1 KO attack when HP is below 35%, Spark damage slightly boosts BB gauge for all allies & 25% boost to Spark damage for all allies",
+    "gender": "female",
+    "guide_id": 8389,
+    "id": 830298,
+    "ls": "250% boost to Atk, 30% boost to critical hit rate and 100% boost to max HP of Earth types, 150% boost to Spark damage, Spark damage considerably boosts BB gauge, enormously boosts Earth elemental damage & greatly reduces BB gauge required for BB",
+    "name": "Senbonzakura Miku",
+    "rarity": 8,
+    "sbb": "22 combo powerful Earth attack on all foes (damage relative to remaining HP), hugely boosts Spark damage for 3 turns, boosts Spark damage for Earth types for 3 turns, Spark damage considerably boosts BB gauge for 3 turns, enormously boosts Earth elemental damage for 3 turns & probable 1 turn huge Atk reduction",
+    "ubb": "24 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts Atk and critical hit rate for 3 turns, enormously boosts Spark damage for 3 turns, enormously boosts Earth elemental damage for 3 turns, 3 turn enormous Atk, Def reduction & activates BB/SBB/UBB twice for 1 turn"
+  },
   "830315": {
     "bb": "20 combo powerful Earth attack on all foes, probable BB gauge boost during Spark & probable infliction of random status ailment",
     "category": 830310,

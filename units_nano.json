@@ -12396,6 +12396,20 @@
     "name": "Steel Magus Dessit",
     "rarity": 8
   },
+  "830297": {
+    "element": "earth",
+    "guide_id": 8388,
+    "id": 830297,
+    "name": "Senbonzakura Miku",
+    "rarity": 7
+  },
+  "830298": {
+    "element": "earth",
+    "guide_id": 8389,
+    "id": 830298,
+    "name": "Senbonzakura Miku",
+    "rarity": 8
+  },
   "830315": {
     "element": "earth",
     "guide_id": 8158,
