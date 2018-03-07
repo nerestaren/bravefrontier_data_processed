@@ -10283,38 +10283,47 @@
   "850198": [
     {
       "bp": 10,
-      "desc": "20% boost to Atk, Rec"
+      "desc": "60% boost to all parameters"
     },
     {
-      "bp": 10,
-      "desc": "20% boost to Def, max HP"
-    },
-    {
-      "bp": 30,
-      "desc": "Normal attack may hit all foes"
-    },
-    {
-      "bp": 30,
-      "desc": "Negates elemental damage"
-    },
-    {
-      "bp": 50,
-      "desc": "Adds HP restoration when damage dealt effect to BB/SBB"
-    },
-    {
-      "bp": 40,
-      "desc": "Enhances LS's critical damage boost effect"
+      "bp": 15,
+      "desc": "Boosts critical damage"
     },
     {
       "bp": 20,
-      "desc": "Adds probable huge 1 turn Def reduction effect to BB/SBB"
+      "desc": "Enormously boosts elemental damage"
     },
     {
-      "bp": 60,
-      "desc": "Allows probable 1 turn Atk reduction effects from SBB to last for 2 turns"
+      "bp": 10,
+      "desc": "Negates elemental damage"
     },
     {
-      "bp": 60,
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 20,
+      "desc": "Normal attacks may hit all foes"
+    },
+    {
+      "bp": 25,
+      "desc": "Enhances LS's critical damage boost effect"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds great HP restoration effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances success rate of BB/SBB's probable huge Atk, Def reduction effect"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Allows BB/SBB's 1 turn Atk, Def reduction effects to last for 2 turns"
+    },
+    {
+      "bp": 45,
       "desc": "Adds huge raise to normal hit amount effect to UBB"
     }
   ],
