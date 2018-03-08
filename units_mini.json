@@ -10176,7 +10176,7 @@
     "ls": "60% boost to Def, Rec, max HP, restores HP each turn, damage taken may restore HP & negates all status ailments and Atk, Def, Rec reductions",
     "name": "Soul Spiral Limilnate",
     "rarity": 7,
-    "sbb": "Enormously boosts BB gauge, fully restores HP, removes all status ailments, boosts max HP, activates Earth barrier & adds low probable resistance against 1 KO attack",
+    "sbb": "15 combo powerful Earth attack, enormously boosts BB gauge, fully restores HP, removes all status ailments, boosts max HP & activates Earth barrier",
     "ubb": "Probability of raising allies from KO, hugely boosts max HP, enormously boosts Rec for 3 turns, enormously boosts Rec relative to max HP for 3 turns, fully restores HP for 3 turns & damage taken enormously restores HP for 3 turns"
   },
   "31067": {
@@ -10184,7 +10184,7 @@
     "category": 31060,
     "cost": 60,
     "element": "earth",
-    "es": "40% boost to all parameters and  adds low probable resistance against 1 KO attack when damage taken exceeds certain amount when HP Recovery Type Sphere is equipped, & adds probable resistance against 1 KO attack",
+    "es": "40% boost to all parameters when HP Recovery Type Sphere is equipped, adds probable resistance against 1 KO attack & adds low probability of resistance against 1 KO attack effect to BB/SBB",
     "gender": "male",
     "guide_id": 1777,
     "id": 31067,
