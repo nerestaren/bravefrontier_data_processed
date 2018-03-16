@@ -2428,6 +2428,13 @@
     "name": "Twin Arms Rickel",
     "rarity": 6
   },
+  "20217": {
+    "element": "water",
+    "guide_id": 1780,
+    "id": 20217,
+    "name": "Divine Revolvers Millie",
+    "rarity": 8
+  },
   "20222": {
     "element": "water",
     "guide_id": 581,
@@ -9987,6 +9994,13 @@
     "id": 60316,
     "name": "Midnight Allure Lunaris",
     "rarity": 7
+  },
+  "60317": {
+    "element": "dark",
+    "guide_id": 1781,
+    "id": 60317,
+    "name": "Bewitching Wings Lunaris",
+    "rarity": 8
   },
   "60324": {
     "element": "dark",

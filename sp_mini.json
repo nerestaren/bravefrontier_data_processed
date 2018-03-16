@@ -1252,6 +1252,49 @@
       "desc": "Adds elemental damage negation for 1 turn effect to BB/SBB"
     }
   ],
+  "20217": [
+    {
+      "bp": 10,
+      "desc": "30% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Atk, Def boost when BB gauge is over 50%"
+    },
+    {
+      "bp": 10,
+      "desc": "80% boost to Spark damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Raises normal hit amount"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 130000"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances BB's normal hit amount raise effect and its damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's probable huge Atk, Def reduction effect"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Allows SBB's huge probable Atk, Def reduction effects to last for 2 turns"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds enormous Spark damage boost for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds considerable BC, HC drop rate boost for 3 turns effect to BB/SBB"
+    }
+  ],
   "20327": [
     {
       "bp": 10,
@@ -6120,6 +6163,48 @@
     {
       "bp": 30,
       "desc": "Adds critical damage negation for 1 turn effect to BB/SBB"
+    }
+  ],
+  "60317": [
+    {
+      "bp": 10,
+      "desc": "30% boost to Atk, Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Boosts Atk, Def relative to remaining HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates critical hit damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 130000"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB/SBB's  greatly restores HP effect"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds slight additional damage reduction for 1 turn effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds elemental damage negation for 1 turn effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds critical damage negation for 1 turn effect to BB/SBB"
+    },
+    {
+      "bp": 40,
+      "desc": "Adds great HP restoration effect for 3 turns to BB/SBB"
     }
   ],
   "60357": [
