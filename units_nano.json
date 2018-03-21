@@ -11689,6 +11689,13 @@
     "name": "Rain",
     "rarity": 8
   },
+  "810408": {
+    "element": "fire",
+    "guide_id": 8392,
+    "id": 810408,
+    "name": "Adamant Ancient Svalinn",
+    "rarity": 8
+  },
   "810417": {
     "element": "fire",
     "guide_id": 8225,
@@ -13017,6 +13024,20 @@
     "guide_id": 8340,
     "id": 840548,
     "name": "Erza Scarlet",
+    "rarity": 8
+  },
+  "840567": {
+    "element": "thunder",
+    "guide_id": 8390,
+    "id": 840567,
+    "name": "N'an-Hua",
+    "rarity": 7
+  },
+  "840568": {
+    "element": "thunder",
+    "guide_id": 8391,
+    "id": 840568,
+    "name": "N'an-Wang-Mu",
     "rarity": 8
   },
   "850003": {

@@ -7922,6 +7922,48 @@
       "desc": "Enhances BB/UBB's max HP boost effect"
     }
   ],
+  "810408": [
+    {
+      "bp": 10,
+      "desc": "50% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "50% boost to Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly boosts critical hit damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Enormously boosts BB gauge when guarding"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates Def ignoring damage"
+    },
+    {
+      "bp": 20,
+      "desc": "50% additional damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds enormous critical damage boost to self for 2 turns effect to SBB"
+    },
+    {
+      "bp": 60,
+      "desc": "Adds 25 combo massive Fire attack on all foes and partial HP drain effects to SBB"
+    }
+  ],
   "810418": [
     {
       "bp": 10,
@@ -10190,6 +10232,57 @@
     {
       "bp": 20,
       "desc": "Adds probable huge 1 turn Atk, Def reduction effect to SBB"
+    }
+  ],
+  "840568": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "30% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly boosts critical hit damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates all status ailments"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds resistance against 1 KO attack when HP is below 35%"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds max HP boost effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds critical damage boost for Thunder types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds slight critical and elemental vulnerability infliction for 2 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds huge Atk boost for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds enormous critical hit rate boost for 3 turns effect to BB/SBB "
     }
   ],
   "850048": [
