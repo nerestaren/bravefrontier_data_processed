@@ -24939,7 +24939,7 @@
     "category": 850310,
     "cost": 50,
     "element": "light",
-    "es": "Adds status ailment negation effect for 3 turns and status ailment removal effect to BB/SBB & 5% damage reduction for 1 turn when HP is below 50% for all allies",
+    "es": "Adds status ailment negation effect for 3 turns and status ailment removal effect to BB/SBB & 5% damage reduction for all allies",
     "gender": "male",
     "guide_id": 8395,
     "id": 850318,
