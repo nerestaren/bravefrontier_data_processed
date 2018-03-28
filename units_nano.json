@@ -11290,6 +11290,13 @@
     "name": "Omni Frog",
     "rarity": 4
   },
+  "750004": {
+    "element": "light",
+    "guide_id": 9998,
+    "id": 750004,
+    "name": "Burst Queen",
+    "rarity": 4
+  },
   "750166": {
     "element": "light",
     "guide_id": 8293,
@@ -12219,6 +12226,20 @@
     "guide_id": 8342,
     "id": 820548,
     "name": "Gray Fullbuster",
+    "rarity": 8
+  },
+  "820557": {
+    "element": "water",
+    "guide_id": 8393,
+    "id": 820557,
+    "name": "Arctic Vail & Vidron",
+    "rarity": 7
+  },
+  "820558": {
+    "element": "water",
+    "guide_id": 8394,
+    "id": 820558,
+    "name": "Glacial Vail & Vidron",
     "rarity": 8
   },
   "830003": {
@@ -13382,6 +13403,13 @@
     "id": 850317,
     "name": "Loremaster Allanon",
     "rarity": 7
+  },
+  "850318": {
+    "element": "light",
+    "guide_id": 8395,
+    "id": 850318,
+    "name": "Arcane Sage Allanon",
+    "rarity": 8
   },
   "850328": {
     "element": "light",

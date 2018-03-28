@@ -20814,6 +20814,16 @@
     "name": "Omni Frog",
     "rarity": 4
   },
+  "750004": {
+    "category": 750000,
+    "cost": 5,
+    "element": "light",
+    "gender": "other",
+    "guide_id": 9998,
+    "id": 750004,
+    "name": "Burst Queen",
+    "rarity": 4
+  },
   "750166": {
     "bb": "22 combo powerful Light attack on all foes, considerably boosts Atk for 3 turns & enormously boosts critical hit rate for 3 turns",
     "category": 750160,
@@ -22638,6 +22648,36 @@
     "rarity": 8,
     "sbb": "33 combo powerful Water attack on all foes, adds Def ignoring effect to own attack for 3 turns, boosts Spark damage of Water types for 3 turns, probable huge 1 turn Atk, Def reduction, Spark damage boosts BB gauge for 3 turns & highly probable critical and elemental vulnerability infliction for 1 turn",
     "ubb": "35 combo massive Water attack on all foes, adds Def ignoring effect to own attack for 3 turns, enormously boosts Spark damage for 3 turns, enormous 3 turn Atk, Def reduction, Spark damage greatly boosts BB gauge for 3 turns & adds evasion for 1 turn"
+  },
+  "820557": {
+    "bb": "13 combo powerful Water attack on all foes, reduce foe's BB gauge, hugely boosts BC efficacy for 3 turns, greatly restores HP & hugely boosts Atk relative to Def for 3 turns",
+    "category": 820550,
+    "cost": 52,
+    "element": "water",
+    "es": "Probable damage reduction to 1 for all allies & probable 50% damage counter for all allies",
+    "gender": "male",
+    "guide_id": 8393,
+    "id": 820557,
+    "ls": "60% boost to Atk, max HP, 100% boost to Def, Rec of Water types, enormously boosts HC efficacy, considerably boosts BC, HC drop rate & hugely boosts BB gauge each turn",
+    "name": "Arctic Vail & Vidron",
+    "rarity": 7,
+    "sbb": "15 combo powerful Water attack on all foes, 4 combo powerful Water attack on single foe (damage relative to remaining HP), hugely boosts BC efficacy for 3 turns, greatly restores HP & hugely boosts Atk relative to Def for 3 turns",
+    "ubb": "19 combo massive Water attack on all foes, damage taken enormously boosts BB gauge for 3 turns, fully restores HP for 3 turns, enormously boosts Atk, Def, Rec for 3 turns & enormously boosts Atk relative to Def for 3 turns"
+  },
+  "820558": {
+    "bb": "16 combo powerful Water attack on all foes, reduce foe's BB gauge, hugely boosts BC efficacy for 3 turns, hugely restores HP, hugely boosts Atk relative to Def for 3 turns & activates Thunder shield for 2 turns",
+    "category": 820550,
+    "cost": 60,
+    "element": "water",
+    "es": "Probable damage reduction to 1 for all allies, probable 50% damage counter for all allies, damage taken may slightly reduce foe's BB gauge fill rate for 1 turn & adds 16 combo (BB)/23 combo (SBB) powerful Water attack on single foe to BB/SBB",
+    "gender": "male",
+    "guide_id": 8394,
+    "id": 820558,
+    "ls": "80% boost to Atk, max HP, 120% boost to Def, Rec of Water types, enormously boosts HC efficacy, greatly boosts BC, HC drop rate & enormously boosts BB gauge each turn",
+    "name": "Glacial Vail & Vidron",
+    "rarity": 8,
+    "sbb": "18 combo powerful Water attack on all foes, 5 combo powerful Water attack on single foe (damage relative to remaining HP), hugely boosts BC efficacy for 3 turns, hugely restores HP, hugely boosts Atk relative to Def for 3 turns & activates Thunder shield for 2 turns",
+    "ubb": "22 combo massive Water attack on all foes, damage taken enormously boosts BB gauge for 3 turns, fully restores HP for 3 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts Atk relative to Def for 3 turns & activates Water barrier"
   },
   "830003": {
     "bb": "4 combo Earth elemental power attack on all enemies",
@@ -24893,6 +24933,21 @@
     "rarity": 7,
     "sbb": "15 combo powerful Light attack on all foes, adds all elements to attack and boosts elemental weakness damage for 3 turns, greatly recovers HP & slightly boosts OD gauge",
     "ubb": "18 combo massive Light attack on all enemies, greatly refills BB gauge when damage is taken for 3 turns, greatly boosts all elemental damage and resistance for 3 turns & fully recovers HP of all allies over 3 turns"
+  },
+  "850318": {
+    "bb": "Enormously boosts BB gauge, 15% damage reduction from all element types for 3 turns, damage taken boosts BB gauge for 3 turns, considerably boosts max HP & adds low probability of resistance against 1 KO attack",
+    "category": 850310,
+    "cost": 50,
+    "element": "light",
+    "es": "Adds status ailment negation effect for 3 turns and status ailment removal effect to BB/SBB & 5% damage reduction for 1 turn when HP is below 50% for all allies",
+    "gender": "male",
+    "guide_id": 8395,
+    "id": 850318,
+    "ls": "60% boost to all parameters, negates elemental damage, hugely boosts all elemental damage & considerably boosts OD gauge fill rate",
+    "name": "Arcane Sage Allanon",
+    "rarity": 8,
+    "sbb": "16 combo powerful Light attack on all foes, adds all elements to attack for 3 turns, hugely boosts all elemental damage for 3 turns, greatly restores HP & slightly boosts OD gauge",
+    "ubb": "20 combo massive Light attack on all foes, enormous damage reduction from all elemental types for 3 turns, enormously boosts all elemental damage for 3 turns, damage taken enormously boosts BB gauge for 3 turns, fully restores HP for 3 turns & hugely boosts OD gauge"
   },
   "850328": {
     "bb": "25 combo powerful Light, Dark, Earth, Fire attack on all foes, considerably boosts own max HP, greatly boosts own Atk, Def, Rec for 5 turns & adds Def ignoring effect to own attack for 5 turns",
