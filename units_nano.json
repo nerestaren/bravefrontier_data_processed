@@ -11717,6 +11717,20 @@
     "name": "Scourgemistress Adriesta",
     "rarity": 8
   },
+  "810427": {
+    "element": "fire",
+    "guide_id": 8396,
+    "id": 810427,
+    "name": "Pastel Ellie",
+    "rarity": 7
+  },
+  "810428": {
+    "element": "fire",
+    "guide_id": 8397,
+    "id": 810428,
+    "name": "Sweet Harlequin Ellie",
+    "rarity": 8
+  },
   "810437": {
     "element": "fire",
     "guide_id": 8351,

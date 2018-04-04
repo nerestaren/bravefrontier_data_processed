@@ -21638,6 +21638,36 @@
     "sbb": "30 combo powerful Fire and Thunder attack on all foes, hugely boosts Atk and Def for 3 turns, boosts Atk relative to Def for 3 turns, Spark damage boosts BB gauge for 3 turns & adds probable 1 turn Atk, Def reduction effect to attack for 3 turns",
     "ubb": "40 combo massive Fire and Thunder attack on all foes, enormously boosts Atk and Def for 3 turns, enormous Atk and Def reduction for 3 turns, 50% elemental damage reduction for 3 turns & activates Thunder barrier"
   },
+  "810427": {
+    "bb": "14 combo powerful Fire attack on all foes, adds probability of performing 1 extra action for self within the same turn, enormously boosts BB gauge, greatly boosts OD gauge fill rate for 3 turns & probable huge 1 turn Atk, Def reduction",
+    "category": 750000,
+    "cost": 52,
+    "element": "fire",
+    "es": "15% boost to all parameters of Fire types, negates all status ailments for all allies & considerably raises normal hit amount",
+    "gender": "female",
+    "guide_id": 8396,
+    "id": 810427,
+    "ls": "150% boost to Atk and 75% boost to Def, Rec when BB gauge is over 50%, 80% boost to max HP, 140% boost to Spark damage & probable resistance against 1 KO attack",
+    "name": "Pastel Ellie",
+    "rarity": 7,
+    "sbb": "17 combo powerful Fire attack on all foes (damage relative to remaining HP, with enormously boosted critical hit rate), adds probability to perform up to 2 extra actions within the same turn, boosts Spark damage of Fire types for 3 turns, greatly boosts Spark damage for 3 turns & slightly boosts OD gauge",
+    "ubb": "21 combo massive Fire attack on all foes, adds probability of performing 1 extra action within the same turn, enormous 3 turn Atk, Def reduction, enormously boosts Spark damage for 3 turns & activates Fire barrier"
+  },
+  "810428": {
+    "bb": "17 combo powerful Fire attack on all foes, adds 1 extra action for self within the same turn, enormously boosts BB gauge, hugely boosts OD gauge fill rate for 3 turns, probable huge 1 turn Atk, Def reduction & greatly boosts BC, HC and item drop rates for 3 turns",
+    "category": 750000,
+    "cost": 60,
+    "element": "fire",
+    "es": "25% boost to all parameters of Fire types, negates all status ailments for all allies, considerably raises normal hit amount & 5% boost to Summoner Avatar EXP gained",
+    "gender": "female",
+    "guide_id": 8397,
+    "id": 810428,
+    "ls": "200% boost to Atk and 100% boost to Def, Rec when BB gauge is over 50%, 100% boost to max HP, 150% boost to Spark damage, probable resistance against 1 KO attack & negates Def ignoring effects",
+    "name": "Sweet Harlequin Ellie",
+    "rarity": 8,
+    "sbb": "20 combo powerful Fire attack on all foes (damage relative to remaining HP, with enormously boosted critical hit rate), adds probability of performing up to 2 extra actions within the same turn, boosts Spark damage of Fire types for 3 turns, hugely boosts Spark damage for 3 turns, slightly boosts OD gauge & hugely boosts Atk, Def, Rec for 3 turns",
+    "ubb": "24 combo massive Fire attack on all foes, adds 1 extra action within the same turn, enormous 3 turn Atk, Def reduction, enormously boosts Spark damage for 3 turns, activates Fire barrier & enormously boosts BC, HC and item drop rates for 3 turns"
+  },
   "810437": {
     "bb": "11 combo powerful Fire, Dark attack on all foes, greatly boosts Atk, Def, Rec for 3 turns, slight damage reduction from all elemental types for 1 turn, Spark damage restores HP for 3 turns & considerably boosts max HP",
     "category": 810430,
