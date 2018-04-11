@@ -21489,7 +21489,7 @@
     "ubb": "15 combo massive Fire attack on all foes (damage relative to remaining HP), 100% recovery of all damage taken, massively boosts BB Atk for 1 turn & hugely boosts max HP"
   },
   "810338": {
-    "bb": "10 combo powerful Fire attack on all foes, hugely boosts own Atk, Def, Rec, critical hit rate for 3 turns, hugely boosts Atk, Def relative to HP for 3 turns & greatly boosts max HP of all allies",
+    "bb": "10 combo powerful Fire attack on all foes, hugely boosts own Atk, Def, Rec, critical hit rate for 3 turns, hugely boosts Atk, Def relative to HP for 3 turns & greatly boosts max HP",
     "category": 810330,
     "cost": 54,
     "element": "fire",
@@ -21497,11 +21497,11 @@
     "gender": "male",
     "guide_id": 8201,
     "id": 810338,
-    "ls": "80% boost to all parameters, hugely boosts critical damage, considerably boosts BB Atk, reduces all damage received by 10% & critical damage enormously boosts BB gauge",
+    "ls": "80% boost to all parameters, 20% boost to critical hit rate, hugely boosts critical damage, considerably boosts BB Atk, 10% damage reduction & critical damage enormously boosts BB gauge",
     "name": "Doombringer Azurai",
     "rarity": 8,
-    "sbb": "12 combo massive Fire attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec, critical hit rate of all allies for 3 turns, hugely boosts BB Atk of all allies for 3 turns, greatly boosts critical damage for 3 turns & critical vulnerability infliction for 2 turns",
-    "ubb": "20 combo massive Fire attack on all foes (damage relative to remaining HP), recovers 100% of all damage taken, enormously boosts BB Atk of all allies for 3 turns hugely boosts max HP of all allies & enormously boosts Atk, Def, Rec, critical hit rate of all allies for 3 turns"
+    "sbb": "12 combo massive Fire attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec, critical hit rate for 3 turns, hugely boosts BB Atk for 3 turns, greatly boosts critical damage for 3 turns & critical vulnerability infliction for 2 turns",
+    "ubb": "20 combo massive Fire attack on all foes (damage relative to remaining HP), damage taken enormously restores HP for 3 turns, enormously boosts BB Atk for 3 turns, hugely boosts max HP & enormously boosts Atk, Def, Rec, critical hit rate for 3 turns"
   },
   "810356": {
     "bb": "9 combo powerful Fire attack on all foes, probable random status ailment infliction, greatly boosts damage against status afflicted foes for 3 turns & boosts Atk, Def of Fire types for 3 turns",
@@ -24965,7 +24965,7 @@
     "ubb": "18 combo massive Light attack on all enemies, greatly refills BB gauge when damage is taken for 3 turns, greatly boosts all elemental damage and resistance for 3 turns & fully recovers HP of all allies over 3 turns"
   },
   "850318": {
-    "bb": "Enormously boosts BB gauge on use, reduces all elemental damage for 3 turns, damage taken boosts BB gauge for 3 turns, greatly boosts Max HP of all allies, adds low probability of resistance against 1 KO attack & negates critical and elemental damage for 3 turns",
+    "bb": "Enormously boosts BB gauge, 15% damage reduction from all element types for 3 turns, damage taken boosts BB gauge for 3 turns, greatly boosts max HP, adds low probability of resistance against 1 KO attack & negates critical and elemental damage for 3 turns",
     "category": 850310,
     "cost": 54,
     "element": "light",
@@ -24977,7 +24977,7 @@
     "name": "Arcane Sage Allanon",
     "rarity": 8,
     "sbb": "16 combo powerful Light attack on all foes (damage relative to remaining HP), adds all elements to attack for 3 turns, hugely boosts all elemental weakness damage for 3 turns, greatly restores HP, slightly boosts OD gauge & activates Light barrier",
-    "ubb": "20 combo massive Light attack on all enemies, enormous damage reduction from all elemental types for 3 turns, damage taken enormously boosts BB gauge for 3 turns, enormously boosts all elemental damage  for 3 turns, fully restores HP for 3 turns & enormously boosts OD gauge"
+    "ubb": "20 combo massive Light attack on all foes, enormous damage reduction from all elemental types for 3 turns, damage taken enormously boosts BB gauge for 3 turns, enormously boosts all elemental damage for 3 turns, fully restores HP for 3 turns & enormously boosts OD gauge"
   },
   "850328": {
     "bb": "25 combo powerful Light, Dark, Earth, Fire attack on all foes, considerably boosts own max HP, greatly boosts own Atk, Def, Rec for 5 turns & adds Def ignoring effect to own attack for 5 turns",

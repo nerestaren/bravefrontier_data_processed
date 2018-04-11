@@ -7756,11 +7756,11 @@
     },
     {
       "bp": 10,
-      "desc": "Greatly boosts critical hit damage"
+      "desc": "Hugely boosts critical hit damage"
     },
     {
       "bp": 10,
-      "desc": "Critical hit damage considerably boosts BB gauge"
+      "desc": "Critical hit damage boosts BB gauge"
     },
     {
       "bp": 30,
@@ -7769,7 +7769,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Increases success rate of normal attacks may hit all foes effect added"
+      "desc": "Enhances probability of normal attacks hitting all foes effect"
     },
     {
       "bp": 10,
@@ -7812,7 +7812,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Increases success rate of normal attacks may hit all foes effect added"
+      "desc": "Enhances probability of normal attacks hitting all foes effect"
     },
     {
       "bp": 20,
@@ -7937,7 +7937,7 @@
     },
     {
       "bp": 10,
-      "desc": "Greatly boosts critical hit damage"
+      "desc": "Hugely boosts critical hit damage"
     },
     {
       "bp": 10,
@@ -8022,7 +8022,7 @@
     },
     {
       "bp": 10,
-      "desc": "Greatly boosts critical hit damage"
+      "desc": "Hugely boosts critical hit damage"
     },
     {
       "bp": 20,
@@ -8196,7 +8196,7 @@
     },
     {
       "bp": 10,
-      "desc": "Greatly boosts critical hit damage"
+      "desc": "Hugely boosts critical hit damage"
     },
     {
       "bp": 10,
@@ -9032,7 +9032,7 @@
     },
     {
       "bp": 10,
-      "desc": "Greatly boosts critical hit damage"
+      "desc": "Hugely boosts critical hit damage"
     },
     {
       "bp": 30,
@@ -10357,7 +10357,7 @@
     },
     {
       "bp": 10,
-      "desc": "Greatly boosts critical hit damage"
+      "desc": "Hugely boosts critical hit damage"
     },
     {
       "bp": 20,
@@ -10811,7 +10811,7 @@
     },
     {
       "bp": 10,
-      "desc": "Greatly boosts critical hit damage"
+      "desc": "Hugely boosts critical hit damage"
     },
     {
       "bp": 10,
@@ -10928,7 +10928,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Increases success rate of normal attacks may hit all foes effect added"
+      "desc": "Enhances probability of normal attacks hitting all foes effect"
     },
     {
       "bp": 20,
@@ -11438,7 +11438,7 @@
     },
     {
       "bp": 35,
-      "desc": "Adds huge Dark elemental damage boost for 3 turns effect to SBB, enormous Dark elemental damage boost for 1 turn effect to UBB"
+      "desc": "Adds huge Dark elemental damage boost for 3 turns effect to BB/SBB, enormous Dark elemental damage boost for 1 turn effect to UBB"
     }
   ],
   "860178": [
@@ -11709,7 +11709,7 @@
     },
     {
       "bp": 10,
-      "desc": "Greatly boosts critical hit damage"
+      "desc": "Hugely boosts critical hit damage"
     },
     {
       "bp": 10,
