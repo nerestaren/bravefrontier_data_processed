@@ -13621,6 +13621,20 @@
     "name": "Sir Sancus Xenon",
     "rarity": 5
   },
+  "860017": {
+    "element": "dark",
+    "guide_id": 8398,
+    "id": 860017,
+    "name": "Black Knight Xenon",
+    "rarity": 7
+  },
+  "860018": {
+    "element": "dark",
+    "guide_id": 8399,
+    "id": 860018,
+    "name": "Xenon, Son of Elysia",
+    "rarity": 8
+  },
   "860034": {
     "element": "dark",
     "guide_id": 8030,

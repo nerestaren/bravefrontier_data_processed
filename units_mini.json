@@ -25377,6 +25377,36 @@
     "name": "Sir Sancus Xenon",
     "rarity": 5
   },
+  "860017": {
+    "bb": "19 combo powerful Dark attack on all foes, activates Taunt and considerably boosts own Def for 1 turn, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, 50% damage reduction for 2 turns & boosts damage reduction when guarding for 3 turns",
+    "category": 860010,
+    "cost": 52,
+    "element": "dark",
+    "es": "15% damage reduction from Light, Dark types when Damage Reducing Sphere is equipped & 15% boost to all parameters of Light, Dark types for all allies",
+    "gender": "male",
+    "guide_id": 8398,
+    "id": 860017,
+    "ls": "100% boost to Atk, Def, 80% boost to max HP of Light, Dark types, greatly boosts BB Atk, damage taken hugely boosts BB gauge & 10% damage reduction from Light, Dark types",
+    "name": "Black Knight Xenon",
+    "rarity": 7,
+    "sbb": "23 combo powerful Dark attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, 50% damage reduction for 2 turns, 15% additional damage reduction for 2 turns & slightly boosts OD gauge",
+    "ubb": "27 combo massive Dark attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 3 turns, 100% damage reduction for 3 turns, negates critical and elemental damage for 5 turns & enormously boosts OD gauge"
+  },
+  "860018": {
+    "bb": "22 combo powerful Dark attack on all foes, activates Taunt and greatly boosts own Def for 1 turn, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, 50% damage reduction for 2 turns, boosts damage reduction when guarding for 3 turns & enormously boosts BB gauge when guarding for 3 turns",
+    "category": 860010,
+    "cost": 60,
+    "element": "dark",
+    "es": "25% damage reduction from Light, Dark types when Damage Reducing Sphere is equipped, 25% boost to all parameters of Light, Dark types for all allies, negates critical damage for all allies & boosts Atk, Def for 3 turns when guarding",
+    "gender": "male",
+    "guide_id": 8399,
+    "id": 860018,
+    "ls": "120% boost to Atk, Def, 100% boost to max HP of Light, Dark types, greatly boosts BB Atk, hugely boosts critical damage, damage taken hugely boosts BB gauge & 15% damage reduction from Light, Dark types",
+    "name": "Xenon, Son of Elysia",
+    "rarity": 8,
+    "sbb": "27 combo powerful Dark attack on all foes (damage relative to remaining HP), activates Dark barrier, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, 50% damage reduction for 2 turns, 20% additional damage reduction for 2 turns & slightly boosts OD gauge",
+    "ubb": "32 combo massive Dark attack on all foes (damage relative to remaining HP), 6 combo massive Dark attack on single foe (25% active Pierce to Light, Dark types), enormously boosts Atk, Def, Rec for 3 turns, 100% damage reduction for 3 turns, negates critical and elemental damage for 5 turns & enormously boosts OD gauge"
+  },
   "860034": {
     "category": 800034,
     "cost": 1,

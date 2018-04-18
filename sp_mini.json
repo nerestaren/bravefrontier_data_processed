@@ -11267,6 +11267,45 @@
       "desc": "Adds probable resistance against 1 KO attack effect to BB/SBB"
     }
   ],
+  "860018": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "30% boost to Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Boosts Def, Rec when BB gauge is over 50%"
+    },
+    {
+      "bp": 20,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Considerably reduces BB gauge required for BB"
+    },
+    {
+      "bp": 40,
+      "desc": "Probable resistance against 2 KO attacks"
+    },
+    {},
+    {},
+    {
+      "bp": 35,
+      "desc": "Enhances BB's Taunt duration and Def boost effect"
+    },
+    {},
+    {},
+    {
+      "bp": 30,
+      "desc": "Adds enormous BB Atk boost for 3 turns effect to BB/SBB"
+    }
+  ],
   "860048": [
     {
       "bp": 10,
