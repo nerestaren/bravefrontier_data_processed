@@ -11293,14 +11293,26 @@
       "bp": 40,
       "desc": "Probable resistance against 2 KO attacks"
     },
-    {},
-    {},
+    {
+      "bp": 30,
+      "desc": "Adds slight additional damage reduction effect to LS"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances LS's damage reduction from Light, Dark types"
+    },
     {
       "bp": 35,
       "desc": "Enhances BB's Taunt duration and Def boost effect"
     },
-    {},
-    {},
+    {
+      "bp": 20,
+      "desc": "Adds damage taken considerably boosts BB gauge for 3 turns effect to BB"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds huge boost to Def relative to Atk for 3 turns effect to BB/SBB"
+    },
     {
       "bp": 30,
       "desc": "Adds enormous BB Atk boost for 3 turns effect to BB/SBB"
