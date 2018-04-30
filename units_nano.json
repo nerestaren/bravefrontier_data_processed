@@ -11493,6 +11493,13 @@
     "name": "Herculean Ultor",
     "rarity": 7
   },
+  "810148": {
+    "element": "fire",
+    "guide_id": 8400,
+    "id": 810148,
+    "name": "Ultor the Unbreakable",
+    "rarity": 8
+  },
   "810176": {
     "element": "fire",
     "guide_id": 8211,
@@ -12633,6 +12640,13 @@
     "id": 830527,
     "name": "Chrono Mage Elaina",
     "rarity": 7
+  },
+  "830528": {
+    "element": "earth",
+    "guide_id": 8401,
+    "id": 830528,
+    "name": "Time-Weaver Elaina",
+    "rarity": 8
   },
   "830537": {
     "element": "earth",

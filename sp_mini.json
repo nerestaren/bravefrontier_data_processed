@@ -7613,6 +7613,56 @@
       "desc": "Add Effect to BB (3 turns add 170% boost to Atk)"
     }
   ],
+  "810148": [
+    {
+      "bp": 10,
+      "desc": "60% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "30% boost to Atk, Def"
+    },
+    {
+      "bp": 10,
+      "desc": "Atk, Def boost when BB gauge is over 50%"
+    },
+    {
+      "bp": 10,
+      "desc": "100% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Boosts critical hit damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates critical hit damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 40,
+      "desc": "Allows BB effects to last for 2 turns"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances SBB's boosts Atk relative to Def effect"
+    }
+  ],
   "810178": [
     {
       "bp": 10,
@@ -9700,6 +9750,58 @@
     {
       "bp": 30,
       "desc": "Enhances SBB's Atk, Def, Rec self-boost effect"
+    }
+  ],
+  "830528": [
+    {
+      "bp": 10,
+      "desc": "80% boost to Def, Rec, max HP"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "100% boost to Def, Rec, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerably boosts BB gauge each turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly restores HP each turn"
+    },
+    {
+      "bp": 20,
+      "desc": "50% additional damage reduction"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds all elemental damage reduction for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": "Adds all elemental damage reduction for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds huge Atk, Def, Rec boost for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds considerable damage reduction of additional attacks for 1 turn effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Enhances BB's huge BB gauge boost each turn effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's BB gauge boost when damage taken effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's probable HP restoration when attacked effect"
     }
   ],
   "830538": [

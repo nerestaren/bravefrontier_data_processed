@@ -21187,6 +21187,21 @@
     "sbb": "20 combo Fire attack on all foes, casts taunt, massively boosts own Def, massively boosts Atk for 1 turn & boosts critical damage for 3 turns",
     "ubb": "3 combo Fire attack on all foes, greatly boosts critical damage, 75% damage reduction for 1 turn & massively boosts all parameters for 3 turns"
   },
+  "810148": {
+    "bb": "5 combo massive Fire attack on single foe, activates Taunt and massively boosts own Def for 1 turn, boosts damage reduction for 1 turn when guarding, 10% damage reduction from all elemental types for 1 turn, adds probable evasion for 1 turn & damage taken enormously boosts BB gauge for 1 turn",
+    "category": 810140,
+    "cost": 60,
+    "element": "fire",
+    "es": "50% boost to Atk, Def, max HP and resistance against 1 KO attack when HP is below 25% when Blades of Ultor is equipped, 20% damage reduction for 2 turns when damage taken has exceeded certain amount & 10% damage reduction from normal attacks",
+    "gender": "male",
+    "guide_id": 8400,
+    "id": 810148,
+    "ls": "80% boost to max HP, 30% boost to critical hit rate, considerably boosts Atk, Def relative to remaining HP, hugely boosts critical damage, damage taken enormously boosts BB gauge & 10% damage reduction",
+    "name": "Ultor the Unbreakable",
+    "rarity": 8,
+    "sbb": "5 combo powerful Fire attack on all foes (damage relative to remaining HP), massive Fire attack on single foe, enormously boosts Atk, Def and critical hit rate for 3 turns, hugely boosts Atk relative to Def for 3 turns, probable huge 1 turn Atk reduction & considerably boosts critical damage for 3 turns",
+    "ubb": "9 combo massive Fire attack on all foes (or 10% damage of foe's max HP), 100% damage reduction for 3 turns, enormously boosts Atk, Def and critical hit rate for 3 turns, enormously boosts own Atk, Def for 3 turns, high probability of resistance against 1 KO attack & enormously boosts critical damage for 3 turns"
+  },
   "810176": {
     "bb": "13 combo powerful Fire attack on all foes, enormously boosts critical hit rate and boosts critical hit damage for 3 turns & probable great 1 turn Atk, Def reduction",
     "category": 810170,
@@ -23449,6 +23464,21 @@
     "rarity": 7,
     "sbb": "23 combo powerful Earth, Light and Dark attack on all enemies, negates all status ailments & gradually recovers BB gauge for all allies for 3 turns",
     "ubb": "33 combo massive Earth, Dark and Light attack on all enemies, reduces damage taken by half & fully recovers HP for all allies for 3 turns"
+  },
+  "830528": {
+    "bb": "15 combo powerful Earth attack on all foes, negates all status ailments for 3 turns, negates Atk, Def, Rec reductions for 3 turns, removes all status ailments, greatly restores HP for 3 turns & enormously boosts BB gauge for 3 turns",
+    "category": 830520,
+    "cost": 54,
+    "element": "earth",
+    "es": "50% boost to all parameters when Elaina's Timepiece is equipped, negates all status ailments and Atk, Def, Rec reductions, considerably boosts BB gauge each turn for all allies & probable damage reduction to 1",
+    "gender": "female",
+    "guide_id": 8401,
+    "id": 830528,
+    "ls": "80% boost to Def, Rec, max HP, damage taken hugely boosts BB gauge, damage taken may restore HP, negates all status ailments and Atk, Def, Rec reductions & 15% damage reduction from all elemental types",
+    "name": "Time-Weaver Elaina",
+    "rarity": 8,
+    "sbb": "25 combo powerful Earth attack on all foes, damage taken hugely boosts BB gauge for 3 turns, damage taken may slightly restore HP for 3 turns, probability of activating BB/SBB/UBB twice for 2 turns, probability of raising allies from KO & slightly boosts OD gauge",
+    "ubb": "5% to 8% damage to foes' max HP, probability of raising allies from KO, adds probable evasion for 3 turns, probability of activating BB/SBB/UBB twice for 3 turns, probability of raising allies from KO & enormously boosts BB gauge for 3 turns"
   },
   "830537": {
     "bb": "13 combo powerful Earth attack on all foes, considerably boosts BC efficacy for 3 turns, damage taken may slightly restore HP for 3 turns, negates all status ailments, critical, elemental and Spark damage for 3 turns & adds low probability of resistance against 1 KO attack",
