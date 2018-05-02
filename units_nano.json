@@ -11262,6 +11262,13 @@
     "name": "Dark: Shida",
     "rarity": 3
   },
+  "710165": {
+    "element": "fire",
+    "guide_id": 8407,
+    "id": 710165,
+    "name": "Morgana",
+    "rarity": 5
+  },
   "710217": {
     "element": "fire",
     "guide_id": 8311,
@@ -11296,6 +11303,13 @@
     "id": 750004,
     "name": "Burst Queen",
     "rarity": 4
+  },
+  "750122": {
+    "element": "dark",
+    "guide_id": 8404,
+    "id": 750122,
+    "name": "Wonder Mirror Idol",
+    "rarity": 3
   },
   "750166": {
     "element": "light",
@@ -12662,6 +12676,20 @@
     "name": "Cheery Bjørn & Linlin",
     "rarity": 8
   },
+  "830557": {
+    "element": "earth",
+    "guide_id": 8402,
+    "id": 830557,
+    "name": "Gracious Honoka & Hisa",
+    "rarity": 7
+  },
+  "830558": {
+    "element": "earth",
+    "guide_id": 8403,
+    "id": 830558,
+    "name": "Merciful Honoka & Hisa",
+    "rarity": 8
+  },
   "840003": {
     "element": "thunder",
     "guide_id": 8009,
@@ -14025,6 +14053,20 @@
     "guide_id": 8338,
     "id": 860548,
     "name": "Mard Geer",
+    "rarity": 8
+  },
+  "860607": {
+    "element": "dark",
+    "guide_id": 8405,
+    "id": 860607,
+    "name": "Wizard Merlin",
+    "rarity": 7
+  },
+  "860608": {
+    "element": "dark",
+    "guide_id": 8406,
+    "id": 860608,
+    "name": "Wayward Merlin",
     "rarity": 8
   },
   "870034": {

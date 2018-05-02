@@ -20759,6 +20759,16 @@
     "name": "Dark: Shida",
     "rarity": 3
   },
+  "710165": {
+    "category": 710160,
+    "cost": 19,
+    "element": "fire",
+    "gender": "female",
+    "guide_id": 8407,
+    "id": 710165,
+    "name": "Morgana",
+    "rarity": 5
+  },
   "710217": {
     "bb": "18 combo powerful Fire attack on all foes, fills own BB gauge to max, probable Spark vulnerability infliction for 2 turns, enormously boosts own Spark damage for 3 turns & enormously boosts own Atk for 3 turns",
     "category": 710210,
@@ -20823,6 +20833,16 @@
     "id": 750004,
     "name": "Burst Queen",
     "rarity": 4
+  },
+  "750122": {
+    "category": 750122,
+    "cost": 8,
+    "element": "dark",
+    "gender": "other",
+    "guide_id": 8404,
+    "id": 750122,
+    "name": "Wonder Mirror Idol",
+    "rarity": 3
   },
   "750166": {
     "bb": "22 combo powerful Light attack on all foes, considerably boosts Atk for 3 turns & enormously boosts critical hit rate for 3 turns",
@@ -23509,6 +23529,36 @@
     "rarity": 8,
     "sbb": "21 combo powerful Earth attack on all foes, enormously boosts BB gauge, greatly restores HP, removes all status ailments, considerably boosts Atk, Def, Rec of Earth types for 3 turns & slightly boosts OD gauge",
     "ubb": "26 combo massive Earth attack on all foes, enormously boosts BB gauge for 3 turns, fully restores HP for 3 turns, adds high probability of resistance against 1 KO attack, enormously boosts Atk, Def, Rec for 3 turns & enormously boosts OD gauge"
+  },
+  "830557": {
+    "bb": "17 combo powerful Earth attack on all foes, reduces foe's BB gauge fill rate for 3 turns, probability of raising allies from KO, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Earth types for 3 turns & hugely restores HP for 3 turns",
+    "category": 830550,
+    "cost": 52,
+    "element": "earth",
+    "es": "Damage taken slightly boosts BB gauge for all allies & negates all status ailments for all allies",
+    "gender": "female",
+    "guide_id": 8402,
+    "id": 830557,
+    "ls": "60% boost to Atk, max HP, 100% boost to Def, Rec of Earth types, normal attack boosts BB gauge, Spark damage considerably boosts BB gauge & negates elemental damage",
+    "name": "Gracious Honoka & Hisa",
+    "rarity": 7,
+    "sbb": "20 combo powerful Earth attack on all foes, 2 combo powerful Earth attack on single foe, adds low probability of resistance against 1 KO attack, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Earth types for 3 turns & hugely restores HP",
+    "ubb": "23 combo massive Earth attack on all foes, high probability of raising allies from KO, damage taken enormously boosts BB gauge and restores HP for 3 turns & enormously boosts OD gauge"
+  },
+  "830558": {
+    "bb": "20 combo powerful Earth attack on all foes, reduces foe's BB gauge fill rate for 3 turns, probability of raising allies from KO, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Earth types for 3 turns, hugely restores HP for 3 turns & activates Fire shield for 2 turns",
+    "category": 830550,
+    "cost": 60,
+    "element": "earth",
+    "es": "Damage taken slightly boosts BB gauge for all allies, negates all status ailments for all allies, damage taken may slightly reduce foe's BB gauge fill rate for 1 turn & adds 20 combo (BB)/25 combo (SBB) powerful Earth attack on single foe to BB/SBB",
+    "gender": "female",
+    "guide_id": 8403,
+    "id": 830558,
+    "ls": "80% boost to Atk, max HP, 120% boost to Def, Rec of Earth types, normal attack boosts BB gauge, Spark damage considerably boosts BB gauge & negates elemental damage",
+    "name": "Merciful Honoka & Hisa",
+    "rarity": 8,
+    "sbb": "23 combo powerful Earth attack on all foes, 3 combo powerful Earth attack on single foe, adds low probability of resistance against 1 KO attack, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Earth types for 3 turns, hugely restores HP & activates Fire shield for 2 turns",
+    "ubb": "26 combo massive Earth attack on all foes, raises allies from KO, damage taken enormously boosts BB gauge and restores HP for 3 turns, enormously boosts OD gauge & enormously boosts max HP"
   },
   "840003": {
     "bb": "3 combo Thunder elemental attack on all enemies",
@@ -26198,6 +26248,36 @@
     "rarity": 8,
     "sbb": "31 combo powerful Dark attack on all foes (consecutive uses boosts damage), greatly boosts BB Atk for 3 turns, considerably boosts own Atk, Def for 3 turns, hugely restores own HP & highly probable Sick, Poison, Paralysis and Curse effects",
     "ubb": "34 combo massive Dark attack on all foes, enormously boosts BB Atk for 3 turns, hugely boosts max HP, damage taken enormously restores own HP for 3 turns & all status ailment infliction"
+  },
+  "860607": {
+    "bb": "25 combo powerful Dark, Light, Fire attack on single foe, powerful additional attack at turn's end for 1 turn on single foe, removes all status ailments & activates Fire barrier",
+    "category": 860600,
+    "cost": 46,
+    "element": "dark",
+    "es": "Adds 50% damage reduction for 1 turn effect to BB/SBB when Photon Scepter is equipped & raises normal hit amount",
+    "gender": "male",
+    "guide_id": 8405,
+    "id": 860607,
+    "ls": "60% boost to all parameters of Light, Dark, Fire types, negates elemental damage, damage taken considerably boosts BB gauge & considerably reduces BB gauge consumed during BB",
+    "name": "Wizard Merlin",
+    "rarity": 7,
+    "sbb": "30 combo powerful Light, Dark, Fire attack on all foes, additional attack at turn's end for 1 turn on all foes, considerably restores HP, damage taken greatly boosts BB gauge & activates Dark barrier",
+    "ubb": "35 combo massive Light, Dark, Fire attack on all foes, massive additional attack at turn's end for 3 turns on all foes, considerably increases normal hit amount for 3 turns & activates Light barrier"
+  },
+  "860608": {
+    "bb": "32 combo powerful Dark, Light, Fire attack on single foe, massive additional attack at turn's end for 1 turn on single foe, removes all status ailments, activates Fire barrier & boosts BC and HC drop rate for 3 turns",
+    "category": 860600,
+    "cost": 54,
+    "element": "dark",
+    "es": "Adds 50% damage reduction for 1 turn effect to BB/SBB when Photon Scepter is equipped, 15% boost to all parameters for allies, considerably boosts Atk for 3 turns after activating OD & considerably raises normal hit amount",
+    "gender": "male",
+    "guide_id": 8406,
+    "id": 860608,
+    "ls": "80% boost to all parameters of Light, Dark, Fire types, negates elemental damage, hugely boosts elemental damage, damage taken greatly boosts BB gauge & greatly reduces BB gauge consumed during BB",
+    "name": "Wayward Merlin",
+    "rarity": 8,
+    "sbb": "35 combo powerful Dark, Light, Fire attack on all foes, powerful additional attack at turn's end for 1 turn on all foes, damage taken greatly boosts BB gauge for 3 turns, greatly boosts own Atk relative to HP for 2 turns, hugely restores HP & activates Dark barrier",
+    "ubb": "40 combo massive Dark, Light, Fire attack on all foes, massive additional attack at turn's end for 3 turns on all foes, greatly increases normal hit amount for 3 turns, activates Light barrier & enormously boosts Atk, Def, Rec for 3 turns"
   },
   "870034": {
     "category": 800034,
