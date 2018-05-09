@@ -11269,6 +11269,20 @@
     "name": "Morgana",
     "rarity": 5
   },
+  "710167": {
+    "element": "fire",
+    "guide_id": 8408,
+    "id": 710167,
+    "name": "Witch Morgana",
+    "rarity": 7
+  },
+  "710168": {
+    "element": "fire",
+    "guide_id": 8409,
+    "id": 710168,
+    "name": "Fallen Morgana",
+    "rarity": 8
+  },
   "710217": {
     "element": "fire",
     "guide_id": 8311,

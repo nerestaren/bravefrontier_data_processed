@@ -7312,6 +7312,48 @@
       "desc": "Adds probable slight critical vulnerability for 2 turns effect to BB/SBB"
     }
   ],
+  "710168": [
+    {
+      "bp": 10,
+      "desc": "50% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "100% boost to Atk"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Probable powerful Spark critical"
+    },
+    {
+      "bp": 20,
+      "desc": "Spark damage boosts BB gauge"
+    },
+    {
+      "bp": 20,
+      "desc": "Spark damage restores HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds great boost to own Atk, Def, Rec for 3 turns effect to BB"
+    },
+    {
+      "bp": 40,
+      "desc": "Adds boost to critical damage of Fire types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances SBB's boost to Spark damage of Fire types"
+    }
+  ],
   "710217": [
     {
       "bp": 10,
