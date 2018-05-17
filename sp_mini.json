@@ -10586,6 +10586,56 @@
       "desc": "Adds enormous critical hit rate boost for 3 turns effect to BB/SBB "
     }
   ],
+  "840608": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 25,
+      "desc": "Enhances LS's Atk parameter limit break"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances LS's Atk boost relative to remaining HP effect"
+    },
+    {
+      "bp": 50,
+      "desc": "Enhances BB's damage effectiveness"
+    },
+    {
+      "bp": 50,
+      "desc": "Enhances SBB's damage effectiveness"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's Spark damage boost for Thunder types effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous Thunder elemental damage boost for 3 turns effect to SBB​"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable random status ailment infliction effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds enormous damage boost against status afflicted foes for 3 turns effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous Spark damage boost for 3 turns effect to BB/SBB"
+    }
+  ],
   "850048": [
     {
       "bp": 20,
