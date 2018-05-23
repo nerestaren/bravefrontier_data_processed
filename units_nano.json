@@ -13133,14 +13133,14 @@
   },
   "840607": {
     "element": "thunder",
-    "guide_id": 8404,
+    "guide_id": 8410,
     "id": 840607,
     "name": "Mordred",
     "rarity": 7
   },
   "840608": {
     "element": "thunder",
-    "guide_id": 8405,
+    "guide_id": 8411,
     "id": 840608,
     "name": "Noble Prince Mordred",
     "rarity": 8
@@ -13193,6 +13193,20 @@
     "id": 850015,
     "name": "Princess Estia",
     "rarity": 5
+  },
+  "850017": {
+    "element": "light",
+    "guide_id": 8412,
+    "id": 850017,
+    "name": "Unyielding Estia",
+    "rarity": 7
+  },
+  "850018": {
+    "element": "light",
+    "guide_id": 8413,
+    "id": 850018,
+    "name": "Estia, Regalia of Elysia",
+    "rarity": 8
   },
   "850025": {
     "element": "light",
