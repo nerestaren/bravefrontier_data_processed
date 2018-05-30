@@ -11815,6 +11815,13 @@
     "name": "Slayer Grandt",
     "rarity": 7
   },
+  "810528": {
+    "element": "fire",
+    "guide_id": 8416,
+    "id": 810528,
+    "name": "Vengeful Grandt",
+    "rarity": 8
+  },
   "810547": {
     "element": "fire",
     "guide_id": 8333,
@@ -13115,6 +13122,20 @@
     "guide_id": 8340,
     "id": 840548,
     "name": "Erza Scarlet",
+    "rarity": 8
+  },
+  "840557": {
+    "element": "thunder",
+    "guide_id": 8414,
+    "id": 840557,
+    "name": "Prophetic Tate & Tama",
+    "rarity": 7
+  },
+  "840558": {
+    "element": "thunder",
+    "guide_id": 8415,
+    "id": 840558,
+    "name": "Fearless Tate & Tama",
     "rarity": 8
   },
   "840567": {

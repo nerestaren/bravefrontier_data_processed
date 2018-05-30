@@ -9823,7 +9823,7 @@
     {
       "bp": 20,
       "dependency": true,
-      "desc": "Adds all elemental damage reduction for 2 turns effect to BB/SBB"
+      "desc": "Raises all elemental types damage reduction effect from 10% to 15%"
     },
     {
       "bp": 30,
@@ -10533,6 +10533,58 @@
     {
       "bp": 20,
       "desc": "Adds probable huge 1 turn Atk, Def reduction effect to SBB"
+    }
+  ],
+  "840558": [
+    {
+      "bp": 10,
+      "desc": "90% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Raises Atk, max HP boost from 90% to 120%"
+    },
+    {
+      "bp": 20,
+      "desc": "30% additional damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 150000"
+    },
+    {
+      "bp": 30,
+      "desc": "Probable resistance against 1 KO attack"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB/SBB's Earth shield effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB/SBB's considerable Atk, Def, Rec boost for Thunder types effect"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds foe's BB gauge reduction effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds great HP restoration for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds considerable damage reduction of additional attacks for 1 turn effect to BB/SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds powerful attack at turn's end for 2 turns to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": "Enhances BB/SBB's additional damage at turn's end effect but reduces duration to 1 turn"
     }
   ],
   "840568": [
