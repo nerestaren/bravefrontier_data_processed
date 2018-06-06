@@ -9210,11 +9210,11 @@
   "830118": [
     {
       "bp": 10,
-      "desc": "20% boost to Atk, Rec"
+      "desc": "60% boost to all parameters"
     },
     {
       "bp": 10,
-      "desc": "20% boost to Def, max HP"
+      "desc": "30% boost to Def, max HP"
     },
     {
       "bp": 20,
@@ -9238,19 +9238,20 @@
     },
     {
       "bp": 30,
-      "desc": "Adds OD gauge boost effect to SBB"
+      "desc": "Adds slight OD gauge boost effect to BB/SBB"
     },
     {
-      "bp": 40,
+      "bp": 20,
       "desc": "Enhances BB/UBB's max HP boost effect"
     },
     {
-      "bp": 50,
-      "desc": "Enhances BB/SBB's Item drop rate boost effect"
+      "bp": 20,
+      "dependency": true,
+      "desc": "Further enhances BB/UBB's max HP boost effect"
     },
     {
-      "bp": 50,
-      "desc": "Allows UBB effects to last for 4 turns"
+      "bp": 40,
+      "desc": "Allows UBB effects to last for 5 turns"
     },
     {
       "bp": 80,
@@ -9497,20 +9498,20 @@
   ],
   "830328": [
     {
-      "bp": 20,
+      "bp": 10,
       "desc": "50% boost to Atk, max HP"
     },
     {
-      "bp": 20,
-      "desc": "100% boost to Atk, lowers Def by 50%"
-    },
-    {
-      "bp": 20,
-      "desc": "100% boost to Spark damage"
+      "bp": 10,
+      "desc": "100% boost to Atk"
     },
     {
       "bp": 10,
-      "desc": "Boosts critical hit damage"
+      "desc": "120% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Hugely boosts critical hit damage"
     },
     {
       "bp": 20,
@@ -9997,12 +9998,12 @@
   "840128": [
     {
       "bp": 20,
-      "desc": "20% boost to all parameters"
+      "desc": "40% boost to all parameters"
     },
     {
       "bp": 10,
       "dependency": true,
-      "desc": "30% boost to all parameters"
+      "desc": "Raises all parameters boost from 40% to 60%"
     },
     {
       "bp": 20,
@@ -10010,12 +10011,12 @@
     },
     {
       "bp": 10,
-      "desc": "70% boost to Spark damage"
+      "desc": "150% boost to Spark damage"
     },
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Raises Spark damage boost from 70% to 100%"
+      "desc": "170% boost to Spark damage"
     },
     {
       "bp": 30,
@@ -12051,19 +12052,19 @@
   "860318": [
     {
       "bp": 10,
-      "desc": "30% boost to Atk, max HP"
+      "desc": "50% boost to Atk, max HP"
     },
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Raises Atk, max HP boost from 30% to 50%"
+      "desc": "80% boost to Atk, max HP"
     },
     {
-      "bp": 20,
-      "desc": "100% boost to Spark damage"
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
     },
     {
-      "bp": 20,
+      "bp": 10,
       "desc": "Boosts critical hit damage"
     },
     {
