@@ -8230,6 +8230,50 @@
       "desc": "Adds considerable Atk boost for Water, Earth types effect to BB/SBB"
     }
   ],
+  "810528": [
+    {
+      "bp": 10,
+      "desc": "50% boost to Atk, Def, max HP"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "100% boost to Atk, Def"
+    },
+    {
+      "bp": 20,
+      "desc": "100% boost to critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 150000"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 40,
+      "desc": "Probable resistance against 2 KO attacks"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances LS's Atk, Def, max HP boost from 80% to 100%"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances damage (+20%) of LS's raises normal hit amount effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB's max HP boost effect (+5% HP)"
+    },
+    {
+      "bp": 40,
+      "desc": "Enhances success rate of BB/SBB's probable performance of extra action within the same turn (+20%)"
+    }
+  ],
   "810548": [
     {
       "bp": 20,
