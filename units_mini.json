@@ -20864,6 +20864,16 @@
     "name": "Burst Queen",
     "rarity": 4
   },
+  "750005": {
+    "category": 750000,
+    "cost": 5,
+    "element": "light",
+    "gender": "other",
+    "guide_id": 10000,
+    "id": 750005,
+    "name": "Omni Emperor",
+    "rarity": 5
+  },
   "750122": {
     "category": 750122,
     "cost": 8,
@@ -21834,7 +21844,7 @@
     "ubb": "18 combo massive Fire attack on all enemies, great chance of greatly reducing enemies' Atk for 2 turns & adds additional damage debuff to enemies at the end of each turn for 3 turns"
   },
   "810528": {
-    "bb": "16 combo powerful Fire attack on all foes, greatly boosts own Atk, Def and enormously boosts own critical hit rate for 3 turns, boosts own max HP, adds to self critical vulnerability infliction for 3 turns, adds to self probability of performing 1 extra action within the same turn & fills own BB gauge to max",
+    "bb": "16 combo powerful Fire attack on all foes, greatly boosts own Atk, Def and enormously boosts own critical hit rate for 3 turns, boosts own max HP, critical vulnerability infliction for 3 turns, adds to self probability of performing 1 extra action within the same turn & fills own BB gauge to max",
     "category": 810520,
     "cost": 54,
     "element": "fire",
@@ -25416,6 +25426,36 @@
     "rarity": 8,
     "sbb": "26 combo powerful Light attack on all foes (damage relative to remaining HP), 7 combo powerful Light attack on single foe (partial HP drain), boosts Atk relative to max HP for 3 turns, damage taken considerably boosts BB gauge for 3 turns & largely boosts own Atk, Def, Rec for 3 turns",
     "ubb": "33 combo powerful Light attack on all foes (damage relative to remaining HP), damage taken enormously boosts BB gauge for 3 turns, enormously boost Atk relative to max HP for 3 turns, damage taken enormously restores HP for 3 turns & adds high probability of resistance against 1 KO attack"
+  },
+  "850437": {
+    "bb": "17 combo powerful Light attack on all foes, hugely boosts own Spark damage for 3 turns, Spark damage boosts BB gauge for 3 turns, hugely boosts BB Atk for 3 turns, hugely boosts Atk, Def, Rec for 3 turns & enormously boosts critical hit rate for 3 turns",
+    "category": 850430,
+    "cost": 52,
+    "element": "light",
+    "es": "Slightly boosts Spark damage for all allies, boosts BB gauge each turn for all allies & negates Spark damage",
+    "gender": "female",
+    "guide_id": 8417,
+    "id": 850437,
+    "ls": "100% boost to Atk, max HP, 120% boost to Spark damage, Spark damage restores HP & 15% damage reduction for 2 turns when damage taken has exceeded certain amount",
+    "name": "Swiftwind Raquiel",
+    "rarity": 7,
+    "sbb": "20 combo powerful Light attack on all foes, greatly boosts Spark damage for 3 turns, slightly boosts Spark damage of Light types for 3 turns, Spark damage boosts BB gauge for 3 turns & hugely boosts BB Atk for 3 turns",
+    "ubb": "23 combo massive Light attack on all foes, enormously boosts Spark damage for 3 turns, adds Spark critical for 3 turns, greatly boosts max HP & enormously boosts Atk, Def, Rec relative to max HP for 3 turns"
+  },
+  "850438": {
+    "bb": "20 combo powerful Light attack on all foes, enormously boosts own Spark damage for 3 turns, Spark damage considerably boosts BB gauge for 3 turns, damage taken hugely boosts BB gauge for 3 turns, enormously boosts BB Atk for 3 turns, hugely boosts Atk, Def, Rec for 3 turns & enormously boosts critical hit rate for 3 turns",
+    "category": 850430,
+    "cost": 60,
+    "element": "light",
+    "es": "Slightly boosts Spark damage for all allies, considerably boosts BB gauge each turn for all allies, negates Spark damage & considerably reduces BB gauge required for BB",
+    "gender": "female",
+    "guide_id": 8418,
+    "id": 850438,
+    "ls": "120% boost to Atk, max HP, 150% boost to Spark damage, Spark damage restores HP, 20% damage reduction for 2 turns when damage taken has exceeded certain amount & negates Def ignoring effect",
+    "name": "Angelic Gale Raquiel",
+    "rarity": 8,
+    "sbb": "23 combo powerful Light attack on all foes, hugely boosts Spark damage for 3 turns, boosts Spark damage of Light types for 3 turns, Spark damage considerably boost BB gauge for 3 turns, damage taken hugely boosts BB gauge for 3 turns & enormously boosts BB Atk for 3 turns",
+    "ubb": "26 combo massive Light attack on all foes, enormously boosts Spark damage for 3 turns, adds enormous Spark critical for 3 turns, enormous Spark vulnerability infliction for 3 turns, enormously boosts max HP & enormously boosts Atk, Def, Rec relative to max HP for 3 turns"
   },
   "850507": {
     "bb": "10 combo Light attack on all foes, 10 combo Light attack on Dark types, activates Taunt and considerably boosts own Def for 1 turn & 50% damage reduction for 1 turn",

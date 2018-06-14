@@ -11318,6 +11318,13 @@
     "name": "Burst Queen",
     "rarity": 4
   },
+  "750005": {
+    "element": "light",
+    "guide_id": 10000,
+    "id": 750005,
+    "name": "Omni Emperor",
+    "rarity": 5
+  },
   "750122": {
     "element": "dark",
     "guide_id": 8404,
@@ -13633,6 +13640,20 @@
     "guide_id": 8234,
     "id": 850418,
     "name": "Silver Queen Gabriela",
+    "rarity": 8
+  },
+  "850437": {
+    "element": "light",
+    "guide_id": 8417,
+    "id": 850437,
+    "name": "Swiftwind Raquiel",
+    "rarity": 7
+  },
+  "850438": {
+    "element": "light",
+    "guide_id": 8418,
+    "id": 850438,
+    "name": "Angelic Gale Raquiel",
     "rarity": 8
   },
   "850507": {
