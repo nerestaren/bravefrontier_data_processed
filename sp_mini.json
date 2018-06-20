@@ -10683,6 +10683,53 @@
       "desc": "Adds enormous critical hit rate boost for 3 turns effect to BB/SBB "
     }
   ],
+  "840578": [
+    {
+      "bp": 10,
+      "desc": "60% boost to all parameters"
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": "Raises all parameter boost from 60% to 100%"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerably boosts BB gauge each turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly restores HP each turn"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates all status ailments"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates Atk, Def, Rec reducing effects"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates elemental and critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates Def ignoring damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 150000"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances LS's boost to Atk, Def, Rec each turn (for up to 3 turns) effect"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances SBB's greatly restores HP effect"
+    }
+  ],
   "840608": [
     {
       "bp": 10,

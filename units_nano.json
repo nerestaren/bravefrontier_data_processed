@@ -13159,6 +13159,20 @@
     "name": "N'an-Wang-Mu",
     "rarity": 8
   },
+  "840577": {
+    "element": "thunder",
+    "guide_id": 8417,
+    "id": 840577,
+    "name": "Draegar",
+    "rarity": 7
+  },
+  "840578": {
+    "element": "thunder",
+    "guide_id": 8418,
+    "id": 840578,
+    "name": "Draegar the Zealous",
+    "rarity": 8
+  },
   "840607": {
     "element": "thunder",
     "guide_id": 8410,
