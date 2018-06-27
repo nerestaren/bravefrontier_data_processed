@@ -20759,16 +20759,6 @@
     "name": "Dark: Shida",
     "rarity": 3
   },
-  "710165": {
-    "category": 710160,
-    "cost": 19,
-    "element": "fire",
-    "gender": "female",
-    "guide_id": 8407,
-    "id": 710165,
-    "name": "Morgana",
-    "rarity": 5
-  },
   "710167": {
     "bb": "13 combo powerful Fire attack on all foes, probable Spark vulnerability infliction for 3 turns, considerably boosts own Spark damage for 3 turns, probable random status ailment infliction & powerful additional attack at turn's end for 3 turns",
     "category": 710160,
@@ -24488,7 +24478,7 @@
     "element": "thunder",
     "es": "5% damage reduction, damage taken boosts BB gauge & damage taken may restore HP",
     "gender": "male",
-    "guide_id": 8417,
+    "guide_id": 8419,
     "id": 840577,
     "ls": "60% boost to all parameters, boosts Atk, Def, Rec each turn for up to 3 turns, restores HP each turn & slightly reduces BB gauge required for BB",
     "name": "Draegar",
@@ -24503,7 +24493,7 @@
     "element": "thunder",
     "es": "10% damage reduction, damage taken boosts BB gauge, damage taken may restore HP & slightly reduces BB gauge required for BB for all allies",
     "gender": "male",
-    "guide_id": 8418,
+    "guide_id": 8420,
     "id": 840578,
     "ls": "80% boost to all parameters, boosts Atk, Def, Rec each turn for up to 3 turns, restores HP each turn, considerably reduces BB gauge required for BB & probable damage reduction to 1",
     "name": "Draegar the Zealous",
@@ -25547,6 +25537,36 @@
     "sbb": "25 combo powerful Light attack on all foes, 10 combo powerful Light attack on Dark types, slightly boosts critical damage of Light types for 3 turns, slightly boosts Spark damage of Light types for 3 turns & hugely boosts Light elemental damage for 3 turns",
     "ubb": "28 combo massive Light attack on all foes, 10 combo massive Light attack on Dark types, enormously boosts critical damage for 3 turns, enormously boosts Light elemental damage for 3 turns & enormous damage reduction from Dark types for 3 turns"
   },
+  "850557": {
+    "bb": "14 combo powerful Light attack on all foes, reduces foe's BB gauge fill rate for 3 turns, normal attacks hit all foes for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Light types for 3 turns & enormously boosts BC efficacy for 3 turns",
+    "category": 850550,
+    "cost": 52,
+    "element": "light",
+    "es": "15% boost to all parameters of Light types & greatly boosts BB/SBB activation rates for all allies",
+    "gender": "male",
+    "guide_id": 8422,
+    "id": 850557,
+    "ls": "60% boost to Atk, max HP, 100% boost to Def, Rec of Light types, probable normal attack on all foes, probable damage reduction to 1 & adds Def ignoring effect to attack",
+    "name": "Adroit Quentin & Quinn",
+    "rarity": 7,
+    "sbb": "16 combo powerful Light attack on all foes, 6 combo powerful Light attack on single foe (partial HP drain), hugely boosts Def, Rec relative to Atk for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Light types for 3 turns & enormously boost BB gauge for 3 turns",
+    "ubb": "20 combo massive Light attack on all foes, enormously boosts Def, Rec relative to Atk for 3 turns, enormously boosts BB gauge for 3 turns, hugely boosts own Atk for 3 turns & greatly boosts own Spark damage for 3 turns"
+  },
+  "850558": {
+    "bb": "16 combo powerful Light attack on all foes, reduces foe's BB gauge fill rate for 3 turns, normal attacks hit all foes for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Light types for 3 turns, enormously boosts BC efficacy for 3 turns & activates Light shield for 2 turns",
+    "category": 850550,
+    "cost": 60,
+    "element": "light",
+    "es": "25% boost to all parameters of Light types, hugely boosts BB/SBB activation rates for all allies, damage taken may slightly reduce foe's BB gauge fill rate for 1 turn & adds 16 combo (BB)/29 combo (SBB) powerful Light attack on single foe to BB/SBB",
+    "gender": "male",
+    "guide_id": 8423,
+    "id": 850558,
+    "ls": "80% boost to Atk, max HP, 120% boost to Def, Rec of Light types, probable normal attack on all foes, probable damage reduction to 1 & adds Def ignoring effect to attack",
+    "name": "Canny Quentin & Quinn",
+    "rarity": 8,
+    "sbb": "22 combo powerful Light attack on all foes, 8 combo powerful Light attack on single foe (partial HP drain), hugely boosts Def, Rec relative to Atk for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Light types for 3 turns, enormously boost BB gauge for 3 turns & activates Light shield for 2 turns",
+    "ubb": "26 combo massive Light attack on all foes, activates Light shield for 3 turns, enormously boosts Def, Rec relative to Atk for 3 turns, enormously boosts BB gauge for 3 turns, hugely boosts own Atk for 3 turns & greatly boosts own Spark damage for 3 turns"
+  },
   "850977": {
     "bb": "12 combo Light attack on all foes, considerably restores HP, negates Atk, Def, Rec reduction effects for 1 turn & hugely boosts Def for 3 turns",
     "category": 850970,
@@ -26243,6 +26263,21 @@
     "rarity": 8,
     "sbb": "21 combo powerful Dark, Fire, Thunder attack on all foes, massive Dark attack on single foe (damage relative to remaining HP), massive Dark attack on single foe (consecutive uses boost damage), casts stealth on self boosting own Atk and critical hit rate for 2 turns, fills own BB gauge to max & enormous additional attack on single foe at turn's end for 1 turn",
     "ubb": "23 combo massive Dark, Fire attack on all foes, massive Dark, Thunder attack on single foe, enormously boosts Atk, Rec for 3 turns, enormously boosts Atk, Def relative to Rec for 3 turns, enormously boosts own Spark damage for 3 turns & enormous additional attack at turn's end for 3 turns"
+  },
+  "860338": {
+    "bb": "22 combo Dark attack on all foes, adds probable evasion for 1 turn effect to all allies & adds probable 1 turn Atk reduction effect to attack for 3 turns",
+    "category": 860330,
+    "cost": 60,
+    "element": "dark",
+    "es": "20% boost to all parameters when Ihsir's Wiles is equipped, boosts critical damage for all allies and boosts critical damage when Atk Boosting and Critical Spheres are equipped, 15% additional damage reduction for all allies when Damage Reducing and HP Recovery Spheres are equipped, 10% damage reduction & 15% boost to all parameters for all allies",
+    "gender": "male",
+    "guide_id": 8421,
+    "id": 860338,
+    "ls": "120% boost to all parameters when 6 elements are present, hugely boosts elemental damage & negates critical and elemental damage",
+    "name": "Mad King Ihsir",
+    "rarity": 8,
+    "sbb": "25 combo Dark attack on all foes, damage taken may restore HP for 3 turns & 15% damage reduction from all element types for 1 turn",
+    "ubb": "30 combo massive Dark attack on all foes, high probability of raising allies from KO & adds evasion for 2 turns effect to all allies"
   },
   "860356": {
     "bb": "15 combo powerful Dark attack on all foes, greatly restores HP, hugely boosts BB Atk for 3 turns & greatly boosts Rec relative to max HP for 3 turns",

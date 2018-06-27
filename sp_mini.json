@@ -11713,6 +11713,57 @@
       "desc": "Enhances BB's damage reduction from all elemental types effect"
     }
   ],
+  "850558": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "30% boost to Def, Rec, max HP"
+    },
+    {
+      "bp": 20,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerable boost to BB/SBB's activation rate"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 30,
+      "desc": "Probable resistance against 1 KO attack"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB/SBB's Light Shield effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB/SBB's considerable Atk, Def, Rec boost for Light types effect"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds foe's BB gauge fill rate reduction for 3 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds great HP restoration for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds powerful additional attack at turn's end effect for 3 turns to BB/SBB"
+    },
+    {
+      "bp": 40,
+      "desc": "Allows UBB's self Atk and Spark damage boost effects to last for 12 turns"
+    }
+  ],
   "850978": [
     {
       "bp": 20,
@@ -12279,6 +12330,122 @@
     {
       "bp": 10,
       "desc": "Considerable boost to BB/SBB's activation rate"
+    }
+  ],
+  "860338": [
+    {
+      "bp": 5,
+      "desc": "100% boost to Atk"
+    },
+    {
+      "bp": 5,
+      "desc": "Hugely boosts elemental damage"
+    },
+    {
+      "bp": 5,
+      "desc": "Normal attacks may hit all foes"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances BB/SBB/UBB's damage effectiveness"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds Dark attack on single foe effect to BB/SBB/UBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds additional attack at turn's end for 3 turns effect to BB/SBB/UBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds all elements to attack for 3 turns effect to BB/SBB/UBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds great max HP boost effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds enormous max HP boost effect to UBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable random status ailment infliction effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Adds huge damage boost against status afflicted foes for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds huge Def boost relative to max HP for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Adds huge Atk and Def boost relative to max HP for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds enormous Atk and Def boost relative to max HP for 3 turns effect to UBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds huge all elemental damage boost for 3 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds enormous all elemental damage boost for 3 turns effect to UBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds great critical damage boost for 3 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds enormous critical damage boost for 3 turns effect to UBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds Dark barrier effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds Dark barrier effect to UBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable resistance against 2 KO attacks"
+    },
+    {
+      "bp": 5,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds enormous boost to ABP and CBP gain effect to LS"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds 15% damage reduction effect to LS"
+    },
+    {
+      "bp": 5,
+      "desc": "Adds 100% boost to all parameters of Dark types effect to LS"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds huge critical damage boost effect to LS"
+    },
+    {
+      "bp": 5,
+      "desc": "Adds Def ignore effect negation to LS"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable great reduction of foe's BB gauge effect to LS"
     }
   ],
   "860357": [

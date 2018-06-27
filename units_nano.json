@@ -11262,13 +11262,6 @@
     "name": "Dark: Shida",
     "rarity": 3
   },
-  "710165": {
-    "element": "fire",
-    "guide_id": 8407,
-    "id": 710165,
-    "name": "Morgana",
-    "rarity": 5
-  },
   "710167": {
     "element": "fire",
     "guide_id": 8408,
@@ -13161,14 +13154,14 @@
   },
   "840577": {
     "element": "thunder",
-    "guide_id": 8417,
+    "guide_id": 8419,
     "id": 840577,
     "name": "Draegar",
     "rarity": 7
   },
   "840578": {
     "element": "thunder",
-    "guide_id": 8418,
+    "guide_id": 8420,
     "id": 840578,
     "name": "Draegar the Zealous",
     "rarity": 8
@@ -13698,6 +13691,20 @@
     "name": "Lucy Heartfilia",
     "rarity": 8
   },
+  "850557": {
+    "element": "light",
+    "guide_id": 8422,
+    "id": 850557,
+    "name": "Adroit Quentin & Quinn",
+    "rarity": 7
+  },
+  "850558": {
+    "element": "light",
+    "guide_id": 8423,
+    "id": 850558,
+    "name": "Canny Quentin & Quinn",
+    "rarity": 8
+  },
   "850977": {
     "element": "light",
     "guide_id": 8364,
@@ -14053,6 +14060,13 @@
     "guide_id": 8383,
     "id": 860328,
     "name": "Randolph and Ravenna",
+    "rarity": 8
+  },
+  "860338": {
+    "element": "dark",
+    "guide_id": 8421,
+    "id": 860338,
+    "name": "Mad King Ihsir",
     "rarity": 8
   },
   "860356": {
