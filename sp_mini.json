@@ -11946,6 +11946,57 @@
       "desc": "Allows UBB effects to last for one more turn"
     }
   ],
+  "860148": [
+    {
+      "bp": 10,
+      "desc": "60% boost to Atk, max HP"
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": "100% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Hugely boosts critical hit damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerably boosts damage against status afflicted foes"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates elemental and critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds high probability of random status ailment infliction effect to BB/SBB"
+    },
+    {
+      "bp": 30,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": ""
+    },
+    {
+      "bp": 30,
+      "desc": ""
+    },
+    {
+      "bp": 30,
+      "desc": ""
+    }
+  ],
   "860158": [
     {
       "bp": 20,

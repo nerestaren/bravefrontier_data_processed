@@ -13894,6 +13894,13 @@
     "name": "Deathless Hadaron",
     "rarity": 7
   },
+  "860148": {
+    "element": "dark",
+    "guide_id": 8424,
+    "id": 860148,
+    "name": "Hadaron the Immortal",
+    "rarity": 8
+  },
   "860156": {
     "element": "dark",
     "guide_id": 8129,

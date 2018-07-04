@@ -25920,6 +25920,21 @@
     "sbb": "17 combo powerful Dark attack on single foe, boosts Def, critical hit rate for 3 turns, casts stealth on self for 2 turns, massively boosting own attack, critical hit rate for 2 turns and critical damage for 1 turn",
     "ubb": "19 combo massive Dark attack on all foes, greatly reduces Atk, Def & adds Poison, Weak, Sick, Injury effects to attack for 3 turns & renders self able to withstand a KO attack"
   },
+  "860148": {
+    "bb": "MST_SKILLS_850318_DESCRIPTION",
+    "category": 860140,
+    "cost": 60,
+    "element": "dark",
+    "es": "MST_EXTRAPASSIVESKILL_860148_DESCRIPTION",
+    "gender": "male",
+    "guide_id": 8424,
+    "id": 860148,
+    "ls": "MST_LEADERSKILLS_860148_DESCRIPTION",
+    "name": "Hadaron the Immortal",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1850318_DESCRIPTION",
+    "ubb": "MST_SKILLS_2850318_DESCRIPTION"
+  },
   "860156": {
     "bb": "24 combo powerful Dark, Fire, Earth and Thunder attack on all enemies & adds Curse and Poison effect when attacking to all allies",
     "category": 860150,
