@@ -11961,8 +11961,8 @@
       "desc": "100% boost to Spark damage"
     },
     {
-      "bp": 10,
-      "desc": "Hugely boosts critical hit damage"
+      "bp": 20,
+      "desc": "100% boost to CRIT DMG"
     },
     {
       "bp": 10,
