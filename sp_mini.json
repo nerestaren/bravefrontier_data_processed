@@ -11954,7 +11954,7 @@
     {
       "bp": 20,
       "dependency": true,
-      "desc": ""
+      "desc": "Raises Atk, max HP boost from 60% to 100%"
     },
     {
       "bp": 10,
@@ -11982,19 +11982,19 @@
     },
     {
       "bp": 30,
-      "desc": ""
+      "desc": "Adds probable huge 2 turn Atk reduction effect to BB/SBB"
     },
     {
       "bp": 20,
-      "desc": ""
+      "desc": "Adds probable critical vulnerability for 2 turns effect to SBB"
     },
     {
       "bp": 30,
-      "desc": ""
+      "desc": "Adds probable Spark critical for 2 turns effect to SBB"
     },
     {
       "bp": 30,
-      "desc": ""
+      "desc": "Adds great boost to own Spark damage for 3 turns effect to UBB"
     }
   ],
   "860158": [

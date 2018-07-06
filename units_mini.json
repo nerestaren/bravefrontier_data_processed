@@ -25921,19 +25921,19 @@
     "ubb": "19 combo massive Dark attack on all foes, greatly reduces Atk, Def & adds Poison, Weak, Sick, Injury effects to attack for 3 turns & renders self able to withstand a KO attack"
   },
   "860148": {
-    "bb": "MST_SKILLS_850318_DESCRIPTION",
+    "bb": "7 combo powerful Dark attack on all foes, 5 combo powerful Dark attack on single foe, considerably boosts own max HP, greatly boosts critical damage for 3 turns, hugely boosts Spark damage for 3 turns & adds Def ignoring effect to attack for 3 turns",
     "category": 860140,
     "cost": 60,
     "element": "dark",
-    "es": "MST_EXTRAPASSIVESKILL_860148_DESCRIPTION",
+    "es": "50% boost to all parameters when Kronax is equipped, slightly boosts critical damage for all allies, 120% boost to Spark damage when HP is below 50% & considerably boosts critical damage",
     "gender": "male",
     "guide_id": 8424,
     "id": 860148,
-    "ls": "MST_LEADERSKILLS_860148_DESCRIPTION",
+    "ls": "80% boost to Atk, max HP, 30% boost to critical hit rate, enormously boosts Atk, Def relative to lost HP, hugely boosts critical damage, 150% boost to Spark damage & adds probable Spark critical",
     "name": "Hadaron the Immortal",
     "rarity": 8,
-    "sbb": "MST_SKILLS_1850318_DESCRIPTION",
-    "ubb": "MST_SKILLS_2850318_DESCRIPTION"
+    "sbb": "9 combo powerful Dark attack on all foes (damage relative to remaining HP), 6 combo massive Dark attack on single foe, casts stealth on self, boosting own Atk and critical hit rate for 2 turns, boosts critical damage of Dark types for 3 turns, hugely boosts Spark damage for 3 turns & hugely boosts own Spark damage for 3 turns",
+    "ubb": "17 combo massive Dark attack on all foes (damage relative to remaining HP), 7 combo massive Dark attack on single foe, enormously boosts own max HP, enormously boosts critical damage for 3 turns, enormously boosts Spark damage for 3 turns & resistance against 1 KO attack for self"
   },
   "860156": {
     "bb": "24 combo powerful Dark, Fire, Earth and Thunder attack on all enemies & adds Curse and Poison effect when attacking to all allies",
