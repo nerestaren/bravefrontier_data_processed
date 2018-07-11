@@ -12298,6 +12298,20 @@
     "name": "Glacial Vail & Vidron",
     "rarity": 8
   },
+  "820567": {
+    "element": "water",
+    "guide_id": 8425,
+    "id": 820567,
+    "name": "Tsovinar",
+    "rarity": 7
+  },
+  "820568": {
+    "element": "water",
+    "guide_id": 8426,
+    "id": 820568,
+    "name": "Endless Abyss Tsovinar",
+    "rarity": 8
+  },
   "830003": {
     "element": "earth",
     "guide_id": 8006,
