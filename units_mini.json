@@ -23408,6 +23408,21 @@
     "sbb": "3 combo powerful Earth attack on all foes (consecutive uses boosts damage), 3 combo powerful Earth attack on single foe, enormously boosts Spark damage for 3 turns, boosts own Atk for 3 turns, hugely boosts Atk relative to max HP for 3 turns & greatly boosts max HP",
     "ubb": "3 combo massive Earth attack on all foes (or 7% damage of foes' max HP), enormously boosts Atk for 3 turns, enormously boosts Spark damage for 3 turns, boosts own Atk, Def, Rec for 5 turns, enormously boosts Atk relative to max HP for 3 turns & hugely boosts max HP"
   },
+  "830408": {
+    "bb": "Enormously boosts Atk and critical hit rate for 3 turns, adds all elements to attack for 3 turns, hugely boosts critical and all elemental damage for 3 turns, enormously boosts Spark damage for 3 turns & adds probability for self to perform 1 extra action within the same turn",
+    "category": 830400,
+    "cost": 60,
+    "element": "earth",
+    "es": "20% increase to damage received for all allies, slightly boosts Spark, critical and all elemental damage for all allies when Atk Boosting Sphere is equipped & raises Atk parameter limits to 200000",
+    "gender": "male",
+    "guide_id": 8427,
+    "id": 830408,
+    "ls": "200% boost to Atk, 150% boost to max HP, raises Atk parameter limits to 150000, 200% boost to Spark damage, hugely boosts critical damage, enormously boosts all elemental damage & raises normal hit amount",
+    "name": "Ancient Calamity Arumat",
+    "rarity": 8,
+    "sbb": "3 combo powerful Earth, Light, Dark attack on single foe, 7 combo powerful Fire, Water, Earth, Thunder attack on all foes, 6 combo powerful Earth attack on all foes (damage relative to remaining HP), enormously boosts own Atk for 3 turns & slightly boosts OD gauge",
+    "ubb": "Massive Earth, Light, Dark attack on all foes, 10 combo massive Fire, Water, Earth, Thunder attack on all foes, 3 combo massive Earth attack on all foes (damage relative to remaining HP) & enormously boosts own Spark, critical and all elemental damage for 5 turns"
+  },
   "830417": {
     "bb": "18 combo powerful Earth and Water attack on all foes, activates Water barrier, probable status ailment counter for 3 turns, negates all status ailment for 3 turns & removes all status ailments",
     "category": 850410,

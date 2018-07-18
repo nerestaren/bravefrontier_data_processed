@@ -9764,6 +9764,58 @@
       "desc": "Adds Spark damage boosts BB gauge for 3 turns effect to BB/SBB"
     }
   ],
+  "830408": [
+    {
+      "bp": 10,
+      "desc": "100% boost to Atk, max HP"
+    },
+    {
+      "bp": 5,
+      "desc": "30% increase to damage received"
+    },
+    {
+      "bp": 15,
+      "desc": "100% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Boosts critical damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Greatly boosts all elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises normal hit amount"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates elemental and critical damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB's probability of performing 1 extra action"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds boost to own BB gauge to max effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds probable evasion to self for 3 turns effect to BB"
+    },
+    {
+      "bp": 55,
+      "dependency": true,
+      "desc": "Adds probability of activating own SBB twice for 1 turn effect to SBB"
+    },
+    {
+      "bp": 30,
+      "dependency": true,
+      "desc": "Enhances SBB's probability of activating own SBB twice for 1 turn effect"
+    }
+  ],
   "830418": [
     {
       "bp": 20,

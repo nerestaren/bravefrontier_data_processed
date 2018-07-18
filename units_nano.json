@@ -12613,6 +12613,13 @@
     "name": "Baiken",
     "rarity": 8
   },
+  "830408": {
+    "element": "earth",
+    "guide_id": 8427,
+    "id": 830408,
+    "name": "Ancient Calamity Arumat",
+    "rarity": 8
+  },
   "830417": {
     "element": "earth",
     "guide_id": 8248,
