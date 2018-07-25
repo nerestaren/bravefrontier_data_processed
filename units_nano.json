@@ -12732,6 +12732,20 @@
     "name": "Merciful Honoka & Hisa",
     "rarity": 8
   },
+  "830587": {
+    "element": "earth",
+    "guide_id": 8430,
+    "id": 830587,
+    "name": "Ochaco Uraraka",
+    "rarity": 7
+  },
+  "830588": {
+    "element": "earth",
+    "guide_id": 8431,
+    "id": 830588,
+    "name": "Ochaco Uraraka",
+    "rarity": 8
+  },
   "840003": {
     "element": "thunder",
     "guide_id": 8009,
@@ -13185,6 +13199,20 @@
     "guide_id": 8420,
     "id": 840578,
     "name": "Draegar the Zealous",
+    "rarity": 8
+  },
+  "840587": {
+    "element": "thunder",
+    "guide_id": 8428,
+    "id": 840587,
+    "name": "Izuku Midoriya",
+    "rarity": 7
+  },
+  "840588": {
+    "element": "thunder",
+    "guide_id": 8429,
+    "id": 840588,
+    "name": "Izuku Midoriya",
     "rarity": 8
   },
   "840607": {
