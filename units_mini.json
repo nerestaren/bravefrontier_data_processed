@@ -21908,6 +21908,16 @@
     "sbb": "21 combo powerful Fire attack on all foes, 4 combo powerful Fire attack on single foe, damage taken hugely boosts BB gauge for 3 turns, hugely restores HP for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Fire types for 3 turns & activates Water shield for 2 turns",
     "ubb": "25 combo massive Fire attack on all foes, enormously boosts BB gauge for 3 turns, hugely boosts all elemental damage for 3 turns, fully restores HP for 3 turns, enormously boosts Atk, Def, Rec for 3 turns & enormously boosts OD gauge"
   },
+  "810588": {
+    "category": 810580,
+    "cost": 60,
+    "element": "fire",
+    "gender": "male",
+    "guide_id": 8434,
+    "id": 810588,
+    "name": "Katsuki Bakugo",
+    "rarity": 8
+  },
   "811016": {
     "bb": "15 combo powerful Fire attack on all foes & boosts critical hit rate for 3 turns",
     "category": 811010,
@@ -22497,6 +22507,21 @@
     "sbb": "20 combo powerful Water attack on all foes, boosts BB gauge for 3 turns, boosts BB Atk for 3 turns & probable Atk, Def reduction for 1 turn",
     "ubb": "22 combo massive Water attack on all foes, hugely boosts BB gauge for 3 turns, massively boosts Atk, Def, Rec for 3 turns & greatly boosts BB Atk for 2 turns"
   },
+  "820318": {
+    "bb": "18 combo powerful Water attack on all foes, hugely boosts Atk, Def, Rec for 3 turns, greatly boosts BC, HC drop rates for 3 turns, enormously boosts BB gauge for 3 turns, damage taken considerably boosts BB gauge for 3 turns & hugely boosts BC efficacy for 3 turns",
+    "category": 820318,
+    "cost": 54,
+    "element": "water",
+    "es": "30% boost to all parameters when Glacies Staff is equipped, considerably boosts BB gauge each turn for all allies, considerably boosts Spark damage for 2 turns when Sparks exceed certain amount & considerably reduces BB gauge required for BB",
+    "gender": "female",
+    "guide_id": 8437,
+    "id": 820318,
+    "ls": "80% boost to all parameters, 150% boost to Spark damage, greatly boosts BC, HC drop rate, Spark damage considerably boosts BB gauge & reduces BB gauge required for BB",
+    "name": "Archmage Haile",
+    "rarity": 8,
+    "sbb": "20 combo powerful Water attack on all foes, hugely boosts Atk, Def, Rec for 3 turns, hugely boosts Spark damage for 3 turns, enormously boosts BB gauge, Spark damage considerably boosts BB gauge for 3 turns & probable huge 1 turn Atk, Def reduction",
+    "ubb": "23 combo massive Water attack on all foes, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts Spark damage for 3 turns, enormously boosts BC, HC drop rates for 3 turns, enormously boosts BB gauge for 3 turns & enormous damage reduction from all elemental types for 3 turns"
+  },
   "820357": {
     "bb": "14 combo powerful Water attack on all foes, greatly boosts BB gauge fill rate for 3 turns, damage taken greatly boosts BB gauge for 3 turns, hugely boosts own Spark damage for 3 turns & adds Def ignoring effect to attack for 3 turns",
     "category": 820350,
@@ -22818,6 +22843,16 @@
     "rarity": 8,
     "sbb": "21 combo massive Water attack on all foes (damage relative to remaining HP), 3 combo massive Water attack on single foe (or 5% damage of foes' max HP), hugely boosts Spark damage for 3 turns, greatly boosts critical damage for 3 turns, enormously boosts BB Atk for 3 turns & damage taken may slightly restore HP for 3 turns",
     "ubb": "38 combo massive Water attack on all foes (damage relative to remaining HP, with enormously boosted critical hit rate), enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormously boosts critical and Spark damage for 3 turns, activates BB/SBB/UBB twice for 2 turns & damage taken enormously restores HP for 3 turns"
+  },
+  "820588": {
+    "category": 820580,
+    "cost": 60,
+    "element": "water",
+    "gender": "female",
+    "guide_id": 8436,
+    "id": 820588,
+    "name": "Tsuyu Asui",
+    "rarity": 8
   },
   "830003": {
     "bb": "4 combo Earth elemental power attack on all enemies",
@@ -25671,6 +25706,21 @@
     "rarity": 8,
     "sbb": "22 combo powerful Light attack on all foes, 8 combo powerful Light attack on single foe (partial HP drain), hugely boosts Def, Rec relative to Atk for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Light types for 3 turns, enormously boost BB gauge for 3 turns & activates Light shield for 2 turns",
     "ubb": "26 combo massive Light attack on all foes, activates Light shield for 3 turns, enormously boosts Def, Rec relative to Atk for 3 turns, enormously boosts BB gauge for 3 turns, hugely boosts own Atk for 3 turns & greatly boosts own Spark damage for 3 turns"
+  },
+  "850588": {
+    "bb": "25 combo powerful Light attack on all foes (enormously boosts own critical hit rate), considerably raises normal hit amount for 3 turns, boosts max HP, boosts critical damage of Light types for 3 turns & greatly boosts Atk, Def of Light types for 3 turns",
+    "category": 850580,
+    "cost": 54,
+    "element": "light",
+    "es": "40% boost to all parameters and 10% damage reduction when All Might's Cape is equipped, boosts Atk, Def each turn (up to 4 turns) for all allies, boosts critical damage & probable resistance against 2 KO attacks",
+    "gender": "male",
+    "guide_id": 8432,
+    "id": 850588,
+    "ls": "150% boost to Atk, 100% boost to max HP, 30% boost to critical hit rate, 20% damage reduction for 2 turn when damage taken has exceeded certain amount, hugely boost critical damage & 20% boost to EXP gained",
+    "name": "All Might",
+    "rarity": 8,
+    "sbb": "30 combo powerful Light attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), adds all elements to attack for 3 turns, powerful additional attack at turn's end for 3 turns, hugely boosts all elemental damage for 3 turns, probable huge 2 turn Atk, Def reduction & greatly boosts critical damage for 3 turns",
+    "ubb": "33 combo massive Light attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), 17 combo massive Light attack on single foe, 100% damage reduction from Light, Dark types for 3 turns, massive additional attack at turn's end for 3 turns & enormously boosts Light elemental damage for 3 turns"
   },
   "850977": {
     "bb": "12 combo Light attack on all foes, considerably restores HP, negates Atk, Def, Rec reduction effects for 1 turn & hugely boosts Def for 3 turns",

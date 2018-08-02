@@ -11850,6 +11850,13 @@
     "name": "Calescent Yan & Yuan",
     "rarity": 8
   },
+  "810588": {
+    "element": "fire",
+    "guide_id": 8434,
+    "id": 810588,
+    "name": "Katsuki Bakugo",
+    "rarity": 8
+  },
   "811016": {
     "element": "fire",
     "guide_id": 8150,
@@ -12158,6 +12165,13 @@
     "name": "Boreal Tempest Haile",
     "rarity": 7
   },
+  "820318": {
+    "element": "water",
+    "guide_id": 8437,
+    "id": 820318,
+    "name": "Archmage Haile",
+    "rarity": 8
+  },
   "820357": {
     "element": "water",
     "guide_id": 8377,
@@ -12310,6 +12324,13 @@
     "guide_id": 8426,
     "id": 820568,
     "name": "Endless Abyss Tsovinar",
+    "rarity": 8
+  },
+  "820588": {
+    "element": "water",
+    "guide_id": 8436,
+    "id": 820588,
+    "name": "Tsuyu Asui",
     "rarity": 8
   },
   "830003": {
@@ -13752,6 +13773,13 @@
     "guide_id": 8423,
     "id": 850558,
     "name": "Canny Quentin & Quinn",
+    "rarity": 8
+  },
+  "850588": {
+    "element": "light",
+    "guide_id": 8432,
+    "id": 850588,
+    "name": "All Might",
     "rarity": 8
   },
   "850977": {
