@@ -11850,6 +11850,13 @@
     "name": "Calescent Yan & Yuan",
     "rarity": 8
   },
+  "810587": {
+    "element": "fire",
+    "guide_id": 8433,
+    "id": 810587,
+    "name": "Katsuki Bakugo",
+    "rarity": 7
+  },
   "810588": {
     "element": "fire",
     "guide_id": 8434,
@@ -12325,6 +12332,13 @@
     "id": 820568,
     "name": "Endless Abyss Tsovinar",
     "rarity": 8
+  },
+  "820587": {
+    "element": "water",
+    "guide_id": 8435,
+    "id": 820587,
+    "name": "Tsuyu Asui",
+    "rarity": 7
   },
   "820588": {
     "element": "water",
