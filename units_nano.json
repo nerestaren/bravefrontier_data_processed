@@ -14265,6 +14265,20 @@
     "name": "Mard Geer",
     "rarity": 8
   },
+  "860557": {
+    "element": "dark",
+    "guide_id": 8438,
+    "id": 860557,
+    "name": "Devious Ebony & Enid",
+    "rarity": 7
+  },
+  "860558": {
+    "element": "dark",
+    "guide_id": 8439,
+    "id": 860558,
+    "name": "Astute Ebony & Enid",
+    "rarity": 8
+  },
   "860607": {
     "element": "dark",
     "guide_id": 8405,

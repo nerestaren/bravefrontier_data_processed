@@ -26699,6 +26699,36 @@
     "sbb": "31 combo powerful Dark attack on all foes (consecutive uses boosts damage), greatly boosts BB Atk for 3 turns, considerably boosts own Atk, Def for 3 turns, hugely restores own HP & highly probable Sick, Poison, Paralysis and Curse effects",
     "ubb": "34 combo massive Dark attack on all foes, enormously boosts BB Atk for 3 turns, hugely boosts max HP, damage taken enormously restores own HP for 3 turns & all status ailment infliction"
   },
+  "860557": {
+    "bb": "30 combo random massive Dark attack on all foes, reduces foe's BB gauge, adds probable great 1 turn Atk, Def reduction effect to attack for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Dark types for 3 turns & damage taken hugely boosts BB gauge for 3 turns",
+    "category": 860550,
+    "cost": 52,
+    "element": "dark",
+    "es": "Negates all status ailments for all allies & 5% additional damage reduction for all allies",
+    "gender": "female",
+    "guide_id": 8438,
+    "id": 860557,
+    "ls": "60% boost to Atk, max HP, 100% boost to Def, Rec of Dark types, 80% boost to Atk, Def for first 3 turns, 10% additional damage reduction & damage taken hugely boosts BB gauge",
+    "name": "Devious Ebony & Enid",
+    "rarity": 7,
+    "sbb": "17 combo powerful Dark attack on all foes (damage relative to remaining HP), 30 combo random massive Dark attack on all foes, adds probable great 1 turn Atk, Def reduction effect to attack for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Dark types for 3 turns & damage taken hugely boosts BB gauge for 3 turns",
+    "ubb": "22 combo massive Dark attack on all foes (damage relative to remaining HP), enormously boosts BB gauge for 3 turns, enormous 3 turn Atk, Def reduction, enormously boosts Atk, Def, Rec for 3 turns & enormously boosts Dark elemental damage for 3 turns"
+  },
+  "860558": {
+    "bb": "30 combo random massive Dark attack on all foes, reduces foe's BB gauge, adds probable great 1 turn Atk, Def reduction effect to attack for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Dark types for 3 turns, damage taken hugely boosts BB gauge for 3 turns & activates Dark shield for 2 turns",
+    "category": 860550,
+    "cost": 60,
+    "element": "dark",
+    "es": "Negates all status ailments for all allies, 15% additional damage reduction for all allies, damage taken may slightly reduce foe's BB gauge fill rate for 1 turn & adds 1 combo (BB)/ 20 combo (SBB) powerful Dark attack on single foe to BB/SBB",
+    "gender": "female",
+    "guide_id": 8439,
+    "id": 860558,
+    "ls": "80% boost to Atk, max HP, 120% boost to Def, Rec of Dark types, 100% boost to Atk, Def for first 3 turns, 15% additional damage reduction & damage taken hugely boosts BB gauge",
+    "name": "Astute Ebony & Enid",
+    "rarity": 8,
+    "sbb": "20 combo massive Dark attack on all foes (damage relative to remaining HP), 30 combo random massive Dark attack on all foes, adds probable great 1 turn Atk, Def reduction effect to attack for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Dark types for 3 turns, damage taken hugely boosts BB gauge for 3 turns & activates Dark shield for 2 turns",
+    "ubb": "25 combo massive Dark attack on all foes (damage relative to remaining HP), enormously boosts BB gauge for 3 turns, enormous 3 turn Atk, Def reduction, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts Dark elemental damage for 3 turns & activates Dark shield for 3 turns"
+  },
   "860607": {
     "bb": "25 combo powerful Dark, Light, Fire attack on single foe, powerful additional attack at turn's end for 1 turn on single foe, removes all status ailments & activates Fire barrier",
     "category": 860600,
