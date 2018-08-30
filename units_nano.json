@@ -12249,6 +12249,20 @@
     "name": "Fate-Eater Ilm",
     "rarity": 8
   },
+  "820437": {
+    "element": "water",
+    "guide_id": 8442,
+    "id": 820437,
+    "name": "Bibliosoph Astrid",
+    "rarity": 7
+  },
+  "820438": {
+    "element": "water",
+    "guide_id": 8443,
+    "id": 820438,
+    "name": "Spirit Conjurer Astrid",
+    "rarity": 8
+  },
   "820504": {
     "element": "water",
     "guide_id": 8110,
@@ -13224,14 +13238,14 @@
   },
   "840577": {
     "element": "thunder",
-    "guide_id": 8419,
+    "guide_id": 8417,
     "id": 840577,
     "name": "Draegar",
     "rarity": 7
   },
   "840578": {
     "element": "thunder",
-    "guide_id": 8420,
+    "guide_id": 8418,
     "id": 840578,
     "name": "Draegar the Zealous",
     "rarity": 8
@@ -14235,6 +14249,20 @@
     "guide_id": 8237,
     "id": 860428,
     "name": "Ruinous Despoiler Galtier",
+    "rarity": 8
+  },
+  "860437": {
+    "element": "dark",
+    "guide_id": 8440,
+    "id": 860437,
+    "name": "Black Knight Kielazar",
+    "rarity": 7
+  },
+  "860438": {
+    "element": "dark",
+    "guide_id": 8441,
+    "id": 860438,
+    "name": "Eternal Templar Kielazar",
     "rarity": 8
   },
   "860517": {
