@@ -12161,6 +12161,57 @@
       "desc": "Allows UBB's self Atk and Spark damage boost effects to last for 12 turns"
     }
   ],
+  "850568": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Considerably reduces BB gauge required for BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Damage taken boosts BB gauge"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds all elemental damage reduction for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds 20% additional damage reduction for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds slight critical and elemental vulnerability infliction for 2 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds enormous boost to BB gauge effect to BB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds huge Atk boost relative to max HP for 3 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "dependency": true,
+      "desc": "Adds huge Atk, Def, Rec boost relative to max HP for 3 turns effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds max HP boost effect to SBB/UBB"
+    }
+  ],
   "850588": [
     {
       "bp": 10,

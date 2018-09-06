@@ -11264,35 +11264,35 @@
   },
   "710167": {
     "element": "fire",
-    "guide_id": 8408,
+    "guide_id": 8407,
     "id": 710167,
     "name": "Witch Morgana",
     "rarity": 7
   },
   "710168": {
     "element": "fire",
-    "guide_id": 8409,
+    "guide_id": 8408,
     "id": 710168,
     "name": "Fallen Morgana",
     "rarity": 8
   },
   "710217": {
     "element": "fire",
-    "guide_id": 8311,
+    "guide_id": 8312,
     "id": 710217,
     "name": "Ace Assassin Natalamé",
     "rarity": 8
   },
   "720157": {
     "element": "water",
-    "guide_id": 8320,
+    "guide_id": 8321,
     "id": 720157,
     "name": "Bad Lands Queen Gazolina",
     "rarity": 8
   },
   "740157": {
     "element": "thunder",
-    "guide_id": 8328,
+    "guide_id": 8329,
     "id": 740157,
     "name": "Stratospheric Crash Belt",
     "rarity": 8
@@ -11327,28 +11327,28 @@
   },
   "750166": {
     "element": "light",
-    "guide_id": 8293,
+    "guide_id": 8292,
     "id": 750166,
     "name": "Avalon Arthur",
     "rarity": 7
   },
   "750167": {
     "element": "light",
-    "guide_id": 8294,
+    "guide_id": 8293,
     "id": 750167,
     "name": "Dark Path Arthur",
     "rarity": 8
   },
   "760226": {
     "element": "dark",
-    "guide_id": 8289,
+    "guide_id": 8290,
     "id": 760226,
     "name": "Corporal Lancelot",
     "rarity": 7
   },
   "760227": {
     "element": "dark",
-    "guide_id": 8290,
+    "guide_id": 8291,
     "id": 760227,
     "name": "Kingslayer Lancelot",
     "rarity": 8
@@ -11411,14 +11411,14 @@
   },
   "810047": {
     "element": "fire",
-    "guide_id": 8316,
+    "guide_id": 8317,
     "id": 810047,
     "name": "Scarlet Archon Blaze",
     "rarity": 7
   },
   "810048": {
     "element": "fire",
-    "guide_id": 8317,
+    "guide_id": 8318,
     "id": 810048,
     "name": "Immortal Firewing Blaze",
     "rarity": 8
@@ -11523,7 +11523,7 @@
   },
   "810148": {
     "element": "fire",
-    "guide_id": 8400,
+    "guide_id": 8402,
     "id": 810148,
     "name": "Ultor the Unbreakable",
     "rarity": 8
@@ -11544,7 +11544,7 @@
   },
   "810178": {
     "element": "fire",
-    "guide_id": 8275,
+    "guide_id": 8274,
     "id": 810178,
     "name": "Mai Shiranui",
     "rarity": 8
@@ -11607,28 +11607,28 @@
   },
   "810277": {
     "element": "fire",
-    "guide_id": 8279,
+    "guide_id": 8280,
     "id": 810277,
     "name": "Starflare Zeis",
     "rarity": 7
   },
   "810278": {
     "element": "fire",
-    "guide_id": 8280,
+    "guide_id": 8281,
     "id": 810278,
     "name": "Starpyre Lancer Zeis",
     "rarity": 8
   },
   "810287": {
     "element": "fire",
-    "guide_id": 8314,
+    "guide_id": 8315,
     "id": 810287,
     "name": "Commander Laresa",
     "rarity": 7
   },
   "810288": {
     "element": "fire",
-    "guide_id": 8315,
+    "guide_id": 8316,
     "id": 810288,
     "name": "Battle Admiral Laresa",
     "rarity": 8
@@ -11691,14 +11691,14 @@
   },
   "810356": {
     "element": "fire",
-    "guide_id": 8260,
+    "guide_id": 8261,
     "id": 810356,
     "name": "Royal Blade Rahotep",
     "rarity": 7
   },
   "810357": {
     "element": "fire",
-    "guide_id": 8261,
+    "guide_id": 8262,
     "id": 810357,
     "name": "Sunless Warden Rahotep",
     "rarity": 8
@@ -11719,21 +11719,21 @@
   },
   "810397": {
     "element": "fire",
-    "guide_id": 8238,
+    "guide_id": 8240,
     "id": 810397,
     "name": "Rain",
     "rarity": 7
   },
   "810398": {
     "element": "fire",
-    "guide_id": 8239,
+    "guide_id": 8241,
     "id": 810398,
     "name": "Rain",
     "rarity": 8
   },
   "810408": {
     "element": "fire",
-    "guide_id": 8392,
+    "guide_id": 8394,
     "id": 810408,
     "name": "Adamant Ancient Svalinn",
     "rarity": 8
@@ -11754,14 +11754,14 @@
   },
   "810427": {
     "element": "fire",
-    "guide_id": 8396,
+    "guide_id": 8398,
     "id": 810427,
     "name": "Pastel Ellie",
     "rarity": 7
   },
   "810428": {
     "element": "fire",
-    "guide_id": 8397,
+    "guide_id": 8399,
     "id": 810428,
     "name": "Sweet Harlequin Ellie",
     "rarity": 8
@@ -11782,14 +11782,14 @@
   },
   "810507": {
     "element": "fire",
-    "guide_id": 8267,
+    "guide_id": 8268,
     "id": 810507,
     "name": "Ardent Soul Feng",
     "rarity": 7
   },
   "810508": {
     "element": "fire",
-    "guide_id": 8268,
+    "guide_id": 8269,
     "id": 810508,
     "name": "Blazing Phoenix Feng",
     "rarity": 8
@@ -11817,49 +11817,49 @@
   },
   "810528": {
     "element": "fire",
-    "guide_id": 8416,
+    "guide_id": 8417,
     "id": 810528,
     "name": "Vengeful Grandt",
     "rarity": 8
   },
   "810547": {
     "element": "fire",
-    "guide_id": 8333,
+    "guide_id": 8334,
     "id": 810547,
     "name": "Natsu Dragneel",
     "rarity": 7
   },
   "810548": {
     "element": "fire",
-    "guide_id": 8334,
+    "guide_id": 8335,
     "id": 810548,
     "name": "Natsu Dragneel",
     "rarity": 8
   },
   "810557": {
     "element": "fire",
-    "guide_id": 8379,
+    "guide_id": 8381,
     "id": 810557,
     "name": "Pyretic Yan & Yuan",
     "rarity": 7
   },
   "810558": {
     "element": "fire",
-    "guide_id": 8380,
+    "guide_id": 8382,
     "id": 810558,
     "name": "Calescent Yan & Yuan",
     "rarity": 8
   },
   "810587": {
     "element": "fire",
-    "guide_id": 8433,
+    "guide_id": 8434,
     "id": 810587,
     "name": "Katsuki Bakugo",
     "rarity": 7
   },
   "810588": {
     "element": "fire",
-    "guide_id": 8434,
+    "guide_id": 8435,
     "id": 810588,
     "name": "Katsuki Bakugo",
     "rarity": 8
@@ -11887,7 +11887,7 @@
   },
   "811118": {
     "element": "fire",
-    "guide_id": 8171,
+    "guide_id": 8380,
     "id": 811118,
     "name": "Fabled Kurewa & Kuraginn",
     "rarity": 8
@@ -11950,14 +11950,14 @@
   },
   "820047": {
     "element": "water",
-    "guide_id": 8324,
+    "guide_id": 8325,
     "id": 820047,
     "name": "Kaiseri Abyss Sae",
     "rarity": 7
   },
   "820048": {
     "element": "water",
-    "guide_id": 8325,
+    "guide_id": 8326,
     "id": 820048,
     "name": "Great Omniscience Sae",
     "rarity": 8
@@ -12027,35 +12027,35 @@
   },
   "820148": {
     "element": "water",
-    "guide_id": 8350,
+    "guide_id": 8377,
     "id": 820148,
     "name": "Tridon the Judicious",
     "rarity": 8
   },
   "820157": {
     "element": "water",
-    "guide_id": 8285,
+    "guide_id": 8288,
     "id": 820157,
     "name": "Egg Seeking Cotton",
     "rarity": 7
   },
   "820158": {
     "element": "water",
-    "guide_id": 8286,
+    "guide_id": 8289,
     "id": 820158,
     "name": "Autonomous Cotton",
     "rarity": 8
   },
   "820167": {
     "element": "water",
-    "guide_id": 8287,
+    "guide_id": 8286,
     "id": 820167,
     "name": "Mad Whizz Vikki",
     "rarity": 7
   },
   "820168": {
     "element": "water",
-    "guide_id": 8288,
+    "guide_id": 8287,
     "id": 820168,
     "name": "Ebil Genius Vikki",
     "rarity": 8
@@ -12076,7 +12076,7 @@
   },
   "820178": {
     "element": "water",
-    "guide_id": 8276,
+    "guide_id": 8275,
     "id": 820178,
     "name": "Kula Diamond",
     "rarity": 8
@@ -12111,42 +12111,42 @@
   },
   "820277": {
     "element": "water",
-    "guide_id": 8291,
+    "guide_id": 8294,
     "id": 820277,
     "name": "Storm Shatterer Galea",
     "rarity": 7
   },
   "820278": {
     "element": "water",
-    "guide_id": 8292,
+    "guide_id": 8295,
     "id": 820278,
     "name": "Tidal Stormsurge Galea",
     "rarity": 8
   },
   "820287": {
     "element": "water",
-    "guide_id": 8318,
+    "guide_id": 8319,
     "id": 820287,
     "name": "Bowmistress Ravea",
     "rarity": 7
   },
   "820288": {
     "element": "water",
-    "guide_id": 8319,
+    "guide_id": 8320,
     "id": 820288,
     "name": "White Death Ravea",
     "rarity": 8
   },
   "820297": {
     "element": "water",
-    "guide_id": 8386,
+    "guide_id": 8388,
     "id": 820297,
     "name": "Twinkle Snow Miku",
     "rarity": 7
   },
   "820298": {
     "element": "water",
-    "guide_id": 8387,
+    "guide_id": 8389,
     "id": 820298,
     "name": "Twinkle Snow Miku",
     "rarity": 8
@@ -12174,21 +12174,21 @@
   },
   "820318": {
     "element": "water",
-    "guide_id": 8437,
+    "guide_id": 8438,
     "id": 820318,
     "name": "Archmage Haile",
     "rarity": 8
   },
   "820357": {
     "element": "water",
-    "guide_id": 8377,
+    "guide_id": 8378,
     "id": 820357,
     "name": "Riverblade Kawab",
     "rarity": 7
   },
   "820358": {
     "element": "water",
-    "guide_id": 8378,
+    "guide_id": 8379,
     "id": 820358,
     "name": "Crocodile Lord Kawab",
     "rarity": 8
@@ -12209,56 +12209,56 @@
   },
   "820387": {
     "element": "water",
-    "guide_id": 8246,
+    "guide_id": 8238,
     "id": 820387,
     "name": "Charlotte",
     "rarity": 7
   },
   "820388": {
     "element": "water",
-    "guide_id": 8247,
+    "guide_id": 8239,
     "id": 820388,
     "name": "Charlotte",
     "rarity": 8
   },
   "820397": {
     "element": "water",
-    "guide_id": 8242,
+    "guide_id": 8244,
     "id": 820397,
     "name": "Lasswell",
     "rarity": 7
   },
   "820398": {
     "element": "water",
-    "guide_id": 8243,
+    "guide_id": 8245,
     "id": 820398,
     "name": "Lasswell",
     "rarity": 8
   },
   "820417": {
     "element": "water",
-    "guide_id": 8258,
+    "guide_id": 8259,
     "id": 820417,
     "name": "Worldwalker Ilm",
     "rarity": 7
   },
   "820418": {
     "element": "water",
-    "guide_id": 8259,
+    "guide_id": 8260,
     "id": 820418,
     "name": "Fate-Eater Ilm",
     "rarity": 8
   },
   "820437": {
     "element": "water",
-    "guide_id": 8442,
+    "guide_id": 8443,
     "id": 820437,
     "name": "Bibliosoph Astrid",
     "rarity": 7
   },
   "820438": {
     "element": "water",
-    "guide_id": 8443,
+    "guide_id": 8444,
     "id": 820438,
     "name": "Spirit Conjurer Astrid",
     "rarity": 8
@@ -12307,56 +12307,56 @@
   },
   "820547": {
     "element": "water",
-    "guide_id": 8341,
+    "guide_id": 8340,
     "id": 820547,
     "name": "Gray Fullbuster",
     "rarity": 7
   },
   "820548": {
     "element": "water",
-    "guide_id": 8342,
+    "guide_id": 8341,
     "id": 820548,
     "name": "Gray Fullbuster",
     "rarity": 8
   },
   "820557": {
     "element": "water",
-    "guide_id": 8393,
+    "guide_id": 8395,
     "id": 820557,
     "name": "Arctic Vail & Vidron",
     "rarity": 7
   },
   "820558": {
     "element": "water",
-    "guide_id": 8394,
+    "guide_id": 8396,
     "id": 820558,
     "name": "Glacial Vail & Vidron",
     "rarity": 8
   },
   "820567": {
     "element": "water",
-    "guide_id": 8425,
+    "guide_id": 8426,
     "id": 820567,
     "name": "Tsovinar",
     "rarity": 7
   },
   "820568": {
     "element": "water",
-    "guide_id": 8426,
+    "guide_id": 8427,
     "id": 820568,
     "name": "Endless Abyss Tsovinar",
     "rarity": 8
   },
   "820587": {
     "element": "water",
-    "guide_id": 8435,
+    "guide_id": 8436,
     "id": 820587,
     "name": "Tsuyu Asui",
     "rarity": 7
   },
   "820588": {
     "element": "water",
-    "guide_id": 8436,
+    "guide_id": 8437,
     "id": 820588,
     "name": "Tsuyu Asui",
     "rarity": 8
@@ -12419,14 +12419,14 @@
   },
   "830047": {
     "element": "earth",
-    "guide_id": 8331,
+    "guide_id": 8342,
     "id": 830047,
     "name": "Dragonsoul Dranoel",
     "rarity": 7
   },
   "830048": {
     "element": "earth",
-    "guide_id": 8332,
+    "guide_id": 8343,
     "id": 830048,
     "name": "Dark Soul Dranoel",
     "rarity": 8
@@ -12454,7 +12454,7 @@
   },
   "830118": {
     "element": "earth",
-    "guide_id": 8255,
+    "guide_id": 8251,
     "id": 830118,
     "name": "Infinity Starsage Zeruiah",
     "rarity": 8
@@ -12517,56 +12517,56 @@
   },
   "830187": {
     "element": "earth",
-    "guide_id": 8271,
+    "guide_id": 8270,
     "id": 830187,
     "name": "Leona",
     "rarity": 7
   },
   "830188": {
     "element": "earth",
-    "guide_id": 8272,
+    "guide_id": 8271,
     "id": 830188,
     "name": "Leona",
     "rarity": 8
   },
   "830277": {
     "element": "earth",
-    "guide_id": 8251,
+    "guide_id": 8252,
     "id": 830277,
     "name": "Commander Wannahon",
     "rarity": 7
   },
   "830278": {
     "element": "earth",
-    "guide_id": 8252,
+    "guide_id": 8253,
     "id": 830278,
     "name": "Blightblade Wannahon",
     "rarity": 8
   },
   "830287": {
     "element": "earth",
-    "guide_id": 8309,
+    "guide_id": 8310,
     "id": 830287,
     "name": "Engineer Dessit",
     "rarity": 7
   },
   "830288": {
     "element": "earth",
-    "guide_id": 8310,
+    "guide_id": 8311,
     "id": 830288,
     "name": "Steel Magus Dessit",
     "rarity": 8
   },
   "830297": {
     "element": "earth",
-    "guide_id": 8388,
+    "guide_id": 8390,
     "id": 830297,
     "name": "Senbonzakura Miku",
     "rarity": 7
   },
   "830298": {
     "element": "earth",
-    "guide_id": 8389,
+    "guide_id": 8391,
     "id": 830298,
     "name": "Senbonzakura Miku",
     "rarity": 8
@@ -12622,28 +12622,28 @@
   },
   "830357": {
     "element": "earth",
-    "guide_id": 8312,
+    "guide_id": 8313,
     "id": 830357,
     "name": "Ravishing Hetepheres",
     "rarity": 7
   },
   "830358": {
     "element": "earth",
-    "guide_id": 8313,
+    "guide_id": 8314,
     "id": 830358,
     "name": "Divine Rogue Hetepheres",
     "rarity": 8
   },
   "830377": {
     "element": "earth",
-    "guide_id": 8299,
+    "guide_id": 8300,
     "id": 830377,
     "name": "Dizzy",
     "rarity": 7
   },
   "830378": {
     "element": "earth",
-    "guide_id": 8300,
+    "guide_id": 8301,
     "id": 830378,
     "name": "Dizzy",
     "rarity": 8
@@ -12664,35 +12664,35 @@
   },
   "830408": {
     "element": "earth",
-    "guide_id": 8427,
+    "guide_id": 8428,
     "id": 830408,
     "name": "Ancient Calamity Arumat",
     "rarity": 8
   },
   "830417": {
     "element": "earth",
-    "guide_id": 8248,
+    "guide_id": 8249,
     "id": 830417,
     "name": "Wulf Aspirant Faelan",
     "rarity": 7
   },
   "830418": {
     "element": "earth",
-    "guide_id": 8249,
+    "guide_id": 8250,
     "id": 830418,
     "name": "White Wulf Faelan",
     "rarity": 8
   },
   "830437": {
     "element": "earth",
-    "guide_id": 8326,
+    "guide_id": 8327,
     "id": 830437,
     "name": "Pharmakeia Nimune",
     "rarity": 7
   },
   "830438": {
     "element": "earth",
-    "guide_id": 8327,
+    "guide_id": 8328,
     "id": 830438,
     "name": "Verdant Góēs Nimune",
     "rarity": 8
@@ -12720,7 +12720,7 @@
   },
   "830518": {
     "element": "earth",
-    "guide_id": 8264,
+    "guide_id": 8265,
     "id": 830518,
     "name": "Heroes Fei and Fang",
     "rarity": 8
@@ -12748,7 +12748,7 @@
   },
   "830528": {
     "element": "earth",
-    "guide_id": 8401,
+    "guide_id": 8403,
     "id": 830528,
     "name": "Time-Weaver Elaina",
     "rarity": 8
@@ -12769,28 +12769,28 @@
   },
   "830557": {
     "element": "earth",
-    "guide_id": 8402,
+    "guide_id": 8409,
     "id": 830557,
     "name": "Gracious Honoka & Hisa",
     "rarity": 7
   },
   "830558": {
     "element": "earth",
-    "guide_id": 8403,
+    "guide_id": 8410,
     "id": 830558,
     "name": "Merciful Honoka & Hisa",
     "rarity": 8
   },
   "830587": {
     "element": "earth",
-    "guide_id": 8430,
+    "guide_id": 8431,
     "id": 830587,
     "name": "Ochaco Uraraka",
     "rarity": 7
   },
   "830588": {
     "element": "earth",
-    "guide_id": 8431,
+    "guide_id": 8432,
     "id": 830588,
     "name": "Ochaco Uraraka",
     "rarity": 8
@@ -12853,14 +12853,14 @@
   },
   "840047": {
     "element": "thunder",
-    "guide_id": 8348,
+    "guide_id": 8349,
     "id": 840047,
     "name": "Vortex Blade Cerise",
     "rarity": 7
   },
   "840048": {
     "element": "thunder",
-    "guide_id": 8349,
+    "guide_id": 8350,
     "id": 840048,
     "name": "Storm Queen Cerise",
     "rarity": 8
@@ -12909,14 +12909,14 @@
   },
   "840127": {
     "element": "thunder",
-    "guide_id": 8254,
+    "guide_id": 8255,
     "id": 840127,
     "name": "Resurrected Silvie",
     "rarity": 7
   },
   "840128": {
     "element": "thunder",
-    "guide_id": 8249,
+    "guide_id": 8256,
     "id": 840128,
     "name": "Silent Sentinel Silvie",
     "rarity": 8
@@ -12979,7 +12979,7 @@
   },
   "840178": {
     "element": "thunder",
-    "guide_id": 8273,
+    "guide_id": 8272,
     "id": 840178,
     "name": "Benimaru Nikaido",
     "rarity": 8
@@ -13028,28 +13028,28 @@
   },
   "840277": {
     "element": "thunder",
-    "guide_id": 8265,
+    "guide_id": 8266,
     "id": 840277,
     "name": "Bright Warrider Durumn",
     "rarity": 7
   },
   "840278": {
     "element": "thunder",
-    "guide_id": 8266,
+    "guide_id": 8267,
     "id": 840278,
     "name": "Viper Blitzkrieg Durumn",
     "rarity": 8
   },
   "840287": {
     "element": "thunder",
-    "guide_id": 8329,
+    "guide_id": 8330,
     "id": 840287,
     "name": "Commtech Vashi",
     "rarity": 7
   },
   "840288": {
     "element": "thunder",
-    "guide_id": 8330,
+    "guide_id": 8331,
     "id": 840288,
     "name": "Sonic Blaster Vashi",
     "rarity": 8
@@ -13098,14 +13098,14 @@
   },
   "840357": {
     "element": "thunder",
-    "guide_id": 8321,
+    "guide_id": 8322,
     "id": 840357,
     "name": "Guardian Khepratum",
     "rarity": 7
   },
   "840358": {
     "element": "thunder",
-    "guide_id": 8322,
+    "guide_id": 8323,
     "id": 840358,
     "name": "Dusk Star Khepratum",
     "rarity": 8
@@ -13126,154 +13126,154 @@
   },
   "840377": {
     "element": "thunder",
-    "guide_id": 8301,
+    "guide_id": 8302,
     "id": 840377,
     "name": "Millia",
     "rarity": 7
   },
   "840378": {
     "element": "thunder",
-    "guide_id": 8302,
+    "guide_id": 8303,
     "id": 840378,
     "name": "Millia",
     "rarity": 8
   },
   "840397": {
     "element": "thunder",
-    "guide_id": 8244,
+    "guide_id": 8246,
     "id": 840397,
     "name": "Lid",
     "rarity": 7
   },
   "840398": {
     "element": "thunder",
-    "guide_id": 8245,
+    "guide_id": 8247,
     "id": 840398,
     "name": "Lid",
     "rarity": 8
   },
   "840417": {
     "element": "thunder",
-    "guide_id": 8262,
+    "guide_id": 8263,
     "id": 840417,
     "name": "Uncrowned Lord Eerikki",
     "rarity": 7
   },
   "840418": {
     "element": "thunder",
-    "guide_id": 8263,
+    "guide_id": 8264,
     "id": 840418,
     "name": "Owlrider Jute Eerikki",
     "rarity": 8
   },
   "840437": {
     "element": "thunder",
-    "guide_id": 8384,
+    "guide_id": 8386,
     "id": 840437,
     "name": "Berserker Zelion",
     "rarity": 7
   },
   "840438": {
     "element": "thunder",
-    "guide_id": 8385,
+    "guide_id": 8387,
     "id": 840438,
     "name": "Demon Ulfhednar Zelion",
     "rarity": 8
   },
   "840507": {
     "element": "thunder",
-    "guide_id": 8269,
+    "guide_id": 8276,
     "id": 840507,
     "name": "Joyous Dragon Long",
     "rarity": 7
   },
   "840508": {
     "element": "thunder",
-    "guide_id": 8270,
+    "guide_id": 8277,
     "id": 840508,
     "name": "Laughing Devil Long",
     "rarity": 8
   },
   "840547": {
     "element": "thunder",
-    "guide_id": 8339,
+    "guide_id": 8338,
     "id": 840547,
     "name": "Erza Scarlet",
     "rarity": 7
   },
   "840548": {
     "element": "thunder",
-    "guide_id": 8340,
+    "guide_id": 8339,
     "id": 840548,
     "name": "Erza Scarlet",
     "rarity": 8
   },
   "840557": {
     "element": "thunder",
-    "guide_id": 8414,
+    "guide_id": 8415,
     "id": 840557,
     "name": "Prophetic Tate & Tama",
     "rarity": 7
   },
   "840558": {
     "element": "thunder",
-    "guide_id": 8415,
+    "guide_id": 8416,
     "id": 840558,
     "name": "Fearless Tate & Tama",
     "rarity": 8
   },
   "840567": {
     "element": "thunder",
-    "guide_id": 8390,
+    "guide_id": 8392,
     "id": 840567,
     "name": "N'an-Hua",
     "rarity": 7
   },
   "840568": {
     "element": "thunder",
-    "guide_id": 8391,
+    "guide_id": 8393,
     "id": 840568,
     "name": "N'an-Wang-Mu",
     "rarity": 8
   },
   "840577": {
     "element": "thunder",
-    "guide_id": 8417,
+    "guide_id": 8418,
     "id": 840577,
     "name": "Draegar",
     "rarity": 7
   },
   "840578": {
     "element": "thunder",
-    "guide_id": 8418,
+    "guide_id": 8419,
     "id": 840578,
     "name": "Draegar the Zealous",
     "rarity": 8
   },
   "840587": {
     "element": "thunder",
-    "guide_id": 8428,
+    "guide_id": 8429,
     "id": 840587,
     "name": "Izuku Midoriya",
     "rarity": 7
   },
   "840588": {
     "element": "thunder",
-    "guide_id": 8429,
+    "guide_id": 8430,
     "id": 840588,
     "name": "Izuku Midoriya",
     "rarity": 8
   },
   "840607": {
     "element": "thunder",
-    "guide_id": 8410,
+    "guide_id": 8411,
     "id": 840607,
     "name": "Mordred",
     "rarity": 7
   },
   "840608": {
     "element": "thunder",
-    "guide_id": 8411,
+    "guide_id": 8412,
     "id": 840608,
     "name": "Noble Prince Mordred",
     "rarity": 8
@@ -13329,14 +13329,14 @@
   },
   "850017": {
     "element": "light",
-    "guide_id": 8412,
+    "guide_id": 8413,
     "id": 850017,
     "name": "Unyielding Estia",
     "rarity": 7
   },
   "850018": {
     "element": "light",
-    "guide_id": 8413,
+    "guide_id": 8414,
     "id": 850018,
     "name": "Estia, Regalia of Elysia",
     "rarity": 8
@@ -13469,7 +13469,7 @@
   },
   "850158": {
     "element": "light",
-    "guide_id": 8284,
+    "guide_id": 8285,
     "id": 850158,
     "name": "Eggspert Huntress Carrol",
     "rarity": 8
@@ -13511,7 +13511,7 @@
   },
   "850178": {
     "element": "light",
-    "guide_id": 8274,
+    "guide_id": 8273,
     "id": 850178,
     "name": "Athena Asamiya",
     "rarity": 8
@@ -13574,42 +13574,42 @@
   },
   "850277": {
     "element": "light",
-    "guide_id": 8295,
+    "guide_id": 8296,
     "id": 850277,
     "name": "Artificer Ceulfan",
     "rarity": 7
   },
   "850278": {
     "element": "light",
-    "guide_id": 8296,
+    "guide_id": 8297,
     "id": 850278,
     "name": "Grandmagos Ceulfan",
     "rarity": 8
   },
   "850287": {
     "element": "light",
-    "guide_id": 8307,
+    "guide_id": 8308,
     "id": 850287,
     "name": "Scout Enile",
     "rarity": 7
   },
   "850288": {
     "element": "light",
-    "guide_id": 8308,
+    "guide_id": 8309,
     "id": 850288,
     "name": "Mobile Pathfinder Enile",
     "rarity": 8
   },
   "850297": {
     "element": "light",
-    "guide_id": 8381,
+    "guide_id": 8383,
     "id": 850297,
     "name": "Priestess Snow Miku",
     "rarity": 7
   },
   "850298": {
     "element": "light",
-    "guide_id": 8382,
+    "guide_id": 8384,
     "id": 850298,
     "name": "Priestess Snow Miku",
     "rarity": 8
@@ -13637,14 +13637,14 @@
   },
   "850318": {
     "element": "light",
-    "guide_id": 8395,
+    "guide_id": 8397,
     "id": 850318,
     "name": "Arcane Sage Allanon",
     "rarity": 8
   },
   "850328": {
     "element": "light",
-    "guide_id": 8323,
+    "guide_id": 8324,
     "id": 850328,
     "name": "Ezra",
     "rarity": 8
@@ -13693,14 +13693,14 @@
   },
   "850377": {
     "element": "light",
-    "guide_id": 8303,
+    "guide_id": 8306,
     "id": 850377,
     "name": "Jack-O'",
     "rarity": 7
   },
   "850378": {
     "element": "light",
-    "guide_id": 8304,
+    "guide_id": 8307,
     "id": 850378,
     "name": "Jack-O'",
     "rarity": 8
@@ -13721,14 +13721,14 @@
   },
   "850397": {
     "element": "light",
-    "guide_id": 8240,
+    "guide_id": 8242,
     "id": 850397,
     "name": "Fina",
     "rarity": 7
   },
   "850398": {
     "element": "light",
-    "guide_id": 8241,
+    "guide_id": 8243,
     "id": 850398,
     "name": "Fina",
     "rarity": 8
@@ -13749,14 +13749,14 @@
   },
   "850437": {
     "element": "light",
-    "guide_id": 8417,
+    "guide_id": 8420,
     "id": 850437,
     "name": "Swiftwind Raquiel",
     "rarity": 7
   },
   "850438": {
     "element": "light",
-    "guide_id": 8418,
+    "guide_id": 8421,
     "id": 850438,
     "name": "Angelic Gale Raquiel",
     "rarity": 8
@@ -13777,35 +13777,35 @@
   },
   "850547": {
     "element": "light",
-    "guide_id": 8335,
+    "guide_id": 8332,
     "id": 850547,
     "name": "Lucy Heartfilia",
     "rarity": 7
   },
   "850548": {
     "element": "light",
-    "guide_id": 8336,
+    "guide_id": 8333,
     "id": 850548,
     "name": "Lucy Heartfilia",
     "rarity": 8
   },
   "850557": {
     "element": "light",
-    "guide_id": 8422,
+    "guide_id": 8423,
     "id": 850557,
     "name": "Adroit Quentin & Quinn",
     "rarity": 7
   },
   "850558": {
     "element": "light",
-    "guide_id": 8423,
+    "guide_id": 8424,
     "id": 850558,
     "name": "Canny Quentin & Quinn",
     "rarity": 8
   },
   "850588": {
     "element": "light",
-    "guide_id": 8432,
+    "guide_id": 8433,
     "id": 850588,
     "name": "All Might",
     "rarity": 8
@@ -13875,14 +13875,14 @@
   },
   "860017": {
     "element": "dark",
-    "guide_id": 8398,
+    "guide_id": 8400,
     "id": 860017,
     "name": "Black Knight Xenon",
     "rarity": 7
   },
   "860018": {
     "element": "dark",
-    "guide_id": 8399,
+    "guide_id": 8401,
     "id": 860018,
     "name": "Xenon, Son of Elysia",
     "rarity": 8
@@ -13959,14 +13959,14 @@
   },
   "860127": {
     "element": "dark",
-    "guide_id": 8256,
+    "guide_id": 8257,
     "id": 860127,
     "name": "Toy Soldier Haido",
     "rarity": 7
   },
   "860128": {
     "element": "dark",
-    "guide_id": 8257,
+    "guide_id": 8258,
     "id": 860128,
     "name": "Eldritch Rocker Haido",
     "rarity": 8
@@ -14001,7 +14001,7 @@
   },
   "860148": {
     "element": "dark",
-    "guide_id": 8424,
+    "guide_id": 8425,
     "id": 860148,
     "name": "Hadaron the Immortal",
     "rarity": 8
@@ -14015,7 +14015,7 @@
   },
   "860158": {
     "element": "dark",
-    "guide_id": 8281,
+    "guide_id": 8284,
     "id": 860158,
     "name": "Demonic Witch Xie'Jing",
     "rarity": 8
@@ -14106,35 +14106,35 @@
   },
   "860258": {
     "element": "dark",
-    "guide_id": 8250,
+    "guide_id": 8248,
     "id": 860258,
     "name": "Void Walker Zenia",
     "rarity": 8
   },
   "860277": {
     "element": "dark",
-    "guide_id": 8277,
+    "guide_id": 8278,
     "id": 860277,
     "name": "Giantkiller Keres",
     "rarity": 7
   },
   "860278": {
     "element": "dark",
-    "guide_id": 8278,
+    "guide_id": 8279,
     "id": 860278,
     "name": "Titanbane Primus Keres",
     "rarity": 8
   },
   "860287": {
     "element": "dark",
-    "guide_id": 8343,
+    "guide_id": 8344,
     "id": 860287,
     "name": "Technomage Savei",
     "rarity": 7
   },
   "860288": {
     "element": "dark",
-    "guide_id": 8344,
+    "guide_id": 8345,
     "id": 860288,
     "name": "Warp Arcanist Savei",
     "rarity": 8
@@ -14162,21 +14162,21 @@
   },
   "860318": {
     "element": "dark",
-    "guide_id": 8347,
+    "guide_id": 8348,
     "id": 860318,
     "name": "Little Sister Nyami",
     "rarity": 8
   },
   "860328": {
     "element": "dark",
-    "guide_id": 8383,
+    "guide_id": 8385,
     "id": 860328,
     "name": "Randolph and Ravenna",
     "rarity": 8
   },
   "860338": {
     "element": "dark",
-    "guide_id": 8421,
+    "guide_id": 8422,
     "id": 860338,
     "name": "Mad King Ihsir",
     "rarity": 8
@@ -14211,28 +14211,28 @@
   },
   "860377": {
     "element": "dark",
-    "guide_id": 8305,
+    "guide_id": 8304,
     "id": 860377,
     "name": "Ramlethal",
     "rarity": 7
   },
   "860378": {
     "element": "dark",
-    "guide_id": 8306,
+    "guide_id": 8305,
     "id": 860378,
     "name": "Ramlethal",
     "rarity": 8
   },
   "860417": {
     "element": "dark",
-    "guide_id": 8297,
+    "guide_id": 8298,
     "id": 860417,
     "name": "Seductive Enticer Luina",
     "rarity": 7
   },
   "860418": {
     "element": "dark",
-    "guide_id": 8298,
+    "guide_id": 8299,
     "id": 860418,
     "name": "Hellborne Honeypot Luina",
     "rarity": 8
@@ -14253,56 +14253,56 @@
   },
   "860437": {
     "element": "dark",
-    "guide_id": 8440,
+    "guide_id": 8441,
     "id": 860437,
     "name": "Black Knight Kielazar",
     "rarity": 7
   },
   "860438": {
     "element": "dark",
-    "guide_id": 8441,
+    "guide_id": 8442,
     "id": 860438,
     "name": "Eternal Templar Kielazar",
     "rarity": 8
   },
   "860517": {
     "element": "dark",
-    "guide_id": 8345,
+    "guide_id": 8346,
     "id": 860517,
     "name": "Dark Succubus Beatrix",
     "rarity": 7
   },
   "860518": {
     "element": "dark",
-    "guide_id": 8346,
+    "guide_id": 8347,
     "id": 860518,
     "name": "Carnal Domina Beatrix",
     "rarity": 8
   },
   "860547": {
     "element": "dark",
-    "guide_id": 8337,
+    "guide_id": 8336,
     "id": 860547,
     "name": "Mard Geer",
     "rarity": 7
   },
   "860548": {
     "element": "dark",
-    "guide_id": 8338,
+    "guide_id": 8337,
     "id": 860548,
     "name": "Mard Geer",
     "rarity": 8
   },
   "860557": {
     "element": "dark",
-    "guide_id": 8438,
+    "guide_id": 8439,
     "id": 860557,
     "name": "Devious Ebony & Enid",
     "rarity": 7
   },
   "860558": {
     "element": "dark",
-    "guide_id": 8439,
+    "guide_id": 8440,
     "id": 860558,
     "name": "Astute Ebony & Enid",
     "rarity": 8
