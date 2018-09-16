@@ -11654,6 +11654,13 @@
     "name": "Infernal Ravager Korzan",
     "rarity": 7
   },
+  "810318": {
+    "element": "fire",
+    "guide_id": 8449,
+    "id": 810318,
+    "name": " Korzan the Damned",
+    "rarity": 8
+  },
   "810325": {
     "element": "fire",
     "guide_id": 8177,
@@ -11862,6 +11869,20 @@
     "guide_id": 8435,
     "id": 810588,
     "name": "Katsuki Bakugo",
+    "rarity": 8
+  },
+  "810657": {
+    "element": "fire",
+    "guide_id": 8447,
+    "id": 810657,
+    "name": "Blazing Victory Cayena",
+    "rarity": 7
+  },
+  "810658": {
+    "element": "fire",
+    "guide_id": 8448,
+    "id": 810658,
+    "name": "Righteous Sun Cayena",
     "rarity": 8
   },
   "811016": {
@@ -13801,6 +13822,20 @@
     "guide_id": 8424,
     "id": 850558,
     "name": "Canny Quentin & Quinn",
+    "rarity": 8
+  },
+  "850567": {
+    "element": "light",
+    "guide_id": 8445,
+    "id": 850567,
+    "name": "Autumn Child QiuTong",
+    "rarity": 7
+  },
+  "850568": {
+    "element": "light",
+    "guide_id": 8446,
+    "id": 850568,
+    "name": "Lunar Maiden QiuTong",
     "rarity": 8
   },
   "850588": {

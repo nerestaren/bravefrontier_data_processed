@@ -21498,6 +21498,21 @@
     "sbb": "19 combo powerful Fire attack on all foes (damage increases as HP decreases), boosts critical damage and Atk relative to HP for 3 turns & boosts max HP",
     "ubb": "2 combo massive Fire attack on all foes (damage increases as HP decreases), greatly boosts critical damage and Atk relative to HP for 3 turns & massively boosts own max HP"
   },
+  "810318": {
+    "bb": "11 combo powerful Fire attack on all foes (damage relative to remaining HP), enormously boosts Atk and critical hit rate for 3 turns, greatly boosts critical damage for 3 turns, fills own BB gauge to max, adds probable evasion to self for 3 turns & adds probability for self to perform 1 extra action within the same turn",
+    "category": 810310,
+    "cost": 54,
+    "element": "fire",
+    "es": "50% damage reduction for 1 turn when damage taken has exceeded certain amount when Vulcan Axe is equipped, fills own BB gauge to max when damage dealt has exceeded certain amount when Vulcan Axe is equipped, adds probable Spark critical for all allies, raises Atk parameter limits to 180000 & negates critical, elemental damage",
+    "gender": "male",
+    "guide_id": 8449,
+    "id": 810318,
+    "ls": "100% boost to Atk, max HP, 20% boost to critical hit rate, considerably boosts Atk for 2 turns when damage taken has exceeded certain amount, enormously boosts Spark damage for 2 turns when damage dealt has exceeded certain amount, hugely boosts critical damage & damage taken hugely boosts BB gauge",
+    "name": " Korzan the Damned",
+    "rarity": 8,
+    "sbb": "3 combo powerful Fire attack on all foes (damage relative to remaining HP), 10 combo powerful Fire attack on single foe (consecutive uses boost damage), greatly boosts own max HP, hugely boosts own critical damage for 1 turn, considerably boosts own Spark damage for 3 turns & enormously boosts own Atk and critical hit rate for 3 turns",
+    "ubb": "4 combo massive Fire attack on all foes (damage relative to remaining HP), 15 combo massive Fire attack on all foes, enormously boosts critical damage for 5 turns, enormously boosts own max HP, enormously boosts own Spark damage for 5 turns & activates own BB/SBB/UBB twice for 5 turns"
+  },
   "810325": {
     "bb": "9 combo powerful Fire attack on all foes & probable Injury, Curse effects",
     "category": 810320,
@@ -21937,6 +21952,36 @@
     "rarity": 8,
     "sbb": "16 combo massive Fire attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), 9 combo Fire attack on single foe (consecutive uses boosts damage, enormously boosts own critical hit rate), enormously boosts BB Atk for 3 turns, enormously boosts Fire elemental damage for 3 turns, probability of activating BB/SBB/UBB twice for 1 turn & greatly boosts critical damage for 3 turns",
     "ubb": "21 combo massive Fire attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), 4 combo massive Fire attack on single foe (25% active Pierce to Fire, Earth types), activates BB/SBB/UBB twice for 1 turn, enormously boosts Fire elemental damage for 3 turns, enormously boosts Atk, Def, Rec and critical hit rate for 3 turns & enormously boosts max HP"
+  },
+  "810657": {
+    "bb": "12 combo powerful Fire attack on all foes, probable KO resistance negation for 2 turns (PvP modes only), hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, probable huge 2 turn Atk, Def reduction & reduces foes' BB gauge",
+    "category": 810000,
+    "cost": 52,
+    "element": "fire",
+    "es": "Adds Def ignoring effect to attack for all allies & 30% boost to Atk, Def for first 5 turns",
+    "gender": "female",
+    "guide_id": 8447,
+    "id": 810657,
+    "ls": "100% boost to Atk, Def, 80% boost to max HP of Fire types, 10% damage reduction from Fire, Earth types, probable considerable reduction of foe's BB gauge & considerably reduces BB gauge required for BB",
+    "name": "Blazing Victory Cayena",
+    "rarity": 7,
+    "sbb": "15 combo massive Fire attack on all foes (damage relative to remaining HP), 4 combo massive Fire attack on single foe, hugely boosts Spark damage for 3 turns, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns & probable huge 2 turn Atk, Def reduction",
+    "ubb": "19 combo massive Fire attack on all foes (damage relative to remaining HP, enormously boosts critical hit rate), enormously boosts Spark damage for 3 turns, enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormous 3 turn Atk, Def reduction & enormously boosts Fire elemental damage for 3 turns"
+  },
+  "810658": {
+    "bb": "15 combo powerful Fire attack on all foes, probable KO resistance negation for 2 turns (PvP modes only), boosts Spark damage of Fire types for 3 turns, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, probable huge 2 turn Atk, Def reduction & reduces foes' BB gauge",
+    "category": 810000,
+    "cost": 60,
+    "element": "fire",
+    "es": "Adds Def ignoring effect to attack for all allies, negates critical damage for all allies, 50% boost to Atk, Def for first 5 turns & adds 15 combo (BB) / 21 combo (SBB) powerful Fire attack on all foes to BB/SBB",
+    "gender": "female",
+    "guide_id": 8448,
+    "id": 810658,
+    "ls": "120% boost to Atk, Def, 100% boost to max HP of Fire types, 20% damage reduction from Fire, Earth types, probable considerable reduction of foes' BB gauge, considerably reduces BB gauge required for BB, 50% damage reduction from all elements for first 2 turns & enormously boosts ABP and CBP gain",
+    "name": "Righteous Sun Cayena",
+    "rarity": 8,
+    "sbb": "17 combo massive Fire attack on all foes (damage relative to remaining HP), 5 combo massive Fire attack on single foe, hugely boosts Spark damage for 3 turns, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, probable huge 2 turn Atk, Def reduction & critical and elemental vulnerability infliction for 2 turns",
+    "ubb": "22 combo massive Fire attack on all foes (damage relative to remaining HP, enormously boosts critical hit rate), enormously boosts Spark damage for 3 turns, enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormous 3 turn Atk, Def reduction, enormously boosts Fire elemental damage for 3 turns & activates Fire shield for 3 turns"
   },
   "811016": {
     "bb": "15 combo powerful Fire attack on all foes & boosts critical hit rate for 3 turns",
@@ -25776,6 +25821,36 @@
     "rarity": 8,
     "sbb": "22 combo powerful Light attack on all foes, 8 combo powerful Light attack on single foe (partial HP drain), hugely boosts Def, Rec relative to Atk for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Light types for 3 turns, enormously boost BB gauge for 3 turns & activates Light shield for 2 turns",
     "ubb": "26 combo massive Light attack on all foes, activates Light shield for 3 turns, enormously boosts Def, Rec relative to Atk for 3 turns, enormously boosts BB gauge for 3 turns, hugely boosts own Atk for 3 turns & greatly boosts own Spark damage for 3 turns"
+  },
+  "850567": {
+    "bb": "15 combo powerful Light attack on all foes, 50% damage reduction for 2 turns, damage taken hugely boosts BB gauge for 3 turns, slightly boosts OD gauge & Spark damage reduction for 2 turns",
+    "category": 850560,
+    "cost": 52,
+    "element": "light",
+    "es": "Slightly reduces BB gauge required for BB for all allies, 15% boost to all parameters for all allies & probable damage reduction to 1",
+    "gender": "female",
+    "guide_id": 8445,
+    "id": 850567,
+    "ls": "80% boost to all parameters, damage taken hugely boosts BB gauge and may restore HP & 15% damage reduction for 1 turn when damage taken has exceeded certain amount",
+    "name": "Autumn Child QiuTong",
+    "rarity": 7,
+    "sbb": "17 combo powerful Light attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), 50% damage reduction for 2 turns, slightly boosts OD gauge, probable huge 2 turn Atk, Def reduction, hugely boosts Atk, Def, Rec for 3 turns & enormously boosts critical hit rate for 3 turns",
+    "ubb": "20 combo massive Light attack on all foes, 100% damage reduction for 3 turns, damage taken enormously boosts BB gauge for 3 turns, enormously boosts OD gauge & enormously boosts Atk, Def, Rec for 3 turns"
+  },
+  "850568": {
+    "bb": "16 combo powerful Light attack on all foes, 50% damage reduction for 2 turns, damage taken hugely boosts BB gauge for 3 turns, slightly boosts OD gauge, negates critical and elemental damage for 3 turns & Spark damage reduction for 3 turns",
+    "category": 850560,
+    "cost": 60,
+    "element": "light",
+    "es": "Slightly reduces BB gauge required for BB for all allies, 20% boost to all parameters for all allies, 5% damage reduction for all allies & probable damage reduction to 1",
+    "gender": "female",
+    "guide_id": 8446,
+    "id": 850568,
+    "ls": "100% boost to all parameters, damage taken hugely boosts BB gauge and may restore HP, negates critical and elemental damage & 20% damage reduction for 1 turn when damage taken has exceeded certain amount",
+    "name": "Lunar Maiden QiuTong",
+    "rarity": 8,
+    "sbb": "18 combo powerful Light attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), 50% damage reduction for 3 turns, boosts OD gauge, probable huge 2 turn Atk, Def reduction, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns & enormously boosts Light elemental damage for 3 turns",
+    "ubb": "21 combo massive Light attack on all foes, 100% damage reduction for 3 turns, damage taken enormously boosts BB gauge for 3 turns, enormously boosts OD gauge, enormously boosts Atk, Def, Rec for 3 turns & enormously boosts Light elemental damage for 3 turns"
   },
   "850588": {
     "bb": "25 combo powerful Light attack on all foes (enormously boosts own critical hit rate), considerably raises normal hit amount for 3 turns, boosts max HP, boosts critical damage of Light types for 3 turns & greatly boosts Atk, Def of Light types for 3 turns",
