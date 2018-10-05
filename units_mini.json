@@ -20834,6 +20834,21 @@
     "sbb": "28 combo powerful Thunder attack on all foes (damage relative to remaining HP), hugely boosts Thunder and Dark types' Atk for 3 turns, adds all elements to attack for 3 turns, hugely boosts critical damage for 3 turns & low probability of activating BB/SBB/UBB twice for 1 turn",
     "ubb": "23 combo massive Thunder attack on all foes, hugely boosts Atk for 3 turns, hugely boosts BB Atk for 3 turns, enormously boosts critical damage for 3 turns & activates BB/SBB/UBB twice for 1 turn"
   },
+  "740237": {
+    "bb": "12 combo powerful Thunder attack on all foes, hugely boosts Def for 3 turns, enormously boosts critical hit rate for 3 turns, enormously boosts BB gauge, 50% damage reduction for 2 turns, adds low probability of resistance against 1 KO attack & greatly boosts max HP",
+    "category": 740230,
+    "cost": 60,
+    "element": "thunder",
+    "es": "250% boost to Atk and 30% boost to critical hit rate when Critical Sphere is equipped, 35% boost to Atk, Def of Thunder types for all allies, probable resistance against 2 KO attacks & adds Thunder barrier effect to BB/SBB",
+    "gender": "male",
+    "guide_id": 8450,
+    "id": 740237,
+    "ls": "100% boost to max HP, 150% boost to Def and 30% boost to critical hit rate of Thunder types, hugely boosts critical damage, hugely boosts Thunder elemental damage, 15% damage reduction from Water, Thunder types & 50% Spark damage reduction",
+    "name": "Lonely Apex Sheriff",
+    "rarity": 8,
+    "sbb": "15 combo powerful Thunder attack on all foes (damage relative to remaining HP), hugely boosts Def for 3 turns, enormously boosts critical hit rate for 3 turns, hugely boosts critical damage for 3 turns, 50% damage reduction for 2 turns, hugely boosts Def relative to Atk for 3 turns & boosts critical damage of Thunder types for 3 turns",
+    "ubb": "18 combo massive Thunder attack on all foes (damage relative to remaining HP), enormously boosts Def and critical hit rate for 5 turns, enormously boosts critical damage for 3 turns, 100% damage reduction from Water, Thunder types for 5 turns, enormously boosts BB gauge for 3 turns & enormously boosts max HP"
+  },
   "750003": {
     "category": 750000,
     "cost": 5,
@@ -21508,7 +21523,7 @@
     "guide_id": 8449,
     "id": 810318,
     "ls": "100% boost to Atk, max HP, 20% boost to critical hit rate, considerably boosts Atk for 2 turns when damage taken has exceeded certain amount, enormously boosts Spark damage for 2 turns when damage dealt has exceeded certain amount, hugely boosts critical damage & damage taken hugely boosts BB gauge",
-    "name": " Korzan the Damned",
+    "name": "Korzan the Damned",
     "rarity": 8,
     "sbb": "3 combo powerful Fire attack on all foes (damage relative to remaining HP), 10 combo powerful Fire attack on single foe (consecutive uses boost damage), greatly boosts own max HP, hugely boosts own critical damage for 1 turn, considerably boosts own Spark damage for 3 turns & enormously boosts own Atk and critical hit rate for 3 turns",
     "ubb": "4 combo massive Fire attack on all foes (damage relative to remaining HP), 15 combo massive Fire attack on all foes, enormously boosts critical damage for 5 turns, enormously boosts own max HP, enormously boosts own Spark damage for 5 turns & activates own BB/SBB/UBB twice for 5 turns"
@@ -23830,6 +23845,36 @@
     "sbb": "45 combo powerful Earth attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), Spark damage considerably restores HP for 3 turns, Spark damage considerably boosts BB gauge for 3 turns, damage taken hugely boosts BB gauge for 3 turns, probable huge 2 turn Atk, Def reduction & hugely boosts OD gauge fill rate for 3 turns",
     "ubb": "25 combo massive Earth attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), adds evasion for 3 turns, Spark damage hugely boosts BB gauge for 3 turns, fully restores HP for 3 turns, enormous 3 turn Atk, Def reduction & purges LS disable effects from all allies"
   },
+  "830597": {
+    "bb": "12 combo Earth attack on all foes, boosts max HP, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, hugely boosts Atk, Def, Rec relative to max HP for 3 turns & boosts BC, HC drop rates for 3 turns",
+    "category": 830590,
+    "cost": 52,
+    "element": "earth",
+    "es": "20% boost to all parameters, probable damage reduction to 1 & greatly boosts Earth elemental damage",
+    "gender": "female",
+    "guide_id": 8451,
+    "id": 830597,
+    "ls": "100% boost to Atk, 80% boost to max HP of Earth types, greatly boosts critical damage, hugely boosts Earth elemental damage & considerably boosts BC, HC drop rate",
+    "name": "Nia",
+    "rarity": 7,
+    "sbb": "19 combo powerful Earth attack on all foes, 7 combo powerful Earth attack on single foe (damage relative to remaining HP), hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, considerably boosts own Spark damage for 3 turns & slightly boosts critical damage of Earth types for 3 turns",
+    "ubb": "20 combo massive Earth attack on all foes, 10 combo massive Earth attack on single foe (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical damage for 3 turns & enormously boosts Earth elemental damage for 3 turns"
+  },
+  "830598": {
+    "bb": "14 combo powerful Earth attack on all foes, greatly boosts max HP, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, enormously boosts Atk, Def, Rec relative to max HP for 3 turns, greatly boosts BC, HC drop rates for 3 turns & probability of purging turn skip effect from all allies",
+    "category": 830590,
+    "cost": 60,
+    "element": "earth",
+    "es": "30% boost to all parameters, probable damage reduction to 1, greatly boosts Earth elemental damage & slighly boosts Earth elemental damage for all allies",
+    "gender": "female",
+    "guide_id": 8452,
+    "id": 830598,
+    "ls": "200% boost to Atk, 120% boost to max HP of Earth types, hugely boosts critical damage, enormously boosts Earth elemental damage, greatly boosts BC, HC drop rate & 15% damage reduction",
+    "name": "Nia, Maverick of Elysia",
+    "rarity": 8,
+    "sbb": "21 combo powerful Earth attack on all foes, 8 combo powerful Earth attack on single foe (damage relative to remaining HP), hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, greatly boosts own Spark damage for 3 turns, slightly boosts critical damage of Earth types for 3 turns & enormously boosts Earth elemental damage for 3 turns",
+    "ubb": "23 combo massive Earth attack on all foes, 12 combo massive Earth attack on single foe (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical damage for 3 turns, enormously boosts Earth elemental damage for 3 turns & purges turn skip effect from all allies"
+  },
   "840003": {
     "bb": "3 combo Thunder elemental attack on all enemies",
     "category": 840000,
@@ -25075,6 +25120,21 @@
     "rarity": 7,
     "sbb": "16 combo powerful Light attack on all foes, greatly recovers HP & boosts Def relative to Rec to all allies & gradually boosts BB gauge for 3 turns",
     "ubb": "21 combo massive Light attack on all foes, fully restores HP for 3 turns & probable resistance against 1 KO attack for all allies"
+  },
+  "850148": {
+    "bb": "Greatly boosts max HP, hugely restores HP, greatly restores HP for 3 turns, removes all status ailments and Atk, Def, Rec reduction effects & negates all status ailments and Atk, Def, Rec reduction effects for 3 turns",
+    "category": 850140,
+    "cost": 60,
+    "element": "light",
+    "es": "50% boost to Def, Rec, max HP when Orphira is equipped, 20% boost to max HP for all allies, restores HP each turn for all allies & damage taken boosts BB gauge and may restore HP",
+    "gender": "female",
+    "guide_id": 8453,
+    "id": 850148,
+    "ls": "100% boost to Def, Rec, 120% boost to max HP, greatly boosts BB Atk, greatly boosts BC, HC drop rates, negates all status ailments and Atk, Def, Rec reduction effects & adds probable resistance against 1 KO attack",
+    "name": "Aurelia the Ascended",
+    "rarity": 8,
+    "sbb": "23 combo powerful Light attack on all foes (damage relative to remaining HP), hugely restores HP, spark damage considerably restores HP for 3 turns, enormously boosts BB gauge for 3 turns, adds probable evasion for 1 turn & probability of raising allies from KO",
+    "ubb": "30 combo masssive Light attack on all foes (damage relative to remaining HP), boosts own max HP for all allies, fully restores HP for 3 turns, activates Light barrier, high probability of resistance against 1 KO attack & high probability of raising allies from KO"
   },
   "850154": {
     "bb": "7 combo Water, Earth, Light attack on all foes & slightly boosts Atk, Def, Rec for 3 turns",

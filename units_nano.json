@@ -11297,6 +11297,13 @@
     "name": "Stratospheric Crash Belt",
     "rarity": 8
   },
+  "740237": {
+    "element": "thunder",
+    "guide_id": 8450,
+    "id": 740237,
+    "name": "Lonely Apex Sheriff",
+    "rarity": 8
+  },
   "750003": {
     "element": "light",
     "guide_id": 9999,
@@ -11658,7 +11665,7 @@
     "element": "fire",
     "guide_id": 8449,
     "id": 810318,
-    "name": " Korzan the Damned",
+    "name": "Korzan the Damned",
     "rarity": 8
   },
   "810325": {
@@ -12816,6 +12823,20 @@
     "name": "Ochaco Uraraka",
     "rarity": 8
   },
+  "830597": {
+    "element": "earth",
+    "guide_id": 8451,
+    "id": 830597,
+    "name": "Nia",
+    "rarity": 7
+  },
+  "830598": {
+    "element": "earth",
+    "guide_id": 8452,
+    "id": 830598,
+    "name": "Nia, Maverick of Elysia",
+    "rarity": 8
+  },
   "840003": {
     "element": "thunder",
     "guide_id": 8009,
@@ -13459,6 +13480,13 @@
     "id": 850147,
     "name": "Archangel Aurelia",
     "rarity": 7
+  },
+  "850148": {
+    "element": "light",
+    "guide_id": 8453,
+    "id": 850148,
+    "name": "Aurelia the Ascended",
+    "rarity": 8
   },
   "850154": {
     "element": "light",
