@@ -9556,7 +9556,7 @@
     },
     {
       "bp": 10,
-      "desc": ""
+      "desc": "Enormously boosts elemental damage"
     },
     {
       "bp": 10,
@@ -9568,20 +9568,20 @@
     },
     {
       "bp": 25,
-      "desc": ""
+      "desc": "Enhances BB's probability of raising allies from KO effect"
     },
     {
       "bp": 20,
-      "desc": ""
+      "desc": "Enhances BB's boost to Spark damage for Water types effect"
     },
     {
       "bp": 20,
-      "desc": ""
+      "desc": "Enhances BB/SBB's considerable Atk, Def, Rec boost for Water types effect"
     },
     {
       "bp": 10,
       "dependency": true,
-      "desc": ""
+      "desc": "Adds boost to Spark damage for Dark types for 3 turns effect to BB and adds considerable Atk, Def, Rec boost for Dark types for 3 turns effect to BB/SBB"
     },
     {
       "bp": 10,
@@ -9593,7 +9593,7 @@
     },
     {
       "bp": 25,
-      "desc": ""
+      "desc": "Adds probable great 1 turn Atk, Def, Rec reduction effect to attack for 3 turns effect to BB/SBB"
     }
   ],
   "820588": [

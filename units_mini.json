@@ -22955,34 +22955,34 @@
     "ubb": "38 combo massive Water attack on all foes (damage relative to remaining HP, with enormously boosted critical hit rate), enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormously boosts critical and Spark damage for 3 turns, activates BB/SBB/UBB twice for 2 turns & damage taken enormously restores HP for 3 turns"
   },
   "820577": {
-    "bb": "MST_SKILLS_820577_DESCRIPTION",
+    "bb": "15 combo powerful Water attack on all foes, probable huge 2 turn Atk, Def reduction, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Water types for 3 turns, hugely boosts Def relative to Atk for 3 turns & hugely boosts Atk relative to Def for 3 turns",
     "category": 820570,
     "cost": 52,
     "element": "water",
-    "es": "MST_EXTRAPASSIVESKILL_820577_DESCRIPTION",
+    "es": "Greatly boosts critical damage when Plaguewarden Theodor is in squad or when Vellum of Curses, Salvation or Brilliance is equipped, boosts Atk, Def each turn (up to 4 turns) for all allies & greatly boosts Atk relative to lost HP",
     "gender": "female",
     "guide_id": 8454,
     "id": 820577,
     "ls": "MST_LEADERSKILLS_820577_DESCRIPTION",
-    "name": "★7 Florence",
+    "name": "Florence",
     "rarity": 7,
-    "sbb": "MST_SKILLS_1820577_DESCRIPTION",
-    "ubb": "MST_SKILLS_2820577_DESCRIPTION"
+    "sbb": "17 combo powerful Water attack on all foes (damage relative to remaining HP), probable huge 2 turn Atk, Def reduction, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Water types for 3 turns, hugely boosts Def relative to Atk for 3 turns & hugely boosts Atk relative to Def for 3 turns",
+    "ubb": "21 combo massive Water attack on all foes, enormous 3 turn Atk, Def reduction, enormously boosts Spark damage for 3 turns, enormously boosts Def relative to Atk for 3 turns & enormously boosts Atk relative to Def for 3 turns"
   },
   "820578": {
-    "bb": "MST_SKILLS_820578_DESCRIPTION",
+    "bb": "17 combo powerful Water attack on all foes, probable huge 2 turn Atk, Def reduction, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Water types for 3 turns, probability of raising allies from KO, hugely boosts Def relative to Atk for 3 turns & hugely boosts Atk relative to Def for 3 turns",
     "category": 820570,
     "cost": 60,
     "element": "water",
-    "es": "MST_EXTRAPASSIVESKILL_820578_DESCRIPTION",
+    "es": "Greatly boosts critical damage when Plaguewarden Theodor is in squad or when Vellum of Curses, Salvation or Brilliance is equipped, boosts Atk, Def each turn (up to 4 turns) for all allies, greatly boosts Atk relative to lost HP, probable resistance against 2 KO attacks & 19 combo powerful Water attack on single foe to SBB",
     "gender": "female",
     "guide_id": 8455,
     "id": 820578,
-    "ls": "MST_LEADERSKILLS_820578_DESCRIPTION",
-    "name": "★8 Florence",
+    "ls": "200% boost to Atk, 120% boost to max HP of Water, Dark types, 15% damage reduction from Water, Thunder, Light, Dark types, 180% boost to Spark damage, enormously boosts Water, Dark elemental damage & adds probable 1 turn Atk reduction effect to attack for 2 turns when damage taken has exceeded certain amount",
+    "name": "Bloodpoison Florence",
     "rarity": 8,
-    "sbb": "MST_SKILLS_1820578_DESCRIPTION",
-    "ubb": "MST_SKILLS_2820578_DESCRIPTION"
+    "sbb": "19 combo powerful Water attack on all foes (damage relative to remaining HP), probable huge 2 turn Atk, Def reduction, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Water types for 3 turns, boosts Spark damage of Water types for 3 turns, hugely boosts Def relative to Atk for 3 turns & hugely boosts Atk relative to Def for 3 turns",
+    "ubb": "23 combo massive Water attack on all foes, enormous 3 turn Atk, Def reduction, enormously boosts Spark damage for 3 turns, enormously boosts max HP, enormously boosts Def relative to Atk for 3 turns & enormously boosts Atk relative to Def for 3 turns"
   },
   "820587": {
     "bb": "Boosts damage reduction when guarding for 3 turns, enormously boosts BB gauge when guarding for 3 turns, 50% damage reduction for 2 turns, casts stealth on self boosting own Atk, Def, Rec for 2 turns & slightly boosts OD gauge",
