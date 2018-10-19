@@ -11878,6 +11878,20 @@
     "name": "Katsuki Bakugo",
     "rarity": 8
   },
+  "810627": {
+    "element": "fire",
+    "guide_id": 8458,
+    "id": 810627,
+    "name": "Baelfyr",
+    "rarity": 7
+  },
+  "810628": {
+    "element": "fire",
+    "guide_id": 8459,
+    "id": 810628,
+    "name": "Blacksteel Baelfyr",
+    "rarity": 8
+  },
   "810657": {
     "element": "fire",
     "guide_id": 8447,
@@ -14020,6 +14034,13 @@
     "name": "Pumleficent Semira",
     "rarity": 7
   },
+  "860108": {
+    "element": "dark",
+    "guide_id": 8456,
+    "id": 860108,
+    "name": "Headpumtress Semira",
+    "rarity": 8
+  },
   "860124": {
     "element": "dark",
     "guide_id": 8072,
@@ -14382,6 +14403,13 @@
     "guide_id": 8440,
     "id": 860558,
     "name": "Astute Ebony & Enid",
+    "rarity": 8
+  },
+  "860568": {
+    "element": "dark",
+    "guide_id": 8457,
+    "id": 860568,
+    "name": "Plaguewarden Theodor",
     "rarity": 8
   },
   "860607": {

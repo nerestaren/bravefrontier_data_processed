@@ -7667,43 +7667,48 @@
   "810108": [
     {
       "bp": 10,
-      "desc": "50% boost to Atk"
+      "desc": "80% boost to Atk, max HP"
     },
     {
       "bp": 10,
-      "desc": "+100% Atk at max HP"
+      "desc": "100% boost to Atk when HP is full"
+    },
+    {
+      "bp": 10,
+      "desc": "120% boost to Spark damage"
     },
     {
       "bp": 20,
-      "desc": "70% boost to Spark damage"
+      "desc": "100% boost to critical hit damage"
     },
     {
-      "bp": 20,
-      "desc": "+70% Crit Dmg"
-    },
-    {
-      "bp": 20,
-      "desc": "Boosts BB Atk"
+      "bp": 10,
+      "desc": "Huge BB Atk boost"
     },
     {
       "bp": 20,
       "desc": "Negates critical hit damage"
     },
     {
-      "bp": 30,
-      "desc": "Adds Light and Dark elements to attack for 3 turns effect to SBB"
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
     },
     {
-      "bp": 30,
-      "desc": "Add Effect to BB/SBB (30% chance -50% Enemy Atk for 1 turn)"
+      "bp": 25,
+      "desc": "Adds huge Atk boost relative to Def for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds huge probable 1 turn Atk reduction effect to BB/SBB"
     },
     {
       "bp": 20,
-      "desc": "Add Effect to BB/SBB (3 turns add 20% chance -20% Enemy Atk for 1 turn effect to Atk)"
+      "desc": "Adds probable 1 turn Atk reduction for 3 turns effect to BB/SBB"
     },
     {
       "bp": 10,
-      "desc": "Add Effect to BB (3 turns add 170% boost to Atk)"
+      "dependency": true,
+      "desc": "Adds huge probable 2 turn Atk reduction effect to BB/SBB"
     }
   ],
   "810148": [
@@ -8335,7 +8340,7 @@
     },
     {
       "bp": 20,
-      "desc": "100% boost to CRIT DMG"
+      "desc": "100% boost to critical hit damage"
     },
     {
       "bp": 10,
@@ -8512,6 +8517,56 @@
     {
       "bp": 25,
       "desc": "Adds powerful additional attack at turn's end for 3 turns effect to BB/SBB"
+    }
+  ],
+  "810628": [
+    {
+      "bp": 10,
+      "desc": "100% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerably boosts Atk relative to remaining HP, greatly boosts Def relative to lost HP"
+    },
+    {
+      "bp": 10,
+      "desc": "170% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to damage against status afflicted foes"
+    },
+    {
+      "bp": 20,
+      "desc": "Hugely boosts BB gauge each turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates Def ignoring damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds enormous boost to BB gauge effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds Fire barrier effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds 200% boost to damage dealt against status afflicted foes for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds 11 combo probable powerful Fire attack on single foe effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds considerable boost to OD gauge effect to UBB, adds enormous boost to BB Atk for 5 turns effect to UBB, allows existing UBB buffs to last an additional 2 turns"
     }
   ],
   "810658": [
@@ -12697,6 +12752,53 @@
       "desc": "Adds probable self evasion for 1 turn effect to BB"
     }
   ],
+  "860108": [
+    {
+      "bp": 10,
+      "desc": "60% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "Boosts Atk, Def, Rec each turn (for up to 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "130% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds powerful additional attack at turn's end for 2 turns to BB/SBB, massive additional attack at turn's end for 2 turns to UBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous Spark damage boost for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds huge boost to Atk relative to Rec for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 15,
+      "dependency": true,
+      "desc": "Adds huge boost to Atk, Def relative to Rec for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 35,
+      "desc": "Enhances BB/UBB's probability of raising allies from KO effect"
+    }
+  ],
   "860128": [
     {
       "bp": 10,
@@ -12755,7 +12857,7 @@
     },
     {
       "bp": 20,
-      "desc": "100% boost to CRIT DMG"
+      "desc": "100% boost to critical hit damage"
     },
     {
       "bp": 10,
@@ -13731,6 +13833,53 @@
     {
       "bp": 15,
       "desc": "Adds probable random status infliction to attack for 3 turns effect to BB/SBB"
+    }
+  ],
+  "860568": [
+    {
+      "bp": 10,
+      "desc": "40% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Raises all parameters boost from 40% to 60%"
+    },
+    {
+      "bp": 10,
+      "desc": "130% boost to Spark damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds Spark damage boosts BB gauge for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds status ailment removal effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances LS's Atk, max HP boost by 10%"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds considerable Spark damage boost for Dark types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds probable resistance against 1 KO attack effect to BB/SBB"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds probable random status infliction to attack for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances SBB's critical damage boost effect"
     }
   ],
   "860608": [
