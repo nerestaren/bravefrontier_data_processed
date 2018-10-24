@@ -23935,6 +23935,21 @@
     "sbb": "21 combo powerful Earth attack on all foes, 8 combo powerful Earth attack on single foe (damage relative to remaining HP), hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, greatly boosts own Spark damage for 3 turns, slightly boosts critical damage of Earth types for 3 turns & enormously boosts Earth elemental damage for 3 turns",
     "ubb": "23 combo massive Earth attack on all foes, 12 combo massive Earth attack on single foe (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical damage for 3 turns, enormously boosts Earth elemental damage for 3 turns & purges turn skip effect from all allies"
   },
+  "830628": {
+    "bb": "Greatly boosts own Atk, Def, Rec for 3 turns, greatly boosts own max HP, enormously boosts BB gauge for 3 turns, Spark damage restores HP for 3 turns, 20% additional damage reduction for 3 turns & activates Dark barrier",
+    "category": 830620,
+    "cost": 60,
+    "element": "earth",
+    "es": "Boost to Atk, Def, Rec relative to remaining HP for all allies, slight boost to Spark damage for all allies, 50% boost to max HP, damage taken may restore HP & negates all status ailments and Atk, Def, Rec reduction effects",
+    "gender": "female",
+    "guide_id": 8460,
+    "id": 830628,
+    "ls": "100% boost to all parameters, 100% boost to Atk when BB gauge is full, hugely boosts Spark damage, enormously boosts BB Atk & enormously boosts BB gauge each turn",
+    "name": "Grieving Dryad Alraune",
+    "rarity": 8,
+    "sbb": "11 combo powerful Earth attack on all foes, 9 combo powerful Earth attack on all foes, hugely boosts Spark damage for 3 turns, enormously boosts BB Atk for 3 turns, probable elemental and critical vulnerability infliction for 2 turns & massive additional attack at turn's end for 2 turns",
+    "ubb": "25 combo massive Earth attack on all foes (25% active Pierce to Earth, Thunder types), enormously boosts own Atk, Def, Rec for 5 turns, enormously boosts Spark damage for 5 turns, enormously boosts BB Atk for 5 turns, damage taken enormously boosts BB gauge for 5 turns & damage taken enormously restores HP for 3 turns"
+  },
   "840003": {
     "bb": "3 combo Thunder elemental attack on all enemies",
     "category": 840000,

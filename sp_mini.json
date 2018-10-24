@@ -10643,6 +10643,56 @@
       "desc": "Adds probable critical vulnerability infliction for 2 turns effect to SBB"
     }
   ],
+  "830628": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "desc": "170% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerably boosts BB Atk"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly boosts elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Considerably reduces BB gauge required for BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly restores HP each turn"
+    },
+    {
+      "bp": 30,
+      "desc": "15% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds boost to Spark damage for Fire, Thunder, Light types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds boost to Spark damage for Water, Earth, Dark types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Allows BB effects to last for 2 additional turns"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's probability of elemental and critical vulnerability infliction for 2 turns effect"
+    }
+  ],
   "840048": [
     {
       "bp": 10,

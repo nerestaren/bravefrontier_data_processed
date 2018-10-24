@@ -12865,6 +12865,13 @@
     "name": "Nia, Maverick of Elysia",
     "rarity": 8
   },
+  "830628": {
+    "element": "earth",
+    "guide_id": 8460,
+    "id": 830628,
+    "name": "Grieving Dryad Alraune",
+    "rarity": 8
+  },
   "840003": {
     "element": "thunder",
     "guide_id": 8009,
