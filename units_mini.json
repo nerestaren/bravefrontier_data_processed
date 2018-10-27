@@ -23044,6 +23044,36 @@
     "sbb": "19 combo powerful Water attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), 30 combo massive random Water attack on all foes, adds probable great 1 turn Atk, Def reduction effect to attack for 3 turns, critical and elemental vulnerability infliction for 2 turns, enormously boosts Water elemental damage for 3 turns & adds probable random status ailment infliction to attack for 3 turns",
     "ubb": "23 combo massive Water attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), enormous additional damage reduction for 3 turns, 100% damage reduction for 3 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts Water elemental damage for 3 turns & adds random status ailment infliction to attack for 3 turns"
   },
+  "820657": {
+    "bb": "18 combo powerful Water attack on all foes, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, raises normal hit amount for 3 turns & adds probable 2 turn Atk, Def reduction counter for 3 turns",
+    "category": 820650,
+    "cost": 52,
+    "element": "water",
+    "es": "15% boost to critical damage for all allies, 30% boost to Atk, Def for first 5 turns & adds Spark damage boosts BB gauge for 3 turns effect to BB/SBB",
+    "gender": "female",
+    "guide_id": 8461,
+    "id": 820657,
+    "ls": "100% boost to Atk, Def and 80% boost to max HP of Water types, 10% damage reduction from Fire, Water types, raises normal hit amount & normal attacks may hit all foes",
+    "name": "Noblesse Gunner Serin",
+    "rarity": 7,
+    "sbb": "21 combo massive Water attack on all foes (damage relative to remaining HP), 2 combo massive Water attack on single foe, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns & 100% boost to critical damage for 3 turns",
+    "ubb": "25 combo massive Water attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, normal attacks hit all foes for 3 turns, considerably raises normal hit amount for 3 turns & 450% boost to critical damage for 3 turns"
+  },
+  "820658": {
+    "bb": "22 combo powerful Water attack on all foes, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, considerably raises normal hit amount for 3 turns, adds probable 2 turn Atk, Def reduction counter for 3 turns, probable KO resistance negation for 2 turns (PvP modes only) & reduces passive healing and HC effectiveness for 1 turn (PvP modes only)",
+    "category": 820650,
+    "cost": 60,
+    "element": "water",
+    "es": "25% boost to critical damage for all allies, 50% boost to Atk, Def for first 5 turns, adds Spark damage considerably boosts BB gauge for 3 turns effect to BB/SBB & adds 22 combo (BB) / 27 combo (SBB) powerful Water attack on all foes to BB/SBB",
+    "gender": "female",
+    "guide_id": 8462,
+    "id": 820658,
+    "ls": "120% boost to Atk, Def and 100% boost to max HP of Water types, 50% damage reduction from all elements for first 2 turns, 20% damage reduction from Fire, Water types, raises normal hit amount, probable normal attack on all foes & enormously boosts ABP and CBP gain",
+    "name": "Grand Mitrailleur Serin",
+    "rarity": 8,
+    "sbb": "25 combo massive Water attack on all foes (damage relative to remaining HP), 3 combo massive Water attack on single foe, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, considerably raises normal hit amount for 3 turns, 125% boost to critical damage for 3 turns & 50% boost to critical damage of Water types for 3 turns",
+    "ubb": "30 combo massive Water attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, normal attacks hit all foes for 3 turns, considerably raises normal hit amount for 3 turns, 500% boost to critical damage for 3 turns & adds 1 extra action within the same turn\n"
+  },
   "830003": {
     "bb": "4 combo Earth elemental power attack on all enemies",
     "category": 830000,

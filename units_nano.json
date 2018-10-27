@@ -12417,6 +12417,20 @@
     "name": "Tsuyu Asui",
     "rarity": 8
   },
+  "820657": {
+    "element": "water",
+    "guide_id": 8461,
+    "id": 820657,
+    "name": "Noblesse Gunner Serin",
+    "rarity": 7
+  },
+  "820658": {
+    "element": "water",
+    "guide_id": 8462,
+    "id": 820658,
+    "name": "Grand Mitrailleur Serin",
+    "rarity": 8
+  },
   "830003": {
     "element": "earth",
     "guide_id": 8006,
