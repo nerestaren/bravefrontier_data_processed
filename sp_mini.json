@@ -8374,25 +8374,24 @@
   ],
   "810548": [
     {
-      "bp": 20,
-      "desc": "40% boost to all parameters"
-    },
-    {
       "bp": 10,
-      "dependency": true,
-      "desc": "Raises all parameters boost from 40% to 60%"
+      "desc": "Raises all parameters boost to 80%"
     },
     {
       "bp": 10,
       "desc": "Boosts Atk, Def, Rec each turn (for up to 3 turns)"
     },
     {
-      "bp": 15,
-      "desc": "130% boost to Spark damage"
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
     },
     {
       "bp": 10,
       "desc": "Negates all status ailments"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
     },
     {
       "bp": 25,
@@ -10748,6 +10747,56 @@
       "desc": ""
     }
   ],
+  "830648": [
+    {
+      "bp": 10,
+      "desc": "90% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Boosts Atk, Def when BB gauge is over 50%"
+    },
+    {
+      "bp": 15,
+      "desc": "Hugely boosts critical damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "50% additional damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 10,
+      "desc": "Enhances BB's self max HP boost effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows BB's damage reduction effect to last for additional 2 turns"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds Taunt and hugely boosts own Def for 2 turns effect to BB"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances SBB's critical damage boost effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds critical damage boost for Earth types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds huge boost to BC efficacy for 3 turns effect to BB/SBB"
+    }
+  ],
   "840048": [
     {
       "bp": 10,
@@ -12529,20 +12578,24 @@
   ],
   "850548": [
     {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "desc": "Hugely boosts critical hit damage"
+    },
+    {
       "bp": 20,
-      "desc": "30% boost to all parameters"
-    },
-    {
-      "bp": 15,
-      "desc": "Boosts critical damage"
-    },
-    {
-      "bp": 15,
-      "desc": "Boosts elemental damage"
+      "desc": "Enormously boosts elemental damage"
     },
     {
       "bp": 10,
       "desc": "Normal attacks may hit all foes"
+    },
+    {
+      "bp": 15,
+      "desc": "Considerably reduces BB gauge required for BB"
     },
     {
       "bp": 30,
@@ -12553,15 +12606,15 @@
       "desc": "Enhances LS's critical damage boost effect"
     },
     {
-      "bp": 15,
-      "desc": "Enhances SBB's Spark and critical damage boost for Light types effect"
+      "bp": 20,
+      "desc": "Adds Light barrier effect to BB/SBB"
     },
     {
       "bp": 30,
       "desc": "Adds status ailment negation for 3 turns effect to BB/SBB"
     },
     {
-      "bp": 30,
+      "bp": 25,
       "desc": "Adds huge Def boost relative to Atk for 3 turns effect to BB/SBB"
     },
     {
@@ -12715,6 +12768,99 @@
     {
       "bp": 20,
       "desc": "Adds enormous critical hit rate boost for 3 turns effect to BB/SBB"
+    }
+  ],
+  "850638": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "desc": "130% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": "Negates elemental and critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances LS's boost to all parameters effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds probable evasion for 1 turn effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds huge boost to OD gauge fill rate for 3 turns effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds considerable boost to Atk, Def, Rec for Fire, Water, Earth types for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances BB's boost to BB gauge effect"
+    }
+  ],
+  "850648": [
+    {
+      "bp": 15,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances LS's parameter boost effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds status ailment negation for 3 turns effect to BB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds LS and ES disable effects purge from one random ally effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's boost to Spark damage for Light types effect"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds probability of activating BB/SBB/UBB twice for 2 turns effect to SBB"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Enhances SBB's probability of activating BB/SBB/UBB twice effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds considerable HP restoration during Spark for 3 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds Spark vulnerability infliction for 2 turns effect to BB/SBB"
     }
   ],
   "850978": [

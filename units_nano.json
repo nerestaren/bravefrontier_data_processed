@@ -12818,7 +12818,7 @@
   },
   "830528": {
     "element": "earth",
-    "guide_id": 8403,
+    "guide_id": 8401,
     "id": 830528,
     "name": "Time-Weaver Elaina",
     "rarity": 8
@@ -12884,6 +12884,20 @@
     "guide_id": 8460,
     "id": 830628,
     "name": "Grieving Dryad Alraune",
+    "rarity": 8
+  },
+  "830647": {
+    "element": "earth",
+    "guide_id": 8463,
+    "id": 830647,
+    "name": "Gajeel Redfox",
+    "rarity": 7
+  },
+  "830648": {
+    "element": "earth",
+    "guide_id": 8464,
+    "id": 830648,
+    "name": "Gajeel Redfox",
     "rarity": 8
   },
   "840003": {
@@ -13920,6 +13934,34 @@
     "guide_id": 8433,
     "id": 850588,
     "name": "All Might",
+    "rarity": 8
+  },
+  "850637": {
+    "element": "light",
+    "guide_id": 8467,
+    "id": 850637,
+    "name": "Mavis Vermilion",
+    "rarity": 7
+  },
+  "850638": {
+    "element": "light",
+    "guide_id": 8468,
+    "id": 850638,
+    "name": "Mavis Vermilion",
+    "rarity": 8
+  },
+  "850647": {
+    "element": "light",
+    "guide_id": 8465,
+    "id": 850647,
+    "name": "Wendy Marvell",
+    "rarity": 7
+  },
+  "850648": {
+    "element": "light",
+    "guide_id": 8466,
+    "id": 850648,
+    "name": "Wendy Marvell",
     "rarity": 8
   },
   "850977": {
