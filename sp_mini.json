@@ -8403,7 +8403,7 @@
     },
     {
       "bp": 30,
-      "desc": "Adds powerful additional attack at turn's end for 2 turns to BB/SBB, massive additional attack at turn's end for 2 turns to UBB"
+      "desc": "Adds powerful attack at turn's end for 2 turns effect to BB/SBB, adds massive attack at turn's end for 2 turns effect to UBB"
     },
     {
       "bp": 20,
@@ -9533,7 +9533,7 @@
     },
     {
       "bp": 30,
-      "desc": "Adds powerful additional attack at turn's end for 2 turns to BB/SBB, massive additional attack at turn's end for 2 turns to UBB"
+      "desc": "Adds powerful attack at turn's end for 2 turns effect to BB/SBB, adds massive attack at turn's end for 2 turns effect to UBB"
     },
     {
       "bp": 35,
@@ -12781,7 +12781,7 @@
     },
     {
       "bp": 10,
-      "desc": ""
+      "desc": "Enormously boosts elemental damage"
     },
     {
       "bp": 20,
@@ -12805,7 +12805,7 @@
     },
     {
       "bp": 20,
-      "desc": "Adds considerable boost to Atk, Def, Rec for Fire, Water, Earth types for 3 turns effect to BB/SBB"
+      "desc": "Adds considerable boost to Atk, Def, Rec for Fire, Water, Earth, Thunder types for 3 turns effect to BB/SBB"
     },
     {
       "bp": 30,
@@ -13030,7 +13030,7 @@
     },
     {
       "bp": 30,
-      "desc": "Adds powerful additional attack at turn's end for 2 turns to BB/SBB, massive additional attack at turn's end for 2 turns to UBB"
+      "desc": "Adds powerful attack at turn's end for 2 turns effect to BB/SBB, adds massive attack at turn's end for 2 turns effect to UBB"
     },
     {
       "bp": 25,
@@ -13221,7 +13221,7 @@
     },
     {
       "bp": 30,
-      "desc": "Adds powerful additional attack at turn's end for 2 turns to BB/SBB, massive additional attack at turn's end for 2 turns to UBB"
+      "desc": "Adds powerful attack at turn's end for 2 turns effect to BB/SBB, adds massive attack at turn's end for 2 turns effect to UBB"
     },
     {
       "bp": 35,
