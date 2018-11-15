@@ -8050,7 +8050,7 @@
     },
     {
       "bp": 25,
-      "desc": "Enhances success rate of SBB's critical and elemental vulnerability infliction effect"
+      "desc": "Enhances success rate SBB's critical and elemental vulnerability infliction effect"
     },
     {
       "bp": 30,
@@ -9456,16 +9456,16 @@
   ],
   "820548": [
     {
-      "bp": 20,
-      "desc": "30% boost to all parameters"
-    },
-    {
-      "bp": 20,
-      "desc": "120% boost to Spark damage"
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
     },
     {
       "bp": 10,
-      "desc": "Considerably boosts elemental damage"
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Enormously boosts elemental damage"
     },
     {
       "bp": 10,
@@ -9482,7 +9482,7 @@
     },
     {
       "bp": 25,
-      "desc": "Enhances success rate of SBB's critical and elemental vulnerability infliction effect"
+      "desc": "Enhances success rate SBB's critical and elemental vulnerability infliction effect"
     },
     {
       "bp": 30,
@@ -9494,7 +9494,11 @@
     },
     {
       "bp": 25,
-      "desc": "Adds probable evasion for 1 turn effect to BB/SBB"
+      "desc": "Adds probable evasion for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds Water barrier effect to BB/SBB"
     }
   ],
   "820558": [
@@ -10708,7 +10712,7 @@
     },
     {
       "bp": 10,
-      "desc": ""
+      "desc": "Considerably boosts BB Atk"
     },
     {
       "bp": 10,
@@ -10724,7 +10728,7 @@
     },
     {
       "bp": 30,
-      "desc": ""
+      "desc": "15% damage reduction"
     },
     {
       "bp": 10,
@@ -10732,19 +10736,19 @@
     },
     {
       "bp": 15,
-      "desc": ""
+      "desc": "Adds boost to Spark damage for Fire, Thunder, Light types for 3 turns effect to SBB"
     },
     {
       "bp": 15,
-      "desc": ""
+      "desc": "Adds boost to Spark damage for Water, Earth, Dark types for 3 turns effect to SBB"
     },
     {
       "bp": 30,
-      "desc": ""
+      "desc": "Allows BB effects to last for 2 additional turns"
     },
     {
       "bp": 20,
-      "desc": ""
+      "desc": "Enhances SBB's probability of elemental and critical vulnerability infliction for 2 turns effect"
     }
   ],
   "830648": [
@@ -11340,7 +11344,7 @@
   "840548": [
     {
       "bp": 10,
-      "desc": "40% boost to all parameters"
+      "desc": "Raises all parameters boost to 80%"
     },
     {
       "bp": 10,
@@ -11348,8 +11352,8 @@
       "desc": "30% boost to Def, max HP"
     },
     {
-      "bp": 15,
-      "desc": "130% boost to Spark damage"
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
     },
     {
       "bp": 10,
@@ -11357,7 +11361,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 130000"
+      "desc": "Raises Atk parameter limits to 150000"
     },
     {
       "bp": 40,
@@ -11373,7 +11377,7 @@
     },
     {
       "bp": 20,
-      "desc": "Enhances BB/SBB's Atk, Def, Rec boost effects"
+      "desc": "Enhances BB/SBB's Atk, Def, Rec boost effect"
     },
     {
       "bp": 35,
@@ -11381,7 +11385,7 @@
     },
     {
       "bp": 20,
-      "desc": "Adds probable huge 1 turn Atk, Def reduction effect to SBB"
+      "desc": "Adds probable huge 2 turn Atk, Def reduction effect to SBB"
     }
   ],
   "840558": [
@@ -14181,6 +14185,107 @@
     {
       "bp": 15,
       "desc": "Enhances BB/SBB's Fire/Dark barrier effects"
+    }
+  ],
+  "860638": [
+    {
+      "bp": 10,
+      "desc": "90% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Boosts Atk, Def when BB gauge is over 50%"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances success rate of SBB's probable huge Atk, Def reduction effect"
+    },
+    {
+      "bp": 40,
+      "desc": "Adds 27 combo powerful Dark attack on all foes effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds considerable Spark damage boost for Dark types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds probable evasion for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds Spark vulnerability infliction for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds Spark damage considerably boosts BB gauge for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds max HP boost effect to SBB/UBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds all elements to attack for 3 turns effect to BB/SBB/UBB"
+    }
+  ],
+  "860648": [
+    {
+      "bp": 10,
+      "desc": "100% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 25,
+      "desc": "Enhances LS's raises Atk parameter limit effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances SBB's BB gauge boost during Spark effect"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds probability of activating BB/SBB/UBB twice for 2 turns effect to SBB"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Enhances SBB's probability of activating BB/SBB/UBB twice effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds considerable OD gauge fill rate at turn's end for 3 turns effect to BB "
+    },
+    {
+      "bp": 20,
+      "desc": "Adds considerable OD gauge fill rate boost for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable 1 turn Atk, Def reduction effects to attack for 3 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds probable random status infliction to attack for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds 26 combo powerful Dark attack on single foe (damage relative to remaining HP) to SBB"
     }
   ]
 }

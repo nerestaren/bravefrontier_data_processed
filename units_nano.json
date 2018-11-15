@@ -12888,14 +12888,14 @@
   },
   "830647": {
     "element": "earth",
-    "guide_id": 8463,
+    "guide_id": 8465,
     "id": 830647,
     "name": "Gajeel Redfox",
     "rarity": 7
   },
   "830648": {
     "element": "earth",
-    "guide_id": 8464,
+    "guide_id": 8466,
     "id": 830648,
     "name": "Gajeel Redfox",
     "rarity": 8
@@ -13938,28 +13938,28 @@
   },
   "850637": {
     "element": "light",
-    "guide_id": 8467,
+    "guide_id": 8463,
     "id": 850637,
     "name": "Mavis Vermilion",
     "rarity": 7
   },
   "850638": {
     "element": "light",
-    "guide_id": 8468,
+    "guide_id": 8464,
     "id": 850638,
     "name": "Mavis Vermilion",
     "rarity": 8
   },
   "850647": {
     "element": "light",
-    "guide_id": 8465,
+    "guide_id": 8467,
     "id": 850647,
     "name": "Wendy Marvell",
     "rarity": 7
   },
   "850648": {
     "element": "light",
-    "guide_id": 8466,
+    "guide_id": 8468,
     "id": 850648,
     "name": "Wendy Marvell",
     "rarity": 8
@@ -14487,6 +14487,34 @@
     "guide_id": 8406,
     "id": 860608,
     "name": "Wayward Merlin",
+    "rarity": 8
+  },
+  "860637": {
+    "element": "dark",
+    "guide_id": 8471,
+    "id": 860637,
+    "name": "Acnologia",
+    "rarity": 7
+  },
+  "860638": {
+    "element": "dark",
+    "guide_id": 8472,
+    "id": 860638,
+    "name": "Acnologia",
+    "rarity": 8
+  },
+  "860647": {
+    "element": "dark",
+    "guide_id": 8469,
+    "id": 860647,
+    "name": "Zeref",
+    "rarity": 7
+  },
+  "860648": {
+    "element": "dark",
+    "guide_id": 8470,
+    "id": 860648,
+    "name": "Zeref",
     "rarity": 8
   },
   "870034": {
