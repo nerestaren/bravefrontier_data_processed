@@ -12900,6 +12900,20 @@
     "name": "Gajeel Redfox",
     "rarity": 8
   },
+  "830657": {
+    "element": "earth",
+    "guide_id": 8474,
+    "id": 830657,
+    "name": "Wild Warrior Bayley",
+    "rarity": 7
+  },
+  "830658": {
+    "element": "earth",
+    "guide_id": 8475,
+    "id": 830658,
+    "name": "Martial Meowster Bayley",
+    "rarity": 8
+  },
   "840003": {
     "element": "thunder",
     "guide_id": 8009,
@@ -13053,6 +13067,13 @@
     "id": 840147,
     "name": "Imperator Zedus",
     "rarity": 7
+  },
+  "840148": {
+    "element": "thunder",
+    "guide_id": 8473,
+    "id": 840148,
+    "name": "Zedus the Great",
+    "rarity": 8
   },
   "840155": {
     "element": "thunder",

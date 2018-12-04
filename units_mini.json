@@ -24010,6 +24010,36 @@
     "sbb": "14 combo massive Earth attack on all foes (enormously boosts own critical hit rate, damage relative to remaining HP), 3 combo Earth attack on single foe (consecutive uses boost damage), 50% damage reduction for 3 turns, hugely boosts Def, Rec relative to Atk for 3 turns, 100% boost to critical damage for 3 turns & 25% additional damage reduction for 3 turns",
     "ubb": "16 combo massive Earth attack on all foes (enormously boosts own critical hit rate, damage relative to remaining HP), 3 combo Earth attack on single foe (25% active Pierce on Earth, Thunder types), 100% damage reduction from all element types for 3 turns, enormously boosts Def, Rec relative to Atk for 3 turns, 100% additional damage reduction for 3 turns & enormously boosts max HP"
   },
+  "830657": {
+    "bb": "18 combo powerful Earth attack on all foes, probable KO resistance negation for 2 turns (PvP modes only), max HP reduction for 2 turns (PvP modes only), probable random status ailment infliction & damage taken hugely boosts BB gauge for 3 turns",
+    "category": 830650,
+    "cost": 52,
+    "element": "earth",
+    "es": "Probable 50% damage counter for all allies & 30% boost to Atk, Def for first 5 turns",
+    "gender": "female",
+    "guide_id": 8474,
+    "id": 830657,
+    "ls": "100% boost to Atk, Def and 80% boost to max HP of Earth types, 10% damage reduction from Fire, Earth types, damage taken hugely boosts BB gauge & damage taken may reduce foe's BB gauge fill rate for 1 turn",
+    "name": "Wild Warrior Bayley",
+    "rarity": 7,
+    "sbb": "21 combo massive Earth attack on all foes (damage relative to remaining HP), 4 combo massive Earth attack on all foes, casts stealth on self boosting own Atk and critical hit rate for 2 turns, hugely boosts Spark damage for 3 turns & damage taken hugely boosts BB gauge for 3 turns",
+    "ubb": "24 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts Spark damage for 3 turns, enormous 3 turn Atk, Def reduction & damage taken enormously boosts BB gauge and enormously restores HP for 3 turns"
+  },
+  "830658": {
+    "bb": "20 combo powerful Earth attack on all foes, probable KO resistance negation for 2 turns (PvP modes only), considerable max HP reduction for 2 turns (PvP modes only), probable random status ailment infliction, damage taken hugely boosts BB gauge for 3 turns & adds probable 2 turn Atk, Def reduction counter for 3 turns",
+    "category": 830650,
+    "cost": 60,
+    "element": "earth",
+    "es": "Probable 50% damage counter for all allies, 50% boost to Atk, Def for first 5 turns, greatly boosts critical damage & adds 20 combo (BB) / 26 combo (SBB) powerful Earth attack on all foes to BB/SBB",
+    "gender": "female",
+    "guide_id": 8475,
+    "id": 830658,
+    "ls": "120% boost to Atk, Def and 100% boost to max HP of Earth types, 20% damage reduction from Fire, Earth types, damage taken hugely boosts BB gauge, damage taken may reduce foe's BB gauge fill rate for 1 turn, 50% damage reduction from all element types for first 2 turns & enormously boosts ABP and CBP gain",
+    "name": "Martial Meowster Bayley",
+    "rarity": 8,
+    "sbb": "23 combo massive Earth attack on all foes (damage relative to remaining HP), 4 combo massive Earth attack on single foe, casts stealth on self boosting own Atk and critical hit rate for 2 turns, hugely boosts Spark damage for 3 turns & damage taken hugely boosts BB gauge and may considerably restore HP for 3 turns",
+    "ubb": "26 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts Spark damage for 3 turns, enormous Spark vulnerability infliction for 3 turns, enormous 3 turn Atk, Def reduction & damage taken enormously boosts BB gauge and enormously restores HP for 3 turns"
+  },
   "840003": {
     "bb": "3 combo Thunder elemental attack on all enemies",
     "category": 840000,
@@ -24290,6 +24320,21 @@
     "rarity": 7,
     "sbb": "12 combo powerful Thunder and Light attack on all foes, boosts critical and Spark damage for 3 turns & chance of reducing enemies' Atk and Def for 1 turn",
     "ubb": "14 combo massive Thunder and Light attack on all foes, huge boost to critical damage, Spark damage & Elemental Weakness damage for 3 turns"
+  },
+  "840148": {
+    "bb": "20 combo powerful Thunder, Light attack on all foes, boosts own max HP, enormously boosts Spark damage for 3 turns, Spark damage considerably boosts BB gauge for 3 turns, adds probable resistance against 1 KO attack & negates critical and elemental damage for 2 turns",
+    "category": 840140,
+    "cost": 60,
+    "element": "thunder",
+    "es": "Considerably boosts Spark damage and greatly boosts critical damage when Argeus is equipped, 20% boost to all parameters and 10% reduction to damage received for all allies & raises Atk parameter limits to 180000",
+    "gender": "male",
+    "guide_id": 8473,
+    "id": 840148,
+    "ls": "100% boost to all parameters, boosts critical hit rate, hugely boosts Spark and critical damage, negates Def ignoring effects, adds probable resistance against 1 KO attack & raises Atk parameter limits to 130000",
+    "name": "Zedus the Great",
+    "rarity": 8,
+    "sbb": "17 combo powerful Thunder, Light attack on all foes, 10 combo powerful Thunder attack on all foes, enormously boosts Spark damage for 3 turns, greatly boosts critical damage for 3 turns, hugely boosts elemental damage for 3 turns & probable huge 2 turn Atk, Def reduction",
+    "ubb": "20 combo massive Thunder, Light attack on all foes, 20 combo massive Thunder attack on all foes, enormously boosts Spark, critical and elemental damage for 3 turns & activates BB/SBB/UBB twice for 1 turn"
   },
   "840155": {
     "bb": "Restores HP & removes all status ailments and negates them for 3 turns",

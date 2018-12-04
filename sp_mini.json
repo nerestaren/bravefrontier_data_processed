@@ -10801,6 +10801,61 @@
       "desc": "Adds huge boost to BC efficacy for 3 turns effect to BB/SBB"
     }
   ],
+  "830658": [
+    {
+      "bp": 15,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 25,
+      "desc": "Resistance against 1 KO attack"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances LS's parameter boost effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances SBB's boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows SBB's base effects to last for 1 additional turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds great boost to max HP effect to BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable random status ailment infliction effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds great max HP reduction for 2 turns (PvP modes only) effect to SBB"
+    },
+    {
+      "bp": 25,
+      "dependency": true,
+      "desc": "Adds probable KO resistance negation for 2 turns (PvP modes only) effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds considerable boost to Spark damage for Earth types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds probable huge 2 turn Atk, Def reduction effect to BB/SBB"
+    }
+  ],
   "840048": [
     {
       "bp": 10,
@@ -10893,6 +10948,56 @@
     {
       "bp": 30,
       "desc": "Allows UBB effects to last 1 more turn"
+    }
+  ],
+  "840148": [
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Hugely boosts critical hit damage"
+    },
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": "Negates elemental and critical damage"
+    },
+    {
+      "bp": 20,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 30,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": ""
+    },
+    {
+      "bp": 30,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": ""
     }
   ],
   "840178": [
