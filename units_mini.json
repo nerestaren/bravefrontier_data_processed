@@ -23328,6 +23328,21 @@
     "sbb": "28 combo powerful Earth attack on all foes, all status ailments negated, boosts BB gauge fill rate & gradually recovers BB gauge over 3 turns",
     "ubb": "35 combo massive Earth attack on all foes, all status ailments removed and negated & massively recovers BB gauge over 3 turns"
   },
+  "830148": {
+    "bb": "16 combo powerful Earth attack on all foes, enormously boosts BB gauge for 5 turns, removes all status ailments and Atk, Def, Rec reduction effects, negates all status ailments and Atk, Def, Rec reduction effects for 5 turns & adds probable 1 turn Atk, Def reduction effects to attack for 5 turns",
+    "category": 830140,
+    "cost": 60,
+    "element": "earth",
+    "es": "Adds probable Spark critical and enormously reduces BB gauge consumed during BB when Pallya is equipped, 30% boost to Atk, max HP and slightly reduces BB gauge required for BB for all allies & probable resistance against 2 KO attacks",
+    "gender": "female",
+    "guide_id": 8479,
+    "id": 830148,
+    "ls": "120% boost to Atk, max HP, 30% boost to critical hit rate, enormously boosts elemental damage, greatly boosts BB Atk, greatly reduces BB gauge required for BB & negates critical and elemental damage",
+    "name": "Andaria the Swift",
+    "rarity": 8,
+    "sbb": "30 combo powerful Earth attack on all foes, enormously boosts BB Atk for 3 turns, enormously boosts elemental damage for 3 turns, adds probable Spark critical to self for 2 turns, Spark damage boosts BB gauge for 3 turns & adds probable evasion for 2 turns",
+    "ubb": "35 combo massive Earth attack on all foes, enormously boosts BB gauge for 5 turns, enormously boosts elemental damage for 5 turns, enormously boosts own Spark damage for 5 turns, activates BB/SBB/UBB twice for 2 turns & adds probable evasion for 5 turns"
+  },
   "830177": {
     "bb": "3 combo powerful Fire, Earth attack on all foes, 50% damage reduction on self for 2 turns & adds Fire, Earth elements to attack for 3 turns",
     "category": 830170,
@@ -27194,6 +27209,36 @@
     "sbb": "22 combo powerful Dark attack on all foes, Spark damage considerably restores HP for 3 turns, hugely boosts Def relative to Rec for 3 turns, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns & considerably boosts critical damage for 3 turns",
     "ubb": "25 combo massive Dark attack on all foes, enormously boosts Def relative to Rec for 3 turns, fully restores HP for 3 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns & enormously boosts critical damage for 3 turns"
   },
+  "860577": {
+    "bb": "50% damage reduction for 2 turns, greatly restores HP, damage taken may restore HP for 3 turns & negates all status ailments and Atk, Def, Rec reduction effects for 3 turns",
+    "category": 860570,
+    "cost": 52,
+    "element": "dark",
+    "es": "Boosts Atk, Def, Rec relative to remaining HP, probable damage reduction to 1 & damage taken may boost BB gauge",
+    "gender": "other",
+    "guide_id": 8477,
+    "id": 860577,
+    "ls": "130% boost to max HP, hugely boosts Spark damage, restores HP each turn & Spark damage slightly boosts BB gauge",
+    "name": "Kranus",
+    "rarity": 7,
+    "sbb": "5 combo powerful Light, Dark attack on all foes, 5 combo powerful Dark attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec for 3 turns, considerably boosts own Spark damage for 3 turns & hugely boosts Spark damage for 3 turns",
+    "ubb": "6 combo massive Light, Dark attack on all foes, 6 combo massive Dark attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec  for 3 turns, probability of raising allies from KO, enormously boosts Spark damage for 3 turns & 100% damage reduction from Light, Dark types for 3 turns"
+  },
+  "860578": {
+    "bb": "50% damage reduction for 2 turns, greatly restores HP, damage taken may considerably restore HP for 3 turns, negates all status ailments and Atk, Def, Rec reduction effects for 3 turns & activates Light barrier",
+    "category": 860570,
+    "cost": 60,
+    "element": "dark",
+    "es": "5% damage reduction from Light, Dark types for all allies, boosts Atk, Def, Rec relative to remaining HP, probable damage reduction to 1 & damage taken boosts BB gauge",
+    "gender": "other",
+    "guide_id": 8478,
+    "id": 860578,
+    "ls": "175% boost to max HP, enormously boosts Spark damage, considerably restores HP each turn, Spark damage considerably boosts BB gauge & 15% damage reduction",
+    "name": "Cosmic Shade Kranus",
+    "rarity": 8,
+    "sbb": "10 combo powerful Light, Dark attack on all foes, 3 combo powerful Dark attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec for 3 turns, hugely boosts own Spark damage for 3 turns, enormously boosts Spark damage for 3 turns & activates Dark barrier",
+    "ubb": "12 combo massive Light, Dark attack on all foes, 5 combo massive Dark attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec  for 3 turns, raises allies from KO, enormously boosts Spark damage for 3 turns & 100% damage reduction from Light, Dark types for 5 turns"
+  },
   "860607": {
     "bb": "25 combo powerful Dark, Light, Fire attack on single foe, powerful additional attack at turn's end for 1 turn on single foe, removes all status ailments & activates Fire barrier",
     "category": 860600,
@@ -27283,6 +27328,21 @@
     "rarity": 8,
     "sbb": "26 combo powerful Fire, Dark attack on all foes, 30 combo random massive Dark attack on all foes, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, probability of raising allies from KO, Spark damage considerably boosts BB gauge for 3 turns & enormously boosts Dark elemental damage for 3 turns",
     "ubb": "30 combo massive Fire, Dark attack on all foes, enormous 3 turn Atk, Def reduction, activates BB/SBB/UBB twice for 2 turns, enormously boosts Atk, Def, Rec, critical hit rate and Dark elemental damage for 3 turns & Spark damage hugely boosts BB gauge for 3 turns"
+  },
+  "860678": {
+    "bb": "23 combo powerful Fire, Dark attack on all foes, adds probable evasion to self for 3 turns, hugely boosts Atk, Def, Rec for 3 turns, greatly boosts OD gauge fill rate for 3 turns & boosts own max HP",
+    "category": 860670,
+    "cost": 45,
+    "element": "dark",
+    "es": "10% boost to all parameters for all allies, probable 25% damage counter, considerably boosts Spark damage & considerably boosts BB gauge each turn",
+    "gender": "other",
+    "guide_id": 8476,
+    "id": 860678,
+    "ls": "80% boost to all parameters, Spark damage boosts BB gauge, greatly boosts Spark damage & 15% damage reduction from all element types",
+    "name": "Fell Illucen & Illumina",
+    "rarity": 8,
+    "sbb": "26 combo powerful Fire, Dark attack on all foes, massive additional damage on single foe at turn's end for 1 turn, casts stealth on self boosting own Atk and critical hit rate for 2 turns, considerably boosts own Spark damage for 3 turns & slightly boosts OD gauge",
+    "ubb": "30 combo massive Fire, Dark attack on all foes, massive additional damage at turn's end for 3 turns, enormously boosts OD gauge fill rate for 5 turns, adds evasion for 1 turn & enormously boosts Spark damage for 3 turns"
   },
   "870034": {
     "category": 800034,

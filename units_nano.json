@@ -12571,6 +12571,13 @@
     "name": "Ruinous Andaria",
     "rarity": 7
   },
+  "830148": {
+    "element": "earth",
+    "guide_id": 8479,
+    "id": 830148,
+    "name": "Andaria the Swift",
+    "rarity": 8
+  },
   "830177": {
     "element": "earth",
     "guide_id": 8215,
@@ -14496,6 +14503,20 @@
     "name": "Plaguewarden Theodor",
     "rarity": 8
   },
+  "860577": {
+    "element": "dark",
+    "guide_id": 8477,
+    "id": 860577,
+    "name": "Kranus",
+    "rarity": 7
+  },
+  "860578": {
+    "element": "dark",
+    "guide_id": 8478,
+    "id": 860578,
+    "name": "Cosmic Shade Kranus",
+    "rarity": 8
+  },
   "860607": {
     "element": "dark",
     "guide_id": 8405,
@@ -14536,6 +14557,13 @@
     "guide_id": 8470,
     "id": 860648,
     "name": "Zeref",
+    "rarity": 8
+  },
+  "860678": {
+    "element": "dark",
+    "guide_id": 8476,
+    "id": 860678,
+    "name": "Fell Illucen & Illumina",
     "rarity": 8
   },
   "870034": {
