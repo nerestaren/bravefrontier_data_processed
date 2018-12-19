@@ -21823,6 +21823,36 @@
     "sbb": "24 combo powerful Fire attack on all foes, hugely boosts BB Atk for 3 turns, considerably boosts Atk relative to max HP for 3 turns, greatly restores HP & probability of raising allies from KO",
     "ubb": "Enormously reduces damage taken for 2 turns, hugely boosts max HP, hugely boosts Atk relative to max HP for 3 turns, fully restores HP for 3 turns & raises allies from KO"
   },
+  "810517": {
+    "bb": "13 combo powerful Fire, Water attack on all foes, 50% damage reduction for 1 turn, 10% damage reduction from Fire, Earth types for 2 turns & damage taken hugely boosts BB gauge and may restore HP for 3 turns",
+    "category": 810510,
+    "cost": 52,
+    "element": "fire",
+    "es": "Negates Def ignoring effects, probable resistance against 1 KO attack & probable damage reduction to 1",
+    "gender": "female",
+    "guide_id": 8480,
+    "id": 810517,
+    "ls": "150% boost to Def and 60% boost to Rec, max HP of Fire types, hugely boosts Fire elemental damage, damage taken hugely boosts BB gauge & 10% damage reduction from Fire, Earth types",
+    "name": "Annette",
+    "rarity": 7,
+    "sbb": "16 combo powerful Fire attack on all foes (damage relative to remaining HP), hugely boosts Def and enormously boosts critical hit rate for 3 turns, 50% damage reduction for 2 turns, enormously boosts Def relative to max HP for 3 turns & probable evasion for 1 turn",
+    "ubb": "22 combo massive Fire attack on all foes (damage relative to remaining HP), enormously boosts Def and critical hit rate for 3 turns, 100% damage reduction from Fire, Earth types for 3 turns, enormously boosts Def relative to max HP for 3 turns & damage taken enormously boosts BB gauge for 3 turns"
+  },
+  "810518": {
+    "bb": "15 combo powerful Fire, Water attack on all foes, 50% damage reduction for 1 turn, 15% damage reduction from Fire, Earth types for 2 turns, damage taken hugely boosts BB gauge and may considerably restore HP for 3 turns & 50% Spark damage reduction for 3 turns",
+    "category": 810510,
+    "cost": 60,
+    "element": "fire",
+    "es": "35% boost to Def, Rec of Fire types and hugely restores HP for 3 turns when guarding for all allies, negates Def ignoring effects, probable resistance against 1 KO attack & probable damage reduction to 1",
+    "gender": "female",
+    "guide_id": 8481,
+    "id": 810518,
+    "ls": "200% boost to Def and 80% boost to Rec, max HP of Fire types, enormously boosts Fire elemental damage, damage taken enormously boosts BB gauge, 20% damage reduction from Fire, Earth types & 50% Spark damage reduction",
+    "name": "Snowy Bravura Annette",
+    "rarity": 8,
+    "sbb": "18 combo powerful Fire attack on all foes (damage relative to remaining HP), hugely boosts Def and enormously boosts critical hit rate for 3 turn, 50% damage reduction for 3 turns, enormously boosts Def relative to max HP for 3 turns, probable evasion for 1 turn & activates Fire barrier",
+    "ubb": "24 combo massive Fire attack on all foes (damage relative to remaining HP), enormosuly boosts Def and critical hit rate for 5 turns, 100% damage reduction from Fire, Earth types for 5 turns, enormously boosts Def relative to max HP for 3 turns, damage taken enormously boosts BB gauge for 3 turns & enormously boosts OD gauge"
+  },
   "810525": {
     "bb": "4 combo massive Fire attack on single enemy, adds Def ignoring effect to attack for 2 turns & chance of greatly reducing enemy's Atk and for 2 turns ",
     "category": 810520,

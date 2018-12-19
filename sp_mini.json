@@ -8328,6 +8328,56 @@
       "desc": "Adds considerable Atk boost for Water, Earth types effect to BB/SBB"
     }
   ],
+  "810518": [
+    {
+      "bp": 10,
+      "desc": "100% boost to Def, max HP"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates all status ailments and Atk, Def, Rec reduction effects"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances LS's parameter boost effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous boost to critical damage effect to LS"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows BB's damage reduction effect to last for additional 2 turns"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds critical and elemental damage negation for 3 turns effect to BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds great boost to max HP effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds boost to damage reduction when guarding for 3 turns effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's Fire barrier effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds boost to Atk, Rec relative to max HP for 3 turns effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds greatly restores HP effect to BB/SBB"
+    }
+  ],
   "810528": [
     {
       "bp": 10,
@@ -14349,7 +14399,7 @@
     {
       "bp": 15,
       "dependency": true,
-      "desc": "Adds Doom effect purge from self to UBB"
+      "desc": "Adds Doom effect purge from self to BB/UBB"
     }
   ],
   "860608": [

@@ -11808,6 +11808,20 @@
     "name": "Blazing Phoenix Feng",
     "rarity": 8
   },
+  "810517": {
+    "element": "fire",
+    "guide_id": 8480,
+    "id": 810517,
+    "name": "Annette",
+    "rarity": 7
+  },
+  "810518": {
+    "element": "fire",
+    "guide_id": 8481,
+    "id": 810518,
+    "name": "Snowy Bravura Annette",
+    "rarity": 8
+  },
   "810525": {
     "element": "fire",
     "guide_id": 8123,
