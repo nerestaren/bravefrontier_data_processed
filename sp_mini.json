@@ -8568,6 +8568,56 @@
       "desc": "Adds powerful additional attack at turn's end for 3 turns effect to BB/SBB"
     }
   ],
+  "810618": [
+    {
+      "bp": 15,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Considerably reduces BB gauge required for BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances BB's boost to BB gauge effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances SBB's BB gauge boost during Spark effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds slight boost to OD gauge per ally (up to 12% max) effect to BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds status ailment removal effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds enormous boost to BB Atk for 3 turns effect to SBB"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds huge boost to Atk, Def, Rec and critical hit rate for 3 turns effect to BB/SBB"
+    }
+  ],
   "810628": [
     {
       "bp": 10,
@@ -10194,6 +10244,48 @@
       "bp": 10,
       "dependency": true,
       "desc": "Enhances success rate of BB/SBB's activating BB/SBB/UBB twice for 1 turn effect and allows it to last for additional turn"
+    }
+  ],
+  "830318": [
+    {
+      "bp": 10,
+      "desc": "80% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerably boosts Atk when HP is over 50%"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Greatly raises normal hit amount"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds great boost to own Atk, Def, Rec for 3 turns effect to SBB"
+    },
+    {
+      "bp": 40,
+      "desc": "Adds considerable raise to normal hit amount and normal attacks hit all foes for 3 turns effect to SBB/UBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's boost to own Spark damage effect"
+    },
+    {
+      "bp": 10,
+      "desc": "Enhances SBB's damage boost against status afflicted foes effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds 40 combo massive Earth attack on all foes effect to UBB"
     }
   ],
   "830328": [

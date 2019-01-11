@@ -11892,6 +11892,20 @@
     "name": "Katsuki Bakugo",
     "rarity": 8
   },
+  "810617": {
+    "element": "fire",
+    "guide_id": 8482,
+    "id": 810617,
+    "name": "Kagiya",
+    "rarity": 7
+  },
+  "810618": {
+    "element": "fire",
+    "guide_id": 8483,
+    "id": 810618,
+    "name": "Sparkslinger Kagiya",
+    "rarity": 8
+  },
   "810627": {
     "element": "fire",
     "guide_id": 8458,
@@ -12682,6 +12696,13 @@
     "id": 830317,
     "name": "Monster Hunter Avani",
     "rarity": 7
+  },
+  "830318": {
+    "element": "earth",
+    "guide_id": 8484,
+    "id": 830318,
+    "name": "Wild Avenger Avani",
+    "rarity": 8
   },
   "830325": {
     "element": "earth",
