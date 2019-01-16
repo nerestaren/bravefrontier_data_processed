@@ -25101,6 +25101,36 @@
     "sbb": "15 combo massive Thunder attack on single foe (or 5% damage of foes' max HP), 4 combo powerful Thunder attack on single foe (damage relative to remaining HP), probable huge 2 turn Atk, Def reduction, fills own BB gauge to max, boosts Spark damage of Thunder types for 3 turns & hugely boosts Atk relative to Def for 3 turns",
     "ubb": "20 combo massive Thunder attack on all foes, hugely boosts damage dealt against status afflicted foes for 3 turns, enormously boosts Thunder elemental damage for 3 turns, activates BB/SBB/UBB twice for 1 turn, enormously boosts Spark damage for 3 turns & adds random status ailment infliction to attack for 3 turns"
   },
+  "840657": {
+    "bb": "30 combo massive random Thunder attack, hugely boosts Atk, Def relative to Rec for 3 turns, adds probable 1 turn Atk, Def reduction effects to attack for 3 turn, probable KO resistance negation for 2 turns (PvP modes only) & reduces active healing for 2 turns (PvP modes only)",
+    "category": 840650,
+    "cost": 52,
+    "element": "thunder",
+    "es": "Negates all status ailments for all allies & 30% boost to Atk, Def for first 5 turns",
+    "gender": "female",
+    "guide_id": 8485,
+    "id": 840657,
+    "ls": "100% boost to Atk, Def and 80% boost to max HP for Thunder types, 10% damage reduction from Water, Thunder types, enormously boosts BC efficacy & enormously boosts BB Atk",
+    "name": "Storm Shaman Fennia",
+    "rarity": 7,
+    "sbb": "17 combo massive Thunder attack on all foes (damage relative to remaining HP), 3 combo massive Thunder attack on single foe, enormously boosts BB Atk for 3 turn, hugely boosts Atk, Def relative to Rec for 3 turns & probable 2 turn Atk, Def reduction",
+    "ubb": "20 combo massive Thunder attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec, critical hit rate, BB Atk and critical damage for 3 turns & adds probable 1 turn Atk, Def reduction effects to attack for 5 turns"
+  },
+  "840658": {
+    "bb": "30 combo massive random Thunder attack, hugely boosts Atk, Def relative to Rec for 3 turns, adds probable 1 turn Atk, Def reduction effects to attack for 3 turns, adds probable random status ailments to attack for 3 turns, probable KO resistance negation for 2 turns (PvP modes only) & reduces active healing for 2 turns (PvP modes only)",
+    "category": 840650,
+    "cost": 60,
+    "element": "thunder",
+    "es": "Negates all status ailments for all allies, 50% boost to Atk, Def for first 5 turns, considerably boosts Spark damage & adds 1 combo (BB) / 21 combo (SBB) powerful Thunder attack on all foes to BB/SBB",
+    "gender": "female",
+    "guide_id": 8486,
+    "id": 840658,
+    "ls": "120% boost to Atk, Def and 100% boost to max HP for Thunder types, 20% damage reduction from Water, Thunder types, enormously boosts BC efficacy, enormously boosts BB Atk, 50% damage reduction from all element types for first 2 turns & enormously boosts ABP and CBP gain",
+    "name": "Tempest Prophet Fennia",
+    "rarity": 8,
+    "sbb": "19 combo massive Thunder attack on all foes (damage relative to remaining HP), 3 combo massive Thunder attack on single foe, enormously boosts BB Atk for 3 turns, hugely boosts Atk, Def relative to Rec for 3 turns, probable 2 turn Atk, Def reduction & greatly boosts critical damage for 3 turns",
+    "ubb": "22 combo massive Thunder attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec, critical hit rate, BB Atk and critical damage for 3 turns, adds probable 1 turn Atk, Def reduction effects to attack for 5 turns & adds random status ailment infliction to attack for 3 turns"
+  },
   "850003": {
     "bb": "12 combo powerful Light random attack on all enemies",
     "category": 850000,

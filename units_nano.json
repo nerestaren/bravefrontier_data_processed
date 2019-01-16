@@ -13446,6 +13446,20 @@
     "name": "Noble Prince Mordred",
     "rarity": 8
   },
+  "840657": {
+    "element": "thunder",
+    "guide_id": 8485,
+    "id": 840657,
+    "name": "Storm Shaman Fennia",
+    "rarity": 7
+  },
+  "840658": {
+    "element": "thunder",
+    "guide_id": 8486,
+    "id": 840658,
+    "name": "Tempest Prophet Fennia",
+    "rarity": 8
+  },
   "850003": {
     "element": "light",
     "guide_id": 8012,
