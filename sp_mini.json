@@ -8999,32 +8999,32 @@
   "820278": [
     {
       "bp": 10,
-      "desc": "50% boost to Atk"
-    },
-    {
-      "bp": 10,
-      "desc": "50% boost to Def"
-    },
-    {
-      "bp": 15,
-      "desc": "100% boost to Spark damage"
+      "desc": "60% boost to all parameters"
     },
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Raises Spark damage boost from 100% to 120%"
-    },
-    {
-      "bp": 20,
-      "desc": "Boosts elemental damage"
+      "desc": "80% boost to all parameters"
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 130000"
+      "desc": "130% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
     },
     {
       "bp": 10,
-      "desc": "Enhances LS's 130% boost to Spark damage effect"
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable Spark vulnerability infliction for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Enhances success rate of BB's probable huge Atk, Def reduction effect"
     },
     {
       "bp": 20,
@@ -9803,6 +9803,56 @@
     {
       "bp": 10,
       "desc": "Adds status ailment removal effect to BB"
+    }
+  ],
+  "820628": [
+    {
+      "bp": 10,
+      "desc": "80% boost to Def, Rec, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerably boosts BB gauge each turn"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable enormous damage reduction"
+    },
+    {
+      "bp": 35,
+      "desc": "Enhances LS's damage reduction effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds all status ailments and Atk, Def, Rec reduction effects removal and negation for 3 turns effect to BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable random status infliction to attack for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds Water barrier effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous boost to Atk, Def, Rec relative to max HP for 3 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB's boost to BB gauge for 3 turns effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Enhances SBB's probability of raising allies from KO effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Allows BB/SBB's damage reduction effect to last for an additional turn"
     }
   ],
   "820658": [
@@ -11934,6 +11984,56 @@
     {
       "bp": 25,
       "desc": "Adds enormous Spark damage boost for 3 turns effect to BB/SBB"
+    }
+  ],
+  "840628": [
+    {
+      "bp": 15,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "170% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerably boosts BB gauge each turn"
+    },
+    {
+      "bp": 20,
+      "desc": ""
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances SBB's BB gauge boost during Spark effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds considerable OD gauge fill rate boost for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds probable 3 turn Atk, Def reduction effects to attack for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous boost to Spark damage for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's Spark damage boost for Thunder types effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds turn skip effect purge from all allies effect to UBB"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds probability of activating BB/SBB/UBB twice for 3 turns effect to SBB"
     }
   ],
   "840658": [

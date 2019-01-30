@@ -12445,6 +12445,13 @@
     "name": "Tsuyu Asui",
     "rarity": 8
   },
+  "820628": {
+    "element": "water",
+    "guide_id": 8489,
+    "id": 820628,
+    "name": "Abyssherald Saerenthis",
+    "rarity": 8
+  },
   "820657": {
     "element": "water",
     "guide_id": 8461,
@@ -13444,6 +13451,20 @@
     "guide_id": 8412,
     "id": 840608,
     "name": "Noble Prince Mordred",
+    "rarity": 8
+  },
+  "840627": {
+    "element": "thunder",
+    "guide_id": 8487,
+    "id": 840627,
+    "name": "Tevarius",
+    "rarity": 7
+  },
+  "840628": {
+    "element": "thunder",
+    "guide_id": 8488,
+    "id": 840628,
+    "name": "Storm-Bringer Tevarius",
     "rarity": 8
   },
   "840657": {
