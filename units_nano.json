@@ -12466,6 +12466,13 @@
     "name": "Grand Mitrailleur Serin",
     "rarity": 8
   },
+  "820668": {
+    "element": "water",
+    "guide_id": 8490,
+    "id": 820668,
+    "name": "Giselle Tyndalos",
+    "rarity": 8
+  },
   "830003": {
     "element": "earth",
     "guide_id": 8006,

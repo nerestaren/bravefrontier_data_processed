@@ -23149,6 +23149,21 @@
     "sbb": "25 combo massive Water attack on all foes (damage relative to remaining HP), 3 combo massive Water attack on single foe, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, considerably raises normal hit amount for 3 turns, 125% boost to critical damage for 3 turns & 50% boost to critical damage of Water types for 3 turns",
     "ubb": "30 combo massive Water attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, normal attacks hit all foes for 3 turns, considerably raises normal hit amount for 3 turns, 500% boost to critical damage for 3 turns & adds 1 extra action within the same turn\n"
   },
+  "820668": {
+    "bb": "18 combo massive Water attack on single foe (or probable 5% damage of foe's max HP), 5 combo powerful Water attack on single foe (damage relative to remaining HP), enormously boosts Water elemental damage for 3 turns, boosts OD gauge, probable random status ailment infliction & probability of purging Curse negation effect from single foe",
+    "category": 820660,
+    "cost": 60,
+    "element": "water",
+    "es": "Spark damage slightly boosts BB gauge for all allies when Réparatrice or BB Gauge Sphere is equipped, slightly boosts Water elemental damage [20%] for all allies, greatly boosts Water elemental damage, greatly boosts damage dealt against status afflicted foes & probable resistance against 1 KO attack",
+    "gender": "female",
+    "guide_id": 8490,
+    "id": 820668,
+    "ls": "200% boost to Atk and 100% boost to Def, max HP for Water types, greatly boosts BB Atk, enormously boosts Water elemental damage, 15% damage reduction from Fire, Water types & greatly boosts OD gauge fill rate",
+    "name": "Giselle Tyndalos",
+    "rarity": 8,
+    "sbb": "20 combo powerful Water attack on all foes (damage relative to remaining HP), 5 combo powerful Water attack on single foe, enormously boosts Water elemental damage for 3 turns, adds probable evasion for 2 turns, hugely boosts Atk, Def, Rec of Water types for 3 turns & probability of purging Sickness negation effect from single foe",
+    "ubb": "23 combo massive Water attack on single foe (or probable 7% damage of foe's max HP), 5 combo massive Water attack on single foe (25% active Pierce on Fire, Water types), activates BB/SBB/UBB twice for 3 turns, enormously boosts Water elemental damage for 4 turns, adds evasion for 3 turns & adds random status ailment infliction to attack for 4 turns"
+  },
   "830003": {
     "bb": "4 combo Earth elemental power attack on all enemies",
     "category": 830000,

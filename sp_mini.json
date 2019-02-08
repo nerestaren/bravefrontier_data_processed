@@ -9910,6 +9910,58 @@
       "desc": "Adds probability to perform up to 2 extra actions within the same turn effect to SBB"
     }
   ],
+  "820668": [
+    {
+      "bp": 15,
+      "desc": "120% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "170% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds probability of activating own BB/SBB/UBB twice for 1 turn effect to BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds probable elemental vulnerability infliction for 2 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows SBB's base effects to last additional 1 turn"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds enormous boost to BB Atk for 3 turns effect to SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable random status ailment infliction to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances BB/SBB's probability of purging status ailment negation effects"
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": "Adds probability of purging Paralysis negation effect to BB/UBB"
+    },
+    {
+      "bp": 25,
+      "dependency": true,
+      "desc": "Adds probability of purging Poison negation effect to BB/UBB"
+    }
+  ],
   "830048": [
     {
       "bp": 20,
