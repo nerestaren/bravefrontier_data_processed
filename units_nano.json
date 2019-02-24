@@ -12473,6 +12473,20 @@
     "name": "Giselle Tyndalos",
     "rarity": 8
   },
+  "820677": {
+    "element": "water",
+    "guide_id": 8491,
+    "id": 820677,
+    "name": "Galene",
+    "rarity": 7
+  },
+  "820678": {
+    "element": "water",
+    "guide_id": 8492,
+    "id": 820678,
+    "name": "VLKR Sentienel Galene",
+    "rarity": 8
+  },
   "830003": {
     "element": "earth",
     "guide_id": 8006,
@@ -12968,6 +12982,13 @@
     "guide_id": 8475,
     "id": 830658,
     "name": "Martial Meowster Bayley",
+    "rarity": 8
+  },
+  "830678": {
+    "element": "earth",
+    "guide_id": 8493,
+    "id": 830678,
+    "name": "Scraptech Vektor",
     "rarity": 8
   },
   "840003": {
@@ -14067,6 +14088,20 @@
     "guide_id": 8468,
     "id": 850648,
     "name": "Wendy Marvell",
+    "rarity": 8
+  },
+  "850657": {
+    "element": "light",
+    "guide_id": 8494,
+    "id": 850657,
+    "name": "Shining Dawn Vanila",
+    "rarity": 7
+  },
+  "850658": {
+    "element": "light",
+    "guide_id": 8495,
+    "id": 850658,
+    "name": "Gilded Seraph Vanila",
     "rarity": 8
   },
   "850977": {
