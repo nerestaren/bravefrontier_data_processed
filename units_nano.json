@@ -11290,6 +11290,13 @@
     "name": "Bad Lands Queen Gazolina",
     "rarity": 8
   },
+  "730257": {
+    "element": "earth",
+    "guide_id": 8502,
+    "id": 730257,
+    "name": "Zodiacal Apex Ophiuchus",
+    "rarity": 8
+  },
   "740157": {
     "element": "thunder",
     "guide_id": 8329,
@@ -11934,6 +11941,20 @@
     "name": "Righteous Sun Cayena",
     "rarity": 8
   },
+  "810708": {
+    "element": "fire",
+    "guide_id": 8503,
+    "id": 810708,
+    "name": "Demoniac Czorag",
+    "rarity": 8
+  },
+  "810900": {
+    "element": "fire",
+    "guide_id": 8496,
+    "id": 810900,
+    "name": "Orebi Ignis Geode",
+    "rarity": 8
+  },
   "811016": {
     "element": "fire",
     "guide_id": 8150,
@@ -12487,6 +12508,13 @@
     "name": "VLKR Sentienel Galene",
     "rarity": 8
   },
+  "820900": {
+    "element": "water",
+    "guide_id": 8497,
+    "id": 820900,
+    "name": "Orebi Algor Geode",
+    "rarity": 8
+  },
   "830003": {
     "element": "earth",
     "guide_id": 8006,
@@ -12989,6 +13017,13 @@
     "guide_id": 8493,
     "id": 830678,
     "name": "Scraptech Vektor",
+    "rarity": 8
+  },
+  "830900": {
+    "element": "earth",
+    "guide_id": 8498,
+    "id": 830900,
+    "name": "Orebi Terra Geode",
     "rarity": 8
   },
   "840003": {
@@ -13507,6 +13542,13 @@
     "guide_id": 8486,
     "id": 840658,
     "name": "Tempest Prophet Fennia",
+    "rarity": 8
+  },
+  "840900": {
+    "element": "thunder",
+    "guide_id": 8499,
+    "id": 840900,
+    "name": "Orebi Fulgur Geode",
     "rarity": 8
   },
   "850003": {
@@ -14104,6 +14146,13 @@
     "name": "Gilded Seraph Vanila",
     "rarity": 8
   },
+  "850900": {
+    "element": "light",
+    "guide_id": 8500,
+    "id": 850900,
+    "name": "Orebi Lux Geode",
+    "rarity": 8
+  },
   "850977": {
     "element": "light",
     "guide_id": 8364,
@@ -14676,6 +14725,13 @@
     "guide_id": 8476,
     "id": 860678,
     "name": "Fell Illucen & Illumina",
+    "rarity": 8
+  },
+  "860900": {
+    "element": "dark",
+    "guide_id": 8501,
+    "id": 860900,
+    "name": "Orebi Umbra Geode",
     "rarity": 8
   },
   "870034": {
