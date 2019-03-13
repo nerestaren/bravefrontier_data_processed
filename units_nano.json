@@ -11283,6 +11283,13 @@
     "name": "Ace Assassin Natalamé",
     "rarity": 8
   },
+  "710227": {
+    "element": "fire",
+    "guide_id": 8506,
+    "id": 710227,
+    "name": "Magma Apex Surt",
+    "rarity": 8
+  },
   "720157": {
     "element": "water",
     "guide_id": 8321,
@@ -13017,6 +13024,20 @@
     "guide_id": 8493,
     "id": 830678,
     "name": "Scraptech Vektor",
+    "rarity": 8
+  },
+  "830697": {
+    "element": "earth",
+    "guide_id": 8504,
+    "id": 830697,
+    "name": "Miell",
+    "rarity": 7
+  },
+  "830698": {
+    "element": "earth",
+    "guide_id": 8505,
+    "id": 830698,
+    "name": "Deepwood Syrinx Miell",
     "rarity": 8
   },
   "830900": {
