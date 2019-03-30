@@ -23614,19 +23614,19 @@
     "ubb": "24 combo massive Earth attack on all foes, normal attacks hit all foes for 3 turns & enormously boosts Atk for 3 turns & boosts Earth, Water, Light elemental damage for 3 turns"
   },
   "830278": {
-    "bb": "17 combo Earth attack on all foes, normal attacks hit all foes & considerably raises normal hit amount for 3 turns & adds probable great Atk reduction effect to attack for 3 turns",
+    "bb": "17 combo Earth attack on all foes (enormously boosts own critical hit rate), normal attacks hit all foes for 3 turns, considerably raises normal hit amount for 3 turns, adds probable 1 turn great Atk, Def reduction to attack for 3 turns & boosts critical damage of Earth types for 3 turns",
     "category": 830270,
-    "cost": 50,
+    "cost": 54,
     "element": "earth",
-    "es": "Considerably boosts own BB gauge each turn, considerably raises own normal hit amount, greatly boosts own Atk relative to remaining HP",
+    "es": "10% boost to all parameters of Earth types for all allies, considerably boosts own BB gauge each turn, considerably raises own normal hit amount & greatly boosts Atk relative to remaining HP",
     "gender": "male",
     "guide_id": 8253,
     "id": 830278,
-    "ls": "200% boost to Atk and 60% boost to max HP of Earth types, raises normal hit amount, hugely boosts Earth elemental damage & hugely boosts critical damage. 25% boost to all parameters of Earth Types & 15% damage reduction from Earth, Thunder types in Guild Raid",
+    "ls": "225% boost to Atk, 100% boost to max HP of Earth types, raises normal hit amount, enormously boosts Earth elemental damage & hugely boosts critical damage. 25% boost to all parameters of Earth types and 20% damage reduction from Earth, Thunder types for all allies in Guild Raid",
     "name": "Blightblade Wannahon",
     "rarity": 8,
-    "sbb": "20 combo Earth attack on all foes, normal attacks hit all foes for 3 turns, hugely boosts Atk for 3 turns, adds probable great Atk reduction effect to attack for 3 turn, boosts critical damage for 3 turns & adds Def ignore effect to attack for 2 turns",
-    "ubb": "26 combo massive Earth attack on all foes, normal attacks hit all foes for 3 turns, enormously boosts Atk for 3 turns, enormously boosts Earth elemental damage for 3 turns & additional massive attack at turn's end for 3 turns"
+    "sbb": "20 combo powerful Earth attack on all foes (damage relative to remaining HP), 3 combo powerful Earth attack on single foe, normal attacks hit all foes for 3 turns, hugely boosts Atk and critical hit rate for 3 turns, considerably boosts critical damage for 3 turns & adds Def ignore effect to attack for 3 turns",
+    "ubb": "26 combo massive Earth attack on all foes, normal attacks hit all foes for 3 turns, considerably raises normal hit amount for 3 turns, enormously boosts Atk for 3 turns, enormously boosts Earth elemental damage for 3 turns & massive additional attack at turn's end for 3 turns"
   },
   "830287": {
     "bb": "13 combo powerful Earth attack on all foes, greatly boosts Earth types' Atk, Def, Rec for 3 turns, enormously boosts Earth types' critical hit rate for 3 turns & damage taken may slightly restore HP for 3 turns",
@@ -24865,6 +24865,21 @@
     "rarity": 7,
     "sbb": "12 combo powerful Thunder attack on single foe (damage relative to remaining HP), 50% damage reduction for 1 turn & boosts Def relative to Atk and boosts Def for 3 turns",
     "ubb": "14 combo massive Thunder attack on all foes, reduces all damage to 1 for 1 turn (2 turns for self) & boosts Atk, Def and boosts Def relative to Atk for 3 turns"
+  },
+  "840318": {
+    "bb": "11 combo powerful Thunder attack on all foes, considerably boosts own max HP, 50% damage reduction for 2 turns, activates Thunder barrier, boosts damage reduction when guarding for 3 turns & enormously boosts BB gauge when guarding for 3 turns",
+    "category": 840310,
+    "cost": 54,
+    "element": "thunder",
+    "es": "Boosts damage reduction when guarding for all allies and 40% boost to Atk, Def, max HP when Eremorn's Aegis is equipped, raises Atk parameter limits to 160,000, damage taken considerably boosts BB gauge & greatly boosts Thunder elemental damage",
+    "gender": "male",
+    "guide_id": 8509,
+    "id": 840318,
+    "ls": "100% boost to Atk, Def, 100% boost to max HP, 15% damage reduction, hugely boosts Spark damage, negates all status ailments and Atk, Def, Rec reduction effects & damage taken hugely boosts BB gauge",
+    "name": "Divine Savior Mikael",
+    "rarity": 8,
+    "sbb": "10 combo powerful Thunder attack on all foes (damage relative to remaining HP), 5 combo powerful Thunder attack on single foe, 50% damage reduction for 2 turns, hugely boosts Atk, Def for 3 turns, hugely boosts Def relative to Atk for 3 turns & considerably boosts own Spark damage for 3 turns",
+    "ubb": "19 combo massive Thunder attack on all foes (damage relative to remaining HP), enormously boosts Spark damage for 3 turns, 100% damage reduction for 3 turns, enormously boosts Atk, Def for 3 turns, enormously boosts Def relative to Atk for 3 turns & enormously boosts Atk relative to Def for 3 turns"
   },
   "840325": {
     "bb": "5 combo powerful Thunder attack on single foe & probable Poison, Paralysis effects",
@@ -27718,6 +27733,36 @@
     "rarity": 8,
     "sbb": "26 combo powerful Fire, Dark attack on all foes, 30 combo random massive Dark attack on all foes, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, probability of raising allies from KO, Spark damage considerably boosts BB gauge for 3 turns & enormously boosts Dark elemental damage for 3 turns",
     "ubb": "30 combo massive Fire, Dark attack on all foes, enormous 3 turn Atk, Def reduction, activates BB/SBB/UBB twice for 2 turns, enormously boosts Atk, Def, Rec, critical hit rate and Dark elemental damage for 3 turns & Spark damage hugely boosts BB gauge for 3 turns"
+  },
+  "860657": {
+    "bb": "16 combo powerful Dark attack on all foes (enormously boosts own critical hit rate), hugely boosts Atk relative to Def for 3 turns, probable KO resistance negation for 2 turns (PvP modes only), probability of purging barrier effects from all foes (PvP modes only) & massive additional attack on single foe at turn's end for 2 turns",
+    "category": 860650,
+    "cost": 52,
+    "element": "dark",
+    "es": "Adds Def ignoring effect to attack for all allies, 30% boost to Atk, Def for first 5 turns",
+    "gender": "female",
+    "guide_id": 8507,
+    "id": 860657,
+    "ls": "100% boost to Atk, Def, 80% boost to max HP of Dark types, 10% damage reduction from Light, Dark types, enormously boosts BB gauge each turn & enormously boosts critical damage",
+    "name": "Midnight Revel Lico",
+    "rarity": 7,
+    "sbb": "18 combo massive Dark attack on all foes (damage relative to remaining HP), 4 combo massive Dark attack on single foe, casts stealth on self boosting own Atk and critical hit rate for 2 turns, greatly boosts critical damage for 3 turns & massive additional attack on single foe at turn's end for 2 turns",
+    "ubb": "22 combo massive Dark attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormously boosts critical damage for 3 turns, adds evasion for 3 turns & enormously boosts Atk relative to Def for 3 turns"
+  },
+  "860658": {
+    "bb": "18 combo powerful Dark attack on all foes (enormously boosts own critical hit rate), hugely boosts Atk relative to Def for 3 turns, probable KO resistance negation for 2 turns (PvP modes only), probability of purging barrier effects from all foes (PvP modes only), probable huge 2 turn Atk, Def reduction infliction & massive additional attack on single foe at turn's end for 2 turns",
+    "category": 860650,
+    "cost": 60,
+    "element": "dark",
+    "es": "Adds Def ignoring effect to attack for all allies, 50% boost to Atk and slightly boosts critical hit rate for all allies, 50% boost to Atk, Def for first 5 turns & adds 18 combo (BB) / 23 combo (SBB) powerful [620%] Dark attack on all foes to BB/SBB",
+    "gender": "female",
+    "guide_id": 8508,
+    "id": 860658,
+    "ls": "120% boost to Atk, Def, 100% boost to max HP of Dark types, 20% damage reduction from Light, Dark types, enormously boosts BB gauge each turn, enormously boosts critical damage, 50% damage reduction from all elements for first 2 turns & enormously boosts ABPand CBP gain",
+    "name": "Black Nocturne Lico",
+    "rarity": 8,
+    "sbb": "20 combo massive Dark attack on all foes (damage relative to remaining HP), 4 combo massive Dark attack on single foe, casts stealth on self boosting own Atk and critical hit rate for 2 turns, greatly boosts critical damage for 3 turns, hugely boosts Atk relative to Def for 3 turns & massive additional attack on single foe at turn's end for 2 turns",
+    "ubb": "24 combo massive Dark attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormously boosts critical damage for 3 turns, massive additional attack at turn's end for 3 turns, adds evasion for 3 turns & enormously boosts Atk relative to Def for 3 turns"
   },
   "860678": {
     "bb": "23 combo powerful Fire, Dark attack on all foes, adds probable evasion to self for 3 turns, hugely boosts Atk, Def, Rec for 3 turns, greatly boosts OD gauge fill rate for 3 turns & boosts own max HP",

@@ -10495,35 +10495,35 @@
   ],
   "830278": [
     {
-      "bp": 10,
-      "desc": "50% boost to Atk"
-    },
-    {
-      "bp": 10,
-      "desc": "Boosts Atk when BB gauge is over 50%"
-    },
-    {
       "bp": 20,
-      "desc": "Boosts elemental damage"
+      "desc": "Raises all parameters boost to 80%"
     },
     {
-      "bp": 20,
-      "desc": "Adds probable random status ailment infliction effect to attack"
+      "bp": 10,
+      "desc": "130% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable random status ailment infliction effect to SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
     },
     {
       "bp": 20,
       "desc": "Adds fill own BB gauge to max effect to SBB"
     },
     {
-      "bp": 20,
-      "desc": "Adds enormous critical hit rate boost for 3 turns effect to BB/SBB"
+      "bp": 25,
+      "desc": "Adds enormous Spark damage boost for 3 turns effect to BB/SBB"
     },
     {
-      "bp": 20,
-      "desc": "Enhances SBB's damage of normal attacks hit all foes effect"
-    },
-    {
-      "bp": 30,
+      "bp": 25,
       "desc": "Enhances SBB's critical damage boost effect"
     },
     {
@@ -10531,15 +10531,15 @@
       "desc": "Adds considerable Atk, Def boost for Earth types for 3 turns effect to BB/SBB"
     },
     {
-      "bp": 30,
-      "desc": "Adds damage boost against status afflicted foes effect to BB/SBB"
+      "bp": 20,
+      "desc": "Adds 200% boost to damage dealt against status afflicted foes for 3 turns effect to BB/SBB"
     },
     {
-      "bp": 40,
+      "bp": 30,
       "desc": "Adds Earth elemental damage boost for 3 turns effect to BB/SBB"
     },
     {
-      "bp": 40,
+      "bp": 30,
       "desc": "Allows SBB's buff effects to last for additional turn"
     }
   ],
@@ -11864,6 +11864,48 @@
     {
       "bp": 30,
       "desc": "Adds damage taken may slightly restore HP for 3 turns effect to BB/SBB"
+    }
+  ],
+  "840318": [
+    {
+      "bp": 10,
+      "desc": "100% boost to Atk, Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Boosts Atk, Def for 3 turns when guarding"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 30,
+      "desc": "Probable resistance against 2 KO attack"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds great boost to own Atk, Def for 3 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds huge boost to Spark damage for 3 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds enormous boost to BB gauge effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds activates Taunt and boosts own Atk, Def for 2 turns effect to BB/SBB"
     }
   ],
   "840358": [
@@ -15430,6 +15472,61 @@
     {
       "bp": 35,
       "desc": "Adds 26 combo powerful Dark attack on single foe (damage relative to remaining HP) to SBB"
+    }
+  ],
+  "860658": [
+    {
+      "bp": 15,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 25,
+      "desc": "Resistance against 1 KO attack"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances LS's parameter boost effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds slight critical and elemental vulnerability infliction for 2 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Allow SBB's base effects to last for 1 additional turn"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds critical damage boost for Dark types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds probability of purging barrier effects from all foes (PvP modes only) effect to SBB"
+    },
+    {
+      "bp": 25,
+      "dependency": true,
+      "desc": "Adds probable KO resistance negation for 2 turns (PvP modes only) effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds probable random status ailment infliction effect to BB/SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds fill own BB gauge to max effect to SBB"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds enormous Dark elemental damage boost for 3 turns effect to SBB​"
     }
   ],
   "860678": [

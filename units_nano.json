@@ -13334,6 +13334,13 @@
     "name": "Storm Champion Mikael",
     "rarity": 7
   },
+  "840318": {
+    "element": "thunder",
+    "guide_id": 8509,
+    "id": 840318,
+    "name": "Divine Savior Mikael",
+    "rarity": 8
+  },
   "840325": {
     "element": "thunder",
     "guide_id": 8180,
@@ -14739,6 +14746,20 @@
     "guide_id": 8470,
     "id": 860648,
     "name": "Zeref",
+    "rarity": 8
+  },
+  "860657": {
+    "element": "dark",
+    "guide_id": 8507,
+    "id": 860657,
+    "name": "Midnight Revel Lico",
+    "rarity": 7
+  },
+  "860658": {
+    "element": "dark",
+    "guide_id": 8508,
+    "id": 860658,
+    "name": "Black Nocturne Lico",
     "rarity": 8
   },
   "860678": {
