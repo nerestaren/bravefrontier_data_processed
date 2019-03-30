@@ -14132,6 +14132,20 @@
     "name": "All Might",
     "rarity": 8
   },
+  "850627": {
+    "element": "light",
+    "guide_id": 8510,
+    "id": 850627,
+    "name": "Sero-Anya",
+    "rarity": 7
+  },
+  "850628": {
+    "element": "light",
+    "guide_id": 8511,
+    "id": 850628,
+    "name": "Sero-Anya, Eternal Light",
+    "rarity": 8
+  },
   "850637": {
     "element": "light",
     "guide_id": 8463,
@@ -14782,5 +14796,12 @@
     "id": 870034,
     "name": "Miracle Bulb",
     "rarity": 3
+  },
+  "9850167": {
+    "element": "light",
+    "guide_id": 8187,
+    "id": 9850167,
+    "name": "Empyrean Juno-Seto G",
+    "rarity": 8
   }
 }

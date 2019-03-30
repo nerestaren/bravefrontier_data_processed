@@ -26482,6 +26482,36 @@
     "sbb": "30 combo powerful Light attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), adds all elements to attack for 3 turns, powerful additional attack at turn's end for 3 turns, hugely boosts all elemental damage for 3 turns, probable huge 2 turn Atk, Def reduction & greatly boosts critical damage for 3 turns",
     "ubb": "33 combo massive Light attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), 17 combo massive Light attack on single foe, 100% damage reduction from Light, Dark types for 3 turns, massive additional attack at turn's end for 3 turns & enormously boosts Light elemental damage for 3 turns"
   },
+  "850627": {
+    "bb": "11 combo powerful Light attack on all foes, 30 combo random massive Light attack on all foes, adds probable random status ailment infliction to attack for 3 turns, enormously boosts own BB gauge for 1 turn & 50% damage reduction for 1 turn",
+    "category": 850620,
+    "cost": 52,
+    "element": "light",
+    "es": "Restores HP each turn for all allies, adds Light barrier effect to BB/SBB, boosts Atk, Def, Rec each turn (up to 3 turns) & damage taken slightly boosts BB gauge",
+    "gender": "female",
+    "guide_id": 8510,
+    "id": 850627,
+    "ls": "100% boost to Rec, max HP, damage taken hugely boosts BB gauge, probable resistance against 1 KO attack, hugely boosts Spark damage & 10% damage reduction",
+    "name": "Sero-Anya",
+    "rarity": 7,
+    "sbb": "14 combo powerful Light attack on all foes (damage relative to remaining HP), hugely boosts Spark damage for 3 turns, 50% damage reduction for 2 turns, probability of raising allies from KO & hugely boosts Atk, Rec relative to Def for 3 turns",
+    "ubb": "18 combo massive Light attack on all foes (damage relative to remaining HP), enormously boosts Spark damage for 3 turns, activates Light barrie, probability of raising allies from KO & probable resistance against 1 KO attack"
+  },
+  "850628": {
+    "bb": "12 combo powerful Light attack on all foes, 30 combo random massive Light attack on all foes, adds probable random status ailment infliction to attack for 3 turns, enormously boosts own BB gauge for 1 turn, 50% damage reduction for 1 turn & 25% additional damage reduction for 3 turns",
+    "category": 850620,
+    "cost": 60,
+    "element": "light",
+    "es": "25% boost to all parameters for all allies, restores HP each turn for all allies, adds Light barrier effect to BB/SBB, boosts Atk, Def, Rec each turn (up to 3 turns) & damage taken boosts BB gauge",
+    "gender": "female",
+    "guide_id": 8511,
+    "id": 850628,
+    "ls": "140% boost to Rec, max HP, damage taken hugely boosts BB gauge, probable resistance against 1 KO attack, enormously boosts Spark damage, 15% damage reduction & 15% additional damage reduction",
+    "name": "Sero-Anya, Eternal Light",
+    "rarity": 8,
+    "sbb": "16 combo powerful Light attack on all foes (damage relative to remaining HP), 4 combo massive Light attack on single foe (damage relative to remaining HP), enormously boosts Spark damage for 3 turns, 50% damage reduction for 3 turns, probability of raising allies from KO & hugely boosts Atk, Rec relative to Def for 3 turns",
+    "ubb": "20 combo massive Light attack on all foes (damage relative to remaining HP), enormously boosts Spark damage for 4 turns, activates Light barrier, raises allies from KO, probable resistance against 1 KO attack & 100% additional damage reduction for 4 turns"
+  },
   "850637": {
     "bb": "12 combo powerful Light attack on all foes, boosts Atk, Def, Rec of Light types for 3 turns, activates Light barrier, greatly boosts BC efficacy for 3 turns & enormously boosts BB gauge for 3 turns",
     "category": 850630,
@@ -27803,5 +27833,20 @@
     "id": 870034,
     "name": "Miracle Bulb",
     "rarity": 3
+  },
+  "9850167": {
+    "bb": "15 combo powerful Light attack on all foes, 50% damage reduction for 1 turn, gradually restores HP for 3 turns, 15% additional damage reduction for 2 turns & negates critical and elemental damage for 2 turns",
+    "category": 850160,
+    "cost": 54,
+    "element": "light",
+    "es": "Adds Light barrier effect to BB/SBB for 3 turns, greatly boosts Rec relative to amount of HP lost, boosts Atk, Def each turn (up to 3 turns) & damage taken slightly boosts BB gauge",
+    "gender": "female",
+    "guide_id": 8187,
+    "id": 9850167,
+    "ls": "70% boost to max HP, Rec, damage taken boosts BB gauge, probable resistance against 1 KO attack, negates Def ignore effect & 15% additional damage reduction",
+    "name": "Empyrean Juno-Seto G",
+    "rarity": 8,
+    "sbb": "20 combo powerful Light attack on all foes, 50% damage reduction for 1 turn, gradually restores HP for 3 turns, probability of raising allies from KO & greatly boosts max HP",
+    "ubb": "24 combo massive Light attack on all foes, fully restores HP for 3 turns, high probability of raising allies from KO, activates Light barrier & 100% additional damage reduction for 3 turns"
   }
 }
