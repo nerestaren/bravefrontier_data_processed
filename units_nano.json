@@ -14783,6 +14783,13 @@
     "name": "Fell Illucen & Illumina",
     "rarity": 8
   },
+  "860708": {
+    "element": "dark",
+    "guide_id": 8512,
+    "id": 860708,
+    "name": "Executioner Katerin",
+    "rarity": 8
+  },
   "860900": {
     "element": "dark",
     "guide_id": 8501,

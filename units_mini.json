@@ -27230,19 +27230,19 @@
     "ubb": "20 combo massive Dark attack on all foes (damage relative to remaining HP), enormously boosts critical damage for 3 turns, hugely boosts Atk, Def relative to max HP for 3 turns, hugely boosts max HP & considerably reduces damage from Light, Dark types for 3 turns"
   },
   "860278": {
-    "bb": "18 combo Dark attack on all foes, enormously boosts Dark types' critical hit rate for 3 turns, hugely boosts Dark types' Atk, Def for 3 turns, adds probable great 1 turn Atk reduction effect to attack for 3 turns & 50% damage reduction for 2 turns",
+    "bb": "18 combo Dark attack on all foes, hugely boosts Atk, Def and enormously boosts critical hit rate of Dark types for 3 turns, adds probable great 1 turn Atk, Def reduction effect to attack for 3 turns, greatly boosts max HP & 50% damage reduction for 2 turns",
     "category": 860270,
-    "cost": 50,
+    "cost": 54,
     "element": "dark",
-    "es": "Considerably boosts critical damage, probable damage reduction to 1 & restores HP each turn",
+    "es": "10% boost to all parameters of Dark types for all allies, considerably boosts critical damage, probable damage reduction to 1 & restores HP each turn",
     "gender": "male",
     "guide_id": 8279,
     "id": 860278,
-    "ls": "200% boost to Atk, 60% boost to max HP and 30% boost to critical hit rate of Dark types, hugely boosts critical damage, hugely boosts Def, Rec when BB gauge is over 50% & hugely boosts Dark elemental damage. 25% boost to all parameters of Dark types & 20% damage reduction from Dark, Light types in Guild Raid",
+    "ls": "225% boost to Atk, 100% boost to max HP and 30% boost to critical hit rate of Dark types, hugely boosts critical damage, hugely boosts Def, Rec when BB gauge is over 50% & enormously boosts Dark elemental damage. 25% boost to all parameters of Dark types & 20% damage reduction from Dark, Light types in Guild Raid",
     "name": "Titanbane Primus Keres",
     "rarity": 8,
-    "sbb": "21 combo powerful Dark attack on all foes (damage relative to remaining HP), boosts critical damage for 3 turns, hugely boosts Atk, Def relative to max HP for 3 turns, 50% damage reduction for 2 turns & hugely boosts Dark elemental damage for 3 turns",
-    "ubb": "24 combo massive Dark attack on all foes (damage relative to remaining HP), boosts critical damage for 3 turns, greatly boosts Atk, Def relative to max HP for 3 turns, hugely boosts max HP, hugely reduces damage from Light, Dark types for 3 turns & enormously boosts Dark elemental damage for 3 turns"
+    "sbb": "21 combo powerful Dark attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def and enormously boosts critical hit rate of Dark types for 3 turns, boosts critical damage for 3 turns, hugely boosts Atk, Def relative to max HP for 3 turns, 50% damage reduction for 2 turns & enormously boosts Dark elemental damage for 3 turns",
+    "ubb": "24 combo powerful Dark attack on all foes (damage relative to remaining HP), enormously boosts critical damage for 3 turns, enourmously boosts Atk, Def relative to max HP for 3 turns, hugely boosts max HP, hugely reduces damage from Light, Dark types for 3 turns & enormously boosts Dark elemental damage for 3 turns"
   },
   "860287": {
     "bb": "13 combo powerful Dark attack on all foes, greatly boosts Atk, Def, Rec of Dark types for 3 turns, enormously boosts critical hit rate of Dark types for 3 turns & damage taken may slightly restore HP for 3 turns",
@@ -27808,6 +27808,21 @@
     "rarity": 8,
     "sbb": "26 combo powerful Fire, Dark attack on all foes, massive additional damage on single foe at turn's end for 1 turn, casts stealth on self boosting own Atk and critical hit rate for 2 turns, considerably boosts own Spark damage for 3 turns & slightly boosts OD gauge",
     "ubb": "30 combo massive Fire, Dark attack on all foes, massive additional damage at turn's end for 3 turns, enormously boosts OD gauge fill rate for 5 turns, adds evasion for 1 turn & enormously boosts Spark damage for 3 turns"
+  },
+  "860708": {
+    "bb": "10 combo massive Dark attack on single foe (or probable 5% damage of foe's max HP), 8 combo powerful Dark attack on single foe (damage relative to remaining HP), enormously boosts Dark elemental damage for 3 turns, probable huge 2 turn Atk, Def reduction infliction, boosts OD gauge & probability of purging Curse negation effect from single foe",
+    "category": 860700,
+    "cost": 60,
+    "element": "dark",
+    "es": "Spark damage slightly boosts BB gauge for all allies when Katerin's Torment or BB Gauge Sphere is equipped, slightly boosts Dark elemental damage for all allies, greatly boosts Dark elemental damage, 40% boost to Atk, Def each turn (up to 3 turns) & resistance against 1 KO attack when HP is below 40%",
+    "gender": "female",
+    "guide_id": 8512,
+    "id": 860708,
+    "ls": "200% boost to Atk, 100% boost to Def, max HP and 30% boost to critical hit rate of Dark types, hugely boosts damage against status afflicted foes, enormously boosts Dark elemental damage, 15% damage reduction from Light, Dark types & raises Atk parameter limits to 130000",
+    "name": "Executioner Katerin",
+    "rarity": 8,
+    "sbb": "20 combo powerful Dark attack on all foes (damage relative to remaining HP), 3 combo powerful Dark attack on single foe, enormously boosts Dark elemental damage for 3 turns, hugely boosts Atk and enormously boosts critical hit rate for 3 turns, enormously boosts Atk, Def relative to max HP for 3 turns & probability of purging Sickness negation effect from single foe",
+    "ubb": "11 combo massive Dark attack on single foe (or probable 7% damage of foe's max HP), 11 combo massive Dark attack on single foe (25% active Pierce on Light, Dark types), enormously boosts Atk, Def relative to max HP for 3 turns, enormous 3 turn Atk, Def reduction infliction, enormously boosts Dark elemental damage for 4 turns & adds random status ailment infliction to attack for 4 turns"
   },
   "860900": {
     "bb": "12 combo powerful Dark attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
