@@ -7630,6 +7630,57 @@
       "desc": "Allows SBB's base effects to last for additional turn"
     }
   ],
+  "740247": [
+    {
+      "bp": 15,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "30% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "170% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds max HP boost effect to BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds boost to Spark damage for Fire, Water, Earth, Light, Dark types for 3 turns effect to BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhance BB's Shield Effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds great HP restoration for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous boost to Spark damage for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds all elements to attack for 3 turns effect to BB/SBB/UBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds Non-Elemental Shield for 2 turns effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Allows UBB buff effects to last for 2 additional turns"
+    }
+  ],
   "750167": [
     {
       "bp": 10,
@@ -8874,6 +8925,48 @@
       "bp": 25,
       "dependency": true,
       "desc": "Adds probability of purging Poison negation effect to BB/UBB"
+    }
+  ],
+  "810718": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 20,
+      "desc": "Hugely boosts critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates all status ailments and Atk, Def, Rec reduction effects"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds 20% additional damage reduction for 3 turns effect to BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds great boost to own Atk, Def, Rec for 3 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds critical damage boost for Fire types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds enormously boosts BB gauge for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's boost to Atk, Def, Rec effect"
     }
   ],
   "810900": [
@@ -10208,6 +10301,56 @@
     {
       "bp": 15,
       "desc": "Adds critical vulnerability infliction for 3 turns effect to BB/SBB"
+    }
+  ],
+  "820718": [
+    {
+      "bp": 15,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "200% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerably boosts BB gauge each turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly restores HP each turn"
+    },
+    {
+      "bp": 15,
+      "desc": "probable damage reduction to 1"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates Def ignoring damage"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds remove all status ailments and Atk, Def, Rec reduction effects to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds boost to Atk, Def, Rec of all elemental types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds all elements to attack for 3 turns effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds boost to Spark damage of Fire, Earth, Thunder, Light, Dark types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds boost to OD gauge effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows BB effects to last an additional turn"
     }
   ],
   "820900": [
@@ -11631,6 +11774,52 @@
       "desc": "Adds Spark damage boosts BB gauge for 3 turns effect to BB/SBB"
     }
   ],
+  "840118": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "desc": "130% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 160000"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds great boost to critical damage and enormously boosts critical hit rate for 3 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds status ailment negation for 3 turns effect to BB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous Spark damage boost for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds probable Spark critical for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds huge Def and Atk boost relative to max HP for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds great BC, HC drop rate boost for 3 turns effect to BB/SBB"
+    }
+  ],
   "840128": [
     {
       "bp": 20,
@@ -12992,23 +13181,24 @@
   "850278": [
     {
       "bp": 10,
-      "desc": "30% boost to Atk, max HP"
+      "desc": "60% boost to all parameters"
     },
     {
-      "bp": 20,
-      "desc": "30% boost to all parameters"
+      "bp": 10,
+      "dependency": true,
+      "desc": "80% boost to all parameters"
     },
     {
       "bp": 5,
       "desc": "Considerably raises own normal hit amount"
     },
     {
-      "bp": 20,
-      "desc": "Boosts elemental damage"
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 130000"
+      "desc": "Raises Atk parameter limits to 180000"
     },
     {
       "bp": 25,
@@ -13031,8 +13221,8 @@
       "desc": "Adds damage reduction from Light, Dark types for 2 turns effect to BB/SBB"
     },
     {
-      "bp": 35,
-      "desc": "Adds normal attack hits all foes for 3 turns effect to BB/SBB"
+      "bp": 25,
+      "desc": ""
     }
   ],
   "850288": [

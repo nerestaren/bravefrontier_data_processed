@@ -11318,6 +11318,13 @@
     "name": "Lonely Apex Sheriff",
     "rarity": 8
   },
+  "740247": {
+    "element": "thunder",
+    "guide_id": 8513,
+    "id": 740247,
+    "name": "Kaiser Apex Gilgamesh",
+    "rarity": 8
+  },
   "750003": {
     "element": "light",
     "guide_id": 9999,
@@ -11338,6 +11345,13 @@
     "id": 750005,
     "name": "Omni Emperor",
     "rarity": 5
+  },
+  "750006": {
+    "element": "light",
+    "guide_id": 9997,
+    "id": 750006,
+    "name": "Rainbow Crystal",
+    "rarity": 7
   },
   "750122": {
     "element": "dark",
@@ -11955,6 +11969,13 @@
     "name": "Demoniac Czorag",
     "rarity": 8
   },
+  "810718": {
+    "element": "fire",
+    "guide_id": 8514,
+    "id": 810718,
+    "name": "Coeur Libre Marianne",
+    "rarity": 8
+  },
   "810900": {
     "element": "fire",
     "guide_id": 8496,
@@ -12513,6 +12534,20 @@
     "guide_id": 8492,
     "id": 820678,
     "name": "VLKR Sentienel Galene",
+    "rarity": 8
+  },
+  "820717": {
+    "element": "water",
+    "guide_id": 8515,
+    "id": 820717,
+    "name": "Auberi",
+    "rarity": 7
+  },
+  "820718": {
+    "element": "water",
+    "guide_id": 8516,
+    "id": 820718,
+    "name": "Plein Flair Auberi",
     "rarity": 8
   },
   "820900": {
@@ -13144,6 +13179,13 @@
     "id": 840117,
     "name": "Plasma Blaster Bonnie",
     "rarity": 7
+  },
+  "840118": {
+    "element": "thunder",
+    "guide_id": 8517,
+    "id": 840118,
+    "name": "Hyper Tank Bonnie",
+    "rarity": 8
   },
   "840124": {
     "element": "thunder",
