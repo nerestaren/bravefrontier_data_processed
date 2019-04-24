@@ -10591,37 +10591,35 @@
   "830188": [
     {
       "bp": 10,
-      "desc": "20% boost to all parameters"
-    },
-    {
-      "bp": 15,
-      "dependency": true,
-      "desc": "Raises all parameters boost from 20% to 50%"
-    },
-    {
-      "bp": 15,
-      "desc": "100% boost to Spark damage"
+      "desc": "Raises all parameters boost to 80%"
     },
     {
       "bp": 10,
-      "dependency": true,
-      "desc": "Raises Spark damage boost from 100% to 120%"
+      "desc": "120% boost to Spark damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 40,
+      "desc": "25% damage reduction from Fire, Earth Types"
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 130000"
+      "desc": "Raises Atk parameter limits to 180000"
     },
     {
       "bp": 10,
       "desc": "Removes SBB's Def, Rec self parameter reduction effects"
     },
     {
-      "bp": 25,
+      "bp": 15,
       "desc": "Enhances BB's Def boost relative to Atk for 3 turns effect"
     },
     {
-      "bp": 40,
-      "desc": "Enhances LS's success rate of BB/SBB activation effect"
+      "bp": 25,
+      "desc": "Enhances success rate of LS's BB/SBB Activation effect"
     },
     {
       "bp": 50,
@@ -10632,8 +10630,8 @@
       "desc": "Adds probable self evasion for 1 turn effect to BB"
     },
     {
-      "bp": 40,
-      "desc": "25% damage reduction from Fire, Earth Types"
+      "bp": 15,
+      "desc": "Adds passive healing and HC effectiveness reduction for 2 turns (PvP modes only) effect to SBB"
     }
   ],
   "830278": [
@@ -14192,6 +14190,60 @@
       "desc": "Adds probable random status ailment infliction effect to BB/SBB"
     }
   ],
+  "850728": [
+    {
+      "bp": 10,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerable boost to BB/SBB's activation rate"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 25,
+      "desc": "Enhances BB's probability of raising allies from KO effect"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds status ailment removal effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds huge HP restoration to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows SBB's effects to last additional 1 turn"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous boost to Spark damage for 4 turns effect to SBB"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds probability of activating BB/SBB/UBB twice for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds 45 combo powerful Light attack on all foes (damage relative to remaining HP) to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds probable KO resistance negation for 2 turns (PvP modes only) effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable random status ailment infliction to BB/SBB"
+    }
+  ],
   "850900": [
     {
       "bp": 5,
@@ -14604,38 +14656,49 @@
   ],
   "860178": [
     {
-      "bp": 20,
-      "desc": "50% boost to Atk"
+      "bp": 10,
+      "desc": "80% boost to Atk, max HP"
     },
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Boosts 50% Atk to 80% Atk"
+      "desc": "100% boost to Atk"
     },
     {
-      "bp": 30,
-      "desc": "50% boost to BB Atk"
-    },
-    {
-      "bp": 30,
-      "dependency": true,
-      "desc": "Boosts 50% BB Atk to 100% BB Atk"
+      "bp": 10,
+      "desc": "Huge BB Atk boost"
     },
     {
       "bp": 20,
-      "desc": "Raises normal hit amount"
+      "desc": "Enormously boosts elemental damage"
     },
     {
-      "bp": 40,
-      "desc": "Enhances SBB/UBB's BB Atk boost effect"
+      "bp": 5,
+      "desc": "Considerably raises own normal hit amount"
     },
     {
-      "bp": 30,
-      "desc": "Adds huge boost to Atk effect to BB/SBB"
+      "bp": 10,
+      "desc": "Considerable boost to BB/SBB's activation rate"
     },
     {
-      "bp": 30,
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds hugely boost Atk of Fires types for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds huge Atk boost for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 15,
       "desc": "Adds Def ignoring effect to attack for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds powerful attack at turn's end for 2 turns to BB/SBB"
     }
   ],
   "860238": [

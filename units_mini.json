@@ -23654,19 +23654,19 @@
     "ubb": "Massive Earth attack on all foes (damage relative to remaining HP), massive Earth attack on single foe, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit damage & enormous 3 turn Atk, Def reduction"
   },
   "830188": {
-    "bb": "Powerful Earth attack on all foes, casts Taunt and boosts own Def for 1 turn, greatly boosts Def relative to Atk for 3 turns & adds additional powerful attack at turn's end for 3 turns",
+    "bb": "Powerful Earth attack on all foes, casts Taunt and hugely boosts own Def for 2 turns, greatly boosts Def relative to Atk for 3 turns, adds additional powerful attack at turn's end for 3 turns & reduces passive healing effectiveness for 1 turn (PvP modes only)",
     "category": 830180,
-    "cost": 50,
+    "cost": 54,
     "element": "earth",
-    "es": "Hugely boosts Atk, Def, Rec relative to how low HP is, Spark damage enormously boosts BB gauge & negates elemental damage",
+    "es": "Slightly reduces BB gauge required for BB for all allies, hugely boosts Atk, Def, Rec relative to how low HP is, Spark damage enormously boosts BB gauge & negates critical and elemental damage",
     "gender": "female",
     "guide_id": 8271,
     "id": 830188,
-    "ls": "100% boost to Atk, Def, 60% boost to max HP, probable normal attack on all foes, considerably boosts BB and SBB activation rates & considerably boosts ABP and CBP gain",
+    "ls": "120% boost to Atk, Def, 80% boost to max HP, probable on all foes, 15% damage reduction from Earth, Thunder types, considerably boosts BB and SBB activation rates & considerably boosts ABP and CBP gain",
     "name": "Leona",
     "rarity": 8,
-    "sbb": "Powerful Earth attack on all foes (damage relative to remaining HP), powerful Earth attack on single foe, hugely boosts Atk, Rec relative to Def for 3 turns, adds additional powerful attack at turn's end for 3 turns, enormously boosts own Atk and slightly reduces own Def, Rec for 3 turns & boosts own Spark damage for 3 turns",
-    "ubb": "Massive Earth attack on all foes (damage relative to remaining HP), massive Earth attack on single foe, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit damage for 3 turns, enormous 3 turn Atk, Def reduction & enormously boosts own Atk, boosts own critical hit rate and hugely reduces own Def for 3 turns"
+    "sbb": "Powerful Earth attack on all foes (damage relative to remaining HP), powerful Earth attack on single foe, hugely boosts Atk, Rec relative to Def for 3 turns, adds additional powerful attack at turn's end for 3 turns, enormously boosts own Atk and slightly reduces own Def, Rec for 3 turns & considerably boosts own Spark damage for 3 turns",
+    "ubb": "Massive Earth attack on all foes (damage relative to remaining HP), massive Earth attack on single foe, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit damage for 3 turns, enormous 3 turn Atk, Def reduction & enormously boosts own Atk and considerably reduces own Def for 3 turns"
   },
   "830277": {
     "bb": "15 combo Earth attack on all foes & normal attacks may hit all foes for 3 turns & raises normal hit amount for 3 turns",
@@ -26687,6 +26687,36 @@
     "sbb": "22 combo massive Light attack on all foes (damage relative to remaining HP), 3 combo massive Light attack on single foe, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, greatly boosts critical damage for 3 turns, enormously boosts Spark damage for 3 turns & greatly boosts BC, HC, Item drop rates for 3 turns",
     "ubb": "25 combo massive Light attack on all foes (damage relative to remaining HP), adds evasion for 3 turns, enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormously boosts critical damage for 3 turns, enormously boosts Spark damage for 3 turns & adds random status ailment infliction to attack for 5 turns"
   },
+  "850727": {
+    "bb": "25 combo powerful Light attack on all foes, enormously boosts BB gauge, Spark damage considerably boosts BB gauge for 3 turns, probability of raising allies from KO & adds low probability of resistance against 1 KO attack",
+    "category": 850720,
+    "cost": 52,
+    "element": "light",
+    "es": "Probable 50% damage counter for all allies, considerably boosts Spark damage & probable damage reduction to 1",
+    "gender": "female",
+    "guide_id": 8518,
+    "id": 850727,
+    "ls": "80% boost to Atk, Def, Rec, 100% boost to max HP, enormously boosts critical damage, damage taken hugely boosts BB gauge, Spark damage considerably boosts BB gauge & negates critical and elemental damage",
+    "name": "Chizuru Kagura",
+    "rarity": 7,
+    "sbb": "27 combo powerful Light attack on all foes, 5 combo massive Light attack on single foe (damage relative to remaining HP), Spark damage considerably boosts BB gauge for 3 turns, greatly boosts critical damage for 3 turns & hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns",
+    "ubb": "30 combo massive Light attack on all foes (damage relative to remaining HP), enormously boosts Spark damage for 3 turns, Spark damage enormously boosts BB gauge for 3 turns, enormously boosts critical damage for 3 turns & enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns"
+  },
+  "850728": {
+    "bb": "38 combo powerful Light attack on all foes, enormously boosts BB gauge, Spark damage considerably boosts BB gauge for 3 turns, probability of raising allies from KO, adds low probability of resistance against 1 KO attack & boosts OD gauge",
+    "category": 850720,
+    "cost": 60,
+    "element": "light",
+    "es": "Probable 50% damage counter for all allies, negates all status ailments for all allies, considerably boosts Spark damage, probable damage reduction to 1 & probable resistance against 1 KO attack",
+    "gender": "female",
+    "guide_id": 8519,
+    "id": 850728,
+    "ls": "100% boost to Atk, Def, Rec, 120% boost to max HP, enormously boosts critical damage, damage taken hugely boosts BB gauge, Spark damage considerably boosts BB gauge, negates critical and elemental damage & 15% damage reduction from Light, Dark types",
+    "name": "Chizuru Kagura",
+    "rarity": 8,
+    "sbb": "41 combo powerful Light attack on all foes, 5 combo massive Light attack on single foe (damage relative to remaining HP), Spark damage considerably boosts BB gauge for 3 turns, greatly boosts critical damage for 3 turns, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns & adds probable evasion for 2 turns",
+    "ubb": "45 combo massive Light attack on all foes (damage relative to remaining HP), enormously boosts Spark damage for 4 turns, Spark damage enormously boosts BB gauge for 4 turns, enormously boosts critical damage for 4 turns, enormously boosts Atk, Def, Rec for 4 turns, enormously boosts critical hit rate for 3 turns & adds evasion for 3 turns"
+  },
   "850900": {
     "bb": "12 combo powerful Light attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 850900,
@@ -27172,19 +27202,19 @@
     "ubb": "20 combo massive Fire, Dark attack on all foes, enormously boosts to BB Atk for 3 turns, reduces own Def by 50% but enormously boosts own Atk for 3 turns & enormously boosts BB gauge for 3 turns"
   },
   "860178": {
-    "bb": "15 combo powerful Fire, Dark attack on all foes, greatly boosts BC efficacy for 3 turns, hugely boosts Dark elemental damage for 3 turns & adds Fire, Dark elements to attack for 3 turns",
+    "bb": "17 combo powerful Fire, Dark attack on all foes, greatly boosts BC efficacy for 3 turns, enormously boosts Fire, Dark elemental damage for 3 turns, adds all elements to attack for 3 turns & hugely boost Atk of Dark types for 3 turns",
     "category": 860170,
-    "cost": 47,
+    "cost": 54,
     "element": "dark",
-    "es": "Enormously boosts Atk relative to remaining HP & damage taken greatly boosts BB gauge",
+    "es": "50% boost to Atk of Fire, Dark types for all allies, enormously boosts Atk relative to lost HP, 20% boost to all parameters, 100% boost to Spark damage & damage taken greatly boosts BB gauge",
     "gender": "male",
     "guide_id": 8222,
     "id": 860178,
-    "ls": "80% boost to Atk, 40% boost to max HP, hugely boosts BB Atk, enormously boosts Atk when HP is low & greatly boosts BB gauge when damage taken has exceeded certain amount",
+    "ls": "150% boost to Atk, 80% boost to max HP, greatly boosts BB Atk, enormously boosts Atk when HP is low, hugely boosts Fire, Dark elemental damage & greatly boosts BB gauge when damage dealt has exceeded certain amount",
     "name": "Iori Yagami",
     "rarity": 8,
-    "sbb": "18 combo powerful Fire, Dark attack on all foes, hugely boosts BB Atk for 3 turns, hugely boosts own Atk for 3 turns & adds Fire, Dark elements to attack for 3 turns",
-    "ubb": "24 combo massive Fire, Dark attack on all foes, enormously boosts to BB Atk for 3 turns, reduces own Def by 50% but enormously boosts own Atk for 3 turns, enormously boosts Dark and Fire elemental damage for 3 turns & enormously boosts BB gauge for 3 turns"
+    "sbb": "20 combo powerful Fire, Dark attack on all foes, 6 combo massive Dark attack on single foe (damage relative to lost HP), enormously boosts BB Atk for 3 turns, enormously boosts Fire, Dark elemental damage for 3 turns, hugely boosts own Atk for 3 turns & hugely boost Atk of Dark types for 3 turns",
+    "ubb": "24 combo massive Fire, Dark attack on all foes, 6 combo massive Dark attack on single foe (damage relative to lost HP), enormously boosts to BB Atk for 3 turns, enormously boosts own Atk and and reduces own Def for 3 turns, enormously boosts Fire, Dark elemental damage for 3 turns & enormously boosts BB gauge for 3 turns"
   },
   "860186": {
     "bb": "Powerful Dark attack on all foes, fills own BB gauge to max, damage taken considerably boosts BB gauge for 3 turns & negates all status ailments for 3 turns",

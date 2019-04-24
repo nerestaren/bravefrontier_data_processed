@@ -14230,6 +14230,20 @@
     "name": "Gilded Seraph Vanila",
     "rarity": 8
   },
+  "850727": {
+    "element": "light",
+    "guide_id": 8518,
+    "id": 850727,
+    "name": "Chizuru Kagura",
+    "rarity": 7
+  },
+  "850728": {
+    "element": "light",
+    "guide_id": 8519,
+    "id": 850728,
+    "name": "Chizuru Kagura",
+    "rarity": 8
+  },
   "850900": {
     "element": "light",
     "guide_id": 8500,
