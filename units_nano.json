@@ -14846,6 +14846,27 @@
     "name": "Executioner Katerin",
     "rarity": 8
   },
+  "860727": {
+    "element": "dark",
+    "guide_id": 8522,
+    "id": 860727,
+    "name": "Orochi",
+    "rarity": 7
+  },
+  "860728": {
+    "element": "dark",
+    "guide_id": 8523,
+    "id": 860728,
+    "name": "Orochi",
+    "rarity": 8
+  },
+  "860738": {
+    "element": "dark",
+    "guide_id": 8524,
+    "id": 860738,
+    "name": "Orochi Iori",
+    "rarity": 8
+  },
   "860900": {
     "element": "dark",
     "guide_id": 8501,
