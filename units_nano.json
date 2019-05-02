@@ -11598,6 +11598,13 @@
     "name": "Kyo Kusanagi",
     "rarity": 7
   },
+  "810188": {
+    "element": "fire",
+    "guide_id": 8521,
+    "id": 810188,
+    "name": "Kyo Kusanagi",
+    "rarity": 8
+  },
   "810204": {
     "element": "fire",
     "guide_id": 8077,
@@ -14228,6 +14235,13 @@
     "guide_id": 8495,
     "id": 850658,
     "name": "Gilded Seraph Vanila",
+    "rarity": 8
+  },
+  "850708": {
+    "element": "light",
+    "guide_id": 8520,
+    "id": 850708,
+    "name": "Ordainer Hakuzo",
     "rarity": 8
   },
   "850727": {

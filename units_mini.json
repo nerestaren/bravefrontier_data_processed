@@ -21393,6 +21393,21 @@
     "sbb": "12 combo powerful Fire attack on all foes, greatly boosts Spark damage for 3 turns, greatly boosts Atk for 3 turns & adds additional attack at turn's end for 3 turns",
     "ubb": "15 combo massive Fire attack on all foes, hugely raises normal hit count for 3 turns, hugely boosts Spark damage for 3 turns & adds additional massive attack at turn's end for 3 turns"
   },
+  "810188": {
+    "bb": "19 combo Fire attack on all foes, fills own BB gauge to max, greatly boosts max HP, greatly boosts own Spark damage for 3 turns & boosts Spark damage for Fire types for 3 turns",
+    "category": 810180,
+    "cost": 54,
+    "element": "fire",
+    "es": "40% boost to all parameters when Kusanagi Sword is equipped, 35% boost to Atk, max HP of Male types, raises Atk parameter limits to 130000, considerably boosts BB Atk for 2 turns when Spark damage exceeds certain amount & negates critical, elemental damage",
+    "gender": "male",
+    "guide_id": 8521,
+    "id": 810188,
+    "ls": "150% boost to Atk, 80% boost to max HP, 150% boost to Spark damage, Spark damage considerably boosts BB gauge & 15% damage reduction from Fire, Dark types",
+    "name": "Kyo Kusanagi",
+    "rarity": 8,
+    "sbb": "22 combo powerful Fire attack on all foes (damage relative to remaining HP), 4 combo massive Fire attack on single foe, enormously boosts Atk and critical hit rate for 3 turns, hugely boosts Spark damage for 3 turns, Spark damage considerably boosts BB gauge for 3 turns & powerful additional attack at turn's end for 3 turns",
+    "ubb": "25 combo massive Fire attack on all foes (damage relative to remaining HP), 4 combo massive Fire attack on single foe, hugely raises normal hit amount for 3 turns, enormously boosts Spark damage for 3 turns, Spark damage hugely boosts BB gauge for 3 turns & massive additional attack at turn's end for 3 turns"
+  },
   "810204": {
     "bb": "11 combo Fire attack on all enemies & boost to Atk for all allies for 3 turns",
     "category": 810200,
@@ -26686,6 +26701,21 @@
     "rarity": 8,
     "sbb": "22 combo massive Light attack on all foes (damage relative to remaining HP), 3 combo massive Light attack on single foe, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, greatly boosts critical damage for 3 turns, enormously boosts Spark damage for 3 turns & greatly boosts BC, HC, Item drop rates for 3 turns",
     "ubb": "25 combo massive Light attack on all foes (damage relative to remaining HP), adds evasion for 3 turns, enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormously boosts critical damage for 3 turns, enormously boosts Spark damage for 3 turns & adds random status ailment infliction to attack for 5 turns"
+  },
+  "850708": {
+    "bb": "16 combo massive Light attack on single foe (or probable 5% damage of foe's max HP), 6 combo powerful Light attack on single foe (damage relative to remaining HP), probability of purging Curse negation effect from single foe, enormously boosts Light elemental damage for 3 turns, enormously boosts damage against status afflicted foes for 3 turns & probable random status ailment infliction",
+    "category": 850708,
+    "cost": 60,
+    "element": "light",
+    "es": "Spark damage slightly boosts BB gauge for all allies when Hakuzo's Deceit or BB Gauge Sphere is equipped, slightly boosts Light elemental damage for all allies, greatly boosts Light elemental damage, damage taken boosts BB gauge & probable random status ailment infliction when attacked",
+    "gender": "male",
+    "guide_id": 8520,
+    "id": 850708,
+    "ls": "200% boost to Atk and 100% boost to Def, max HP of Light types, 180% boost to Spark damage, enormously boosts Light elemental damage, 15% damage reduction from Light, Dark types & damage taken hugely boosts BB gauge",
+    "name": "Ordainer Hakuzo",
+    "rarity": 8,
+    "sbb": "19 combo powerful Light attack on all foes (damage relative to remaining HP), 6 combo powerful Light attack on single foe, probability of purging Sickness negation effect from single foe, enormously boosts Light elemental damage for 3 turns, enormously boosts Spark damage for 3 turns & enormously boosts Spark damage of Light types for 3 turns",
+    "ubb": "22 combo massive Light attack on single foe (or probable 7% damage of foe's max HP), 6 combo massive Light attack on single foe (25% active Pierce on Light, Dark types), enormous Spark vulnerability infliction for 4 turns, enormously boosts Light elemental damage for 4 turns, enormously boosts Spark damage for 4 turns & adds random status ailment infliction to attack for 4 turns"
   },
   "850727": {
     "bb": "25 combo powerful Light attack on all foes, enormously boosts BB gauge, Spark damage considerably boosts BB gauge for 3 turns, probability of raising allies from KO & adds low probability of resistance against 1 KO attack",
