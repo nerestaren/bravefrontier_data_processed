@@ -7912,18 +7912,26 @@
   "810178": [
     {
       "bp": 10,
-      "desc": "20% boost to Atk, Rec"
+      "desc": "Raises all parameters boost to 80%"
     },
     {
       "bp": 10,
-      "desc": "20% boost to Def, max HP"
+      "desc": "120% boost to Spark damage"
     },
     {
-      "bp": 30,
+      "bp": 20,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
       "desc": "Negates elemental damage"
     },
     {
-      "bp": 60,
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 20,
       "desc": "Adds normal attack hits all foes for 3 turns effect to BB/SBB"
     },
     {
@@ -7931,25 +7939,20 @@
       "desc": "Adds great HP restoration effect to BB/SBB"
     },
     {
-      "bp": 40,
+      "bp": 20,
       "desc": "Adds status ailment negation for 3 turns effect to BB/SBB"
     },
     {
-      "bp": 30,
+      "bp": 10,
       "desc": "Adds status ailment removal effect to BB/SBB"
     },
     {
-      "bp": 80,
-      "desc": "Probable resistance against 1 KO attack"
+      "bp": 10,
+      "desc": "Adds all elements to attack for 3 turns effect to BB/SBB/UBB"
     },
     {
-      "bp": 20,
-      "desc": "Adds considerable Atk, Def boost for Fire types for 3 turns effect to BB/SBB"
-    },
-    {
-      "bp": 20,
-      "dependency": true,
-      "desc": "Adds considerable Atk, Def boost for Fire types for 3 turns effect to BB/SBB"
+      "bp": 30,
+      "desc": "Adds considerable Atk, Def, Rec boost for Fire types for 3 turns effect to BB/SBB"
     }
   ],
   "810188": [
@@ -10595,43 +10598,47 @@
   "830178": [
     {
       "bp": 10,
-      "desc": "Boosts Def when HP is over 50%"
+      "desc": "Raises all parameters boost to 80%"
     },
     {
-      "bp": 20,
-      "desc": "40% boost to max HP"
+      "bp": 10,
+      "desc": "30% boost to Def, max HP"
     },
     {
-      "bp": 20,
-      "desc": "Enhances LS's max HP parameter boost effect"
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
     },
     {
-      "bp": 30,
-      "desc": "Considerably boosts BB Atk when HP is over 50%"
+      "bp": 10,
+      "desc": "Boosts BB Atk when HP is over 50%"
     },
     {
-      "bp": 20,
+      "bp": 10,
       "desc": "Negates all status ailments"
     },
     {
-      "bp": 30,
-      "desc": "Allows 50% damage reduction effects to last for additional turn"
+      "bp": 25,
+      "desc": "Allows BB/SBB's 50% damage reductions to last for 3 turns"
     },
     {
-      "bp": 30,
+      "bp": 15,
       "desc": "Adds Def ignoring effect to attack for 2 turns effect to BB/SBB"
     },
     {
       "bp": 20,
-      "desc": "Enhances SBB's parameters boost effect"
+      "desc": "Enhances SBB's considerable Atk, Def, Rec boost relative to max HP effect"
     },
     {
-      "bp": 40,
+      "bp": 25,
       "desc": "Adds Fire, Earth, Thunder elemental damage reduction for 3 turns effect to BB/SBB "
     },
     {
-      "bp": 40,
-      "desc": "Allows UBB's enormous damage reduction effect to last for 2 turns"
+      "bp": 20,
+      "desc": "Adds foe's BB gauge reduction effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds all elements to attack for 3 turns effect to BB/SBB/UBB"
     }
   ],
   "830188": [
@@ -16027,6 +16034,98 @@
       "bp": 25,
       "dependency": true,
       "desc": "Adds probability of purging Poison negation effect to SBB/UBB"
+    }
+  ],
+  "860728": [
+    {
+      "bp": 10,
+      "desc": "100% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Hugely boosts elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 25,
+      "desc": "Resistance against 1 KO attack"
+    },
+    {
+      "bp": 10,
+      "desc": "Enhances BB's self max HP boost effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances BB's Dark barrier effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Allows SBB's effect to last additional 1 turn"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds 24 combo powerful Dark attack on all foes to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds huge boost to Atk, Def, Rec and critical hit rate for 4 turns effect to SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances SBB/UBB's considerable Atk, Def, Rec boost relative to max HP effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds max HP boost effect to SBB/UBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds all elements to attack for 3 turns effect to BB/SBB/UBB"
+    }
+  ],
+  "860738": [
+    {
+      "bp": 10,
+      "desc": "100% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "100% boost to Spark damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Reduces BB gauge consumed during BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates Def ignoring damage"
+    },
+    {
+      "bp": 30,
+      "desc": "Probable resistance against 1 KO attack"
+    },
+    {
+      "bp": 10,
+      "desc": "Reduces increase to damage received penalty on ES"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB's boost to own Atk effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's boost to own Spark damage effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances UBB's boost to OD gauge at turn's end effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds enormous boosts to BB gauge for 5 turns effect to BB"
     }
   ],
   "860900": [
