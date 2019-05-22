@@ -27849,6 +27849,21 @@
     "sbb": "35 combo powerful Dark, Light, Fire attack on all foes, powerful additional attack at turn's end for 1 turn on all foes, damage taken greatly boosts BB gauge for 3 turns, greatly boosts own Atk relative to HP for 2 turns, hugely restores HP & activates Dark barrier",
     "ubb": "40 combo massive Dark, Light, Fire attack on all foes, massive additional attack at turn's end for 3 turns on all foes, greatly increases normal hit amount for 3 turns, activates Light barrier & enormously boosts Atk, Def, Rec for 3 turns"
   },
+  "860628": {
+    "bb": "17 combo powerful Dark attack on all foes, 50% damage reduction for 3 turns, activates Taunt and greatly boosts own Def for 2 turns, damage taken hugely boosts BB gauge for 3 turns, adds probable 2 turn Atk, Def reduction counter for 3 turns & hugely boosts Def relative to Atk for 3 turns",
+    "category": 860620,
+    "cost": 60,
+    "element": "dark",
+    "es": "Negates critical and elemental damage for all allies & damage taken may restore HP when Oath of a Sülde, Qormusta Tengri or Status Boosting Sphere is equipped, considerably boosts Spark damage for 2 turns when damage taken has exceeded certain amount, probable 50% damage counter for all allies & greatly restores HP each turn",
+    "gender": "female",
+    "guide_id": 8526,
+    "id": 860628,
+    "ls": "200% boost to Def, 130% boost to max HP, damage taken hugely boosts BB gauge and may restore HP, probable damage reduction to 1 & 20% damage reduction for 1 turn when damage taken has exceeded certain amount",
+    "name": "Spirit Abjiya Saskya",
+    "rarity": 8,
+    "sbb": "20 combo powerful Dark attack on all foes (partial HP drain), 5 combo massive Dark attack on single foe (damage relative to remaining HP), hugely boosts Atk relative to Def for 3 turns, enormously boosts Dark elemental damage for 3 turns, probable elemental vulnerability infliction for 2 turns & enormously boosts own BB gauge for 1 turn",
+    "ubb": "23 combo massive Dark attack on all foes (damage relative to remaining HP), 100% damage reduction for 4 turns, damage taken enormously boosts BB gauge for 4 turns, adds probable 2 turn Atk, Def reduction counter for 4 turns, massively boosts Def relative to Atk for 4 turns & enormously boosts OD gauge"
+  },
   "860637": {
     "bb": "16 combo powerful Dark attack on all foes, boosts own max HP, damage taken hugely boosts BB gauge for 3 turns, damage taken may considerably restore HP for 3 turns & adds probable 2 turn Atk, Def reduction counter for 3 turns",
     "category": 860630,
