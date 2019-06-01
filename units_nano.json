@@ -11297,6 +11297,13 @@
     "name": "Bad Lands Queen Gazolina",
     "rarity": 8
   },
+  "730227": {
+    "element": "earth",
+    "guide_id": 8528,
+    "id": 730227,
+    "name": "Enhanced Being Gwenevere",
+    "rarity": 8
+  },
   "730257": {
     "element": "earth",
     "guide_id": 8502,
@@ -14908,5 +14915,47 @@
     "id": 9850167,
     "name": "Empyrean Juno-Seto G",
     "rarity": 8
+  },
+  "87102601": {
+    "element": "fire",
+    "guide_id": 7001,
+    "id": 87102601,
+    "name": "Fire Golem",
+    "rarity": 4
+  },
+  "87202601": {
+    "element": "water",
+    "guide_id": 7002,
+    "id": 87202601,
+    "name": "Water Golem",
+    "rarity": 4
+  },
+  "87302601": {
+    "element": "earth",
+    "guide_id": 7003,
+    "id": 87302601,
+    "name": "Earth Golem",
+    "rarity": 4
+  },
+  "87402601": {
+    "element": "thunder",
+    "guide_id": 7004,
+    "id": 87402601,
+    "name": "Thunder Golem",
+    "rarity": 4
+  },
+  "87502601": {
+    "element": "light",
+    "guide_id": 7005,
+    "id": 87502601,
+    "name": "Light Golem",
+    "rarity": 4
+  },
+  "87602601": {
+    "element": "dark",
+    "guide_id": 7006,
+    "id": 87602601,
+    "name": "Dark Golem",
+    "rarity": 4
   }
 }

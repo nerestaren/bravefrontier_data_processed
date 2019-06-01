@@ -20834,6 +20834,21 @@
     "sbb": "27 combo powerful Water attack on all foes, negates elemental damage for 1 turn, damage taken greatly boosts BB gauge for 3 turns, hugely boosts BC efficacy for 3 turns, 50% damage reduction for 2 turns & enormously boosts BB gauge for 1 turn",
     "ubb": "31 combo massive Water attack on all foes, damage taken enormously boosts BB gauge for 3 turns, 75% damage reduction for 3 turns, enormously boosts Rec for 3 turns & enormously boosts Atk, Def relative to Rec for 3 turns"
   },
+  "730227": {
+    "bb": "11 combo powerful Earth attack on all foes, low probability of resistance against 1 KO attack, 50% damage reduction for 2 turns, damage taken hugely boosts BB gauge for 3 turns, negates critical and elemental damage for 3 turns & enormously boosts BB gauge for 3 turns",
+    "category": 730220,
+    "cost": 60,
+    "element": "earth",
+    "es": "30% boost to Atk, Def, Rec when HP is over 50% for all allies, slightly boosts critical damage for all allies, 30% boost to all parameters, negates Def ignoring effects & adds Earth barrier effect to BB/SBB",
+    "gender": "female",
+    "guide_id": 8528,
+    "id": 730227,
+    "ls": "100% boost to Atk, Def, Rec and 120% boost to max HP, 20% damage reduction for 2 turns when HP is below 70%, 15% damage reduction, hugely boosts critical damage & negates all status ailments and Atk, Def, Rec reduction effects",
+    "name": "Enhanced Being Gwenevere",
+    "rarity": 8,
+    "sbb": "5 combo powerful Earth attack on single foe, 13 combo massive Earth attack on all foes (damage relative to remaining HP), 50% damage reduction for 3 turns, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, hugely boosts critical damage for 3 turns & enormously boosts Earth elemental damage for 3 turns",
+    "ubb": "9 combo massive Earth attack on all foes (damage relative to remaining HP), high probability of resistance against 1 KO attack, 100% damage reduction for 4 turns, enormously boosts Atk, Def, Rec and critical hit rate for 4 turns, enormously boosts critical damage for 4 turns & enormously boosts Earth elemental damage for 4 turns"
+  },
   "730257": {
     "bb": "Considerably boosts own max HP, enormously boosts Atk, Def relative to max HP for 3 turns, fills own BB gauge to max, enormously boosts BB gauge & negates all status ailments and Atk, Def, Rec reduction effects for 3 turns",
     "category": 730250,
@@ -28068,5 +28083,65 @@
     "rarity": 8,
     "sbb": "20 combo powerful Light attack on all foes, 50% damage reduction for 1 turn, gradually restores HP for 3 turns, probability of raising allies from KO & greatly boosts max HP",
     "ubb": "24 combo massive Light attack on all foes, fully restores HP for 3 turns, high probability of raising allies from KO, activates Light barrier & 100% additional damage reduction for 3 turns"
+  },
+  "87102601": {
+    "category": 87102600,
+    "cost": 15,
+    "element": "fire",
+    "gender": "other",
+    "guide_id": 7001,
+    "id": 87102601,
+    "name": "Fire Golem",
+    "rarity": 4
+  },
+  "87202601": {
+    "category": 87202600,
+    "cost": 15,
+    "element": "water",
+    "gender": "other",
+    "guide_id": 7002,
+    "id": 87202601,
+    "name": "Water Golem",
+    "rarity": 4
+  },
+  "87302601": {
+    "category": 87302600,
+    "cost": 15,
+    "element": "earth",
+    "gender": "other",
+    "guide_id": 7003,
+    "id": 87302601,
+    "name": "Earth Golem",
+    "rarity": 4
+  },
+  "87402601": {
+    "category": 87402600,
+    "cost": 15,
+    "element": "thunder",
+    "gender": "other",
+    "guide_id": 7004,
+    "id": 87402601,
+    "name": "Thunder Golem",
+    "rarity": 4
+  },
+  "87502601": {
+    "category": 87502600,
+    "cost": 15,
+    "element": "light",
+    "gender": "other",
+    "guide_id": 7005,
+    "id": 87502601,
+    "name": "Light Golem",
+    "rarity": 4
+  },
+  "87602601": {
+    "category": 87602600,
+    "cost": 15,
+    "element": "dark",
+    "gender": "other",
+    "guide_id": 7006,
+    "id": 87602601,
+    "name": "Dark Golem",
+    "rarity": 4
   }
 }

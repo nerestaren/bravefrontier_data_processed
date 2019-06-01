@@ -7491,6 +7491,56 @@
       "desc": "Adds high probability of resistance against 1 KO attack effect to UBB"
     }
   ],
+  "730227": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "desc": "Hugely boosts critical hit damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly boosts elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Damage taken boosts BB gauge"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds enormous boosts to Earth elemental damage effect to LS"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds 25% additional damage reduction for 3 turns effect to BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds removes all status ailments and Atk, Def, Rec reduction effects effect to BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds 15% damage reduction from all elemental types for 2 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds probable elemental and critical vulnerability infliction for 2 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows BB effects to last an additional turn"
+    }
+  ],
   "730257": [
     {
       "bp": 10,
@@ -15808,19 +15858,19 @@
     },
     {
       "bp": 15,
-      "desc": ""
+      "desc": "Adds 20% additional damage reduction for 2 turns effect to BB"
     },
     {
       "bp": 20,
-      "desc": ""
+      "desc": "Adds Spark damage reduction for 3 turns effect to BB"
     },
     {
       "bp": 25,
-      "desc": ""
+      "desc": "Allows UBB's base effects to last for 1 additional turn"
     },
     {
       "bp": 10,
-      "desc": ""
+      "desc": "Adds highly probable Spark critical for 3 turns effect to SBB"
     },
     {
       "bp": 25,
@@ -15828,11 +15878,11 @@
     },
     {
       "bp": 25,
-      "desc": ""
+      "desc": "Adds huge boost to Atk, Def, Rec and critical hit rates of Dark types for 4 turns effect to SBB"
     },
     {
       "bp": 20,
-      "desc": ""
+      "desc": "Enhances BB's Atk to Def and SBB's Def to Atk effect"
     }
   ],
   "860638": [
