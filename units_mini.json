@@ -25486,6 +25486,21 @@
     "sbb": "19 combo massive Thunder attack on all foes (damage relative to remaining HP), 3 combo massive Thunder attack on single foe, enormously boosts BB Atk for 3 turns, hugely boosts Atk, Def relative to Rec for 3 turns, probable 2 turn Atk, Def reduction & greatly boosts critical damage for 3 turns",
     "ubb": "22 combo massive Thunder attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec, critical hit rate, BB Atk and critical damage for 3 turns, adds probable 1 turn Atk, Def reduction effects to attack for 5 turns & adds random status ailment infliction to attack for 3 turns"
   },
+  "840708": {
+    "bb": "10 combo massive Thunder attack on single foe (or probable 5% damage of foes' max HP), 10 combo powerful Thunder attack on single foe (damage relative to remaining HP), probability of purging Curse negation effect from single foe, enormously boosts Thunder elemental damage for 3 turns, boosts critical damage of Thunder types for 3 turns & probable random status ailment infliction",
+    "category": 840700,
+    "cost": 60,
+    "element": "thunder",
+    "es": "Spark damage slightly boosts BB gauge for all allies when Vrána's Calling or BB Gauge Sphere is equipped, slightly boosts Thunder elemental damage for all allies, greatly boosts damage dealt against status afflicted foes, boosts Atk, Def, Rec relative to remaining HP & probable resistance against 1 KO attack",
+    "gender": "female",
+    "guide_id": 8527,
+    "id": 840708,
+    "ls": "200% boost to Atk, 100% boost to Def, Max HP and 30% boost to critical hit rate of Thunder types, hugely boosts critical damage, enormously boosts Thunder elemental damage, 15% damage reduction from Water, Thunder types & adds probable Spark critical",
+    "name": "Mageslayer Vrána",
+    "rarity": 8,
+    "sbb": "12 combo powerful Thunder attack on all foes (damage relative to remaining HP), 12 combo powerful Thunder attack on single foe, probability of purging Sickness negation effect from single foe, enormously boosts Thunder elemental damage for 3 turns, greatly boosts critical damage for 3 turns & casts stealth on self boosting own Atk and critical hit rate for 3 turns",
+    "ubb": "15 combo massive Thunder attack on single foe (or probable 7% damage of foes' max HP), 15 combo massive Thunder attack on single foe (25% active Pierce to Water, Thunder types), enormously boosts OD gauge, enormously boosts Thunder elemental damage for 4 turns, enormously boosts critical damage for 4 turns & adds random status ailment infliction to attack for 4 turns"
+  },
   "840900": {
     "bb": "12 combo powerful Thunder attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 840900,
