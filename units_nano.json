@@ -11990,6 +11990,20 @@
     "name": "Coeur Libre Marianne",
     "rarity": 8
   },
+  "810757": {
+    "element": "fire",
+    "guide_id": 8529,
+    "id": 810757,
+    "name": "Inoko",
+    "rarity": 7
+  },
+  "810758": {
+    "element": "fire",
+    "guide_id": 8530,
+    "id": 810758,
+    "name": "Boorish Beauty Inoko",
+    "rarity": 8
+  },
   "810900": {
     "element": "fire",
     "guide_id": 8496,
@@ -14930,12 +14944,40 @@
     "name": "Fire Golem",
     "rarity": 4
   },
+  "87102602": {
+    "element": "fire",
+    "guide_id": 7007,
+    "id": 87102602,
+    "name": "Greater Fire Golem",
+    "rarity": 5
+  },
+  "87102603": {
+    "element": "fire",
+    "guide_id": 7013,
+    "id": 87102603,
+    "name": "Grand Fire Golem",
+    "rarity": 6
+  },
   "87202601": {
     "element": "water",
     "guide_id": 7002,
     "id": 87202601,
     "name": "Water Golem",
     "rarity": 4
+  },
+  "87202602": {
+    "element": "water",
+    "guide_id": 7008,
+    "id": 87202602,
+    "name": "Greater Water Golem",
+    "rarity": 5
+  },
+  "87202603": {
+    "element": "water",
+    "guide_id": 7014,
+    "id": 87202603,
+    "name": "Grand Water Golem",
+    "rarity": 6
   },
   "87302601": {
     "element": "earth",
@@ -14944,12 +14986,40 @@
     "name": "Earth Golem",
     "rarity": 4
   },
+  "87302602": {
+    "element": "earth",
+    "guide_id": 7009,
+    "id": 87302602,
+    "name": "Greater Earth Golem",
+    "rarity": 5
+  },
+  "87302603": {
+    "element": "earth",
+    "guide_id": 7015,
+    "id": 87302603,
+    "name": "Grand Earth Golem",
+    "rarity": 6
+  },
   "87402601": {
     "element": "thunder",
     "guide_id": 7004,
     "id": 87402601,
     "name": "Thunder Golem",
     "rarity": 4
+  },
+  "87402602": {
+    "element": "thunder",
+    "guide_id": 7010,
+    "id": 87402602,
+    "name": "Greater Thunder Golem",
+    "rarity": 5
+  },
+  "87402603": {
+    "element": "thunder",
+    "guide_id": 7016,
+    "id": 87402603,
+    "name": "Grand Thunder Golem",
+    "rarity": 6
   },
   "87502601": {
     "element": "light",
@@ -14958,11 +15028,39 @@
     "name": "Light Golem",
     "rarity": 4
   },
+  "87502602": {
+    "element": "light",
+    "guide_id": 7011,
+    "id": 87502602,
+    "name": "Greater Light Golem",
+    "rarity": 5
+  },
+  "87502603": {
+    "element": "light",
+    "guide_id": 7017,
+    "id": 87502603,
+    "name": "Grand Light Golem",
+    "rarity": 6
+  },
   "87602601": {
     "element": "dark",
     "guide_id": 7006,
     "id": 87602601,
     "name": "Dark Golem",
     "rarity": 4
+  },
+  "87602602": {
+    "element": "dark",
+    "guide_id": 7012,
+    "id": 87602602,
+    "name": "Greater Dark Golem",
+    "rarity": 5
+  },
+  "87602603": {
+    "element": "dark",
+    "guide_id": 7018,
+    "id": 87602603,
+    "name": "Grand Dark Golem",
+    "rarity": 6
   }
 }
