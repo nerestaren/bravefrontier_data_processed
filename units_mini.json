@@ -20834,6 +20834,21 @@
     "sbb": "27 combo powerful Water attack on all foes, negates elemental damage for 1 turn, damage taken greatly boosts BB gauge for 3 turns, hugely boosts BC efficacy for 3 turns, 50% damage reduction for 2 turns & enormously boosts BB gauge for 1 turn",
     "ubb": "31 combo massive Water attack on all foes, damage taken enormously boosts BB gauge for 3 turns, 75% damage reduction for 3 turns, enormously boosts Rec for 3 turns & enormously boosts Atk, Def relative to Rec for 3 turns"
   },
+  "720237": {
+    "bb": "24 combo powerful Water attack on all foes, negates critical and elemental damage for 3 turns, Spark damage reduction for 3 turns, boosts own Spark damage for 3 turns, enormously boosts own Atk for 3 turns & probable huge 2 turn Atk, Def reduction",
+    "category": 720230,
+    "cost": 60,
+    "element": "water",
+    "es": "30% boost to all parameters when Spark Sphere is equipped, 20% boost to all parameters for all allies, 20% boost to Spark damage for all allies, 100% boost to Spark damage & adds boosts OD gauge effect to BB/SBB",
+    "gender": "female",
+    "guide_id": 8531,
+    "id": 720237,
+    "ls": "120% boost to Def, max HP, 180% boost to Spark damage, greatly boosts Spark damage and considerably boosts Atk for 2 turns when Sparks exceed a certain amount & greatly boosts OD gauge fill rate",
+    "name": "Undefeated Apex Utheria",
+    "rarity": 8,
+    "sbb": "35 combo massive Water attack on all foes (damage relative to remaining HP), massive Water attack on single foe, enormously boosts Spark damage for 3 turns, adds highly probable Spark critical for 3 turns, Spark damage considerably boosts BB gauge for 3 turns & boosts Spark damage of Water types for 3 turns",
+    "ubb": "35 combo massive Water attack on all foes (damage relative to remaining HP), 4 combo massive Water attack on single foe, enormously boosts Atk, Def, Rec for 4 turns, enormously boosts Spark damage for 4 turns, activates BB/SBB/UBB twice for 3 turns & enormously boosts OD gauge"
+  },
   "730227": {
     "bb": "11 combo powerful Earth attack on all foes, low probability of resistance against 1 KO attack, 50% damage reduction for 2 turns, damage taken hugely boosts BB gauge for 3 turns, negates critical and elemental damage for 3 turns & enormously boosts BB gauge for 3 turns",
     "category": 730220,
