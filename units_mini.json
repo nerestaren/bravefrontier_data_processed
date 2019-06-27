@@ -21338,19 +21338,19 @@
     "ubb": "3 combo Fire attack on all foes, greatly boosts critical damage, 75% damage reduction for 1 turn & massively boosts all parameters for 3 turns"
   },
   "810148": {
-    "bb": "5 combo massive Fire attack on single foe, activates Taunt and massively boosts own Def for 1 turn, boosts damage reduction for 1 turn when guarding, 10% damage reduction from all elemental types for 1 turn, adds probable evasion for 1 turn & damage taken enormously boosts BB gauge for 1 turn",
+    "bb": "5 combo massive Fire attack on single foe (damage relative to remaining HP), activates Taunt and greatly boosts own Def for 1 turn, boosts damage reduction when guarding for 1 turn, 15% damage reduction from all elemental types for 1 turn, adds probable evasion for 1 turn & damage taken enormously boosts BB gauge for 1 turn",
     "category": 810140,
     "cost": 60,
     "element": "fire",
-    "es": "50% boost to Atk, Def, max HP and resistance against 1 KO attack when HP is below 25% when Blades of Ultor is equipped, 20% damage reduction for 2 turns when damage taken has exceeded certain amount & 10% damage reduction from normal attacks",
+    "es": "50% boost to Atk, Def, max HP and greatly boosts critical damage when Obrim is equipped, 10% damage reduction from normal attacks for all allies, resistance against 1 KO attack when HP is below 35% & 20% damage reduction for 2 turns when damage taken has exceeded certain amount",
     "gender": "male",
     "guide_id": 8402,
     "id": 810148,
-    "ls": "80% boost to max HP, 30% boost to critical hit rate, considerably boosts Atk, Def relative to remaining HP, hugely boosts critical damage, damage taken enormously boosts BB gauge & 10% damage reduction",
+    "ls": "120% boost to Atk, Def, 100% boost to max HP and 30% boost to critical hit rate, considerably boosts Atk relative to remaining HP, considerably boosts Def relative to lost HP, enormously boosts critical damage, damage taken enormously boosts BB gauge & 15% damage reduction",
     "name": "Ultor the Unbreakable",
     "rarity": 8,
-    "sbb": "5 combo powerful Fire attack on all foes (damage relative to remaining HP), massive Fire attack on single foe, enormously boosts Atk, Def and critical hit rate for 3 turns, hugely boosts Atk relative to Def for 3 turns, probable huge 1 turn Atk reduction & considerably boosts critical damage for 3 turns",
-    "ubb": "9 combo massive Fire attack on all foes (or 10% damage of foe's max HP), 100% damage reduction for 3 turns, enormously boosts Atk, Def and critical hit rate for 3 turns, enormously boosts own Atk, Def for 3 turns, high probability of resistance against 1 KO attack & enormously boosts critical damage for 3 turns"
+    "sbb": "5 combo powerful Fire attack on all foes (damage relative to remaining HP), massive Fire attack on single foe, enormously boosts Atk, Def and enormously boosts critical hit rate for 3 turns, hugely boosts Atk relative to Def for 3 turns, probable huge 2 turn Atk, Def reduction & hugely boosts critical damage for 3 turns",
+    "ubb": "9 combo massive Fire attack on all foes (damage relative to remaining HP), 100% damage reduction for 4 turns, enormously boosts Atk, Def and enormously boosts critical hit rate for 4 turns, enormously boosts own Atk, Def for 4 turns, high probability of resistance against 1 KO attack & enormously boosts critical damage for 4 turns"
   },
   "810176": {
     "bb": "13 combo powerful Fire attack on all foes, enormously boosts critical hit rate and boosts critical hit damage for 3 turns & probable great 1 turn Atk, Def reduction",
@@ -22248,6 +22248,21 @@
     "sbb": "12 combo powerful Fire attack on all foes (damage relative to remaining HP), 3 combo powerful Fire attack on single foe, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate of Fire types for 3 turns, hugely boosts critical damage for 3 turns, critical and elemental vulnerability infliction for 2 turns & 75% boost to critical damage of Fire types for 3 turns",
     "ubb": "16 combo massive Fire attack on all foes (damage relative to remaining HP), damage taken enormously boosts BB gauge for 4 turns, enormously boosts Atk, Def, Rec and enormously boosts critical hit rate for 4 turns, enormously boosts critical damage for 4 turns, fully restores HP for 4 turns & enormously boosts max HP"
   },
+  "810778": {
+    "bb": "20 combo powerful Fire attack on all foes (partial HP drain, enormously boosts critical hit rate), greatly boosts max HP, 50% damage reduction for 1 turn, 50% boost to critical damage of Fire types for 3 turns & activates Fire barrier",
+    "category": 810778,
+    "cost": 54,
+    "element": "fire",
+    "es": "Negates critical and elemental damage when Jason's Mask is equipped, boosts Atk, Def each turn (up to 4 turns) for all allies, greatly boosts Fire elemental damage, raises Atk parameter limits to 150000 & greatly boosts Atk when HP is above 50%",
+    "gender": "male",
+    "guide_id": 8536,
+    "id": 810778,
+    "ls": "100% boost to all parameters, damage taken hugely boosts BB gauge, 10% damage reduction & damage taken may considerably restore HP",
+    "name": "Yamori",
+    "rarity": 8,
+    "sbb": "23 combo powerful Fire attack on all foes (damage relative to remaining HP, enormously boosts critical hit rate), probable random status ailment infliction, 50% damage reduction for 1 turn, hugely boosts Def relative to Atk for 3 turns, greatly boosts critical damage for 3 turns & damage taken hugely boosts BB gauge for 3 turns",
+    "ubb": "27 combo massive Fire attack on all foes (partial HP drain, enormously boosts critical hit rate), enormously boosts max HP, 100% damage reduction for 3 turns, enormously boosts Def relative to Atk for 3 turns, massively boosts critical damage for 5 turns & damage taken enormously boosts BB gauge for 3 turns"
+  },
   "810900": {
     "bb": "12 combo powerful Fire attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 810900,
@@ -22556,19 +22571,19 @@
     "ubb": "18 combo Water attack on all foes, casts shield for 3 turns, boosts BB gauge fill rate for 3 turns & probable Atk, Def reduction"
   },
   "820148": {
-    "bb": "24 combo powerful Water attack on all foes, activates Water barrier, hugely restores HP for 3 turns, hugely boosts Def, Rec for 3 turns, negates all status ailments for 3 turns & negates Atk, Def, Rec reductions for 3 turns",
+    "bb": "24 combo powerful Water attack on all foes (damage relative to remaining HP), activates Water barrier, greatly restores HP for 3 turns, hugely boosts Atk, Def, Rec for 3 turns & negates all status ailments and Atk, Def, Rec reduction effects for 3 turns",
     "category": 820140,
     "cost": 60,
     "element": "water",
-    "es": "50% boost to Rec, max HP & boosts BC, HC drop rates for all allies when Tridon's Trident is equipped, 100% boost to Def for 2 turns when HP is below 50% & negates Def ignoring effect ",
+    "es": "50% boost to all parameters and boosts BC, HC drop rates for all allies when Prosklystios is equipped, 30% boost to max HP for all allies, 100% boost to Def, Rec for 2 turns when HP is below 50% & negates Def ignoring effect",
     "gender": "male",
     "guide_id": 8377,
     "id": 820148,
-    "ls": "100% boost to max HP, considerably boosts Def, Rec relative to remaining HP, enormously boosts BB Atk for 2 turns when BC collected has exceeded certain amount, 20% damage reduction for 2 turns when HC collected has exceeded certain amount & 10% damage reduction",
+    "ls": "70% boost to Atk, Def, Rec, 120% boost to max HP, considerably boosts Atk, Def, Rec relative to remaining HP, considerably boosts BB Atk for 2 turns when BC collected has exceeded certain amount, slight damage reduction for 2 turns when HC collected has exceeded certain amount & 10% damage reduction",
     "name": "Tridon the Judicious",
     "rarity": 8,
-    "sbb": "34 combo powerful Water attack on all foes, activates Non-elemental shield for 2 turns, greatly boosts BC, HC drop rate for 3 turns, hugely boosts Def, Rec for 3 turns & hugely boosts Atk, Def relative to Rec for 3 turns",
-    "ubb": "40 combo massive Water attack on all foes, activates Non-elemental shield, enormously boosts BC, HC drop rate for 3 turns, 75% damage reduction for 3 turns, enormously boosts Atk, Def relative to Rec for 3 turns & enormously boosts BB Atk for 3 turns"
+    "sbb": "34 combo powerful Water attack on all foes (damage relative to remaining HP), activates Non-elemental shield for 3 turns, greatly boosts BC, HC drop rate for 3 turns, hugely boosts Atk, Def, Rec for 3 turns, hugely boosts Atk, Def relative to Rec for 3 turns & damage taken hugely boosts BB gauge for 3 turns",
+    "ubb": "40 combo massive Water attack on all foes (damage relative to remaining HP), activates Non-elemental shield, enormously boosts BC, HC drop rate for 4 turns, 100% damage reduction for 4 turns, enormously boosts Atk, Def relative to Rec for 4 turns & enormously boosts BB Atk for 4 turns"
   },
   "820157": {
     "bb": "20 combo powerful Water attack on all foes & Spark damage restores HP and boosts BB gauge for 3 turns",
@@ -24455,6 +24470,36 @@
     "sbb": "8 combo powerful Earth attack on all foes (partial HP drain), hugely restores HP, activates Earth barrier, 15% damage reduction from all element types for 3 turns, boosts OD gauge & probability of raising allies from KO",
     "ubb": "15 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 4 turns, enormously boosts max HP, damage taken enormously boosts BB gauge for 4 turns, damage taken enormously restores HP for 4 turns, raises allies from KO"
   },
+  "830767": {
+    "bb": "6 combo powerful Earth attack on all foes (damage relative to remaining HP), boosts own max HP, damage taken may restore HP for 3 turns, activates Taunt and greatly boosts own Def for 2 turns & boosts damage reduction when guarding for 3 turns",
+    "category": 830760,
+    "cost": 52,
+    "element": "earth",
+    "es": "20% boost to all parameters, 5% damage reduction & considerably restores HP each turn",
+    "gender": "male",
+    "guide_id": 8534,
+    "id": 830767,
+    "ls": "80% boost to Atk, Def, Rec, 100% boost to max HP, probable damage reduction to 1, boosts damage reduction when guarding & damage taken may considerably restore HP",
+    "name": "Shu Tsukiyama",
+    "rarity": 7,
+    "sbb": "7 combo powerful Earth attack on all foes (damage relative to remaining HP), 3 combo powerful Earth attack on single foe (damage relative to remaining HP), considerably boosts own Atk, Def, Rec for 3 turns, probable huge 2 turn Atk, Def reduction infliction & hugely boosts Spark damage for 3 turns",
+    "ubb": "12 combo powerful Earth attack on all foes (damage relative to remaining HP), hugely boosts max HP, damage taken enormously restores HP for 3 turns, huge 3 turn Atk, Def reduction infliction & enormously boosts Spark damage for 3 turns"
+  },
+  "830768": {
+    "bb": "7 combo powerful Earth attack on all foes (damage relative to remaining HP), considerably boosts own max HP, damage taken may restore HP for 3 turns, activates Taunt and greatly boosts own Def for 2 turns, boosts damage reduction when guarding for 3 turns & slightly boosts OD gauge",
+    "category": 830760,
+    "cost": 60,
+    "element": "earth",
+    "es": "30% boost to all parameters, 20% boost to all parameters for all allies, considerably boosts Spark damage, 10% damage reduction & greatly restores HP each turn",
+    "gender": "male",
+    "guide_id": 8535,
+    "id": 830768,
+    "ls": "100% boost to Atk, Def, Rec, 120% boost to max HP, enormously boosts Spark damage, probable damage reduction to 1, boosts damage reduction when guarding & damage taken may considerably restore HP",
+    "name": "Shu Tsukiyama",
+    "rarity": 8,
+    "sbb": "8 combo powerful Earth attack on all foes (damage relative to remaining HP), 3 combo massive Earth attack on single foe (damage relative to remaining HP), considerably boosts own Atk, Def, Rec for 3 turns, probable huge 2 turn Atk, Def reduction infliction, enormously boosts Spark damage for 3 turns & hugely boosts own Spark damage to self for 3 turns",
+    "ubb": "13 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts max HP, damage taken enormously restores HP for 4 turns, huge 4 turn Atk, Def reduction infliction, enormously boosts Spark damage for 4 turns & boosts OD gauge at turn's end for 4 turns"
+  },
   "830900": {
     "bb": "12 combo powerful Earth attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 830900,
@@ -25545,6 +25590,36 @@
     "rarity": 8,
     "sbb": "12 combo powerful Thunder attack on all foes (damage relative to remaining HP), 12 combo powerful Thunder attack on single foe, probability of purging Sickness negation effect from single foe, enormously boosts Thunder elemental damage for 3 turns, greatly boosts critical damage for 3 turns & casts stealth on self boosting own Atk and critical hit rate for 3 turns",
     "ubb": "15 combo massive Thunder attack on single foe (or probable 7% damage of foes' max HP), 15 combo massive Thunder attack on single foe (25% active Pierce to Water, Thunder types), enormously boosts OD gauge, enormously boosts Thunder elemental damage for 4 turns, enormously boosts critical damage for 4 turns & adds random status ailment infliction to attack for 4 turns"
+  },
+  "840767": {
+    "bb": "30 combo random massive Thunder attack on all foes, adds probable evasion for 1 turn, adds probable 1 turn Atk, Def reduction effects to attack for 3 turns, enormously boosts own BB gauge for 1 turn & slightly boosts OD gauge",
+    "category": 840760,
+    "cost": 52,
+    "element": "thunder",
+    "es": "Greatly boosts Thunder elemental damage when Rabbit Mask or Attack Boosting sphere is equipped, boosts Atk, Def, Rec relative to remaining HP & probable damage reduction to 1",
+    "gender": "female",
+    "guide_id": 8532,
+    "id": 840767,
+    "ls": "100% boost to Atk, max HP, hugely boosts Spark damage & Spark damage boosts BB gauge and slightly restores HP",
+    "name": "Touka Kirishima",
+    "rarity": 7,
+    "sbb": "15 combo powerful Thunder attack on all foes (damage relative to remaining HP), 30 combo random massive Thunder attack on all foes, hugely boosts Atk, Def for 3 turns & Spark damage slightly restores HP and boosts BB gauge for 3 turns",
+    "ubb": "18 combo massive Thunder attack on all foes (damage relative to remaining HP), adds evasion for 3 turns,enormously boosts OD gauge, fully restores HP for 3 turns,enormously boosts Atk, Def relative to HP for 3 turns"
+  },
+  "840768": {
+    "bb": "30 combo random massive Thunder attack on all foes, adds 1 extra action for self within the same turn, adds probable evasion for 2 turns, adds probable 1 turn Atk, Def reduction effects to attack for 3 turns, enormously boosts own BB gauge for 1 turn & slightly boosts OD gauge",
+    "category": 840760,
+    "cost": 60,
+    "element": "thunder",
+    "es": "Greatly boosts Thunder elemental damage when Rabbit Mask or Attack Boosting sphere is equipped, negates all status ailments for all allies, 25% boost to Spark damage for all allies, boosts Atk, Def, Rec relative to remaining HP & probable damage reduction to 1",
+    "gender": "female",
+    "guide_id": 8533,
+    "id": 840768,
+    "ls": "140% boost to Atk, max HP, enormously boosts Spark damage, Spark damage considerably boosts BB gauge and slightly restores HP & 20% damage reduction for 1 turn when damage taken has exceeded certain amount",
+    "name": "Touka Kirishima",
+    "rarity": 8,
+    "sbb": "21 combo powerful Thunder attack on all foes (damage relative to remaining HP), 30 combo random massive Thunder attack on all foes, hugely boosts Atk, Def for 3 turns, Spark damage slightly restores HP and considerably boosts BB gauge for 3 turns & hugely boosts Atk, Def relative to HP for 3 turns",
+    "ubb": "23 combo massive Thunder attack on all foes (damage relative to remaining HP), enormously boosts OD gauge, adds evasion for 3 turns, fully restores HP for 4 turns, purges LS and ES disable effects from all allies & enormously boosts Atk, Def relative to HP for 4 turns"
   },
   "840900": {
     "bb": "12 combo powerful Thunder attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",

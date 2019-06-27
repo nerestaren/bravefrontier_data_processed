@@ -7962,23 +7962,15 @@
   "810148": [
     {
       "bp": 10,
-      "desc": "60% boost to all parameters"
+      "desc": "100% boost to all parameters"
     },
     {
       "bp": 10,
-      "desc": "30% boost to Atk, Def"
+      "desc": "150% boost to Spark damage"
     },
     {
       "bp": 10,
-      "desc": "Atk, Def boost when BB gauge is over 50%"
-    },
-    {
-      "bp": 10,
-      "desc": "100% boost to Spark damage"
-    },
-    {
-      "bp": 10,
-      "desc": "Boosts critical hit damage"
+      "desc": "Hugely boosts critical damage"
     },
     {
       "bp": 10,
@@ -7986,11 +7978,7 @@
     },
     {
       "bp": 10,
-      "desc": "Negates critical hit damage"
-    },
-    {
-      "bp": 10,
-      "desc": "Negates elemental damage"
+      "desc": "Negates critical and elemental damage"
     },
     {
       "bp": 20,
@@ -8001,12 +7989,24 @@
       "desc": "Raises Atk parameter limits to 180000"
     },
     {
-      "bp": 40,
+      "bp": 30,
       "desc": "Allows BB effects to last for 2 turns"
     },
     {
-      "bp": 30,
-      "desc": "Enhances SBB's boosts Atk relative to Def effect"
+      "bp": 20,
+      "desc": "Adds 9 combo massive Fire attack on all foes (or probable 5-10% damage of foes' max HP) to UBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds great boost to max HP effect to BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds Taunt and hugely boosts own Def for 1 turn effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds critical damage boost for Fire types for 3 turns effect to SBB"
     }
   ],
   "810178": [
@@ -8171,7 +8171,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment removal effect to BB"
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
     },
     {
       "bp": 20,
@@ -8521,7 +8521,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment removal effect to BB"
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
     },
     {
       "bp": 30,
@@ -8908,7 +8908,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment removal effect to BB"
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
     },
     {
       "bp": 20,
@@ -9173,6 +9173,52 @@
       "desc": "Adds probable KO resistance negation for 2 turns (PvP modes only) effect to BB/SBB"
     }
   ],
+  "810778": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "desc": "30% boost to Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "130% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly restores HP each turn"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Enhances SBB's huge boost to Def relative to Atk effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds 20% additional damage reduction for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds powerful attack at turn's end to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Allows BB/SBB's 50% damage reductions to last for 3 turns"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds all elemental damage reduction for 3 turns effect to BB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds resistance against 1 KO attack when HP is below 35%"
+    }
+  ],
   "810900": [
     {
       "bp": 5,
@@ -9311,51 +9357,51 @@
   "820148": [
     {
       "bp": 10,
-      "desc": "60% boost to all parameters"
+      "desc": "100% boost to all parameters"
     },
     {
       "bp": 10,
-      "desc": "30% boost to Rec, max HP"
+      "desc": "50% boost to Atk, Def, Rec when BB gauge is full"
     },
     {
       "bp": 10,
-      "desc": "50% boost to Def, Rec when BB gauge is full"
+      "desc": "150% boost to Spark damage"
     },
     {
       "bp": 10,
-      "desc": "Boosts BB Atk when HP is over 50%"
+      "desc": "150% boost to elemental damage"
     },
     {
       "bp": 10,
-      "desc": "Boosts BC, HC drop rate"
+      "desc": "Damage taken considerably boosts BB gauge"
+    },
+    {
+      "bp": 20,
+      "desc": "10% damage reduction from all element types"
     },
     {
       "bp": 10,
-      "desc": "10% damage reduction from Fire, Earth, Light types"
+      "desc": "Raises Atk parameter limits to 180000"
     },
     {
       "bp": 10,
-      "desc": "10% damage reduction from Water, Thunder, Dark types"
-    },
-    {
-      "bp": 30,
       "desc": "Adds huge boost to BC efficacy for 3 turns effect to BB/SBB"
     },
     {
       "bp": 20,
-      "desc": "Adds probable 1 turn considerable Atk reduction to attack for 3 turns effect to BB/SBB"
+      "desc": "Adds probable 2 turn Atk, Def reduction to attack for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds boost damage reduction when guarding for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB/SBB's huge Atk, Def, Rec boost effect"
     },
     {
       "bp": 30,
-      "desc": "Adds damage reduction when guarding for 3 turns effect to BB/SBB"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances BB/SBB's huge boost to Def, Rec effect"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances SBB's Earth shield effect"
+      "desc": "Adds 34 combo powerful Water attack on all foes effect to SBB"
     }
   ],
   "820158": [
@@ -10297,7 +10343,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment removal effect to BB"
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
     }
   ],
   "820628": [
@@ -10912,7 +10958,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment removal effect to BB"
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
     },
     {
       "bp": 20,
@@ -11887,6 +11933,56 @@
     {
       "bp": 25,
       "desc": "Enhances SBB's probability of raising allies from KO effect"
+    }
+  ],
+  "830768": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 15,
+      "desc": "Boosts Atk, Def, Rec relative to remaining HP"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Spark damage slightly restores HP"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates elemental and critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds 25% additional damage reduction for 3 turns effect to BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds damage taken hugely boosts BB gauge for 3 turns effect to BB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds 50% damage reduction for 2 turns effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds probable resistance against 1 KO attack to self for 1 turn effect to BB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous all elemental damage boost for 3 turns effect to SBB"
     }
   ],
   "830900": [
@@ -13065,6 +13161,56 @@
       "bp": 25,
       "dependency": true,
       "desc": "Adds probability of purging Poison negation effect to SBB/UBB"
+    }
+  ],
+  "840768": [
+    {
+      "bp": 10,
+      "desc": "100% boost to Atk, Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Hugely boosts elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds huge boost to OD gauge fill rate for 3 turns effect to BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds considerable OD gauge fill rate at turn's end for 3 turns effect to BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds enormous boost to BB gauge effect to BB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous boost to Spark damage for 4 turns effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds 21 combo powerful Thunder attack on single foe (damage relative to remaining HP) to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Allows SBB's effect to last additional 1 turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable random status infliction to attack for 3 turns effect to BB/SBB"
     }
   ],
   "840900": [
@@ -14525,7 +14671,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment removal effect to BB"
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
     },
     {
       "bp": 20,
@@ -15812,7 +15958,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment removal effect to BB"
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
     },
     {
       "bp": 10,
@@ -15859,7 +16005,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment removal effect to BB"
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
     },
     {
       "bp": 20,

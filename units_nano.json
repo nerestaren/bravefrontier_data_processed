@@ -12011,6 +12011,13 @@
     "name": "Boorish Beauty Inoko",
     "rarity": 8
   },
+  "810778": {
+    "element": "fire",
+    "guide_id": 8536,
+    "id": 810778,
+    "name": "Yamori",
+    "rarity": 8
+  },
   "810900": {
     "element": "fire",
     "guide_id": 8496,
@@ -13110,6 +13117,20 @@
     "name": "Deepwood Syrinx Miell",
     "rarity": 8
   },
+  "830767": {
+    "element": "earth",
+    "guide_id": 8534,
+    "id": 830767,
+    "name": "Shu Tsukiyama",
+    "rarity": 7
+  },
+  "830768": {
+    "element": "earth",
+    "guide_id": 8535,
+    "id": 830768,
+    "name": "Shu Tsukiyama",
+    "rarity": 8
+  },
   "830900": {
     "element": "earth",
     "guide_id": 8498,
@@ -13654,6 +13675,20 @@
     "guide_id": 8527,
     "id": 840708,
     "name": "Mageslayer Vrána",
+    "rarity": 8
+  },
+  "840767": {
+    "element": "thunder",
+    "guide_id": 8532,
+    "id": 840767,
+    "name": "Touka Kirishima",
+    "rarity": 7
+  },
+  "840768": {
+    "element": "thunder",
+    "guide_id": 8533,
+    "id": 840768,
+    "name": "Touka Kirishima",
     "rarity": 8
   },
   "840900": {
