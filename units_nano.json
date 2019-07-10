@@ -12011,6 +12011,20 @@
     "name": "Boorish Beauty Inoko",
     "rarity": 8
   },
+  "810767": {
+    "element": "fire",
+    "guide_id": 8539,
+    "id": 810767,
+    "name": "Juzo Suzuya",
+    "rarity": 7
+  },
+  "810768": {
+    "element": "fire",
+    "guide_id": 8540,
+    "id": 810768,
+    "name": "Juzo Suzuya",
+    "rarity": 8
+  },
   "810778": {
     "element": "fire",
     "guide_id": 8536,
@@ -14326,6 +14340,20 @@
     "guide_id": 8519,
     "id": 850728,
     "name": "Chizuru Kagura",
+    "rarity": 8
+  },
+  "850767": {
+    "element": "light",
+    "guide_id": 8537,
+    "id": 850767,
+    "name": "Ken Kaneki",
+    "rarity": 7
+  },
+  "850768": {
+    "element": "light",
+    "guide_id": 8538,
+    "id": 850768,
+    "name": "Ken Kaneki",
     "rarity": 8
   },
   "850900": {

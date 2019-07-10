@@ -22248,6 +22248,36 @@
     "sbb": "12 combo powerful Fire attack on all foes (damage relative to remaining HP), 3 combo powerful Fire attack on single foe, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate of Fire types for 3 turns, hugely boosts critical damage for 3 turns, critical and elemental vulnerability infliction for 2 turns & 75% boost to critical damage of Fire types for 3 turns",
     "ubb": "16 combo massive Fire attack on all foes (damage relative to remaining HP), damage taken enormously boosts BB gauge for 4 turns, enormously boosts Atk, Def, Rec and enormously boosts critical hit rate for 4 turns, enormously boosts critical damage for 4 turns, fully restores HP for 4 turns & enormously boosts max HP"
   },
+  "810767": {
+    "bb": "8 combo powerful Fire attack on all foes (damage relative to remaining HP), fills own BB gauge to max, enormously boosts own Atk for 3 turns, adds probable evasion to self for 2 turns & adds probable 1 extra action for self within the same turn for 2 turns",
+    "category": 810760,
+    "cost": 52,
+    "element": "fire",
+    "es": "Probable Spark critical, adds Def ignoring effect to attack & 15% damage reduction from normal attacks",
+    "gender": "male",
+    "guide_id": 8539,
+    "id": 810767,
+    "ls": "150% boost to Atk, 100% boost to max HP, 30% boost to critical hit rate, hugely boosts Spark damage, hugely boosts Fire elemental damage & Spark damage boosts BB gauge",
+    "name": "Juzo Suzuya",
+    "rarity": 7,
+    "sbb": "9 combo powerful Fire attack on all foes (damage relative to remaining HP), 9 combo powerful Fire attack on single foe, hugely boosts Atk, Def, Rec for 3 turns, hugely boosts Spark damage for 3 turns & hugely boosts Fire elemental damage for 3 turns",
+    "ubb": "11 combo massive Fire attack on all foes (damage relative to remaining HP), 4 combo massive Fire attack on single foe, enormously boosts Spark damage for 3 turns, enormously boosts Fire elemental damage for 3 turns & enormously boosts BB gauge for 3 turns"
+  },
+  "810768": {
+    "bb": "8 combo powerful Fire attack on single foe (damage relative to remaining HP), 8 combo massive Fire attack on single foe (damage relative to remaining HP), fills own BB gauge to max, enormously boosts own Atk for 3 turns, adds probable evasion to self for 2 turns & adds probable 1 extra action to self within the same turn for 2 turns",
+    "category": 810760,
+    "cost": 60,
+    "element": "fire",
+    "es": "25% boost to Spark damage for all allies, slightly boosts Fire elemental damage for all allies, probable Spark critical, adds Def ignoring effect to attack & 20% damage reduction from normal attacks",
+    "gender": "male",
+    "guide_id": 8540,
+    "id": 810768,
+    "ls": "200% boost to Atk, 140% boost to max HP, 30% boost to critical hit rate, hugely boost Spark damage, enormously boosts Fire elemental damage, Spark damage considerably boosts BB gauge & probable damage reduction to 1",
+    "name": "Juzo Suzuya",
+    "rarity": 8,
+    "sbb": "10 combo powerful Fire attack on all foes (damage relative to remaining HP), 10 combo massive Fire attack on single foe (damage relative to remaining HP), hugely boosts Atk, Def, Rec for 3 turns, enormously boosts Spark damage for 3 turns, enormously boosts Fire elemental damage for 3 turns & Spark damage considerably boosts BB gauge for 3 turns",
+    "ubb": "13 combo massive Fire attack on all foes (damage relative to remaining HP), 3 combo massive Fire attack on single foe (damage relative to remaining HP), enormously boosts own Spark damage for 4 turns, enormously boosts Spark damage for 4 turns, enormously boosts Fire elemental damage for 4 turns & enormously boosts BB gauge for 4 turn"
+  },
   "810778": {
     "bb": "20 combo powerful Fire attack on all foes (partial HP drain, enormously boosts critical hit rate), greatly boosts max HP, 50% damage reduction for 1 turn, 50% boost to critical damage of Fire types for 3 turns & activates Fire barrier",
     "category": 810778,
@@ -26896,6 +26926,36 @@
     "rarity": 8,
     "sbb": "41 combo powerful Light attack on all foes, 5 combo massive Light attack on single foe (damage relative to remaining HP), Spark damage considerably boosts BB gauge for 3 turns, greatly boosts critical damage for 3 turns, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns & adds probable evasion for 2 turns",
     "ubb": "45 combo massive Light attack on all foes (damage relative to remaining HP), enormously boosts Spark damage for 4 turns, Spark damage enormously boosts BB gauge for 4 turns, enormously boosts critical damage for 4 turns, enormously boosts Atk, Def, Rec for 4 turns, enormously boosts critical hit rate for 3 turns & adds evasion for 3 turns"
+  },
+  "850767": {
+    "bb": "16 combo powerful Light attack on all foes (damage relative to remaining HP), probable huge 2 turn Atk, Def reduction, Spark vulnerability infliction for 2 turns, critical and elemental vulnerability infliction for 2 turns & boosts own max HP",
+    "category": 850760,
+    "cost": 52,
+    "element": "light",
+    "es": "Probable resistance against 1 KO attacks when Eyepatch Mask or Attack Boosting sphere is equipped, 5% damage reduction for all allies & probable damage reduction to 1",
+    "gender": "male",
+    "guide_id": 8537,
+    "id": 850767,
+    "ls": "120% boost to all parameters, enormously boosts Thunder, Light elemental damage, raises Atk parameter limits to 130000 & 15% additional damage reduction",
+    "name": "Ken Kaneki",
+    "rarity": 7,
+    "sbb": "18 combo powerful Light attack on all foes (damage relative to remaining HP), 3 combo massive Light attack on single foe (damage relative to remaining HP), hugely boosts Atk, Def, Rec for 3 turns, probability of activating BB/SBB/UBB twice for 2 turns & enormously boosts own Atk relative to max HP for 3 turns",
+    "ubb": "23 combo massive Light attack on all foes, 3 combo massive Light attack on single foe (damage relative to remaining HP), greatly boosts max HP, activates BB/SBB/UBB twice for 2 turns & enormously boosts Atk, Def relative to HP for 3 turns"
+  },
+  "850768": {
+    "bb": "18 combo powerful Light attack on all foes (damage relative to remaining HP), probable huge 3 turn Atk, Def reduction, Spark vulnerability infliction for 3 turns, critical and elemental vulnerability infliction for 3 turns, enormously boosts own BB gauge for 1 turn & greatly boosts own max HP",
+    "category": 850760,
+    "cost": 60,
+    "element": "light",
+    "es": "Probable resistance against 2 KO attacks when Eyepatch Mask or Attack Boosting sphere is equipped, boosts Atk, Def each turn (up to 4 turns) for all allies, slightly reduces BB gauge required for BB for all allies, 5% damage reduction for all allies & probable damage reduction to 1",
+    "gender": "male",
+    "guide_id": 8538,
+    "id": 850768,
+    "ls": "140% boost to all parameters, enormously boosts Thunder, Light elemental damage, raises Atk parameter limits to 160000, 20% additional damage reduction & 20% damage reduction for 1 turn when damage taken has exceeded certain amount",
+    "name": "Ken Kaneki",
+    "rarity": 8,
+    "sbb": "20 combo powerful Light attack on all foes (damage relative to remaining HP), 4 combo massive Light attack on single foe (damage relative to remaining HP), 5 combo powerful Light attack on all foes, hugely boosts Atk, Def, Rec for 3 turns, probability of activating BB/SBB/UBB twice for 2 turns & enormously boosts own Atk relative to max HP for 3 turns",
+    "ubb": "23 combo massive Light attack on all foes, 4 combo massive Light attack on single foe (damage relative to remaining HP), enormously boosts max HP, activates BB/SBB/UBB twice for 3 turns, enormously boosts Spark damage for 4 turns & enormously boosts Atk, Def relative to HP for 4 turns"
   },
   "850900": {
     "bb": "12 combo powerful Light attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
