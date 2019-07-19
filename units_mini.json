@@ -23445,34 +23445,34 @@
     "ubb": "21 combo massive Water attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 4 turns, damage taken enormously restores HP for 4 turns, damage taken enormously boosts BB gauge for 4 turns, Spark vulnerability infliction for 4 turns & enormous additional damage reduction for 4 turns"
   },
   "820757": {
-    "bb": "MST_SKILLS_820757_DESCRIPTION",
+    "bb": "25 combo powerful Water attack on all foes, adds low probability of resistance against 1 KO attack, damage taken hugely boosts BB gauge and may restore HP for 3 turns & reduces active healing for 2 turns (PvP modes only)",
     "category": 820750,
     "cost": 52,
     "element": "water",
-    "es": "MST_EXTRAPASSIVESKILL_820757_DESCRIPTION",
+    "es": "20% boost to Atk, Def for first 5 turns for all allies, negates Atk, Def, Rec reductions for all allies & greatly boosts Water elemental damage",
     "gender": "female",
     "guide_id": 8541,
     "id": 820757,
-    "ls": "MST_LEADERSKILLS_820757_DESCRIPTION",
+    "ls": "120% boost to Def, Rec and max HP of Water types, 10% damage reduction from Fire, Water types, damage taken hugely boosts BB gauge & adds probable resistance against 1 KO attack",
     "name": "Charlie",
     "rarity": 7,
-    "sbb": "MST_SKILLS_1820757_DESCRIPTION",
-    "ubb": "MST_SKILLS_2820757_DESCRIPTION"
+    "sbb": "27 combo powerful Water attack on all foes (damage relative to remaining HP), 3 combo powerful Water attack on single foe, probability of raising allies from KO, probability of activating BB/SBB/UBB twice for 2 turns & greatly boosts critical damage for 3 turns",
+    "ubb": "30 combo massive Water attack on all foes (damage relative to remaining HP), damage taken hugely boosts BB gauge and enormously restores HP for 3 turns, adds probable resistance against 1 KO attack & probability of raising allies from KO"
   },
   "820758": {
-    "bb": "MST_SKILLS_820758_DESCRIPTION",
+    "bb": "27 combo powerful Water attack on all foes, adds low probability of resistance against 1 KO attack, damage taken hugely boosts BB gauge and may restore HP for 3 turns, adds probable 2 turn Atk, Def reduction counter for 3 turns & reduces active healing for 2 turns (PvP modes only)",
     "category": 820750,
     "cost": 60,
     "element": "water",
-    "es": "MST_EXTRAPASSIVESKILL_820758_DESCRIPTION",
+    "es": "30% boost to Atk, Def for first 5 turns for all allies, negates Atk, Def, Rec reductions for all allies, greatly boosts Water elemental damage, probable considerable reduction of foe's BB gauge & adds greatly boosts BC, HC drop rate and Item drop rates for 3 turns effect to BB",
     "gender": "female",
     "guide_id": 8542,
     "id": 820758,
-    "ls": "MST_LEADERSKILLS_820758_DESCRIPTION",
+    "ls": "140% boost to Def, Rec and max HP of Water types, 20% damage reduction from Fire, Water types, damage taken enormously boosts BB gauge and may restore HP & adds probable resistance against 1 KO attack",
     "name": "Skittish Chemist Charlie",
     "rarity": 8,
-    "sbb": "MST_SKILLS_1820758_DESCRIPTION",
-    "ubb": "MST_SKILLS_2820758_DESCRIPTION"
+    "sbb": "29 combo powerful Water attack on all foes (damage relative to remaining HP), 3 combo powerful Water attack on single foe, probability of raising allies from KO, probability of activating BB/SBB/UBB twice for 2 turns, casts stealth on self boosting own Atk and critical hit rate for 2 turns & hugely boosts critical damage for 3 turns",
+    "ubb": "35 combo massive Water attack on all foes (damage relative to remaining HP), damage taken hugely boosts BB gauge and enormously restores HP for 4 turns, adds probable resistance against 1 KO attack, raises allies from KO & enormously boosts max HP"
   },
   "820900": {
     "bb": "12 combo powerful Water attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
