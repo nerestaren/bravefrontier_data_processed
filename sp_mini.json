@@ -10653,6 +10653,61 @@
       "desc": "Allows BB effects to last an additional turn"
     }
   ],
+  "820758": [
+    {
+      "bp": 10,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 20,
+      "desc": "Resistance against 1 KO attack"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable random status ailment infliction to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": ""
+    },
+    {
+      "bp": 15,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": ""
+    },
+    {
+      "bp": 25,
+      "desc": ""
+    },
+    {
+      "bp": 25,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": "Adds probable KO resistance negation for 2 turns (PvP modes only) effect to BB/SBB"
+    }
+  ],
   "820900": [
     {
       "bp": 5,

@@ -23444,6 +23444,36 @@
     "sbb": "16 combo massive Water attack on all foes (damage relative to remaining HP), hugely restores HP, hugely boosts Atk, Def, Rec for 3 turns, Spark damage considerably boosts BB gauge for 3 turns, enormously boosts BB gauge, Spark vulnerability infliction for 3 turns & boosts Spark damage of Water types for 3 turns",
     "ubb": "21 combo massive Water attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 4 turns, damage taken enormously restores HP for 4 turns, damage taken enormously boosts BB gauge for 4 turns, Spark vulnerability infliction for 4 turns & enormous additional damage reduction for 4 turns"
   },
+  "820757": {
+    "bb": "MST_SKILLS_820757_DESCRIPTION",
+    "category": 820750,
+    "cost": 52,
+    "element": "water",
+    "es": "MST_EXTRAPASSIVESKILL_820757_DESCRIPTION",
+    "gender": "female",
+    "guide_id": 8541,
+    "id": 820757,
+    "ls": "MST_LEADERSKILLS_820757_DESCRIPTION",
+    "name": "Charlie",
+    "rarity": 7,
+    "sbb": "MST_SKILLS_1820757_DESCRIPTION",
+    "ubb": "MST_SKILLS_2820757_DESCRIPTION"
+  },
+  "820758": {
+    "bb": "MST_SKILLS_820758_DESCRIPTION",
+    "category": 820750,
+    "cost": 60,
+    "element": "water",
+    "es": "MST_EXTRAPASSIVESKILL_820758_DESCRIPTION",
+    "gender": "female",
+    "guide_id": 8542,
+    "id": 820758,
+    "ls": "MST_LEADERSKILLS_820758_DESCRIPTION",
+    "name": "Skittish Chemist Charlie",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1820758_DESCRIPTION",
+    "ubb": "MST_SKILLS_2820758_DESCRIPTION"
+  },
   "820900": {
     "bb": "12 combo powerful Water attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 820900,

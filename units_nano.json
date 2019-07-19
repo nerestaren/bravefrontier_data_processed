@@ -12606,6 +12606,20 @@
     "name": "Plein Flair Auberi",
     "rarity": 8
   },
+  "820757": {
+    "element": "water",
+    "guide_id": 8541,
+    "id": 820757,
+    "name": "Charlie",
+    "rarity": 7
+  },
+  "820758": {
+    "element": "water",
+    "guide_id": 8542,
+    "id": 820758,
+    "name": "Skittish Chemist Charlie",
+    "rarity": 8
+  },
   "820900": {
     "element": "water",
     "guide_id": 8497,
