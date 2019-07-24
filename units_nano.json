@@ -12606,6 +12606,20 @@
     "name": "Plein Flair Auberi",
     "rarity": 8
   },
+  "820747": {
+    "element": "water",
+    "guide_id": 8543,
+    "id": 820747,
+    "name": "Sennie",
+    "rarity": 7
+  },
+  "820748": {
+    "element": "water",
+    "guide_id": 8544,
+    "id": 820748,
+    "name": "Tide Diva Sennie",
+    "rarity": 8
+  },
   "820757": {
     "element": "water",
     "guide_id": 8541,
@@ -13703,6 +13717,13 @@
     "guide_id": 8527,
     "id": 840708,
     "name": "Mageslayer Vrána",
+    "rarity": 8
+  },
+  "840748": {
+    "element": "thunder",
+    "guide_id": 8545,
+    "id": 840748,
+    "name": "Jelly Princess Chryssa",
     "rarity": 8
   },
   "840767": {

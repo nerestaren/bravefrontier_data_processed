@@ -10653,6 +10653,57 @@
       "desc": "Allows BB effects to last an additional turn"
     }
   ],
+  "820748": [
+    {
+      "bp": 10,
+      "desc": "100% boost to Atk, Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Boosts Atk, Def each turn (for up to 5 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds Spark damage reduction for 3 turns effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds boosts OD gauge effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's boost to Spark damage for Water types effect"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds huge boost to Atk, Def, Rec for 4 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds critical damage boost for Water types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds enormous boost to BB Atk for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows BB Effects to last an additional turn"
+    },
+    {
+      "bp": 10,
+      "dependency": true,
+      "desc": "Adds probable evasion for 3 turns effect to BB"
+    }
+  ],
   "820758": [
     {
       "bp": 10,
@@ -13266,6 +13317,52 @@
       "bp": 25,
       "dependency": true,
       "desc": "Adds probability of purging Poison negation effect to SBB/UBB"
+    }
+  ],
+  "840748": [
+    {
+      "bp": 10,
+      "desc": "Raises all parameters boost to 80%"
+    },
+    {
+      "bp": 10,
+      "desc": "Greatly boosts Atk, Def relative to remaining HP"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds great boost to critical damage and enormously boosts critical hit rate for 3 turns effect to SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Considerable boost to BB/SBB's activation rate"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB/SBB's Thunder shield effect"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds boost to BB/SBB's activation rate effect to LS"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds Water & Thunder damage reduction for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 30,
+      "desc": "Adds great BC, HC drop rate boost for 3 turns effect to BB/SBB"
     }
   ],
   "840768": [
