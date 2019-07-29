@@ -24560,6 +24560,21 @@
     "sbb": "8 combo powerful Earth attack on all foes (partial HP drain), hugely restores HP, activates Earth barrier, 15% damage reduction from all element types for 3 turns, boosts OD gauge & probability of raising allies from KO",
     "ubb": "15 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 4 turns, enormously boosts max HP, damage taken enormously boosts BB gauge for 4 turns, damage taken enormously restores HP for 4 turns, raises allies from KO"
   },
+  "830708": {
+    "bb": "MST_SKILLS_830708_DESCRIPTION",
+    "category": 830700,
+    "cost": 60,
+    "element": "earth",
+    "es": "MST_EXTRAPASSIVESKILL_830708_DESCRIPTION",
+    "gender": "male",
+    "guide_id": 8546,
+    "id": 830708,
+    "ls": "MST_LEADERSKILLS_830708_DESCRIPTION",
+    "name": "Wildblood Tarok",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1830708_DESCRIPTION",
+    "ubb": "MST_SKILLS_2830708_DESCRIPTION"
+  },
   "830767": {
     "bb": "6 combo powerful Earth attack on all foes (damage relative to remaining HP), boosts own max HP, damage taken may restore HP for 3 turns, activates Taunt and greatly boosts own Def for 2 turns & boosts damage reduction when guarding for 3 turns",
     "category": 830760,

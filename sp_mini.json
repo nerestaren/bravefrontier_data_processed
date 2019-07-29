@@ -12091,6 +12091,58 @@
       "desc": "Enhances SBB's probability of raising allies from KO effect"
     }
   ],
+  "830708": [
+    {
+      "bp": 15,
+      "desc": "120% boost to Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "170% boost to Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 20,
+      "desc": ""
+    },
+    {
+      "bp": 15,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": "Adds probable random status ailment infliction to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances BB/SBB's probability of purging status ailment negation effects"
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": "Adds probability of purging Paralysis negation effect to BB/UBB"
+    },
+    {
+      "bp": 25,
+      "dependency": true,
+      "desc": "Adds probability of purging Poison negation effect to SBB/UBB"
+    }
+  ],
   "830768": [
     {
       "bp": 10,
