@@ -24561,19 +24561,19 @@
     "ubb": "15 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 4 turns, enormously boosts max HP, damage taken enormously boosts BB gauge for 4 turns, damage taken enormously restores HP for 4 turns, raises allies from KO"
   },
   "830708": {
-    "bb": "MST_SKILLS_830708_DESCRIPTION",
+    "bb": "14 combo massive Earth attack on single foe (or probable 5% damage of foe's max HP), 3 combo powerful Earth attack on single foe (damage relative to remaining HP), probability of purging Curse negation effect from single foe, enormously boosts Earth elemental damage for 3 turns, Spark vulnerability infliction for 3 turns & probable random status ailment infliction",
     "category": 830700,
     "cost": 60,
     "element": "earth",
-    "es": "MST_EXTRAPASSIVESKILL_830708_DESCRIPTION",
+    "es": "Spark damage slightly boosts BB gauge for all allies when Tarok's Bloodlust or BB Gauge Sphere is equipped, slightly boosts Earth elemental damage for all allies, greatly boosts Earth elemental damage, damage taken boosts BB gauge & 50% DoT reduction",
     "gender": "male",
     "guide_id": 8546,
     "id": 830708,
-    "ls": "MST_LEADERSKILLS_830708_DESCRIPTION",
+    "ls": "200% boost to Atk and 100% boost to Def, max HP of Earth types, 180% boost to Spark damage, enormously boosts Earth elemental damage, 15% damage reduction from Earth, Thunder types & adds Def ignoring effect to attack",
     "name": "Wildblood Tarok",
     "rarity": 8,
-    "sbb": "MST_SKILLS_1830708_DESCRIPTION",
-    "ubb": "MST_SKILLS_2830708_DESCRIPTION"
+    "sbb": "18 combo powerful Earth attack on all foes (damage relative to remaining HP), 3 combo powerful Earth attack on single foe, probability of purging Sickness negation effect from single foe, enormously boosts Earth elemental damage for 3 turns, enormously boosts Spark damage for 3 turns & enormously boosts Spark damage of Earth types for 3 turns",
+    "ubb": "21 combo massive Earth attack on single foe (or probable 7% damage of foe's max HP), 3 combo massive Earth attack on single foe (25% active Pierce on Earth, Thunder types), purges LS and ES disable effects from all allies, enormously boosts Earth elemental damage for 4 turns, enormously boosts Spark damage for 4 turns & adds all status ailment infliction to attack for 4 turns"
   },
   "830767": {
     "bb": "6 combo powerful Earth attack on all foes (damage relative to remaining HP), boosts own max HP, damage taken may restore HP for 3 turns, activates Taunt and greatly boosts own Def for 2 turns & boosts damage reduction when guarding for 3 turns",
@@ -25701,7 +25701,7 @@
     "category": 840748,
     "cost": 54,
     "element": "thunder",
-    "es": "Probable resistance against 2 KO attacks, damage taken may for 1 turn, damage taken may for 2 turns & probable 40% damage counter for all allies",
+    "es": "Probable resistance against 2 KO attacks, damage taken may slightly reduce foe's BB gauge fill rate for 1 turn, damage taken may slightly reduce foe's Atk for 2 turns & probable 40% damage counter for all allies",
     "gender": "female",
     "guide_id": 8545,
     "id": 840748,
