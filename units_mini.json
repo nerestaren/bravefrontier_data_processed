@@ -22813,19 +22813,19 @@
     "ubb": "21 combo massive Water attack on all foes (damage relative to remaining HP), enormously boosts critical damage for 3 turns, considerably boosts OD gauge & enormously boosts Atk relative to Def for 3 turns"
   },
   "820288": {
-    "bb": "22 combo powerful Water attack on all foes, considerably boosts Water types' Atk, Def, Rec for 3 turns, enormously boosts Water types' critical hit rate for 3 turns, greatly restores HP, considerably boosts OD gauge fill rate for 3 turns & adds 1 extra action to self within the same turn",
+    "bb": "22 combo powerful Water attack on all foes, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate of Water types for 3 turns, greatly restores HP, hugely boosts OD gauge fill rate for 3 turns & adds 1 extra action to self within the same turn",
     "category": 820280,
     "cost": 54,
     "element": "water",
-    "es": "50% boost to Atk of Water types, critical damage boosts BB gauge, adds Water barrier effect to BB/SBB & raises Atk parameter limits to 130000<br>Boosts Atk, Def when BB gauge is over 50%, adds 26 combo massive Water attack on Fire types effect to SBB & boosts Water elemental damage for all allies in Guild Raid",
+    "es": "50% boost to Atk, 15% boosts critical hit rate of Water types, critical damage boosts BB gauge, adds activates Water barrier effect to BB/SBB & 20% boost to all parameters<br>Boosts Atk, Def when BB gauge is over 50%, adds 26 combo massive Water attack on Fire types effect to SBB & boosts Water elemental damage for all allies in Guild Raid.",
     "gender": "female",
     "guide_id": 8320,
     "id": 820288,
-    "ls": "60% boost to Atk, max HP, hugely boosts critical damage, critical damage hugely boosts BB gauge & boosts Atk, Def relative to remaining HP",
+    "ls": "100% boost to Atk, max HP, 30% boosts critical hit rate, hugely boosts critical damage, boosts Atk, Def relative to remaining HP & critical damage hugely boosts BB gauge",
     "name": "White Death Ravea",
     "rarity": 8,
-    "sbb": "26 combo powerful Water attack on all foes (damage relative to remaining HP), considerably boosts Water types' Atk, Def, Rec for 3 turns, enormously boosts Water types' critical hit rate for 3 turns, considerably boosts critical damage for 3 turns, hugely boosts own Atk, Def for 3 turns, slightly boosts OD gauge & adds probability to perform 1 extra action within the same turn",
-    "ubb": "30 combo massive Water attack on all foes (damage relative to remaining HP), enormously boosts critical damage for 3 turns, considerably boosts OD gauge, enormously boosts Atk relative to Def for 3 turns & adds 1 extra action within the same turn"
+    "sbb": "26 combo powerful Water attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec and enormously boosts critical hit rate of Water types for 3 turns, greatly boosts critical damage for 3 turns, adds probable 1 extra action within the same turn, hugely boosts own Atk, Def for 3 turns & boosts OD gauge",
+    "ubb": "30 combo massive Water attack on all foes (damage relative to remaining HP), enormously boosts critical damage for 3 turns, adds 1 extra action within the same turn, enormously boosts OD gauge, enormously boosts Atk relative to Def for 3 turns & activates Water barrier"
   },
   "820297": {
     "bb": "17 combo powerful Water attack on all foes (damage relative to remaining HP, with enormously boosted critical hit rate), hugely boosts BB Atk for 3 turns, damage taken hugely boosts BB gauge for 3 turns, greatly boosts BC, HC and item drop rates for 3 turns & enormously boosts BB gauge",
@@ -24529,6 +24529,21 @@
     "rarity": 8,
     "sbb": "14 combo powerful Earth attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), 50% damage reduction for 2 turns, damage taken considerably boosts BB gauge and may restore HP for 3 turns, hugely boosts Def relative to Atk for 3 turns & adds probable 2 turn Atk, Def reduction counter for 3 turns",
     "ubb": "16 combo massive Earth attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), enormously boosts Def relative to Atk for 3 turns, 100% damage reduction for 3 turns, enormously boosts max HP & negates critical and elemental damage for 5 turns"
+  },
+  "830688": {
+    "bb": "13 combo powerful Earth attack on all foes (damage relative to remaining HP), boosts OD gauge, negates critical, elemental and Spark damage for 5 turns, activates Taunt and hugely boosts own Def for 2 turns, enormously boosts BB gauge & purges LS and ES Lock effects from one random ally",
+    "category": 830680,
+    "cost": 60,
+    "element": "earth",
+    "es": "Greatly reduces BB gauge required for BB when Miracle of Khons or Blessing of Khons Sphere is equipped, 35% boost of Def, max HP for all allies, 15% DoT reduction for all allies & hugely boosts OD gauge fill rate",
+    "gender": "male",
+    "guide_id": 8547,
+    "id": 830688,
+    "ls": "150% boost to Def, max HP, damage taken hugely boosts BB gauge, enormously boosts BB gauge when guarding, 15% damage reduction & 20% damage reduction for 2 turns when damage taken has exceeded certain amount",
+    "name": "Osiris, Lord of Silence",
+    "rarity": 8,
+    "sbb": "25 combo massive Earth attack on all foes (damage relative to remaining HP), 25 combo massive Earth attack on all foes (damage relative to remaining HP), considerably boosts OD gauge, hugely boosts Atk, Def, Rec relative to max HP for 4 turns, damage taken hugely boosts BB gauge for 4 turns & fills own BB gauge to max",
+    "ubb": "Enormously boosts max HP, 100% damage reduction for 4 turns, adds probable resistance against 1 KO attack, activates BB/SBB/UBB twice for 3 turns, probability of raising allies from KO & purges LS and ES Lock effects from all allies"
   },
   "830697": {
     "bb": "5 combo powerful Earth attack on all foes (partial HP drain), greatly restores HP for 3 turns, greatly boosts max HP, 10% damage reduction from all element types for 3 turns & removes all status ailments and Atk, Def, Rec reduction effects",
