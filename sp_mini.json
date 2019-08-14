@@ -9024,6 +9024,68 @@
       "desc": "Adds probable KO resistance negation for 2 turns (PvP modes only) effect to SBB"
     }
   ],
+  "810688": [
+    {
+      "bp": 10,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 5,
+      "desc": "30% boost to Def, Rec, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% boost to Spark damage"
+    },
+    {
+      "bp": 5,
+      "desc": "Hugely boosts elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Considerably reduces BB gauge required for BB"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable resistance against 2 KO attacks"
+    },
+    {
+      "bp": 25,
+      "desc": "Enhances SBB's probability of raising allies from KO effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds critical and elemental damage negation for 3 turns effect to BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds all elemental damage reduction for 3 turns effect to BB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds Spark vulnerability infliction for 3 turns effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds 25 combo powerful Fire attack on single foe (damage relative to remaining HP) to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds Fire barrier effect to BB/SBB"
+    }
+  ],
   "810708": [
     {
       "bp": 15,

@@ -22188,6 +22188,30 @@
     "sbb": "17 combo massive Fire attack on all foes (damage relative to remaining HP), 5 combo massive Fire attack on single foe, hugely boosts Spark damage for 3 turns, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, probable huge 2 turn Atk, Def reduction & critical and elemental vulnerability infliction for 2 turns",
     "ubb": "22 combo massive Fire attack on all foes (damage relative to remaining HP, enormously boosts critical hit rate), enormously boosts Spark damage for 3 turns, enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormous 3 turn Atk, Def reduction, enormously boosts Fire elemental damage for 3 turns & activates Fire shield for 3 turns"
   },
+  "810687": {
+    "category": 810680,
+    "cost": 52,
+    "element": "fire",
+    "es": "Probable damage reduction to 1 & negates Def ignoring effects for all allies",
+    "gender": "female",
+    "guide_id": 8610,
+    "id": 810687,
+    "ls": "100% boost to Rec, max HP, slightly boosts damage reduction when guarding, 10% damage reduction & damage taken may considerably restore HP",
+    "name": "Aesys",
+    "rarity": 7
+  },
+  "810688": {
+    "category": 810680,
+    "cost": 60,
+    "element": "fire",
+    "es": "15% additional damage reduction for all allies when Miracle of Khons or Blessing of Khons Sphere is equipped, probable damage reduction to 1, negates Def ignoring effects for all allies & 35% boost to Def, max HP for all allies",
+    "gender": "female",
+    "guide_id": 8611,
+    "id": 810688,
+    "ls": "150% boost to Rec, max HP, slightly boosts damage reduction when guarding, 15% damage reduction, 250% boost to Spark damage for 2 turns when damage taken has exceeded certain amount & damage taken may considerably restore HP",
+    "name": "Aesys, Great of Magic",
+    "rarity": 8
+  },
   "810708": {
     "bb": "12 combo massive Fire attack on single foe (or probable 5% damage of foe's max HP, enormously boosts own critical hit rate), 4 combo powerful Fire attack on single foe (damage relative to remaining HP), probability of purging Curse negation effect from single foe, enormously boosts Fire elemental damage for 3 turns, probable elemental and critical vulnerability infliction for 2 turns & probable random status ailment infliction",
     "category": 810708,

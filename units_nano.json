@@ -11983,6 +11983,20 @@
     "name": "Righteous Sun Cayena",
     "rarity": 8
   },
+  "810687": {
+    "element": "fire",
+    "guide_id": 8610,
+    "id": 810687,
+    "name": "Aesys",
+    "rarity": 7
+  },
+  "810688": {
+    "element": "fire",
+    "guide_id": 8611,
+    "id": 810688,
+    "name": "Aesys, Great of Magic",
+    "rarity": 8
+  },
   "810708": {
     "element": "fire",
     "guide_id": 8503,
