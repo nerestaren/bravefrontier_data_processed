@@ -11985,14 +11985,14 @@
   },
   "810687": {
     "element": "fire",
-    "guide_id": 8610,
+    "guide_id": 8548,
     "id": 810687,
     "name": "Aesys",
     "rarity": 7
   },
   "810688": {
     "element": "fire",
-    "guide_id": 8611,
+    "guide_id": 8549,
     "id": 810688,
     "name": "Aesys, Great of Magic",
     "rarity": 8
@@ -13185,6 +13185,20 @@
     "guide_id": 8546,
     "id": 830708,
     "name": "Wildblood Tarok",
+    "rarity": 8
+  },
+  "830757": {
+    "element": "earth",
+    "guide_id": 8550,
+    "id": 830757,
+    "name": "Ulagan",
+    "rarity": 7
+  },
+  "830758": {
+    "element": "earth",
+    "guide_id": 8551,
+    "id": 830758,
+    "name": "Highland Belter Ulagan",
     "rarity": 8
   },
   "830767": {

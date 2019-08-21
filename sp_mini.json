@@ -12267,6 +12267,61 @@
       "desc": "Adds probability of purging Poison negation effect to SBB/UBB"
     }
   ],
+  "830758": [
+    {
+      "bp": 10,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Hugely boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 180000"
+    },
+    {
+      "bp": 20,
+      "desc": "Resistance against 1 KO attack"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows SBB effects to last an additional turn"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds considerable HP restoration during Spark for 4 turns effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds 22 combo powerful Earth attack on all foes (damage relative to remaining HP) to SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds probability of activating BB/SBB/UBB twice for 3 turns effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds critical damage boost for Earth types for 3 turns effect to SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds highly probable Spark critical for 3 turns effect to SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds passive healing and HC effectiveness reduction for 2 turns (PvP modes only) effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": "Adds probable KO resistance negation for 2 turns (PvP modes only) effect to BB/SBB"
+    }
+  ],
   "830768": [
     {
       "bp": 10,
