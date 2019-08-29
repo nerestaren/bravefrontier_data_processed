@@ -13782,6 +13782,13 @@
     "name": "Touka Kirishima",
     "rarity": 8
   },
+  "840788": {
+    "element": "thunder",
+    "guide_id": 8554,
+    "id": 840788,
+    "name": "Ancient's Voice Hyshka",
+    "rarity": 8
+  },
   "840900": {
     "element": "thunder",
     "guide_id": 8499,
@@ -15061,6 +15068,20 @@
     "guide_id": 8524,
     "id": 860738,
     "name": "Orochi Iori",
+    "rarity": 8
+  },
+  "860787": {
+    "element": "dark",
+    "guide_id": 8552,
+    "id": 860787,
+    "name": "Feòra",
+    "rarity": 7
+  },
+  "860788": {
+    "element": "dark",
+    "guide_id": 8553,
+    "id": 860788,
+    "name": "Redtail Rebel Feòra",
     "rarity": 8
   },
   "860900": {
