@@ -27062,6 +27062,21 @@
     "sbb": "22 combo massive Light attack on all foes (damage relative to remaining HP), 3 combo massive Light attack on single foe, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, greatly boosts critical damage for 3 turns, enormously boosts Spark damage for 3 turns & greatly boosts BC, HC, Item drop rates for 3 turns",
     "ubb": "25 combo massive Light attack on all foes (damage relative to remaining HP), adds evasion for 3 turns, enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormously boosts critical damage for 3 turns, enormously boosts Spark damage for 3 turns & adds random status ailment infliction to attack for 5 turns"
   },
+  "850688": {
+    "bb": "MST_SKILLS_850688_DESCRIPTION",
+    "category": 850680,
+    "cost": 60,
+    "element": "light",
+    "es": "MST_EXTRAPASSIVESKILL_850688_DESCRIPTION",
+    "gender": "male",
+    "guide_id": 8555,
+    "id": 850688,
+    "ls": "MST_LEADERSKILLS_850688_DESCRIPTION",
+    "name": "★8 Ptah",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1850688_DESCRIPTION",
+    "ubb": "MST_SKILLS_2850688_DESCRIPTION"
+  },
   "850708": {
     "bb": "16 combo massive Light attack on single foe (or probable 5% damage of foe's max HP), 6 combo powerful Light attack on single foe (damage relative to remaining HP), probability of purging Curse negation effect from single foe, enormously boosts Light elemental damage for 3 turns, enormously boosts damage against status afflicted foes for 3 turns & probable random status ailment infliction",
     "category": 850708,

@@ -15082,6 +15082,72 @@
       "desc": "Adds probable random status ailment infliction effect to BB/SBB"
     }
   ],
+  "850688": [
+    {
+      "bp": 10,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows UBB buff effects to last for 1 more turn"
+    },
+    {
+      "bp": 15,
+      "desc": ""
+    },
+    {
+      "bp": 5,
+      "desc": ""
+    },
+    {
+      "bp": 5,
+      "desc": ""
+    },
+    {
+      "bp": 5,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "dependency": true,
+      "desc": ""
+    },
+    {
+      "bp": 15,
+      "desc": ""
+    },
+    {
+      "bp": 15,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": ""
+    }
+  ],
   "850708": [
     {
       "bp": 15,
