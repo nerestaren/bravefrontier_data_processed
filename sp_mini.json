@@ -15089,63 +15089,63 @@
     },
     {
       "bp": 15,
-      "desc": "Allows UBB buff effects to last for 1 more turn"
+      "desc": "Hugely boosts critical damage"
     },
     {
       "bp": 15,
-      "desc": ""
+      "desc": "Enormously boosts elemental damage"
     },
     {
       "bp": 5,
-      "desc": ""
+      "desc": "Enormously boosts BB gauge each turn"
     },
     {
       "bp": 5,
-      "desc": ""
+      "desc": "Restores HP each turn"
     },
     {
       "bp": 5,
-      "desc": ""
+      "desc": "Negates Def ignoring effects"
     },
     {
       "bp": 20,
       "dependency": true,
-      "desc": ""
+      "desc": "Adds huge boost to critical damage effect to LS"
     },
     {
       "bp": 20,
       "dependency": true,
-      "desc": ""
+      "desc": "Adds enormous boost to Light elemental damage effect to LS"
     },
     {
       "bp": 20,
       "dependency": true,
-      "desc": ""
+      "desc": "Adds huge boost to critical damage for 3 turns effect to SBB"
     },
     {
       "bp": 20,
       "dependency": true,
-      "desc": ""
+      "desc": "Adds enormous Light elemental damage boost for 3 turns effect to SBB"
     },
     {
       "bp": 15,
-      "desc": ""
+      "desc": "Adds enormous boost to Atk, Def, Rec relative to max HP for 3 turns effect to SBB"
     },
     {
       "bp": 15,
-      "desc": ""
+      "desc": "Adds critical damage boost for Light types for 3 turns effect to SBB"
     },
     {
       "bp": 20,
-      "desc": ""
+      "desc": "Adds 15% damage reduction from all element type for 2 turns effect to BB"
     },
     {
       "bp": 10,
-      "desc": ""
+      "desc": "Adds great boost to OD gauge at turn's end for 3 turns effect to BB"
     },
     {
       "bp": 10,
-      "desc": ""
+      "desc": "Adds great HP restoration for 3 turns effect to BB"
     }
   ],
   "850708": [
@@ -17180,7 +17180,7 @@
     },
     {
       "bp": 20,
-      "desc": ""
+      "desc": "Allows UBB buff effects to last for 1 more turn"
     }
   ],
   "860900": [

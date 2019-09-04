@@ -27062,6 +27062,21 @@
     "sbb": "22 combo massive Light attack on all foes (damage relative to remaining HP), 3 combo massive Light attack on single foe, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, greatly boosts critical damage for 3 turns, enormously boosts Spark damage for 3 turns & greatly boosts BC, HC, Item drop rates for 3 turns",
     "ubb": "25 combo massive Light attack on all foes (damage relative to remaining HP), adds evasion for 3 turns, enormously boosts Atk, Def, Rec and critical hit rate for 3 turns, enormously boosts critical damage for 3 turns, enormously boosts Spark damage for 3 turns & adds random status ailment infliction to attack for 5 turns"
   },
+  "850688": {
+    "bb": "18 combo powerful Light attack on all foes (damage relative to remaining HP), 50% damage reduction for 3 turns, activates Light barrier, negates critical and elemental damage for 3 turns, Spark damage reduction for 3 turns, hugely boosts OD gauge fill rate for 3 turns & purges LS and ES Lock effects from one random ally",
+    "category": 850680,
+    "cost": 60,
+    "element": "light",
+    "es": "Resistance against 1 KO attack when HP is below 40% when Cunei of Athum or Word of Athum is equipped, 25% boost to all parameters for all allies, 5% damage reduction for all allies & slightly reduces BB gauge required for BB for all allies",
+    "gender": "male",
+    "guide_id": 8555,
+    "id": 850688,
+    "ls": "100% boost to Atk, Def, Rec, 120% boost to max HP, 20% damage reduction for 2 turns when damage taken has exceeded certain amount, damage taken hugely boosts BB gauge, damage taken may considerably restore HP & adds probable resistance against 1 KO attack",
+    "name": "Ptah, Master of Truth",
+    "rarity": 8,
+    "sbb": "21 combo powerful Light attack on all foes (damage relative to remaining HP), 50% damage reduction for 3 turns, hugely boosts Atk, Def, Rec and enormously boosts critical hit rate of Light types for 3 turns, damage taken hugely boosts BB gauge for 3 turns, damage taken may restore HP for 3 turns & considerably boosts OD gauge",
+    "ubb": "23 combo massive Light attack on all foes (damage relative to remaining HP), 100% damage reduction for 4 turns, enormously boosts Atk, Def, Rec and enormously boosts critical hit rate for 4 turns, damage taken hugely boosts BB gauge for 4 turns, adds probable resistance against 1 KO attack & purges LS and ES Lock effects from all allies"
+  },
   "850708": {
     "bb": "16 combo massive Light attack on single foe (or probable 5% damage of foe's max HP), 6 combo powerful Light attack on single foe (damage relative to remaining HP), probability of purging Curse negation effect from single foe, enormously boosts Light elemental damage for 3 turns, enormously boosts damage against status afflicted foes for 3 turns & probable random status ailment infliction",
     "category": 850708,
