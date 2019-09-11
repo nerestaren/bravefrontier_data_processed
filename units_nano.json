@@ -12606,6 +12606,20 @@
     "name": "VLKR Sentienel Galene",
     "rarity": 8
   },
+  "820687": {
+    "element": "water",
+    "guide_id": 8555,
+    "id": 820687,
+    "name": "Thoth",
+    "rarity": 7
+  },
+  "820688": {
+    "element": "water",
+    "guide_id": 8556,
+    "id": 820688,
+    "name": "Thoth, Scribe of Gods",
+    "rarity": 8
+  },
   "820717": {
     "element": "water",
     "guide_id": 8515,
