@@ -12608,14 +12608,14 @@
   },
   "820687": {
     "element": "water",
-    "guide_id": 8555,
+    "guide_id": 8556,
     "id": 820687,
     "name": "Thoth",
     "rarity": 7
   },
   "820688": {
     "element": "water",
-    "guide_id": 8556,
+    "guide_id": 8557,
     "id": 820688,
     "name": "Thoth, Scribe of Gods",
     "rarity": 8
@@ -13780,6 +13780,20 @@
     "guide_id": 8545,
     "id": 840748,
     "name": "Jelly Princess Chryssa",
+    "rarity": 8
+  },
+  "840757": {
+    "element": "thunder",
+    "guide_id": 8558,
+    "id": 840757,
+    "name": "Kassia",
+    "rarity": 7
+  },
+  "840758": {
+    "element": "thunder",
+    "guide_id": 8559,
+    "id": 840758,
+    "name": "Feral Commissar Kassia",
     "rarity": 8
   },
   "840767": {
