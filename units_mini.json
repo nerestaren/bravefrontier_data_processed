@@ -27212,6 +27212,21 @@
     "sbb": "20 combo powerful Light attack on all foes (damage relative to remaining HP), 4 combo massive Light attack on single foe (damage relative to remaining HP), 5 combo powerful Light attack on all foes, hugely boosts Atk, Def, Rec for 3 turns, probability of activating BB/SBB/UBB twice for 2 turns & enormously boosts own Atk relative to max HP for 3 turns",
     "ubb": "23 combo massive Light attack on all foes, 4 combo massive Light attack on single foe (damage relative to remaining HP), enormously boosts max HP, activates BB/SBB/UBB twice for 3 turns, enormously boosts Spark damage for 4 turns & enormously boosts Atk, Def relative to HP for 4 turns"
   },
+  "850808": {
+    "bb": "20 combo powerful Light attack on all foes, enormously boosts BB gauge, slightly boosts OD gauge, hugely restores HP for 3 turns & negates all status ailments and negates Atk, Def, Rec reduction effects for 3 turns",
+    "category": 850800,
+    "cost": 60,
+    "element": "light",
+    "es": "Slightly reduces BB gauge required for BB for all allies when Iridescent Hope is equipped, damage taken may considerably restore HP, negates Def ignoring effects, boosts BC, HC drop rates for all allies & 5% boost to EXP gained",
+    "gender": "female",
+    "guide_id": 8564,
+    "id": 850808,
+    "ls": "120% boost to all parameters, negates critical and elemental damage, negates all status ailments and Atk, Def, Rec reduction effects, enormously boosts BB gauge each turn, 15% damage reduction & 20% boost to EXP gained",
+    "name": "Opal Goddess Tilith",
+    "rarity": 8,
+    "sbb": "23 combo massive Light attack on all foes (damage relative to remaining HP), enormously boosts BB gauge, damage taken hugely boosts BB gauge and may restore HP for 3 turns, enormously boosts BB Atk for 3 turns & hugely boosts Atk, Def, Rec relative to max HP for 3 turns",
+    "ubb": "33 combo massive Light attack on all foes (uses all allies' BB gauge), fills all allies' BB gauge to max, damage taken hugely boosts BB gauge and enormously restores HP for 4 turns, 100% damage reduction for 3 turns & considerably boosts OD gauge"
+  },
   "850900": {
     "bb": "12 combo powerful Light attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 850900,
@@ -28523,6 +28538,21 @@
     "rarity": 8,
     "sbb": "Massive Dark attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec of Dark types for 3 turns, considerably boosts OD gauge, enormously boosts own Spark damage for 3 turns, Spark vulnerability infliction for 3 turns & adds probable 1 extra action to self within the same turn for 2 turns",
     "ubb": "Massive Dark attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 4 turns, enormously boosts Spark damage for 4 turns, enormously boosts own Spark damage for 4 turns, Spark damage boosts BB gauge for 4 turns & adds evasion for 3 turns"
+  },
+  "860808": {
+    "bb": "21 combo powerful Dark attack on all foes, enormously boosts BB gauge, damage taken hugely boosts BB gauge for 3 turns, damage taken may slightly restore HP for 3 turns, adds low probability of resistance against 1 KO attack & probability of raising allies from KO",
+    "category": 860800,
+    "cost": 60,
+    "element": "dark",
+    "es": "20% boost to all parameters for all allies, slightly boosts Dark elemental damage for all allies, considerably boosts Spark damage, Spark damage slightly boosts BB gauge & negates max HP reduction effect",
+    "gender": "male",
+    "guide_id": 8565,
+    "id": 860808,
+    "ls": "120% boost to all parameters, 15% damage reduction, enormously boosts Dark elemental damage, greatly reduces BB gauge required for BB & adds probable resistance against 1 KO attack",
+    "name": "Brilliant Scientist Noel",
+    "rarity": 8,
+    "sbb": "15 combo powerful Dark attack on all foes, 15 combo powerful Dark attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, enormously boosts Dark elemental damage for 3 turns, hugely boosts critical damage for 3 turns & considerably boosts OD gauge",
+    "ubb": "33 combo massive Dark attack on all foes (damage relative to remaining HP), adds probable resistance against 1 KO attack, enormously boosts Atk, Def, Rec and enormously boosts critical hit rate for 4 turns, enormously boosts Dark elemental damage for 4 turns, damage taken hugely boosts BB gauge for 4 turns & raises allies from KO"
   },
   "860900": {
     "bb": "12 combo powerful Dark attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",

@@ -14475,6 +14475,13 @@
     "name": "Ken Kaneki",
     "rarity": 8
   },
+  "850808": {
+    "element": "light",
+    "guide_id": 8564,
+    "id": 850808,
+    "name": "Opal Goddess Tilith",
+    "rarity": 8
+  },
   "850900": {
     "element": "light",
     "guide_id": 8500,
@@ -15117,6 +15124,13 @@
     "guide_id": 8553,
     "id": 860788,
     "name": "Redtail Rebel Feòra",
+    "rarity": 8
+  },
+  "860808": {
+    "element": "dark",
+    "guide_id": 8565,
+    "id": 860808,
+    "name": "Brilliant Scientist Noel",
     "rarity": 8
   },
   "860900": {

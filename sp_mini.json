@@ -15433,6 +15433,60 @@
       "desc": "Adds enormous Light elemental damage boost for 4 turns effect to SBB, enormous Light elemental damage boost for 4 turns effect to UBB"
     }
   ],
+  "850808": [
+    {
+      "bp": 15,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Damage taken considerably boosts BB gauge"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments and Atk, Def, Rec reductions"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds great BC, HC drop rate boost for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds probable 2 turn Atk, Def, Rec reduction counter for 3 turns effect to BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Add probable huge 2 turn Atk, Def, REC reduction effect to SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds Light Shield for 3 turns effect to SBB"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds boosts OD gauge effect to SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds enormous all elemental damage boost for 3 turns effect to SBB"
+    },
+    {
+      "bp": 35,
+      "desc": "Adds 50% damage reduction for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances boost to EXP gained effect on LS"
+    }
+  ],
   "850900": [
     {
       "bp": 5,
@@ -17310,6 +17364,60 @@
     {
       "bp": 20,
       "desc": "Allows UBB buff effects to last for 1 more turn"
+    }
+  ],
+  "860808": [
+    {
+      "bp": 10,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 15,
+      "desc": "Hugely boosts critical damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Enormously boosts elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Damage taken considerably boosts BB gauge"
+    },
+    {
+      "bp": 10,
+      "desc": "Damage taken may restore HP"
+    },
+    {
+      "bp": 15,
+      "desc": "probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Adds removes all status ailments and Atk, Def, Rec reduction effects effect to BB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds negates all status ailments and Atk, Def, Rec reduction effects for 3 turns effect to BB"
+    },
+    {
+      "bp": 20,
+      "desc": "Adds 15% damage reduction from all element types for 3 turns effect to BB/SBB"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds Dark barrier effect to BB/SBB"
+    },
+    {
+      "bp": 25,
+      "desc": "Adds probable elemental, critical vulnerability infliction for 2 turns effect to BB/SBB"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances LS's probable resistance against 1 KO attack effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB's probability of raising allies from KO effect"
     }
   ],
   "860900": [
