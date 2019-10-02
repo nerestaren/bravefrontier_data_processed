@@ -11297,6 +11297,13 @@
     "name": "Bad Lands Queen Gazolina",
     "rarity": 8
   },
+  "720167": {
+    "element": "water",
+    "guide_id": 8562,
+    "id": 720167,
+    "name": "Saviors Viviane & Orah",
+    "rarity": 8
+  },
   "720237": {
     "element": "water",
     "guide_id": 8531,
@@ -14477,7 +14484,7 @@
   },
   "850808": {
     "element": "light",
-    "guide_id": 8564,
+    "guide_id": 8560,
     "id": 850808,
     "name": "Opal Goddess Tilith",
     "rarity": 8
@@ -15128,7 +15135,7 @@
   },
   "860808": {
     "element": "dark",
-    "guide_id": 8565,
+    "guide_id": 8561,
     "id": 860808,
     "name": "Brilliant Scientist Noel",
     "rarity": 8
