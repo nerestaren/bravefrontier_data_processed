@@ -20811,7 +20811,7 @@
     "element": "fire",
     "es": "10% boost to all parameters for all allies, 30% boost to all parameters when BB Gauge Sphere is equipped, boosts Atk, Def relative to remaining HP & negates Atk, Def, Rec reduction effects",
     "gender": "male",
-    "guide_id": 8506,
+    "guide_id": 8507,
     "id": 710227,
     "ls": "80% boost to all parameters, enormously boosts BC efficacy, 20% damage reduction for 1 turn when damage taken has exceeded certain amount & enormously boosts BB gauge and boosts damage reduction when guarding",
     "name": "Magma Apex Surt",
@@ -25801,6 +25801,16 @@
     "sbb": "19 combo massive Thunder attack on all foes (damage relative to remaining HP), 3 combo massive Thunder attack on single foe, enormously boosts BB Atk for 3 turns, hugely boosts Atk, Def relative to Rec for 3 turns, probable 2 turn Atk, Def reduction & greatly boosts critical damage for 3 turns",
     "ubb": "22 combo massive Thunder attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec, critical hit rate, BB Atk and critical damage for 3 turns, adds probable 1 turn Atk, Def reduction effects to attack for 5 turns & adds random status ailment infliction to attack for 3 turns"
   },
+  "840688": {
+    "category": 860680,
+    "cost": 60,
+    "element": "thunder",
+    "gender": "other",
+    "guide_id": 8559,
+    "id": 840688,
+    "name": "Ma'at, Arbiter of Order",
+    "rarity": 8
+  },
   "840708": {
     "bb": "10 combo massive Thunder attack on single foe (or probable 5% damage of foes' max HP), 10 combo powerful Thunder attack on single foe (damage relative to remaining HP), probability of purging Curse negation effect from single foe, enormously boosts Thunder elemental damage for 3 turns, boosts critical damage of Thunder types for 3 turns & probable random status ailment infliction",
     "category": 840700,
@@ -28463,6 +28473,36 @@
     "rarity": 8,
     "sbb": "26 combo powerful Fire, Dark attack on all foes, massive additional damage on single foe at turn's end for 1 turn, casts stealth on self boosting own Atk and critical hit rate for 2 turns, considerably boosts own Spark damage for 3 turns & slightly boosts OD gauge",
     "ubb": "30 combo massive Fire, Dark attack on all foes, massive additional damage at turn's end for 3 turns, enormously boosts OD gauge fill rate for 5 turns, adds evasion for 1 turn & enormously boosts Spark damage for 3 turns"
+  },
+  "860687": {
+    "bb": "17 combo Dark attack on all foes (damage relative to remaining HP), 20 combo random Dark attack on all foes, adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns, probable 1 turn Atk, Def reduction infliction & 100% critical, elemental and spark damage reduction for 3 turns",
+    "category": 860680,
+    "cost": 52,
+    "element": "dark",
+    "es": "10% Atk, Def each turn (4 times) and 10% Dark elemental damage for all allies & reduces Skip Turn and ES Lock effect duration by 3 turns",
+    "gender": "female",
+    "guide_id": 8567,
+    "id": 860687,
+    "ls": "150% Atk, 100% max HP and 30% critical rate (Dark), 150% spark damage, 175% Dark elemental damage & 10% damage reduction from Light, Dark types",
+    "name": "Set",
+    "rarity": 7,
+    "sbb": "20 combo Dark attack on all foes (damage relative to remaining HP), 20 combo random Dark attack on all foes, adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns, probable 2 turns Atk, Def reduction infliction, boosts spark damage for 3 turns",
+    "ubb": "25 combo Dark attack on all foes (damage relative to remaining HP), 3 turns Atk, Def reduction infliction, boosts Dark elemental damage for 3 turns, boosts spark damage for 3 turns & 100% DoT reduction for 3 turns"
+  },
+  "860688": {
+    "bb": "25 combo Dark attack on all foes (damage relative to remaining HP), 20 combo random Dark attack on all foes, adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns, probable 2 turns Atk, Def reduction infliction, 100% critical, elemental and spark damage reduction for 5 turns & purges LS lock and ES lock from random ally",
+    "category": 860680,
+    "cost": 60,
+    "element": "dark",
+    "es": "Add to BB/SBB (purges Doom from self), UBB (purges Doom from all allies) when Sha of Neith or Paradox of Neith is equipped, 15% Atk, Def each turn (4 times) and 20% Dark elemental damage for all allies & reduces Skip Turn and ES Lock effect duration by 3 turns",
+    "gender": "female",
+    "guide_id": 8568,
+    "id": 860688,
+    "ls": "200% Atk, 140% max HP and 30% critical rate (Dark), 180% spark damage, 225% Dark elemental damage, 15% damage reduction from Light, Dark types & 15% DoT reduction",
+    "name": "Set the Deceiver",
+    "rarity": 8,
+    "sbb": "34 combo Dark attack on all foes (damage relative to remaining HP), 20 combo random Dark attack on all foes, adds probable 1 turn Atk, Def reduction infliction to attack for 4 turns, probable 3 turns Atk, Def reduction infliction, boosts spark damage for 4 turns & boosts spark damage (Dark) for 4 turns",
+    "ubb": "36 combo Dark attack on all foes (damage relative to remaining HP), 4 turns Atk, Def reduction infliction, boosts Dark elemental damage for 4 turns, boosts spark damage for 4 turns, 100% DoT reduction for 4 turns & purges LS lock and ES lock from all allies"
   },
   "860708": {
     "bb": "10 combo massive Dark attack on single foe (or probable 5% damage of foe's max HP), 8 combo powerful Dark attack on single foe (damage relative to remaining HP), enormously boosts Dark elemental damage for 3 turns, probable huge 2 turn Atk, Def reduction infliction, boosts OD gauge & probability of purging Curse negation effect from single foe",

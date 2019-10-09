@@ -11285,7 +11285,7 @@
   },
   "710227": {
     "element": "fire",
-    "guide_id": 8506,
+    "guide_id": 8507,
     "id": 710227,
     "name": "Magma Apex Surt",
     "rarity": 8
@@ -13775,6 +13775,13 @@
     "name": "Tempest Prophet Fennia",
     "rarity": 8
   },
+  "840688": {
+    "element": "thunder",
+    "guide_id": 8559,
+    "id": 840688,
+    "name": "Ma'at, Arbiter of Order",
+    "rarity": 8
+  },
   "840708": {
     "element": "thunder",
     "guide_id": 8527,
@@ -15089,6 +15096,20 @@
     "guide_id": 8476,
     "id": 860678,
     "name": "Fell Illucen & Illumina",
+    "rarity": 8
+  },
+  "860687": {
+    "element": "dark",
+    "guide_id": 8567,
+    "id": 860687,
+    "name": "Set",
+    "rarity": 7
+  },
+  "860688": {
+    "element": "dark",
+    "guide_id": 8568,
+    "id": 860688,
+    "name": "Set the Deceiver",
     "rarity": 8
   },
   "860708": {

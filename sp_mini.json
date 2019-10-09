@@ -8732,12 +8732,12 @@
   "810528": [
     {
       "bp": 10,
-      "desc": "50% boost to ATK, DEF, max HP"
+      "desc": "50% boost to Atk, Def, max HP"
     },
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Raises ATK, DEF boost to 100%"
+      "desc": "100% boost to Atk, Def"
     },
     {
       "bp": 20,
@@ -8758,7 +8758,7 @@
     },
     {
       "bp": 20,
-      "desc": "Enhances Leader Skill parameters boost effect"
+      "desc": "Enhances LS's Atk, Def, max HP boost from 80% to 100%"
     },
     {
       "bp": 30,
@@ -16060,7 +16060,7 @@
     },
     {
       "bp": 50,
-      "desc": "Allows UBB's buff effects to last 4 turns"
+      "desc": "Adds normal attacks hit all foes for 3 turns effect to SBB"
     },
     {
       "bp": 30,
@@ -17220,6 +17220,69 @@
     {
       "bp": 40,
       "desc": "Resistance against 1 KO attack when HP is below 20%"
+    }
+  ],
+  "860688": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 5,
+      "dependency": true,
+      "desc": "30% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "200% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 5,
+      "desc": "Spark damage fills BB gauge"
+    },
+    {
+      "bp": 15,
+      "desc": "50% DoT reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (boosts BB Atk for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to BB/SBB (probable random status ailments infliction to attack for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (34 combo Dark attack on all foes)"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances LS's damage reduction from Light, Dark types and DoT reduction effects"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (3 turns spark vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (restores HP for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (1 turn DoT infliction)"
     }
   ],
   "860708": [
