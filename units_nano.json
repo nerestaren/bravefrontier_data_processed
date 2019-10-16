@@ -13777,7 +13777,7 @@
   },
   "840688": {
     "element": "thunder",
-    "guide_id": 8559,
+    "guide_id": 8565,
     "id": 840688,
     "name": "Ma'at, Arbiter of Order",
     "rarity": 8
@@ -15100,14 +15100,14 @@
   },
   "860687": {
     "element": "dark",
-    "guide_id": 8567,
+    "guide_id": 8563,
     "id": 860687,
     "name": "Set",
     "rarity": 7
   },
   "860688": {
     "element": "dark",
-    "guide_id": 8568,
+    "guide_id": 8564,
     "id": 860688,
     "name": "Set the Deceiver",
     "rarity": 8

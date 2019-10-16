@@ -21729,19 +21729,19 @@
     "ubb": "18 combo massive Fire attack on all foes, enormously boosts Atk, Def of Fire types for 3 turns & additional massive attack at turn's end for 1 turn"
   },
   "810357": {
-    "bb": "14 combo powerful Fire attack on all foes, probable random status ailment infliction, hugely boosts damage against status afflicted foes for 3 turns, considerably boosts Atk, Def of Fire types for 3 turns & adds probability to perform 1 extra action to self within the same turn",
+    "bb": "14 combo Fire attack on all foes, boosts Atk, Def (Fire) for 3 turns, boosts damage against status afflicted foes for 3 turns, probable random status ailments infliction, may raise allies from KO & 1 extra action for self for 1 turn",
     "category": 810350,
-    "cost": 50,
+    "cost": 60,
     "element": "fire",
-    "es": "Hugely restores HP each turn, probable resistance against 1 KO attack",
+    "es": "25% all parameters (Fire) and 50% damage against status afflicted foes for all allies, 20% all parameters, restores HP each turn & probable 1 KO resistance",
     "gender": "male",
     "guide_id": 8262,
     "id": 810357,
-    "ls": "100% boost to Atk, Def and 65% boost to max HP of Fire types, hugely boosts Atk when HP is low, damage taken boosts BB gauge & negates critical damage",
+    "ls": "100% Atk, Def, max HP (Fire), 40-120% Atk relative to HP lost, damage taken fills BB gauge and may restore HP & 100% critical and elemental damage reduction",
     "name": "Sunless Warden Rahotep",
     "rarity": 8,
-    "sbb": "18 combo powerful Fire attack on all foes, boosts critical hit rate of Fire types for 3 turns, probable resistance against 1 KO attack, damage taken greatly boosts BB gauge for 3 turns, considerably boosts Atk, Def of Fire types for 3 turns & adds probability to perform 1 extra action within the same turn",
-    "ubb": "23 combo massive Fire attack on all foes (damage relative to remaining HP), high probability of raising allies from KO, enormously boosts Atk, Def of Fire types for 3 turns & additional massive attack at turn's end for 1 turn"
+    "sbb": "18 combo Fire attack on all foes, 5 combo Fire attack on all foes (damage relative to remaining HP), damage taken fills BB gauge for 3 turns, boosts Atk, Def (Fire) for 3 turns, probable KO resistance & probable 1 extra action for 1 turn",
+    "ubb": "23 combo Fire attack on all foes (damage relative to remaining HP), boosts Atk, Def for 3 turns, 1 turn DoT infliction, raises allies from KO, adds all status ailments infliction to attack for 3 turns & boosts damage against status afflicted foes for 3 turns"
   },
   "810377": {
     "bb": "14 combo powerful Fire attack on single foe, 25 combo random massive Fire attack, hugely boosts damage against status afflicted foes for 3 turns, adds probable great 1 turn Atk, Def, Rec reduction effects to attack for 3 turns & adds probable random status ailment infliction to attack for 3 turns",
@@ -25802,14 +25802,19 @@
     "ubb": "22 combo massive Thunder attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec, critical hit rate, BB Atk and critical damage for 3 turns, adds probable 1 turn Atk, Def reduction effects to attack for 5 turns & adds random status ailment infliction to attack for 3 turns"
   },
   "840688": {
+    "bb": "25 combo Thunder attack on all foes, 25% DoT reduction for 3 turns, 50% damage reduction for 3 turns, 100% critical, elemental and spark damage reduction for 5 turns, probable 3 turns Atk, Def reduction infliction & purges LS lock and ES lock from random ally",
     "category": 860680,
     "cost": 60,
     "element": "thunder",
+    "es": "Add to BB (may purge Turn Skip from all allies), UBB (purges Turn Skip from all allies) when Sha of Neith or Paradox of Neith is equipped, 35% Def, max HP for all allies, add to BB (Injury, Weakness, Sick, Paralysis infliction)& reduces Turn Skip and ES Lock effect duration by 3 turns",
     "gender": "other",
-    "guide_id": 8559,
+    "guide_id": 8565,
     "id": 840688,
+    "ls": "200% Def, 140% max HP and 30% critical rate (Thunder), 250% critical damage, 15% DoT reduction, 30% reduction to BB activation cost & 20% damage reduction for 2 turns when damage taken is over 5k",
     "name": "Ma'at, Arbiter of Order",
-    "rarity": 8
+    "rarity": 8,
+    "sbb": "30 combo Thunder attack on all foes (damage relative to remaining HP), boosts own BB gauge to max, 50% damage reduction for 4 turns, boosts critical damage for 4 turns, probable 4 turns Atk, Def reduction infliction & boosts Atk, Def, Rec and critical rate for 4 turns",
+    "ubb": "35 combo Thunder attack on all foes (damage relative to remaining HP), 100% damage reduction for 4 turns, boosts critical damage for 4 turns, boosts BB gauge for 4 turns, boosts max HP & purges LS lock and ES lock from all allies"
   },
   "840708": {
     "bb": "10 combo massive Thunder attack on single foe (or probable 5% damage of foes' max HP), 10 combo powerful Thunder attack on single foe (damage relative to remaining HP), probability of purging Curse negation effect from single foe, enormously boosts Thunder elemental damage for 3 turns, boosts critical damage of Thunder types for 3 turns & probable random status ailment infliction",
@@ -28025,19 +28030,19 @@
     "ubb": "21 combo massive Dark attack on all foes, enormous damage reduction for 1 turn, enormously boosts Atk, Def relative to Rec for 3 turns & enormously boosts Rec for 4 turns"
   },
   "860357": {
-    "bb": "18 combo powerful Dark attack on all foes, greatly restores HP, hugely boosts BB Atk for 3 turns, hugely boosts Rec relative to max HP for 3 turns & considerably boosts max HP",
+    "bb": "18 combo Dark attack on all foes, restores HP, boosts BB Atk for 3 turns, boosts Rec relative to max HP for 3 turns, 50% damage reduction for 2 turns & boosts max HP",
     "category": 860350,
-    "cost": 50,
+    "cost": 60,
     "element": "dark",
-    "es": "10% boost to all parameters of Dark types & boosts Atk, Rec each turn for up to 5 turns",
+    "es": "25% all parameters (Dark) and negates all status ailment for all allies, 30% Atk, Rec each turn (5 times), 20% all parameters & probable 1 KO resistance when HP is below 35%",
     "gender": "female",
     "guide_id": 8283,
     "id": 860357,
-    "ls": "65% boost to Def, Rec, max HP of Dark types, 10% all elemental damage reduction, enormously boosts BB Atk & negates critical damage",
+    "ls": "120% Atk, Def, 100% max HP (Dark), 10% damage reduction from all element types, 350% BB Atk, 100% critical and elemental damage reduction & adds probable 1 turn Atk reduction infliction to attack for 2 turns when damage dealt is over 1",
     "name": "Midnight Judge Neferet",
     "rarity": 8,
-    "sbb": "22 combo powerful Dark attack on all foes, greatly restores HP, hugely boosts BB Atk for 3 turns, hugely boosts Atk, Def relative to Rec for 3 turns, negates critical and elemental damage for 2 turns & negates Atk, Def, Rec reductions for 2 turns",
-    "ubb": "25 combo massive Dark attack on all foes, enormous damage reduction for 2 turns, enormously boosts Atk, Def relative to Rec for 3 turns, enormously boosts Rec for 4 turns & negates critical and elemental damage for 5 turns"
+    "sbb": "22 combo Dark attack on all foes (damage relative to remaining HP), restores HP, boosts BB Atk for 3 turns, boosts Atk, Def relative to Rec for 3 turns, 100% critical and elemental damage reduction for 3 turns & 50% damage reduction for 2 turns",
+    "ubb": "25 combo Dark attack on all foes, 100% damage reduction for 3 turns, boosts Atk, Def relative to Rec for 3 turns, purges DOT from all allies, boosts Atk, Def, Rec for 3 turns & 100% critical and elemental damage reduction for 5 turns"
   },
   "860367": {
     "bb": "2 combo powerful Dark attack on single foe (damage relative to remaining HP), probable Curse, Sick effects & enormously boosts own BB gauge for 1 turn",
@@ -28481,7 +28486,7 @@
     "element": "dark",
     "es": "10% Atk, Def each turn (4 times) and 10% Dark elemental damage for all allies & reduces Skip Turn and ES Lock effect duration by 3 turns",
     "gender": "female",
-    "guide_id": 8567,
+    "guide_id": 8563,
     "id": 860687,
     "ls": "150% Atk, 100% max HP and 30% critical rate (Dark), 150% spark damage, 175% Dark elemental damage & 10% damage reduction from Light, Dark types",
     "name": "Set",
@@ -28496,7 +28501,7 @@
     "element": "dark",
     "es": "Add to BB/SBB (purges Doom from self), UBB (purges Doom from all allies) when Sha of Neith or Paradox of Neith is equipped, 15% Atk, Def each turn (4 times) and 20% Dark elemental damage for all allies & reduces Skip Turn and ES Lock effect duration by 3 turns",
     "gender": "female",
-    "guide_id": 8568,
+    "guide_id": 8564,
     "id": 860688,
     "ls": "200% Atk, 140% max HP and 30% critical rate (Dark), 180% spark damage, 225% Dark elemental damage, 15% damage reduction from Light, Dark types & 15% DoT reduction",
     "name": "Set the Deceiver",

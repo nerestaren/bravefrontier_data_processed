@@ -8332,45 +8332,51 @@
   "810357": [
     {
       "bp": 10,
-      "desc": "30% boost to max HP"
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "30% Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "100% critical damage"
     },
     {
       "bp": 15,
-      "desc": "30% boost to Def, max HP"
-    },
-    {
-      "bp": 10,
-      "desc": "Boosts critical hit damage"
-    },
-    {
-      "bp": 30,
-      "desc": "Normal attack may hit all foes"
-    },
-    {
-      "bp": 10,
-      "dependency": true,
-      "desc": "Enhances probability of normal attacks hitting all foes effect"
+      "desc": "200% elemental damage"
     },
     {
       "bp": 20,
-      "dependency": true,
-      "desc": "Enhances damage dealt by normal attack may hit all foes effect"
+      "desc": "Normal attacks may hit all foes"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (normal attacks hits all foes for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (boosts Atk, Rec relative to max HP for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Restores HP each turn"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (restores HP for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 15,
-      "desc": "Greatly restores HP each turn"
+      "desc": "Add to SBB (2 turns critical and elemental vulnerability infliction)"
     },
     {
-      "bp": 30,
-      "desc": "Adds great HP restoration effect for 3 turns to BB/SBB"
-    },
-    {
-      "bp": 30,
-      "desc": "Enhances BB/SBB's considerable Atk, Def boost for Fire types effect"
-    },
-    {
-      "bp": 45,
-      "desc": "Increases success rate of BB/SBB's performance of 1 extra action within the same turn"
+      "bp": 25,
+      "desc": "Add to BB/SBB (probable 2 turns Atk, Def reduction infliction)"
     }
   ],
   "810378": [
@@ -13628,6 +13634,69 @@
       "desc": "Adds all elements to attack for 3 turns effect to BB/SBB/UBB"
     }
   ],
+  "840688": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 5,
+      "dependency": true,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 5,
+      "desc": "150% elemental damage"
+    },
+    {
+      "bp": 5,
+      "desc": "Restores HP each turn"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (activates Taunt and boosts own Def for 2 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (30 combo Thunder attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (boosts Thunder elemental damage for 4 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (boosts critical damage of Thunder types for 4 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (25% DoT reduction for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (15% damage reduction from all element types for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (fills BB gauge)"
+    }
+  ],
   "840708": [
     {
       "bp": 15,
@@ -16377,46 +16446,52 @@
   ],
   "860357": [
     {
-      "bp": 20,
-      "desc": "30% boost to all parameters"
-    },
-    {
-      "bp": 15,
-      "desc": "Considerably reduces BB gauge required for BB"
-    },
-    {
-      "bp": 20,
-      "desc": "Adds status ailment removal effect to BB/SBB"
-    },
-    {
-      "bp": 30,
-      "dependency": true,
-      "desc": "Adds status ailment negation for 3 turns effect to BB/SBB"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances SBB's Atk, Def boost relative to Rec for 3 turns effect"
-    },
-    {
-      "bp": 25,
-      "desc": "Enhances BB's max HP boost effect"
-    },
-    {
-      "bp": 35,
-      "desc": "Enhances BB/SBB's  greatly restores HP effect"
-    },
-    {
-      "bp": 20,
-      "desc": "Adds boost to Rec relative to HP for 3 turns effect to SBB"
-    },
-    {
-      "bp": 25,
-      "desc": "Adds great HP restoration for 3 turns effect to SBB"
+      "bp": 10,
+      "desc": "80% all parameters"
     },
     {
       "bp": 10,
-      "dependency": true,
-      "desc": "Adds huge HP restoration for 3 turns effect to BB/SBB"
+      "desc": "30% Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "100% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "25% reduction to BB activation cost"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (removes all status ailments and Atk, Def, Rec reduction effects)"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to BB/SBB (negates all status ailments and Atk, Def, Rec reduction effects)"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 150k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (15% damage reduction from Light, Dark types for 2 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows BB/SBB's damage reduction effect to last an additional turn"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (restores HP for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (adds Dark barrier)"
     }
   ],
   "860368": [
