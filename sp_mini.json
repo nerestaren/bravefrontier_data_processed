@@ -8336,7 +8336,7 @@
     },
     {
       "bp": 10,
-      "desc": "30% Def, max HP"
+      "desc": "30% Def, Rec, max HP"
     },
     {
       "bp": 10,
@@ -13686,7 +13686,7 @@
     },
     {
       "bp": 15,
-      "desc": "Add to BB (25% DoT reduction for 3 turns)"
+      "desc": "Add to SBB (25% DoT reduction for 4 turns)"
     },
     {
       "bp": 15,
@@ -16451,7 +16451,7 @@
     },
     {
       "bp": 10,
-      "desc": "30% Def, max HP"
+      "desc": "30% Def, Rec, max HP"
     },
     {
       "bp": 10,
@@ -16479,7 +16479,7 @@
     },
     {
       "bp": 25,
-      "desc": "Add to BB/SBB (15% damage reduction from Light, Dark types for 2 turns)"
+      "desc": "Add to BB/SBB (slight damage reduction from Light, Dark types for 2 turns)"
     },
     {
       "bp": 15,
