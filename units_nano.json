@@ -13236,6 +13236,20 @@
     "name": "Shu Tsukiyama",
     "rarity": 8
   },
+  "830787": {
+    "element": "earth",
+    "guide_id": 8566,
+    "id": 830787,
+    "name": "Lydia",
+    "rarity": 7
+  },
+  "830788": {
+    "element": "earth",
+    "guide_id": 8567,
+    "id": 830788,
+    "name": "Señora Muerte Lydia",
+    "rarity": 8
+  },
   "830900": {
     "element": "earth",
     "guide_id": 8498,
@@ -14487,6 +14501,13 @@
     "guide_id": 8538,
     "id": 850768,
     "name": "Ken Kaneki",
+    "rarity": 8
+  },
+  "850788": {
+    "element": "light",
+    "guide_id": 8568,
+    "id": 850788,
+    "name": "Bound-Walker Yin-Yin",
     "rarity": 8
   },
   "850808": {

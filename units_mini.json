@@ -24725,6 +24725,36 @@
     "sbb": "8 combo powerful Earth attack on all foes (damage relative to remaining HP), 3 combo massive Earth attack on single foe (damage relative to remaining HP), considerably boosts own Atk, Def, Rec for 3 turns, probable huge 2 turn Atk, Def reduction infliction, enormously boosts Spark damage for 3 turns & hugely boosts own Spark damage to self for 3 turns",
     "ubb": "13 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts max HP, damage taken enormously restores HP for 4 turns, huge 4 turn Atk, Def reduction infliction, enormously boosts Spark damage for 4 turns & boosts OD gauge at turn's end for 4 turns"
   },
+  "830787": {
+    "bb": "12 combo Earth attack on all foes (damage relative to remaining HP), restores HP for 3 turns, boosts max HP, boosts Atk, Def, Rec for 3 turns & spark damage restores HP for 3 turns",
+    "category": 830780,
+    "cost": 52,
+    "element": "earth",
+    "es": "20% all parameters, probable damage reduction to 1 & probable 1 KO resistance",
+    "gender": "female",
+    "guide_id": 8566,
+    "id": 830787,
+    "ls": "90% all parameters, 150% spark damage, 100% critical and elemental damage reduction & negates all status ailments and Atk, Def, Rec reduction",
+    "name": "Lydia",
+    "rarity": 7,
+    "sbb": "7 combo Earth attack on all foes (damage relative to remaining HP), 7 combo Earth attack on single foe, boosts Atk, Def, Rec for 3 turns, boosts BB Atk for 3 turns & boosts spark damage for 3 turns",
+    "ubb": "8 combo Earth attack on all foes (damage relative to remaining HP), 8 combo Earth attack on single foe, boosts Atk, Def, Rec for 3 turns, boosts spark damage for 3 turns & fully restores HP for 3 turns"
+  },
+  "830788": {
+    "bb": "14 combo Earth attack on all foes (damage relative to remaining HP), restores HP for 3 turns, boosts max HP, boosts Atk, Def, Rec for 3 turns, may raise allies from KO & spark damage restores HP for 3 turns",
+    "category": 830780,
+    "cost": 60,
+    "element": "earth",
+    "es": "20% Earth elemental damage for all allies, 30% all parameters, adds ignore Def to attack, probable damage reduction to 1 & probable 2 KO resistance",
+    "gender": "female",
+    "guide_id": 8567,
+    "id": 830788,
+    "ls": "120% all parameters, 250% spark damage, 350% BB Atk, 100% critical and elemental damage reduction & negates all status ailments and Atk, Def, Rec reduction",
+    "name": "Señora Muerte Lydia",
+    "rarity": 8,
+    "sbb": "8 combo Earth attack on all foes (damage relative to remaining HP), 8 combo Earth attack on single foe, boosts Atk, Def, Rec, boosts BB Atk for 3 turns, boosts spark damage for 3 turns & boosts own spark damage for 3 turns",
+    "ubb": "10 combo Earth attack on all foes (damage relative to remaining HP), 10 combo Earth attack on single foe, boosts max HP, boosts Atk, Def, Rec for 4 turns, boosts spark damage for 4 turns & fully restores HP for 4 turns"
+  },
   "830900": {
     "bb": "12 combo powerful Earth attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 830900,
@@ -27242,6 +27272,21 @@
     "sbb": "20 combo powerful Light attack on all foes (damage relative to remaining HP), 4 combo massive Light attack on single foe (damage relative to remaining HP), 5 combo powerful Light attack on all foes, hugely boosts Atk, Def, Rec for 3 turns, probability of activating BB/SBB/UBB twice for 2 turns & enormously boosts own Atk relative to max HP for 3 turns",
     "ubb": "23 combo massive Light attack on all foes, 4 combo massive Light attack on single foe (damage relative to remaining HP), enormously boosts max HP, activates BB/SBB/UBB twice for 3 turns, enormously boosts Spark damage for 4 turns & enormously boosts Atk, Def relative to HP for 4 turns"
   },
+  "850788": {
+    "bb": "15 combo Light attack on all foes (damage relative to HP lost), probable 1 turn Atk, Def reduction infliction, boosts Atk, Def relative to max HP for 3 turns, boosts damage against status afflicted foes for 3 turns & probable Injury, Weakness, Sickness, Paralysis infliction",
+    "category": 850780,
+    "cost": 60,
+    "element": "light",
+    "es": "Adds ignore Def to attack for all allies, 50-150% Atk, Def, Rec relative to HP lost, 100% critical damage & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "female",
+    "guide_id": 8568,
+    "id": 850788,
+    "ls": "100% Atk, Def, max HP, 120% damage against status afflicted foes, 20% damage reduction for 1 turn when HP is below 50%, 150% critical damage & 30% OD gauge fill rate",
+    "name": "Bound-Walker Yin-Yin",
+    "rarity": 8,
+    "sbb": "17 combo Light attack on all foes (damage relative to HP lost, boosts own critical rate), 3 turns DoT infliction, boosts Atk, Def relative to max HP for 3 turns, boosts critical damage for 3 turns, 2 turns critical and elemental vulnerability infliction & boosts own Atk relative to max HP for 3 turns",
+    "ubb": "20 combo Light attack on all foes (damage relative to HP lost, boosts own critical rate), boosts damage against status afflicted foes for 3 turns, 3 turns Atk, Def reduction infliction, boosts critical damage for 3 turns, adds all status ailments infliction to attack for 3 turns & boosts Atk, Def relative to max HP for 3 turns"
+  },
   "850808": {
     "bb": "20 combo powerful Light attack on all foes, enormously boosts BB gauge, slightly boosts OD gauge, hugely restores HP for 3 turns & negates all status ailments and negates Atk, Def, Rec reduction effects for 3 turns",
     "category": 850800,
@@ -28285,19 +28330,19 @@
     "ubb": "25 combo massive Dark attack on all foes (damage relative to remaining HP), enormously boosts BB gauge for 3 turns, enormous 3 turn Atk, Def reduction, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts Dark elemental damage for 3 turns & activates Dark shield for 3 turns"
   },
   "860568": {
-    "bb": "19 combo powerful Dark attack on all foes, negates all status ailments for 3 turns, negates Atk, Def, Rec reductions for 3 turns, greatly boosts max HP, greatly restores HP for 3 turns & hugely boosts Rec relative to Def for 3 turns",
+    "bb": "19 combo Dark attack on all foes, negates all status ailments and Atk, Def, Rec reduction for 3 turns, boosts max HP, restores HP for 3 turns & boosts Rec relative to Def for 3 turns",
     "category": 860560,
-    "cost": 45,
+    "cost": 54,
     "element": "dark",
-    "es": "30% boost to all parameters when Bloodpoison Florence is in squad or when Vellum of Curses, Salvation or Brilliance is equipped, 10% boost to all parameters of Dark types for all allies, damage taken considerably boosts BB gauge & adds Dark shield for 3 turns effect to BB/SBB/UBB",
+    "es": "30% all parameters when Florence is in the same Squad or Vellum of Curses, Salvation or Brilliance is Equipped, 20% all parameters (Dark) for all allies, 20% all parameters, damage taken fills BB gauge & add to BB/SBB/UBB (adds Dark shield for 3 turns)",
     "gender": "male",
     "guide_id": 8457,
     "id": 860568,
-    "ls": "80% boost to Atk, max HP, greatly restores HP  for 2 turns when HP is below 50%, enormously boosts HC efficacy & 15% damage reduction from Light, Dark types",
+    "ls": "120% Atk, Rec, 80% max HP, restores HP for 2 turns when HP is below 50%, probable 1 KO resistance, 15% damage reduction from Light, Dark types & spark damage restores HP",
     "name": "Plaguewarden Theodor",
     "rarity": 8,
-    "sbb": "22 combo powerful Dark attack on all foes, Spark damage considerably restores HP for 3 turns, hugely boosts Def relative to Rec for 3 turns, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns & considerably boosts critical damage for 3 turns",
-    "ubb": "25 combo massive Dark attack on all foes, enormously boosts Def relative to Rec for 3 turns, fully restores HP for 3 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns & enormously boosts critical damage for 3 turns"
+    "sbb": "22 combo Dark attack on all foes (damage relative to remaining HP), spark damage restores HP for 3 turns, boosts Atk, Def relative to Rec for 3 turns, boosts Atk, Def, Rec and critical rate for 3 turns, boosts critical damage for 3 turns & restores HP",
+    "ubb": "25 combo Dark attack on all foes, boosts Atk, Def relative to Rec for 3 turns, fully restores HP for 3 turns, boosts Atk, Def, Rec and critical rate for 3 turns, boosts critical damage for 3 turns & boosts max HP"
   },
   "860577": {
     "bb": "50% damage reduction for 2 turns, greatly restores HP, damage taken may restore HP for 3 turns & negates all status ailments and Atk, Def, Rec reduction effects for 3 turns",
