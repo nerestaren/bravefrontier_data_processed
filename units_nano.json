@@ -14489,6 +14489,20 @@
     "name": "Chizuru Kagura",
     "rarity": 8
   },
+  "850757": {
+    "element": "light",
+    "guide_id": 8569,
+    "id": 850757,
+    "name": "Peter",
+    "rarity": 7
+  },
+  "850758": {
+    "element": "light",
+    "guide_id": 8570,
+    "id": 850758,
+    "name": "Blink Builder Peter",
+    "rarity": 8
+  },
   "850767": {
     "element": "light",
     "guide_id": 8537,

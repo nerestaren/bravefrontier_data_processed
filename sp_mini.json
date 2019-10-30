@@ -15552,6 +15552,60 @@
       "desc": "Adds probable random status ailment infliction to BB/SBB"
     }
   ],
+  "850758": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 20,
+      "desc": "1 KO resistance"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (activates Stealth and boosts own Atk 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (boosts spark damage (Light) for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (29 combo Light attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (may activate BB/SBB/UBB twice for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to SBB (probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (boosts Light elemental damage for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to BB/SBB (2 turns active healing reduction infliction (PvP modes only))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (probable 2 turns KO resistance negation infliction (PvP modes only))"
+    }
+  ],
   "850768": [
     {
       "bp": 15,
