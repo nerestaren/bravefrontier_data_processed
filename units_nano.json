@@ -13250,6 +13250,13 @@
     "name": "Señora Muerte Lydia",
     "rarity": 8
   },
+  "830808": {
+    "element": "earth",
+    "guide_id": 8571,
+    "id": 830808,
+    "name": "Emerald Summoner Lugina",
+    "rarity": 8
+  },
   "830900": {
     "element": "earth",
     "guide_id": 8498,
@@ -13843,6 +13850,13 @@
     "guide_id": 8554,
     "id": 840788,
     "name": "Ancient's Voice Hyshka",
+    "rarity": 8
+  },
+  "840808": {
+    "element": "thunder",
+    "guide_id": 8572,
+    "id": 840808,
+    "name": "Prime Minister Paris",
     "rarity": 8
   },
   "840900": {

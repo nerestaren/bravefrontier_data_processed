@@ -12552,6 +12552,60 @@
       "desc": "Enhances BB's may raise allies from KO effect"
     }
   ],
+  "830808": [
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "100% critical damage"
+    },
+    {
+      "bp": 15,
+      "desc": "150% elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 25,
+      "desc": "1 KO resistance"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (boosts spark damage (Earth) for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (fills BB gauge)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (may purge Atk boost effects from all foes (PvP modes only))"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (2 turns DoT infliction)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to UBB (fills OD gauge at turn's end for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to UBB (19 combo Earth attack on all foes)"
+    }
+  ],
   "830900": [
     {
       "bp": 5,
@@ -13994,6 +14048,56 @@
     {
       "bp": 20,
       "desc": "Enhances SBB's boost to Atk, Def, Rec effect"
+    }
+  ],
+  "840808": [
+    {
+      "bp": 10,
+      "desc": "100% boost to all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% boost to Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "100% critical and elemental damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances LS's probable 1 KO resistance effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to LS (250% spark damage)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to BB (removes all status ailments and Atk, Def, Rec reduction)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to SBB (boosts BC, HC drop rate for 4 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (21 combo Thunder attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to UBB (boosts max HP)"
     }
   ],
   "840900": [
