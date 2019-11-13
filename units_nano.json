@@ -15189,6 +15189,20 @@
     "name": "Orochi Iori",
     "rarity": 8
   },
+  "860757": {
+    "element": "dark",
+    "guide_id": 8573,
+    "id": 860757,
+    "name": "Noxa",
+    "rarity": 7
+  },
+  "860758": {
+    "element": "dark",
+    "guide_id": 8574,
+    "id": 860758,
+    "name": "Black Magistra Noxa",
+    "rarity": 8
+  },
   "860787": {
     "element": "dark",
     "guide_id": 8552,

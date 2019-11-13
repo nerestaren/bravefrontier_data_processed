@@ -17758,6 +17758,60 @@
       "desc": "Adds enormous boosts to BB gauge for 5 turns effect to BB"
     }
   ],
+  "860758": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 20,
+      "desc": "1 KO resistance"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (fills BB gauge)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (22 combo Dark attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (may activate BB/SBB/UBB twice for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (boosts critical damage (Dark) for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (boosts Atk, Def, Rec relative to max HP for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to BB/SBB (3 turns 30% BB gauge fill rate reduction infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (probable 2 turns KO resistance negation infliction (PvP modes only))"
+    }
+  ],
   "860788": [
     {
       "bp": 15,
