@@ -22338,6 +22338,36 @@
     "sbb": "23 combo powerful Fire attack on all foes (damage relative to remaining HP, enormously boosts critical hit rate), probable random status ailment infliction, 50% damage reduction for 1 turn, hugely boosts Def relative to Atk for 3 turns, greatly boosts critical damage for 3 turns & damage taken hugely boosts BB gauge for 3 turns",
     "ubb": "27 combo massive Fire attack on all foes (partial HP drain, enormously boosts critical hit rate), enormously boosts max HP, 100% damage reduction for 3 turns, enormously boosts Def relative to Atk for 3 turns, massively boosts critical damage for 5 turns & damage taken enormously boosts BB gauge for 3 turns"
   },
+  "810837": {
+    "bb": "15 combo Fire attack on all foes (damage relative to remaining HP), may activate BB/SBB/UBB twice for 2 turns, 3 turns spark vulnerability infliction, probable 3 turns critical and elemental vulnerability infliction & boosts own max HP",
+    "category": 810830,
+    "cost": 52,
+    "element": "fire",
+    "es": "100% Fire elemental damage when Drinker's Kettle or Atk Boosting Sphere is equipped, 20% spark damage for all allies, 20% all parameters & 100% spark damage reduction",
+    "gender": "male",
+    "guide_id": 8575,
+    "id": 810837,
+    "ls": "150% Atk, 100% max HP, 30% critical rate, 200% spark damage, raises Atk limit to 130k & 10% damage reduction from Fire, Water, Light, Dark types",
+    "name": "Mugen",
+    "rarity": 7,
+    "sbb": "15 combo Fire attack on all foes (damage relative to remaining HP), 5 combo Fire attack on single foe (consecutive uses boosts damage), may activate BB/SBB/UBB twice for 2 turns, boosts Atk, Def, Rec relative to max HP for 3 turns & fills OD gauge",
+    "ubb": "20 combo Fire attack on all foes (damage relative to remaining HP), boosts spark damage for 3 turns, activates BB/SBB/UBB twice for 2 turns, boosts Atk, Def, Rec relative to max HP for 3 turns & boosts max HP"
+  },
+  "810838": {
+    "bb": "18 combo Fire attack on all foes (damage relative to remaining HP), may activate BB/SBB/UBB twice for 2 turns, 3 turns spark vulnerability infliction, probable 3 turns critical and elemental vulnerability infliction, activates Taunt and boosts own Atk, Def and critical rate for 2 turns & boosts own max HP",
+    "category": 810830,
+    "cost": 60,
+    "element": "fire",
+    "es": "120% Fire elemental damage when Drinker's Kettle or Atk Boosting Sphere is equipped, 25% spark damage and 15% Atk, Def each turn (4 times) for all allies, 30% all parameters & 100% spark damage reduction",
+    "gender": "male",
+    "guide_id": 8576,
+    "id": 810838,
+    "ls": "200% Atk, 150% max HP, 30% critical rate, 300% spark damage, raises Atk limit to 160k, 30% OD gauge fill rate & 15% damage reduction from Fire, Water, Light, Dark types",
+    "name": "Mugen",
+    "rarity": 8,
+    "sbb": "17 combo Fire attack on all foes (damage relative to remaining HP), 6 combo Fire attack on single foe (consecutive uses boosts damage), may activate BB/SBB/UBB twice for 3 turns, boosts Atk, Def, Rec relative to max HP for 4 turns, boosts own spark damage for 4 turns & fills OD gauge",
+    "ubb": "20 combo Fire attack on all foes (damage relative to remaining HP), 6 combo Fire attack on single foe (25% active Pierce on Fire,Earth,Dark foes), boosts spark damage for 4 turns, activates BB/SBB/UBB twice for 3 turns, boosts Atk, Def, Rec relative to max HP for 4 turns & boosts max HP"
+  },
   "810900": {
     "bb": "12 combo powerful Fire attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 810900,
@@ -24769,6 +24799,21 @@
     "rarity": 8,
     "sbb": "4 combo Earth attack on all foes (damage relative to remaining HP), 10 combo Earth attack on all foes, boosts Atk, Def for 3 turns, fills own BB gauge to max, probable 2 turns Atk, Def reduction infliction & 3 turns spark vulnerability infliction",
     "ubb": "5 combo Earth attack on all foes (damage relative to remaining HP), 15 combo Earth attack on single foe (damage relative to remaining HP), boosts Atk, Def for 5 turns, spark damage fills BB gauge for 5 turns, probable spark critical for 5 turns & boosts own spark damage for 5 turns"
+  },
+  "830838": {
+    "bb": "20 combo Earth attack on all foes, fills BB gauge for 3 turns, restores HP, removes all status ailments and Atk, Def, Rec reduction, probable evasion for 3 turns & fills OD gauge",
+    "category": 830830,
+    "cost": 54,
+    "element": "earth",
+    "es": "10% Zel, 25% Karma drop rates for all allies and 40% all parameters when Stroke of Luck is equipped, 15% Atk, Def each turn (4 times) for all allies, probable damage reduction to 1& 100% critical and elemental damage reduction",
+    "gender": "female",
+    "guide_id": 8577,
+    "id": 830838,
+    "ls": "120% Atk, max HP, 100% Def, Rec, negates all status ailments and Atk, Def, Rec reduction, spark damage fills BB gauge, 30% OD gauge fill rate & 40% BC, HC, 5% Item, 20% Zel, 30% Karma drop rates",
+    "name": "Fuu",
+    "rarity": 8,
+    "sbb": "25 combo Earth attack on all foes (damage relative to remaining HP), spark damage fills BB gauge for 3 turns, adds Earth shield for 3 turns, boosts Atk, Def relative to Rec for 3 turns, restores HP for 3 turns & fills OD gauge at turn's end for 3 turns",
+    "ubb": "30 combo Earth attack on all foes (damage relative to remaining HP), adds Earth shield for 3 turns, evasion for 2 turns, boosts Atk, Def relative to Rec for 3 turns, probable KO resistance & fully restores HP for 3 turns"
   },
   "830900": {
     "bb": "12 combo powerful Earth attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",

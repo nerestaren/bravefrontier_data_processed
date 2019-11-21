@@ -9387,6 +9387,60 @@
       "desc": "Adds resistance against 1 KO attack when HP is below 35%"
     }
   ],
+  "810838": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 5,
+      "desc": "30% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "150% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to LS (200% Fire elemental damage)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Boosts OD gauge fill rate for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (22 combo Fire attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Probable 3 turns Atk, Def reduction infliction)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (boosts BB Atk for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (fills own BB gauge to max)"
+    }
+  ],
   "810900": [
     {
       "bp": 5,
@@ -12604,6 +12658,52 @@
     {
       "bp": 20,
       "desc": "Add to UBB (19 combo Earth attack on all foes)"
+    }
+  ],
+  "830838": [
+    {
+      "bp": 10,
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 15,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 160k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (boosts OD gauge fill rate for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (fills BB gauge)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances SBB's Earth shield effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "add to BB/SBB (damage taken may restore HP for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to UBB (boosts max HP)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB/UBB (adds all elements to attack for 3 turns)"
     }
   ],
   "830900": [

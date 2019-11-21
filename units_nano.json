@@ -12053,6 +12053,20 @@
     "name": "Yamori",
     "rarity": 8
   },
+  "810837": {
+    "element": "fire",
+    "guide_id": 8575,
+    "id": 810837,
+    "name": "Mugen",
+    "rarity": 7
+  },
+  "810838": {
+    "element": "fire",
+    "guide_id": 8576,
+    "id": 810838,
+    "name": "Mugen",
+    "rarity": 8
+  },
   "810900": {
     "element": "fire",
     "guide_id": 8496,
@@ -13255,6 +13269,13 @@
     "guide_id": 8571,
     "id": 830808,
     "name": "Emerald Summoner Lugina",
+    "rarity": 8
+  },
+  "830838": {
+    "element": "earth",
+    "guide_id": 8577,
+    "id": 830838,
+    "name": "Fuu",
     "rarity": 8
   },
   "830900": {
