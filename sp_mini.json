@@ -10992,6 +10992,61 @@
       "desc": "Adds probable KO resistance negation for 2 turns (PvP modes only) effect to BB/SBB"
     }
   ],
+  "820838": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 5,
+      "desc": "30% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "170% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "150% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to LS (200% Fire, Water elemental damage)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (boosts own max HP)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (boosts spark damage for 4 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 1 extra action for 1 turn), UBB (1 extra action for 1 turn)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Raises normal hit amount for 3 turns), UBB (Raises normal hit amount for 4 turns)"
+    },
+    {
+      "bp": 5,
+      "dependency": true,
+      "desc": "Add to BB/SBB (normal attacks hits all foes for 4 turns)"
+    }
+  ],
   "820900": [
     {
       "bp": 5,

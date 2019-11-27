@@ -12683,6 +12683,20 @@
     "name": "Skittish Chemist Charlie",
     "rarity": 8
   },
+  "820837": {
+    "element": "water",
+    "guide_id": 8578,
+    "id": 820837,
+    "name": "Jin",
+    "rarity": 7
+  },
+  "820838": {
+    "element": "water",
+    "guide_id": 8579,
+    "id": 820838,
+    "name": "Jin",
+    "rarity": 8
+  },
   "820900": {
     "element": "water",
     "guide_id": 8497,
@@ -13091,7 +13105,7 @@
   },
   "830528": {
     "element": "earth",
-    "guide_id": 8401,
+    "guide_id": 8403,
     "id": 830528,
     "name": "Time-Weaver Elaina",
     "rarity": 8
@@ -13119,7 +13133,7 @@
   },
   "830558": {
     "element": "earth",
-    "guide_id": 8403,
+    "guide_id": 8410,
     "id": 830558,
     "name": "Merciful Honoka & Hisa",
     "rarity": 8
