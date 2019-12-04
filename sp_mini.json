@@ -9387,6 +9387,56 @@
       "desc": "Adds resistance against 1 KO attack when HP is below 35%"
     }
   ],
+  "810798": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "25% reduction to BB activation cost"
+    },
+    {
+      "bp": 10,
+      "desc": "Damage taken may restore HP"
+    },
+    {
+      "bp": 15,
+      "desc": "probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (50% damage reduction for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (15% damage reduction from all element types for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (damage taken fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (probable evasion for 2 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (fills OD gauge)"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows BB's base effects to last additional 1 turn"
+    }
+  ],
   "810838": [
     {
       "bp": 10,
@@ -18069,6 +18119,52 @@
     {
       "bp": 20,
       "desc": "Enhances BB's probability of raising allies from KO effect"
+    }
+  ],
+  "860838": [
+    {
+      "bp": 10,
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 15,
+      "desc": "150% critical damage"
+    },
+    {
+      "bp": 15,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds ignore Def to attack"
+    },
+    {
+      "bp": 15,
+      "desc": "Raises normal hit amount"
+    },
+    {
+      "bp": 25,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Raises normal hit amount for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (Normal attacks hits all foes for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Probable evasion for 2 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to UBB (boosts max HP)"
     }
   ],
   "860900": [

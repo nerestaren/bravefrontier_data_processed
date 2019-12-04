@@ -12053,6 +12053,13 @@
     "name": "Yamori",
     "rarity": 8
   },
+  "810798": {
+    "element": "fire",
+    "guide_id": 8581,
+    "id": 810798,
+    "name": "Reborn Íkaros Azius",
+    "rarity": 8
+  },
   "810837": {
     "element": "fire",
     "guide_id": 8575,
@@ -15257,6 +15264,13 @@
     "guide_id": 8561,
     "id": 860808,
     "name": "Brilliant Scientist Noel",
+    "rarity": 8
+  },
+  "860838": {
+    "element": "dark",
+    "guide_id": 8580,
+    "id": 860838,
+    "name": "Shoryu",
     "rarity": 8
   },
   "860900": {
