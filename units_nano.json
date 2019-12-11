@@ -9253,6 +9253,13 @@
     "name": "Intact Champion Amadream",
     "rarity": 8
   },
+  "51367": {
+    "element": "light",
+    "guide_id": 8587,
+    "id": 51367,
+    "name": "Loving Goddess Tilith",
+    "rarity": 8
+  },
   "60011": {
     "element": "dark",
     "guide_id": 21,
@@ -13283,6 +13290,13 @@
     "guide_id": 8567,
     "id": 830788,
     "name": "Señora Muerte Lydia",
+    "rarity": 8
+  },
+  "830798": {
+    "element": "earth",
+    "guide_id": 8582,
+    "id": 830798,
+    "name": "S'eljah, Queen in Cobalt",
     "rarity": 8
   },
   "830808": {

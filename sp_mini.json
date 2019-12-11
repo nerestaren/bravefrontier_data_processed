@@ -5933,6 +5933,52 @@
       "desc": "Adds powerful additional attack at turn's end effect for 3 turns to BB/SBB"
     }
   ],
+  "51367": [
+    {
+      "bp": 10,
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 15,
+      "desc": "Damage taken fills BB gauge"
+    },
+    {
+      "bp": 15,
+      "desc": "Damage taken may restore HP"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 20,
+      "desc": "100% critical and elemental damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "25% DoT reduction"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (100% critical and elemental damage reduction for 2 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (boosts Atk relative to Rec for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (restores HP for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (20% DoT reduction for 2 turns)"
+    },
+    {
+      "bp": 35,
+      "desc": "Add to BB/SBB (50% damage reduction for 2 turns)"
+    }
+  ],
   "60017": [
     {
       "bp": 10,
@@ -12709,6 +12755,56 @@
     {
       "bp": 20,
       "desc": "Enhances BB's may raise allies from KO effect"
+    }
+  ],
+  "830798": [
+    {
+      "bp": 15,
+      "desc": "140% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "150% damage against status afflicted foes"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances LS's probable 1 KO resistance effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (probable KO resistance)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (boosts BB Atk for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (boosts critical damage (Earth) for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (probable evasion for 2 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (boosts damage against status afflicted foes for 3 turns)"
     }
   ],
   "830808": [
