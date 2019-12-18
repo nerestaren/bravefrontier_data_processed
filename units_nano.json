@@ -12067,6 +12067,20 @@
     "name": "Reborn Íkaros Azius",
     "rarity": 8
   },
+  "810827": {
+    "element": "fire",
+    "guide_id": 8583,
+    "id": 810827,
+    "name": "Rhyne",
+    "rarity": 7
+  },
+  "810828": {
+    "element": "fire",
+    "guide_id": 8584,
+    "id": 810828,
+    "name": "Neon Winder Rhyne",
+    "rarity": 8
+  },
   "810837": {
     "element": "fire",
     "guide_id": 8575,

@@ -22368,6 +22368,36 @@
     "sbb": "22 combo Fire attack on all foes (damage relative to remaining HP), 6 combo Fire attack on all foes (partial HP drain), 50% damage reduction for 3 turns, fills BB gauge, boosts spark damage for 3 turns & boosts spark damage (Fire) for 3 turns",
     "ubb": "28 combo Fire attack on all foes (damage relative to remaining HP), boosts max HP, 100% damage reduction for 4 turns, fills BB gauge for 4 turns, boosts spark damage for 4 turns & probable KO resistance"
   },
+  "810827": {
+    "bb": "13 combo Fire attack on all foes (damage relative to remaining HP), probable 1 turn Atk, Def reduction infliction for 3 turns, raises normal hit amount for 3 turns, normal attacks hits all foes for 3 turns & 2 turns active healing reduction infliction (PvP modes only)",
+    "category": 810820,
+    "cost": 52,
+    "element": "fire",
+    "es": "15% critical damage for all allies, damage taken may inflict 30% BB gauge fill rate reduction for 1 turn, probable damage reduction to 1 & negates Atk, Def, Rec reduction",
+    "gender": "female",
+    "guide_id": 8583,
+    "id": 810827,
+    "ls": "120% Atk, max HP, 100% Def, and 30% critical rate (Fire), 10% damage reduction from Fire, Earth types, raises normal hit amount, normal attacks may hit all foes, 20% reduction to BB activation cost",
+    "name": "Rhyne",
+    "rarity": 7,
+    "sbb": "17 combo Fire attack on all foes (damage relative to remaining HP), 5 combo Fire attack on single foe, probable 1 turn Atk, Def reduction infliction for 3 turns, raises normal hit amount for 3 turns, boosts Fire elemental damage for 3 turns",
+    "ubb": "19 combo Fire attack on all foes damage relative to remaining HP), 1 turn Atk, Def reduction infliction for 3 turns, raises normal hit amount for 3 turns, boosts Fire elemental damage for 3 turns, boosts Atk, Rec relative to Def for 3 turns"
+  },
+  "810828": {
+    "bb": "15 combo Fire attack on all foes (damage relative to remaining HP), probable 1 turn Atk, Def reduction infliction for 3 turns, raises normal hit amount for 3 turns, normal attacks hits all foes for 3 turns, 1 extra action for self for 1 turn & 2 turns active healing reduction infliction (PvP modes only)",
+    "category": 810820,
+    "cost": 60,
+    "element": "fire",
+    "es": "50% Atk, 15% critical rate, 25% critical damage and damage taken may inflict 30% BB gauge fill rate reduction for 1 turn for all allies, probable damage reduction to 1 & negates Atk, Def, Rec reduction",
+    "gender": "female",
+    "guide_id": 8584,
+    "id": 810828,
+    "ls": "150% Atk, max HP, 120% Def, and 30% critical rate (Fire), 20% damage reduction from Fire, Earth types, raises normal hit amount, normal attacks may hit all foes, 30% reduction to BB activation cost & 135% ABP, 80% CBP gain",
+    "name": "Neon Winder Rhyne",
+    "rarity": 8,
+    "sbb": "19 combo Fire attack on all foes (damage relative to remaining HP), 5 combo Fire attack on single foe, probable 1 turn Atk, Def reduction infliction for 3 turns, raises normal hit amount for 3 turns, boosts Fire elemental damage for 3 turns & boosts Atk, Rec relative to Def for 3 turns",
+    "ubb": "21 combo Fire attack on all foes damage relative to remaining HP), 1 turn Atk, Def reduction infliction for 3 turns, raises normal hit amount for 4 turns, boosts Fire elemental damage for 4 turns, boosts Atk, Rec relative to Def for 4 turns & 1 extra action for 1 turn"
+  },
   "810837": {
     "bb": "15 combo Fire attack on all foes (damage relative to remaining HP), may activate BB/SBB/UBB twice for 2 turns, 3 turns spark vulnerability infliction, probable 3 turns critical and elemental vulnerability infliction & boosts own max HP",
     "category": 810830,
@@ -25014,19 +25044,19 @@
     "ubb": "25 combo massive Thunder attack on all foes, considerably boosts OD gauge, enormously boosts Atk relative to Rec for 3 turns & enormously boosts Spark damage for 3 turns"
   },
   "840048": {
-    "bb": "18 combo powerful Thunder attack on all foes, powerful additional attack at turn's end for 3 turns, hugely boosts Rec relative to Atk for 3 turns, enormously boosts Spark damage for 3 turns & removes all status ailments",
+    "bb": "18 combo Thunder attack on all foes, 3 turns DoT infliction, boosts Rec relative to Atk for 3 turns, boosts spark damage for 3 turns & removes all status ailments and Atk, Def, Rec reduction",
     "category": 840040,
     "cost": 54,
     "element": "thunder",
-    "es": "5% damage reduction from normal attacks for all allies, adds resistance against 1 KO attack when HP is below 25%, raises Atk parameter limits to 130000 & adds 28 combo powerful Thunder attack against Water, Thunder types effect to SBB",
+    "es": "10% damage reduction from normal attacks to all allies, 1 KO resistance when HP is below 35%, raises Atk limit to 180k & add to SBB (28 combo Thunder attack on Water, Thunder foes)",
     "gender": "female",
     "guide_id": 8350,
     "id": 840048,
-    "ls": "150% boost to Atk, 80% boost to Def, max HP of Thunder types, 20% damage reduction from Water, Thunder types, considerably reduces BB gauge required for BB, probable considerable reduction of BB gauge fill rate for 2 turns & considerably boosts ABP and CBP gain",
+    "ls": "200% Atk, 80% Def, max HP (Thunder), 20% damage reduction from Water, Thunder types, 25% reduction to BB activation cost, adds probable 2 turns 50% BB gauge fill rate reduction infliction to attack & 100% ABP, 50% CBP gain",
     "name": "Storm Queen Cerise",
     "rarity": 8,
-    "sbb": "23 combo powerful Thunder attack on all foes, 6 combo powerful Thunder attack on single foe (damage relative to remaining HP), boosts Spark damage of Thunder types for 3 turns, enormously boosts Spark damage for 3 turns, hugely boosts Atk, Def relative to Rec for 3 turns & boosts own Atk for 3 turns",
-    "ubb": "30 combo massive Thunder attack on all foes, considerably boosts OD gauge, enormously boosts Atk relative to Rec for 3 turns, enormously boosts Spark damage for 3 turns & enormously boosts Thunder elemental damage for 3 turns"
+    "sbb": "23 combo Thunder attack on all foes, 6 combo Thunder attack on single foe (damage relative to remaining HP), boosts spark damage (Thunder) for 3 turns, boosts spark damage for 3 turns, boosts Atk, Def relative to Rec for 3 turns & boosts own Atk for 3 turns",
+    "ubb": "30 combo Thunder attack on all foes & fills OD gauge, boosts Atk relative to Rec for 3 turns & boosts spark damage for 3 turns, boosts Thunder elemental damage for 3 turns & 3 turns DoT infliction"
   },
   "840114": {
     "bb": "5 combo Fire, Thunder, Dark attack on all foes & small chance of inflicting random status ailment",
