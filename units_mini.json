@@ -24905,6 +24905,20 @@
     "sbb": "4 combo Earth attack on all foes (damage relative to remaining HP), 10 combo Earth attack on all foes, boosts Atk, Def for 3 turns, fills own BB gauge to max, probable 2 turns Atk, Def reduction infliction & 3 turns spark vulnerability infliction",
     "ubb": "5 combo Earth attack on all foes (damage relative to remaining HP), 15 combo Earth attack on single foe (damage relative to remaining HP), boosts Atk, Def for 5 turns, spark damage fills BB gauge for 5 turns, probable spark critical for 5 turns & boosts own spark damage for 5 turns"
   },
+  "830818": {
+    "bb": "MST_SKILLS_830818_DESCRIPTION",
+    "category": 830810,
+    "cost": 60,
+    "element": "earth",
+    "es": "MST_EXTRAPASSIVESKILL_830818_DESCRIPTION",
+    "gender": "female",
+    "guide_id": 8580,
+    "id": 830818,
+    "name": "Devoted Yasna Armaiti",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1830818_DESCRIPTION",
+    "ubb": "MST_SKILLS_2830818_DESCRIPTION"
+  },
   "830838": {
     "bb": "20 combo Earth attack on all foes, fills BB gauge for 3 turns, restores HP, removes all status ailments and Atk, Def, Rec reduction, probable evasion for 3 turns & fills OD gauge",
     "category": 830830,
@@ -28898,6 +28912,20 @@
     "rarity": 8,
     "sbb": "15 combo powerful Dark attack on all foes, 15 combo powerful Dark attack on all foes (damage relative to remaining HP), hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 3 turns, enormously boosts Dark elemental damage for 3 turns, hugely boosts critical damage for 3 turns & considerably boosts OD gauge",
     "ubb": "33 combo massive Dark attack on all foes (damage relative to remaining HP), adds probable resistance against 1 KO attack, enormously boosts Atk, Def, Rec and enormously boosts critical hit rate for 4 turns, enormously boosts Dark elemental damage for 4 turns, damage taken hugely boosts BB gauge for 4 turns & raises allies from KO"
+  },
+  "860818": {
+    "bb": "MST_SKILLS_860818_DESCRIPTION",
+    "category": 860810,
+    "cost": 60,
+    "element": "dark",
+    "es": "MST_EXTRAPASSIVESKILL_860818_DESCRIPTION",
+    "gender": "male",
+    "guide_id": 8580,
+    "id": 860818,
+    "name": "Shadow Stalker Vohu",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1860818_DESCRIPTION",
+    "ubb": "MST_SKILLS_2860818_DESCRIPTION"
   },
   "860838": {
     "bb": "25 combo random Dark attack on all foes, raises normal hit amount for 3 turns, normal attacks hits all foes for 3 turns, adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns, probable 1 extra action for self for 1 turn & boosts own Atk and critical rate for 3 turns",

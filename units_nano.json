@@ -13320,6 +13320,13 @@
     "name": "Emerald Summoner Lugina",
     "rarity": 8
   },
+  "830818": {
+    "element": "earth",
+    "guide_id": 8580,
+    "id": 830818,
+    "name": "Devoted Yasna Armaiti",
+    "rarity": 8
+  },
   "830838": {
     "element": "earth",
     "guide_id": 8577,
@@ -15292,6 +15299,13 @@
     "guide_id": 8561,
     "id": 860808,
     "name": "Brilliant Scientist Noel",
+    "rarity": 8
+  },
+  "860818": {
+    "element": "dark",
+    "guide_id": 8580,
+    "id": 860818,
+    "name": "Shadow Stalker Vohu",
     "rarity": 8
   },
   "860838": {
