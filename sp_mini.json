@@ -12915,6 +12915,56 @@
       "desc": "Add to UBB (19 combo Earth attack on all foes)"
     }
   ],
+  "830818": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": "170% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 30,
+      "desc": ""
+    },
+    {
+      "bp": 15,
+      "desc": ""
+    },
+    {
+      "bp": 25,
+      "desc": ""
+    },
+    {
+      "bp": 15,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Raises normal hit amount for 3 turns), UBB (Raises normal hit amount for 4 turns)"
+    },
+    {
+      "bp": 30,
+      "desc": ""
+    }
+  ],
   "830838": [
     {
       "bp": 10,
