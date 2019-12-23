@@ -23056,7 +23056,7 @@
     "gender": "male",
     "guide_id": 8378,
     "id": 820357,
-    "ls": "MST_LEADERSKILLS_820357_DESCRIPTION",
+    "ls": "80% boost to Atk, Def and max HP of Water types, 5% damage reduction from normal attacks, reduces BB gauge required for BB & damage taken greatly boosts BB gauge",
     "name": "Riverblade Kawab",
     "rarity": 7,
     "sbb": "16 combo powerful Water attack on all foes, Spark damage boosts BB gauge for 3 turns, greatly boosts Spark damage for 3 turns, inflicts Spark vulnerability for 2 turns & greatly boosts Atk, Def, Rec relative to max HP for 3 turns",
@@ -24906,19 +24906,19 @@
     "ubb": "5 combo Earth attack on all foes (damage relative to remaining HP), 15 combo Earth attack on single foe (damage relative to remaining HP), boosts Atk, Def for 5 turns, spark damage fills BB gauge for 5 turns, probable spark critical for 5 turns & boosts own spark damage for 5 turns"
   },
   "830818": {
-    "bb": "MST_SKILLS_830818_DESCRIPTION",
+    "bb": "16 combo Earth attack on all foes (damage relative to remaining HP), 1 extra action for self for 1 turn, fills BB gauge for 3 turns, probable evasion for 2 turns, 25% DoT reduction for 3 turns & boosts OD gauge fill rate for 3 turns",
     "category": 830810,
     "cost": 60,
     "element": "earth",
-    "es": "MST_EXTRAPASSIVESKILL_830818_DESCRIPTION",
+    "es": "25% spark damage and fills BB gauge each turn for all allies, 30% all parameters, 50% DoT reduction & add to BB (adds Earth shield for 3 turns)",
     "gender": "female",
     "guide_id": 8586,
     "id": 830818,
-    "ls": "MST_LEADERSKILLS_830818_DESCRIPTION",
+    "ls": "150% Atk, Def, max HP, 30% reduction to BB activation cost, spark damage fills BB gauge, 15% DoT reduction & 30% OD gauge fill rate",
     "name": "Devoted Yasna Armaiti",
     "rarity": 8,
-    "sbb": "MST_SKILLS_1830818_DESCRIPTION",
-    "ubb": "MST_SKILLS_2830818_DESCRIPTION"
+    "sbb": "20 combo Earth attack on all foes (damage relative to remaining HP), 5 combo Earth attack on single foe (or probable 5% damage of foes' max HP), probable spark critical for 3 turns, spark damage fills BB gauge for 3 turns, boosts spark damage (Earth) for 3 turns & fills OD gauge",
+    "ubb": "23 combo Earth attack on all foes (damage relative to remaining HP), evasion for 3 turns, probable spark critical for 4 turns, boosts spark damage for 4 turns, 100% DoT reduction for 4 turns & fills OD gauge"
   },
   "830838": {
     "bb": "20 combo Earth attack on all foes, fills BB gauge for 3 turns, restores HP, removes all status ailments and Atk, Def, Rec reduction, probable evasion for 3 turns & fills OD gauge",

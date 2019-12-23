@@ -12922,7 +12922,7 @@
     },
     {
       "bp": 10,
-      "desc": ""
+      "desc": "30% Def, Rec, max HP"
     },
     {
       "bp": 10,
@@ -12930,7 +12930,7 @@
     },
     {
       "bp": 10,
-      "desc": ""
+      "desc": "200% elemental damage"
     },
     {
       "bp": 10,
@@ -12938,23 +12938,23 @@
     },
     {
       "bp": 30,
-      "desc": ""
+      "desc": "Add to LS (250% spark damage)"
     },
     {
       "bp": 15,
-      "desc": ""
+      "desc": "Add to BB (Fills OD gauge at turn's end for 3 turns)"
     },
     {
       "bp": 25,
-      "desc": ""
+      "desc": "Add to SBB (Boosts spark damage for 3 turns)"
     },
     {
       "bp": 15,
-      "desc": ""
+      "desc": "Add to SBB (24 combo Earth attack on all foes (damage relative to remaining HP))"
     },
     {
       "bp": 20,
-      "desc": ""
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
     },
     {
       "bp": 20,
@@ -12962,7 +12962,7 @@
     },
     {
       "bp": 30,
-      "desc": ""
+      "desc": "Add to UBB (1 extra action for 1 turn)"
     }
   ],
   "830838": [
