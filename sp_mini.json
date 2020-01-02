@@ -18321,6 +18321,56 @@
       "desc": "Enhances BB's probability of raising allies from KO effect"
     }
   ],
+  "860818": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "170% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "150% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "25% reduction to BB activation cost"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (May activate BB/SBB/UBB twice for 2 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Spark damage fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Boosts Atk, Def, Rec and critical rate for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to BB/SBB (Probable all status ailments infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (boosts max HP), UBB (boosts max HP)"
+    }
+  ],
   "860838": [
     {
       "bp": 10,

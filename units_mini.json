@@ -28915,19 +28915,19 @@
     "ubb": "33 combo massive Dark attack on all foes (damage relative to remaining HP), adds probable resistance against 1 KO attack, enormously boosts Atk, Def, Rec and enormously boosts critical hit rate for 4 turns, enormously boosts Dark elemental damage for 4 turns, damage taken hugely boosts BB gauge for 4 turns & raises allies from KO"
   },
   "860818": {
-    "bb": "MST_SKILLS_860818_DESCRIPTION",
+    "bb": "16 combo Dark attack on all foes (damage relative to remaining HP), activates Stealth and boosts own Atk and critical rate for 2 turns, fills BB gauge, boosts BC, HC drop rate, Item drop rate for 3 turns, spark damage restores HP for 3 turns & fills OD gauge",
     "category": 860810,
     "cost": 60,
     "element": "dark",
-    "es": "MST_EXTRAPASSIVESKILL_860818_DESCRIPTION",
+    "es": "25% spark damage and adds ignore Def to attack for all allies, 0-100% Atk, Def, Rec relative to remaining HP, 100% spark damage & negates all status ailments and Atk, Def, Rec reduction",
     "gender": "male",
-    "guide_id": 8580,
+    "guide_id": 8588,
     "id": 860818,
-    "ls": "MST_LEADERSKILLS_860818_DESCRIPTION",
+    "ls": "140% all parameters, spark damage restores HP, 250% Dark elemental damage, fills BB gauge each turn & 50% BC, HC, Zel, Karma, 9% Item drop rates",
     "name": "Shadow Stalker Vohu",
     "rarity": 8,
-    "sbb": "MST_SKILLS_1860818_DESCRIPTION",
-    "ubb": "MST_SKILLS_2860818_DESCRIPTION"
+    "sbb": "16 combo Dark attack on all foes (damage relative to remaining HP), 9 combo Dark attack on all foes (consecutive uses boosts damage), 3 turns spark vulnerability infliction, may activate BB/SBB/UBB twice for 3 turns, spark damage restores HP for 3 turns & boosts Dark elemental damage for 3 turns",
+    "ubb": "18 combo Dark attack on all foes (damage relative to remaining HP), 10 combo Dark attack on single foe (25% active Pierce on Light,Dark foes), spark damage fills BB gauge and restores HP for 4 turns, activates BB/SBB/UBB twice for 3 turns & boosts Dark elemental damage for 4 turns"
   },
   "860838": {
     "bb": "25 combo random Dark attack on all foes, raises normal hit amount for 3 turns, normal attacks hits all foes for 3 turns, adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns, probable 1 extra action for self for 1 turn & boosts own Atk and critical rate for 3 turns",
