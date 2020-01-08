@@ -9483,6 +9483,56 @@
       "desc": "Allows BB's base effects to last additional 1 turn"
     }
   ],
+  "810808": [
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 15,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Fills BB gauge each turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 20,
+      "desc": "1 KO resistance"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (removes all status ailments and Atk, Def, Rec reduction and negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (damage taken may restore HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (3 turns spark vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (boosts spark damage (Fire) for 4 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows BB's Effects to last additional 1 turn"
+    }
+  ],
   "810828": [
     {
       "bp": 10,
@@ -11140,6 +11190,56 @@
       "bp": 20,
       "dependency": true,
       "desc": "Adds probable KO resistance negation for 2 turns (PvP modes only) effect to BB/SBB"
+    }
+  ],
+  "820808": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 15,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (removes all status ailments and Atk, Def, Rec reduction and negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (probable evasion for 2 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (15% damage reduction from all element types for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (adds Water barrier)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (boosts Atk, Def, Rec relative to max HP for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (17 combo Water attack on single foe (damage relative to remaining HP))"
     }
   ],
   "820838": [

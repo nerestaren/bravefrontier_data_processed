@@ -12067,6 +12067,13 @@
     "name": "Reborn Íkaros Azius",
     "rarity": 8
   },
+  "810808": {
+    "element": "fire",
+    "guide_id": 8589,
+    "id": 810808,
+    "name": "Ruby Summoner Seria",
+    "rarity": 8
+  },
   "810827": {
     "element": "fire",
     "guide_id": 8583,
@@ -12709,6 +12716,13 @@
     "guide_id": 8542,
     "id": 820758,
     "name": "Skittish Chemist Charlie",
+    "rarity": 8
+  },
+  "820808": {
+    "element": "water",
+    "guide_id": 8590,
+    "id": 820808,
+    "name": "Sapphire Summoner Karl",
     "rarity": 8
   },
   "820837": {
