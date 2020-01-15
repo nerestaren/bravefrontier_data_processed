@@ -12725,6 +12725,20 @@
     "name": "Sapphire Summoner Karl",
     "rarity": 8
   },
+  "820827": {
+    "element": "water",
+    "guide_id": 8591,
+    "id": 820827,
+    "name": "Kahiki",
+    "rarity": 7
+  },
+  "820828": {
+    "element": "water",
+    "guide_id": 8592,
+    "id": 820828,
+    "name": "Wave Rider Kahiki",
+    "rarity": 8
+  },
   "820837": {
     "element": "water",
     "guide_id": 8578,

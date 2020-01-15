@@ -11242,6 +11242,60 @@
       "desc": "Add to SBB (17 combo Water attack on single foe (damage relative to remaining HP))"
     }
   ],
+  "820828": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "30% DoT reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Adds Water shield for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Restores HP)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (boosts Atk, Def, Rec relative to max HP for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (22 combo Water attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Probable evasion for 2 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to BB/SBB (3 turns 30% BB gauge fill rate reduction infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Probable 2 turns KO resistance negation infliction (PvP modes only))"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Spark damage fills BB gauge for 3 turns)"
+    }
+  ],
   "820838": [
     {
       "bp": 10,
@@ -16506,48 +16560,47 @@
   "860048": [
     {
       "bp": 10,
-      "desc": "50% boost to Atk, max HP"
+      "desc": "80% all parameters"
     },
     {
       "bp": 10,
-      "dependency": true,
-      "desc": "Raises Atk, max HP boost from 50% to 70%"
-    },
-    {
-      "bp": 15,
-      "desc": "120% boost to Spark damage"
-    },
-    {
-      "bp": 15,
-      "desc": "Boosts critical damage"
-    },
-    {
-      "bp": 5,
-      "desc": "Considerably raises own normal hit amount"
-    },
-    {
-      "bp": 50,
-      "desc": "Probable resistance against 1 KO attack"
-    },
-    {
-      "bp": 10,
-      "desc": "Raises Atk parameter limits to 160000"
-    },
-    {
-      "bp": 30,
-      "desc": "Enhances LS's success rate of normal attacks may hit all foes effect"
-    },
-    {
-      "bp": 40,
-      "desc": "Enhances SBB's additional damage at turn's end effect but reduces duration to 1 turn"
+      "desc": "150% spark damage"
     },
     {
       "bp": 20,
-      "desc": "Enhances hit count and damage of UBB's hugely raises normal hit amount effect"
+      "desc": "150% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Fills BB gauge each turn"
+    },
+    {
+      "bp": 5,
+      "desc": "Raises normal hit amount"
+    },
+    {
+      "bp": 30,
+      "desc": "1 KO resistance"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances UBB's raises normal hit amount effect"
     },
     {
       "bp": 25,
-      "desc": "Adds probable self evasion for 1 turn effect to BB"
+      "desc": "Enhances LS's normal attacks may hit all foes effect"
+    },
+    {
+      "bp": 30,
+      "desc": "Enhances SBB's DoT infliction but reduces turn duration"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Probable evasion for self for 1 turn)"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to BB/SBB (Adds Dark shield for 2 turns)"
     }
   ],
   "860108": [

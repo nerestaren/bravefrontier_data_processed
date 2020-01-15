@@ -23699,6 +23699,36 @@
     "sbb": "18 combo Water attack on all foes (damage relative to remaining HP), boosts own Atk, Def, Rec for 3 turns, fills BB gauge, spark damage fills BB gauge for 3 turns, boosts Water elemental damage for 3 turns & fills OD gauge",
     "ubb": "22 combo Water attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec for 4 turns, probable KO resistance, fills BB gauge for 4 turns, boosts Water elemental damage for 4 turns & fills OD gauge"
   },
+  "820827": {
+    "bb": "14 combo Water attack on all foes (damage relative to remaining HP), probable 3 turns Atk, Def reduction infliction, 20% DoT reduction for 2 turns, boosts Atk, Def, Rec relative to max HP for 3 turns & 2 turns max HP reduction infliction (PvP modes only)",
+    "category": 820820,
+    "cost": 52,
+    "element": "water",
+    "es": "15% DoT reduction for all allies, damage taken may inflict 30% BB gauge fill rate reduction for 1 turn, 100% spark damage & negates all status ailments",
+    "gender": "male",
+    "guide_id": 8591,
+    "id": 820827,
+    "ls": "120% Atk, max HP, 100% Def and 30% critical rate (Water), 10% damage reduction from Fire, Water types, 10% DoT reduction, probable spark critical & 150% spark damage",
+    "name": "Kahiki",
+    "rarity": 7,
+    "sbb": "16 combo Water attack on all foes (damage relative to remaining HP), 5 combo Water attack on single foe, spark damage restores HP for 3 turns, probable spark critical for 3 turns & boosts Atk, Def, Rec (Water) for 3 turns",
+    "ubb": "18 combo Water attack on all foes (damage relative to remaining HP), 3 turns Atk, Def reduction infliction, 100% DoT reduction for 3 turns, boosts Atk, Def, Rec relative to max HP for 3 turns & boosts spark damage for 3 turns"
+  },
+  "820828": {
+    "bb": "16 combo Water attack on all foes (damage relative to remaining HP), adds probable 2 turns Atk, Def reduction infliction counter for 3 turns, probable 3 turns Atk, Def reduction infliction, 30% DoT reduction for 2 turns, boosts Atk, Def, Rec relative to max HP for 3 turns & 2 turns max HP reduction infliction (PvP modes only)",
+    "category": 820820,
+    "cost": 60,
+    "element": "water",
+    "es": "50% Atk, 15% critical rate, 15% DoT reduction and damage taken may inflict 30% BB gauge fill rate reduction for 1 turn for all allies, 100% spark damage & negates all status ailments",
+    "gender": "male",
+    "guide_id": 8592,
+    "id": 820828,
+    "ls": "150% Atk, max HP, 120% Def and 30% critical rate (Water), 20% damage reduction from Fire, Water types, 15% DoT reduction, probable spark critical, 250% spark damage & 135% ABP, 80% CBP gain",
+    "name": "Wave Rider Kahiki",
+    "rarity": 8,
+    "sbb": "18 combo Water attack on all foes (damage relative to remaining HP), 5 combo Water attack on single foe, spark damage restores HP for 3 turns, probable spark critical for 3 turns, boosts Atk, Def, Rec (Water) for 3 turns & boosts spark damage (Water) for 3 turns",
+    "ubb": "21 combo Water attack on all foes (damage relative to remaining HP), 4 turns Atk, Def reduction infliction, evasion for 3 turns, 100% DoT reduction for 4 turns, boosts Atk, Def, Rec relative to max HP for 4 turns & boosts spark damage for 4 turns"
+  },
   "820837": {
     "bb": "12 combo Water attack on all foes (damage relative to remaining HP), 5 combo Water attack on single foe, boosts own spark damage for 3 turns, fills own BB gauge to max & boosts own Atk and critical rate for 3 turns",
     "category": 820830,
@@ -27753,19 +27783,19 @@
     "ubb": "18 combo massive Dark attack on all foes, normal attacks hit all foes for 3 turns, enormously boosts critical damage for 3 turns & considerably raises normal hit amount for 3 turns"
   },
   "860048": {
-    "bb": "17 combo powerful Dark attack on all foes, normal attacks hit all foes for 3 turns, casts stealth on self boosting own Atk and critical hit rate for 3 turns, considerably raises normal hit amount for 3 turns & powerful additional attack at turn's end for 3 turns",
+    "bb": "17 combo Dark attack on all foes, normal attacks hits all foes for 3 turns, activates Stealth and boosts own Atk and critical rate for 3 turns, raises normal hit amount for 3 turns & 3 turns DoT infliction",
     "category": 860040,
     "cost": 54,
     "element": "dark",
-    "es": "Slightly boosts critical damage for all allies, adds resistance against 1 KO attack when HP is below 25%, raises Atk parameter limits to 130000 & adds 20 combo powerful Dark attack against Light, Dark types effect to SBB",
+    "es": "25% critical damage for all allies, angel idol when HP is below 35%, raises Atk limit to 180k & add to SBB (20 combo Dark attack on Light, Dark foes)",
     "gender": "male",
     "guide_id": 8374,
     "id": 860048,
-    "ls": "150% boost to Atk, 80% boost to Def, max HP of Dark types, 20% damage reduction from Light, Dark types, raises normal hit amount, probable normal attack on all foes & considerably boosts ABP and CBP gain",
+    "ls": "200% Atk, 80% Def, max HP (Dark), 20% damage reduction from Light, Dark types, raises normal hit amount, normal attacks may hit all foes & 100% ABP, 50% CBP gain",
     "name": "Occult Reaper Ciardha",
     "rarity": 8,
-    "sbb": "17 combo powerful Dark attack on all foes, 4 combo powerful Dark attack on single foe (damage relative to remaining HP), casts stealth on self boosting own Atk and critical hit rate for 3 turns, considerably raises normal hit amount for 3 turns, powerful additional attack at turn's end for 3 turns & boosts critical damage of Dark types for 3 turns",
-    "ubb": "21 combo massive Dark attack on all foes, normal attacks hit all foes for 3 turns, enormously boosts critical damage for 3 turns, considerably raises normal hit amount for 3 turns & enormously boosts Atk, Def, Rec for 3 turns"
+    "sbb": "17 combo Dark attack on all foes, 4 combo Dark attack on single foe (damage relative to remaining HP), activates Stealth and boosts own Atk and critical rate for 3 turns, raises normal hit amount for 3 turns, 3 turns DoT infliction & boosts critical damage (Dark) for 3 turns",
+    "ubb": "21 combo Dark attack on all foes, normal attacks hits all foes for 3 turns, boosts critical damage for 3 turns, raises normal hit amount for 3 turns, boosts Atk, Def, Rec and critical rate for 3 turns & 3 turns DoT infliction"
   },
   "860104": {
     "bb": "8 combo Dark elemental attack on all enemies and probable chance of Poison, Paralysis, Curse & Weak",
