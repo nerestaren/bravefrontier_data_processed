@@ -20909,6 +20909,21 @@
     "sbb": "8 combo powerful Earth attack on all foes, enormously boosts Atk, Def relative to max HP for 3 turns, hugely boosts Atk, Def, Rec for 3 turns, considerably raises normal hit amount for 3 turns, normal attacks hit all foes for 3 turns & adds to self probability to perform 1 extra action within the same turn for 3 turns",
     "ubb": "Hugely boosts OD gauge, enormously boosts Atk, Def relative to max HP for 5 turns, enormously boosts Atk, Def for 5 turns, greatly raises normal hit amount for 5 turns, enormously boosts BB gauge for 5 turns & adds 1 extra action within the same turn"
   },
+  "730287": {
+    "bb": "MST_SKILLS_730287_DESCRIPTION",
+    "category": 730280,
+    "cost": 60,
+    "element": "earth",
+    "es": "MST_EXTRAPASSIVESKILL_730287_DESCRIPTION",
+    "gender": "female",
+    "guide_id": 8580,
+    "id": 730287,
+    "ls": "MST_LEADERSKILLS_730287_DESCRIPTION",
+    "name": "Prescient Goddess Frigg",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1730287_DESCRIPTION",
+    "ubb": "MST_SKILLS_2730287_DESCRIPTION"
+  },
   "740157": {
     "bb": "15 combo Thunder attack on all foes, hugely boosts BB Atk for 3 turns, adds all elements to attack for 3 turns, hugely boosts all elemental damage for 3 turns & low probability of activating BB/SBB/UBB twice for 1 turn",
     "category": 740150,
@@ -21033,6 +21048,21 @@
     "rarity": 8,
     "sbb": "30 combo powerful Light attack on all foes, hugely boosts Atk for 3 turns, enormously boosts critical hit rate for 3 turns, boosts damage reduction when guarding for 3 turns, low probability of activating BB/SBB/UBB twice for 1 turn, fills own BB gauge to max & enormously boosts BB gauge for 3 turns",
     "ubb": "35 combo massive Light attack on all foes (damage relative to remaining HP), enormously boosts critical damage for 3 turns, enormously boosts Spark damage for 3 turns, enormously boosts Atk for 3 turns, enormously boosts critical hit rate for 3 turns & activates BB/SBB/UBB twice for 1 turn"
+  },
+  "760006": {
+    "bb": "12 combo Earth, Dark attack on all foes, probable KO resistance, boosts BC efficacy for 3 turns, fills BB gauge for 3 turns, boosts OD gauge fill rate for 3 turns & fills OD gauge",
+    "category": 760006,
+    "cost": 60,
+    "element": "dark",
+    "es": "Damage taken fills BB gauge for all allies and 100% spark damage when Status Ailments Resistant Sphere is equipped, negates ignore Def for all allies, 30% all parameters, probable 2 KO resistance & add to BB/SBB (Adds Dark shield for 3 turns)",
+    "gender": "other",
+    "guide_id": 8593,
+    "id": 760006,
+    "ls": "180% max HP, damage taken fills BB gauge, 20% damage reduction for 1 turn when damage taken is over 5k, probable 1 KO resistance & 30% OD gauge fill rate",
+    "name": "Herald of Yggdrasil",
+    "rarity": 8,
+    "sbb": "18 combo Dark attack on all foes (damage relative to remaining HP), 5 combo Dark attack on single foe (damage relative to remaining HP), damage taken may restore HP and fills BB gauge for 3 turns, boosts BB Atk for 3 turns & fills OD gauge",
+    "ubb": "May purge Paralysis and Poison negation from all foes, probable KO resistance, damage taken restores HP for 4 turns, purges LS, ES Lock and DoT from all allies, fills BB gauge to max & fills OD gauge"
   },
   "760226": {
     "bb": "22 combo powerful Dark attack on all foes, 50% damage reduction for 1 turn, considerably boosts Def relative to Atk for 3 turns & negates critical damage for 1 turn",

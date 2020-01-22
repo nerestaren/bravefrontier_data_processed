@@ -7919,6 +7919,56 @@
       "desc": "Adds all elements to attack for 3 turns effect to SBB/UBB"
     }
   ],
+  "760006": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, Def"
+    },
+    {
+      "bp": 10,
+      "desc": "170% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (May purge LS, ES Lock and DoT from random ally)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Restores HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (boosts Atk, Def, Rec relative to max HP for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Fills OD gauge at turn's end for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances LS's probable KO resistance effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Adds probable random status ailments infliction to attack for 3 turns), UBB (Adds all status ailments infliction to attack for 4 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to UBB (Evasion for 3 turns)"
+    }
+  ],
   "760227": [
     {
       "bp": 25,
