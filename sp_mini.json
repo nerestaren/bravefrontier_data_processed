@@ -9536,7 +9536,7 @@
   "810808": [
     {
       "bp": 10,
-      "desc": ""
+      "desc": "120% Atk, Def, 100% max HP"
     },
     {
       "bp": 15,
@@ -13068,7 +13068,7 @@
   "830808": [
     {
       "bp": 10,
-      "desc": ""
+      "desc": "120% Atk, Def, 100% max HP"
     },
     {
       "bp": 10,
@@ -14657,6 +14657,56 @@
     {
       "bp": 20,
       "desc": "Enhances SBB's boost to Atk, Def, Rec effect"
+    }
+  ],
+  "840798": [
+    {
+      "bp": 10,
+      "desc": "120% Atk, Def, 100% max HP"
+    },
+    {
+      "bp": 15,
+      "desc": "170% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Damage taken may restore HP"
+    },
+    {
+      "bp": 15,
+      "desc": "probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (boosts own max HP)"
+    },
+    {
+      "bp": 25,
+      "desc": "Allows BB's base effects to last additional 2 turns"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (adds Thunder barrier)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (3 turns spark vulnerability infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (16 combo Thunder attack on all foes (damage relative to remaining HP))"
     }
   ],
   "840808": [

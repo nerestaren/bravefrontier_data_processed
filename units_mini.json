@@ -26221,6 +26221,21 @@
     "sbb": "25 combo powerful Thunder attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), 6 combo massive Thunder attack on single foe (damage relative to lost HP), greatly boosts own Spark damage for 3 turns, hugely boosts all elemental damage for 3 turns, hugely boosts Atk, Def, Rec for 3 turns & greatly boosts BC, HC and Item drop rates for 3 turns",
     "ubb": "28 combo massive Thunder attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), enormous Spark vulnerability infliction for 3 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts max HP, enormously boosts all elemental damage for 3 turns & enormously boosts BC, HC and Item drop rates for 3 turns"
   },
+  "840798": {
+    "bb": "9 combo Thunder attack on all foes, 50% damage reduction for 2 turns, 15% damage reduction from all element types for 2 turns, probable evasion for 2 turns, 25% DoT reduction for 2 turns & fills OD gauge",
+    "category": 840790,
+    "cost": 60,
+    "element": "thunder",
+    "es": "5% damage reduction for all allies when Arcane Bulwark or Damage Reducing Sphere is equipped, 15% DoT reduction and 25% spark damage for all allies, damage taken fills BB gauge & probable 2 KO resistance",
+    "gender": "female",
+    "guide_id": 8594,
+    "id": 840798,
+    "ls": "100% Def, max HP, 200% Atk (Thunder), 250% spark damage, 15% damage reduction, probable damage reduction to 1 & probable 1 KO resistance",
+    "name": "Miriam, Elysia's Steel",
+    "rarity": 8,
+    "sbb": "8 combo Thunder attack on single foe (damage relative to remaining HP), 9 combo Thunder attack on single foe (damage relative to remaining HP), 50% damage reduction for 3 turns, boosts Atk, Def, Rec relative to max HP for 3 turns, boosts spark damage for 3 turns & boosts BB Atk for 3 turns",
+    "ubb": "20 combo Thunder attack on all foes (damage relative to remaining HP), 100% DoT reduction for 4 turns, evasion for 4 turns, boosts Atk, Def, Rec relative to max HP for 4 turns, boosts spark damage for 4 turns & boosts BB Atk for 4 turns"
+  },
   "840808": {
     "bb": "10 combo Thunder attack on all foes, probable KO resistance, negates all status ailments for 3 turns, negates Atk, Def, Rec reduction for 3 turns, restores HP & fills BB gauge",
     "category": 840800,
