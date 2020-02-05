@@ -7737,6 +7737,56 @@
       "desc": "Enhances SBB's considerably raises normal hit amount effect"
     }
   ],
+  "730287": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "170% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "150% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments and Atk, Def, Rec reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB's Taunt duration"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (restores HP)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (damage taken may restore HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (probable 1 KO resistance)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (boosts spark damage (Fire, Water, Thunder, Light, Dark) for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (boosts BC efficacy for 3 turns)"
+    },
+    {
+      "bp": 35,
+      "desc": "Add to BB (15% damage reduction from all element types for 3 turns), UBB (100% damage reduction from all element types for 4 turns)"
+    }
+  ],
   "740157": [
     {
       "bp": 20,
