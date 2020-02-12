@@ -12767,6 +12767,13 @@
     "name": "Jin",
     "rarity": 8
   },
+  "820848": {
+    "element": "water",
+    "guide_id": 8597,
+    "id": 820848,
+    "name": "Faithless Seeker Renatus",
+    "rarity": 8
+  },
   "820900": {
     "element": "water",
     "guide_id": 8497,
@@ -13983,6 +13990,13 @@
     "guide_id": 8572,
     "id": 840808,
     "name": "Prime Minister Paris",
+    "rarity": 8
+  },
+  "840848": {
+    "element": "thunder",
+    "guide_id": 8596,
+    "id": 840848,
+    "name": "Consecrated Sin Nimrah",
     "rarity": 8
   },
   "840900": {
