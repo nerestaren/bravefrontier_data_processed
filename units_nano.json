@@ -13376,6 +13376,20 @@
     "name": "Devoted Yasna Armaiti",
     "rarity": 8
   },
+  "830827": {
+    "element": "earth",
+    "guide_id": 8599,
+    "id": 830827,
+    "name": "Alphie",
+    "rarity": 7
+  },
+  "830828": {
+    "element": "earth",
+    "guide_id": 8600,
+    "id": 830828,
+    "name": "Snowtop Alpinist Alphie",
+    "rarity": 8
+  },
   "830838": {
     "element": "earth",
     "guide_id": 8577,

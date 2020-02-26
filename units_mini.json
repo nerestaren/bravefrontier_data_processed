@@ -25025,6 +25025,36 @@
     "sbb": "20 combo Earth attack on all foes (damage relative to remaining HP), 5 combo Earth attack on single foe (or probable 5% damage of foes' max HP), probable spark critical for 3 turns, spark damage fills BB gauge for 3 turns, boosts spark damage (Earth) for 3 turns & fills OD gauge",
     "ubb": "23 combo Earth attack on all foes (damage relative to remaining HP), evasion for 3 turns, probable spark critical for 4 turns, boosts spark damage for 4 turns, 100% DoT reduction for 4 turns & fills OD gauge"
   },
+  "830827": {
+    "bb": "12 combo Earth attack on all foes (damage relative to remaining HP), boosts Def relative to Atk for 3 turns, boosts Atk, Def, Rec for 3 turns, damage taken may restore HP for 3 turns & may purge HP Barrier from all foes (PVP mode only)",
+    "category": 830820,
+    "cost": 52,
+    "element": "earth",
+    "es": "40% Atk, 15% critical rate for all allies, 100% spark damage, and damage taken may inflict 30% BB gauge fill rate reduction for 1 turn & 100% spark damage reduction",
+    "gender": "male",
+    "guide_id": 8599,
+    "id": 830827,
+    "ls": "120% Atk, max HP, 100% Def and 30% critical rate (Earth), 10% damage reduction from Earth, Thunder types, 250% critical damage, damage taken may inflict 1 turn 50% BB gauge fill rate reduction, damage taken may restore HP",
+    "name": "Alphie",
+    "rarity": 7,
+    "sbb": "12 combo Earth attack on all foes (damage relative to remaining HP), 12 combo Earth attack on single foe, boosts Atk relative to Def for 3 turns, boosts Atk, Def, Rec and critical rate (Earth) for 3 turns, boosts critical damage for 3 turns",
+    "ubb": "17 combo Earth attack on all foes (damage relative to remaining HP), 100% damage reduction for 3 turns, boosts Def relative to Atk for 3 turns, damage taken restores HP for 3 turns, boosts critical damage for 3 turns"
+  },
+  "830828": {
+    "bb": "12 combo Earth attack on all foes (damage relative to remaining HP), boosts Def relative to Atk for 3 turns, boosts Atk, Def, Rec for 3 turns, damage taken may restore HP for 3 turns, adds probable 2 turns Atk, Def reduction infliction counter for 3 turns & may purge HP Barrier from all foes (PVP mode only)",
+    "category": 830820,
+    "cost": 60,
+    "element": "earth",
+    "es": "50% Atk, 15% critical rate, damage taken fills BB gauge and damage taken may inflict 30% BB gauge fill rate reduction for 1 turn for all allies, 100% spark damage reduction & 100% spark damage",
+    "gender": "male",
+    "guide_id": 8600,
+    "id": 830828,
+    "ls": "150% Atk, max HP, 120% Def and 30% critical rate (Earth), 20% damage reduction from Earth, Thunder types, 300% critical damage, damage taken may inflict 1 turn 50% BB gauge fill rate reduction, damage taken may restore HP & 135% ABP, 80% CBP gain",
+    "name": "Snowtop Alpinist Alphie",
+    "rarity": 8,
+    "sbb": "12 combo Earth attack on all foes (damage relative to remaining HP), 12 combo Earth attack on single foe, boosts Atk relative to Def for 3 turns, boosts Atk, Def, Rec and critical rate (Earth) for 3 turns, boosts critical damage for 3 turns & boosts critical damage (Earth) for 3 turns",
+    "ubb": "17 combo Earth attack on all foes (damage relative to remaining HP), 100% damage reduction for 4 turns, boosts Def relative to Atk for 4 turns, damage taken restores HP for 4 turns, boosts critical damage for 4 turns & adds probable 2 turns Atk, Def reduction infliction counter for 4 turns"
+  },
   "830838": {
     "bb": "20 combo Earth attack on all foes, fills BB gauge for 3 turns, restores HP, removes all status ailments and Atk, Def, Rec reduction, probable evasion for 3 turns & fills OD gauge",
     "category": 830830,
@@ -26459,19 +26489,19 @@
     "ubb": "18 combo massive Light attack on all foes, activates Light barrier, enormously boosts Atk relative to max HP for 3 turns & adds evasion for 1 turn"
   },
   "850048": {
-    "bb": "15 combo powerful Light attack on all foes, powerful additional attack at turn's end for 3 turns, hugely boosts Atk relative to max HP for 3 turns, hugely boosts BB Atk for 3 turns & removes all status ailments",
+    "bb": "15 combo Light attack on all foes, 3 turns DoT infliction, boosts Atk relative to max HP for 3 turns, boosts BB Atk for 3 turns & removes all status ailments and Atk, Def, Rec reduction",
     "category": 850040,
     "cost": 54,
     "element": "light",
-    "es": "80% boost to Spark damage, reduces BB gauge required for BB for all allies, raises Atk parameter limits to 130000 & adds 18 combo powerful Light attack against Light, Dark types effect to SBB",
+    "es": "5% reduction to BB activation cost for all allies, 100% spark damage, raises Atk limit to 180k & add to SBB (18 combo Light attack on Light, Dark foes)",
     "gender": "female",
     "guide_id": 8362,
     "id": 850048,
-    "ls": "150% boost to Atk, 80% boost to Def, max HP of Light types, 20% damage reduction from Light, Dark types, adds probable resistance against 1 KO attack, boosts BB and SBB activation rates & considerably boosts ABP and CBP gain",
+    "ls": "200% Atk, 80% Def, max HP (Light), 20% damage reduction from Light, Dark types, probable 1 KO resistance, 25% BB/SBB activation rates & 100% ABP, 50% CBP gain",
     "name": "Brilliant Flash Fionna",
     "rarity": 8,
-    "sbb": "16 combo powerful Light attack on all foes, 3 combo powerful Light attack on single foe (damage relative to remaining HP), hugely boosts Atk relative to max HP for 3 turns, hugely boosts BB Atk for 3 turns, adds probable evasion for 2 turns & boosts own Spark damage for 1 turn",
-    "ubb": "20 combo massive Light attack on all foes, activates Light barrier, enormously boosts Atk relative to max HP for 3 turns, adds evasion for 1 turn & adds high probability of resistance against 1 KO attack"
+    "sbb": "16 combo Light attack on all foes, 3 combo Light attack on single foe (damage relative to remaining HP), boosts Atk relative to max HP for 3 turns, boosts BB Atk for 3 turns, probable evasion for 2 turns & boosts own spark damage for 1 turn",
+    "ubb": "20 combo Light attack on all foes, adds Light barrier, boosts Atk relative to max HP for 3 turns, evasion for 1 turn, probable KO resistance & boosts BB Atk for 3 turns"
   },
   "850114": {
     "bb": "10 combo powerful Water, Light and Dark attack on all enemies",
