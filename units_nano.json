@@ -11409,6 +11409,13 @@
     "name": "Dark Path Arthur",
     "rarity": 8
   },
+  "750317": {
+    "element": "light",
+    "guide_id": 8601,
+    "id": 750317,
+    "name": "Creation God Odin",
+    "rarity": 8
+  },
   "760006": {
     "element": "dark",
     "guide_id": 8593,
