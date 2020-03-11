@@ -16714,6 +16714,56 @@
       "desc": "Add to SBB (probable random status ailments infliction)"
     }
   ],
+  "850798": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "100% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Fills BB gauge each turn"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable 25% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts critical damage (Light) for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Probable 3 turns Atk, Def reduction infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (22 combo Light attack on single foe (damage relative to remaining HP))"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances BB's probable evasion for self for 2 turns effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows UBB's effects to last an additional turn"
+    }
+  ],
   "850808": [
     {
       "bp": 15,
@@ -17265,44 +17315,47 @@
   "860258": [
     {
       "bp": 10,
-      "desc": "50% boost to Atk"
+      "desc": "80% all parameters"
     },
     {
       "bp": 10,
-      "desc": "50% boost to Atk when HP is over 50%"
+      "desc": "100% boost to Atk when HP is over 50%"
     },
     {
       "bp": 10,
-      "desc": "Boosts Atk when BB gauge is over 50%"
+      "desc": "130% spark damage"
     },
     {
-      "bp": 10,
-      "desc": "70% boost to Spark damage"
+      "bp": 20,
+      "desc": "150% critical damage"
     },
     {
-      "bp": 10,
-      "dependency": true,
-      "desc": "Raises Spark damage boost from 70% to 100%"
+      "bp": 15,
+      "desc": "Raises normal hit amount"
     },
     {
-      "bp": 30,
+      "bp": 20,
       "desc": "Slightly reduces damage for 1 turn when damage dealt has exceeded certain amount"
     },
     {
-      "bp": 50,
-      "desc": "Adds normal attacks hit all foes for 3 turns effect to SBB"
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 30,
-      "desc": "Enhances SBB's damage dealt by normal hit amount increase effect"
+      "desc": "Enhances BB's boost to BB gauge effect"
     },
     {
-      "bp": 30,
-      "desc": "Enhances SBB's normal hit amount increase effect"
+      "bp": 25,
+      "desc": "Allows UBB effects to last for one more turn"
     },
     {
-      "bp": 40,
-      "desc": ""
+      "bp": 25,
+      "desc": "Add to BB (Probable evasion for 2 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (Normal attacks hits all foes for 3 turns)"
     }
   ],
   "860278": [
