@@ -14013,6 +14013,20 @@
     "name": "Prime Minister Paris",
     "rarity": 8
   },
+  "840827": {
+    "element": "thunder",
+    "guide_id": 8603,
+    "id": 840827,
+    "name": "Ukie",
+    "rarity": 7
+  },
+  "840828": {
+    "element": "thunder",
+    "guide_id": 8604,
+    "id": 840828,
+    "name": "Sagacious Mantra Ukie",
+    "rarity": 8
+  },
   "840848": {
     "element": "thunder",
     "guide_id": 8596,

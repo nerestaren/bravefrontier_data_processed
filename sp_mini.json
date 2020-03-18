@@ -11594,28 +11594,19 @@
   ],
   "830048": [
     {
-      "bp": 20,
-      "desc": "40% boost to all parameters"
+      "bp": 10,
+      "desc": "80% all parameters"
     },
     {
       "bp": 10,
-      "dependency": true,
-      "desc": "Raises all parameters boost from 40% to 60%"
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 30,
+      "desc": "1 KO resistance"
     },
     {
       "bp": 15,
-      "desc": "120% boost to Spark damage"
-    },
-    {
-      "bp": 50,
-      "desc": "Probable resistance against 1 KO attack"
-    },
-    {
-      "bp": 10,
-      "desc": "Raises Atk parameter limits to 150000"
-    },
-    {
-      "bp": 25,
       "desc": "Enhances LS's success rate of foe's considerable BB gauge reduction effect"
     },
     {
@@ -11624,19 +11615,27 @@
     },
     {
       "bp": 20,
-      "desc": "Adds massive additional damage at turn's end for 1 turn effect to SBB"
+      "desc": "Add to BB (20% DoT reduction for 3 turns)"
     },
     {
       "bp": 20,
-      "desc": "Enhances BB/SBB's Atk, Def, Rec boost effects"
+      "desc": "Add to SBB (1 turn DoT infliction)"
     },
     {
-      "bp": 35,
-      "desc": "Adds considerable boost to BB gauge when attacked for 3 turns effect to BB/SBB"
+      "bp": 15,
+      "desc": "Add to BB/SBB (Boosts BB Atk for 3 turns)"
     },
     {
-      "bp": 40,
-      "desc": "Adds enormous Spark damage boost for 3 turns effect to BB/SBB"
+      "bp": 10,
+      "desc": "Add to BB/SBB (Probable 2 turns spark vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Damage taken fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Boosts spark damage for 3 turns)"
     }
   ],
   "830118": [
@@ -14957,6 +14956,60 @@
     {
       "bp": 15,
       "desc": "Add to UBB (boosts max HP)"
+    }
+  ],
+  "840828": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises normal hit amount"
+    },
+    {
+      "bp": 15,
+      "desc": "Negates all status ailments and Atk, Def, Rec reduction effects"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB/SBB's raise normal hit amount"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (26 combo Thunder attack [200-500%] on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to UBB (Normal attacks hits all foes for 4 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to BB/SBB (2 turns passive healing and HC effectiveness reduction [30%] infliction (PvP modes only))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (2 turns DoT [1000%] infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Probable [25%] evasion for 2 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Probable 2 turns KO resistance negation infliction (PvP modes only))"
     }
   ],
   "840848": [
