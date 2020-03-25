@@ -13414,6 +13414,56 @@
       "desc": "Add to BB/SBB/UBB (adds all elements to attack for 3 turns)"
     }
   ],
+  "830858": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "Boosts Atk, Def for 2 turns when sparks dealt is over 20 times"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Negates all status ailments and Atk, Def, Rec reductions"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows BB's spark vulnerability infliction effect to last additional 2 turns"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Fills BB gauge)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Purges LS/ES lock from random ally)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Probable 3 turns Atk, Def reduction infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (16 combo Earth attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
+    }
+  ],
   "830900": [
     {
       "bp": 5,
