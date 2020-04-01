@@ -12123,6 +12123,13 @@
     "name": "Mugen",
     "rarity": 8
   },
+  "810858": {
+    "element": "fire",
+    "guide_id": 8606,
+    "id": 810858,
+    "name": "Scorching Blade Roy",
+    "rarity": 8
+  },
   "810900": {
     "element": "fire",
     "guide_id": 8496,

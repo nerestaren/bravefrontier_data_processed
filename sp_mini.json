@@ -9791,6 +9791,56 @@
       "desc": "Add to BB/SBB (fills own BB gauge to max)"
     }
   ],
+  "810858": [
+    {
+      "bp": 10,
+      "desc": "130% Def, max HP"
+    },
+    {
+      "bp": 15,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 25,
+      "desc": "25% reduction to BB activation cost"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Adds Fire shield for 3 turns)"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to BB/SBB (Fills OD gauge)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts Atk, Def, Rec relative to max HP for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to UBB (Boosts max HP)"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows UBB's effects to last additional 1 turn"
+    }
+  ],
   "810900": [
     {
       "bp": 5,
@@ -11385,7 +11435,7 @@
     },
     {
       "bp": 20,
-      "desc": "Add to SBB (boosts Atk, Def, Rec relative to max HP for 3 turns)"
+      "desc": "Add to SBB (Boosts Atk, Def, Rec relative to max HP for 3 turns)"
     },
     {
       "bp": 25,
