@@ -20924,6 +20924,76 @@
     "sbb": "21 combo Earth attack on all foes (damage relative to remaining HP), 4 combo Earth attack on all foes (damage relative to remaining HP), 3 turns spark vulnerability infliction, boosts Atk, Def, Rec for 3 turns, boosts all elemental damage for 3 turns & boosts spark damage (Earth) for 3 turns",
     "ubb": "21 combo Earth attack on all foes (damage relative to remaining HP), 4 turns spark vulnerability infliction, boosts BB Atk for 4 turns, boosts Atk, Def, Rec for 4 turns, boosts all elemental damage for 4 turns & boosts max HP"
   },
+  "730302": {
+    "category": 730300,
+    "cost": 5,
+    "element": "earth",
+    "gender": "other",
+    "guide_id": 9992,
+    "id": 730302,
+    "name": "[Random] Mystery Frog",
+    "rarity": 4
+  },
+  "730312": {
+    "category": 730300,
+    "cost": 5,
+    "element": "earth",
+    "gender": "other",
+    "guide_id": 9993,
+    "id": 730312,
+    "name": "[Lord] Mystery Frog",
+    "rarity": 4
+  },
+  "730322": {
+    "category": 730300,
+    "cost": 5,
+    "element": "earth",
+    "gender": "other",
+    "guide_id": 9994,
+    "id": 730322,
+    "name": "[Anima] Mystery Frog",
+    "rarity": 4
+  },
+  "730332": {
+    "category": 730300,
+    "cost": 5,
+    "element": "earth",
+    "gender": "other",
+    "guide_id": 9995,
+    "id": 730332,
+    "name": "[Breaker] Mystery Frog",
+    "rarity": 4
+  },
+  "730342": {
+    "category": 730300,
+    "cost": 5,
+    "element": "earth",
+    "gender": "other",
+    "guide_id": 9996,
+    "id": 730342,
+    "name": "[Guardian] Mystery Frog",
+    "rarity": 4
+  },
+  "730352": {
+    "category": 730300,
+    "cost": 5,
+    "element": "earth",
+    "gender": "other",
+    "guide_id": 9997,
+    "id": 730352,
+    "name": "[Oracle] Mystery Frog",
+    "rarity": 4
+  },
+  "730362": {
+    "category": 730300,
+    "cost": 5,
+    "element": "earth",
+    "gender": "other",
+    "guide_id": 9998,
+    "id": 730362,
+    "name": "[Rex] Mystery Frog",
+    "rarity": 4
+  },
   "740157": {
     "bb": "15 combo Thunder attack on all foes, hugely boosts BB Atk for 3 turns, adds all elements to attack for 3 turns, hugely boosts all elemental damage for 3 turns & low probability of activating BB/SBB/UBB twice for 1 turn",
     "category": 740150,
@@ -21894,19 +21964,19 @@
     "ubb": "28 combo massive Fire and Thunder attack on all foes, hugely boosts Atk and Def for 3 turns, huge Atk and Def reduction for 3 turns, 50% elemental damage reduction for 3 turns & activates Thunder barrier"
   },
   "810418": {
-    "bb": "22 combo powerful Fire and Thunder attack on all foes, largely boosts own Spark damage for 3 turns, & Spark damage boosts BB gauge and restores HP for 3 turns",
+    "bb": "22 combo Fire, Thunder attack on all foes, spark damage fills BB gauge and restores HP for 3 turns, boosts Atk, Def for 3 turns & 100% critical and elemental damage reduction for 2 turns",
     "category": 810410,
-    "cost": 48,
+    "cost": 54,
     "element": "fire",
-    "es": "100% boost to Def and Spark damage when Spark count exceeds certain amount",
+    "es": "20% all parameters, 100% spark damage and 100% Def for 2 turns when sparks dealt is over 15, negates Atk, Def, Rec reduction & probable damage reduction to 1",
     "gender": "female",
     "guide_id": 8226,
     "id": 810418,
-    "ls": "50% boost to Atk, max HP, hugely boosts Spark damage for 2 turns when Sparks have exceeded certain amount, Spark damage boosts BB gauge & negates elemental damage",
+    "ls": "150% Atk, 80% max HP, 100% elemental damage reduction, spark damage fills BB gauge, 150% spark damage & 20% reduction to BB activation cost",
     "name": "Scourgemistress Adriesta",
     "rarity": 8,
-    "sbb": "30 combo powerful Fire and Thunder attack on all foes, hugely boosts Atk and Def for 3 turns, boosts Atk relative to Def for 3 turns, Spark damage boosts BB gauge for 3 turns & adds probable 1 turn Atk, Def reduction effect to attack for 3 turns",
-    "ubb": "40 combo massive Fire and Thunder attack on all foes, enormously boosts Atk and Def for 3 turns, enormous Atk and Def reduction for 3 turns, 50% elemental damage reduction for 3 turns & activates Thunder barrier"
+    "sbb": "30 combo Fire, Thunder attack on all foes, 6 combo Fire attack on single foe (damage relative to remaining HP), boosts Atk, Def for 3 turns, boosts Atk relative to Def for 3 turns, spark damage fills BB gauge for 3 turns & adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns",
+    "ubb": "40 combo Fire attack on all foes (damage relative to remaining HP), adds Thunder barrier, boosts Atk, Def for 3 turns, 3 turns Atk, Def reduction infliction, 100% damage reduction for 3 turns & spark damage fills BB gauge for 3 turns"
   },
   "810427": {
     "bb": "14 combo powerful Fire attack on all foes, adds probability of performing 1 extra action for self within the same turn, enormously boosts BB gauge, greatly boosts OD gauge fill rate for 3 turns & probable huge 1 turn Atk, Def reduction",
@@ -23743,6 +23813,21 @@
     "rarity": 8,
     "sbb": "29 combo powerful Water attack on all foes (damage relative to remaining HP), 3 combo powerful Water attack on single foe, probability of raising allies from KO, probability of activating BB/SBB/UBB twice for 2 turns, casts stealth on self boosting own Atk and critical hit rate for 2 turns & hugely boosts critical damage for 3 turns",
     "ubb": "35 combo massive Water attack on all foes (damage relative to remaining HP), damage taken hugely boosts BB gauge and enormously restores HP for 4 turns, adds probable resistance against 1 KO attack, raises allies from KO & enormously boosts max HP"
+  },
+  "820798": {
+    "bb": "15 combo Water attack on all foes(damage relative to remaining HP), 1 extra action for self for 1 turn, boosts Water elemental damage for 3 turns, probable evasion for 2 turns, probable KO resistance & fills OD gauge at turn's end for 3 turns",
+    "category": 820790,
+    "cost": 60,
+    "element": "water",
+    "es": "30% reduction to BB activation cost when Seabound Vow is equipped, 25% critical damage and 20% Water elemental damage for all allies, 50% Atk, max HP & probable damage reduction to 1",
+    "gender": "female",
+    "guide_id": 8607,
+    "id": 820798,
+    "ls": "200% Atk, 140% Def, max HP and 30% critical rate (Water), 250% critical damage, 250% Water elemental damage, 30% reduction to BB activation cost & probable 1 KO resistance",
+    "name": "Seiðkona Aoife",
+    "rarity": 8,
+    "sbb": "8 combo Water attack on all foes(damage relative to remaining HP), 10 combo Water attack on single foe (or probable 5% damage of foes' max HP), boosts Water elemental damage for 3 turns, probable 3 turns critical and elemental vulnerability infliction, boosts own spark damage for 3 turns & activates Stealth and boosts own Atk and critical rate for 2 turns",
+    "ubb": "9 combo Water attack on all foes (damage relative to remaining HP), 11 combo Water attack on single foe (or probable 7% damage of foes' max HP), damage taken fills BB gauge for 4 turns, boosts Water elemental damage for 4 turns, probable KO resistance & fills OD gauge at turn's end for 4 turns"
   },
   "820808": {
     "bb": "12 combo Water attack on all foes (damage relative to remaining HP), boosts BB Atk for 3 turns, fills BB gauge, fills BB gauge for 3 turns, 100% critical, elemental damage reduction for 3 turns & fills OD gauge",
@@ -25907,19 +25992,19 @@
     "ubb": "19 combo massive Thunder attack on all foes, 22 combo massive Thunder attack on single foe (damage relative to remaining HP, with enormously boosted critical hit rate), enormously boosts Spark damage for 3 turns & considerably boosts max HP"
   },
   "840438": {
-    "bb": "18 combo Thunder attack on all foes, 21 combo powerful Thunder attack on single foe (damage relative to remaining HP), activates Taunt and greatly boosts own Def for 1 turn, enormously boosts own Atk and Rec relative to max HP for 3 turns, probable HP absorption for self when attacking for 3 turns & adds probable 3 turn considerable Atk reduction effect to attack for 3 turns",
+    "bb": "18 combo Thunder attack on all foes, 21 combo Thunder attack on single foe (damage relative to remaining HP), activates Taunt and boosts own Def for 1 turn, boosts own Atk, Rec relative to max HP for 3 turns, adds probable HP absorption to attack for self for 3 turns & adds probable 1 turn Atk reduction infliction to attack for 3 turns",
     "category": 840430,
     "cost": 54,
     "element": "thunder",
-    "es": "20% boost to all parameters for all allies when Status Boost Sphere is equipped, raises normal hit amount when Atk Boosting Sphere is equipped, 40% boost to all parameters when BB Gauge Sphere is equipped & greatly boosts Spark damage when HP is over 50% when Spark Sphere is equipped",
+    "es": "30% all parameters for all allies when Status Boosting Sphere is equipped, raises normal hit amount when Atk Boosting Sphere is equipped, 40% all parameters when BB Gauge Sphere is equipped & 100% spark damage when HP is above 50% when Spark Sphere is equipped, damage taken fills BB gauge & probable damage reduction to 1",
     "gender": "male",
     "guide_id": 8387,
     "id": 840438,
-    "ls": "125% boost to Atk, 50% boost to Def and 80% boost to max HP, negates elemental damage, negates Def ignoring effects, 130% boost to Spark damage & 8% damage reduction",
+    "ls": "125% Atk, 50% Def, 100% max HP, 100% elemental damage reduction, negates ignore Def, 150% spark damage & 8% damage reduction",
     "name": "Demon Ulfhednar Zelion",
     "rarity": 8,
-    "sbb": "20 combo powerful Thunder attack on all foes, 23 combo massive Thunder attack on single foe (damage relative to remaining HP), boosts own BB gauge to max, enormously boosts own Atk and considerably reduces own Def and Rec for 2 turns, enormously boosts own Spark damage for 3 turns & hugely boosts all elemental damage for 3 turns",
-    "ubb": "22 combo massive Thunder attack on all foes, 25 combo massive Thunder attack on single foe (damage relative to remaining HP, with enormously boosted critical hit rate), enormously boosts Spark damage for 3 turns, hugely boosts max HP, enormously boosts own critical damage for 1 turn & enormously boosts OD gauge at turn's end for 3 turns"
+    "sbb": "20 combo Thunder attack on all foes, 23 combo Thunder attack on single foe (damage relative to remaining HP), boosts all elemental damage for 3 turns, boosts own Atk, reduces own Def, Rec for 2 turns, fills own BB gauge to max & boosts own spark damage for 3 turns",
+    "ubb": "22 combo Thunder attack on all foes (damage relative to remaining HP), 25 combo Thunder attack on single foe (damage relative to remaining HP, boosts own critical rate), boosts spark damage for 3 turns, boosts max HP, boosts own critical damage for 1 turn & fills OD gauge at turn's end for 3 turns"
   },
   "840507": {
     "bb": "4 combo powerful Thunder attack on all foes (damage relative to remaining HP), powerful Thunder attack on single foe, hugely boosts Atk, Def, Rec for 3 turns, adds probable 1 turn Atk reduction to attack for 3 turns & adds Light, Dark elements to attack for 3 turns",

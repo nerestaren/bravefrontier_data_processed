@@ -11339,6 +11339,55 @@
     "name": "Prescient Goddess Frigg",
     "rarity": 8
   },
+  "730302": {
+    "element": "earth",
+    "guide_id": 9992,
+    "id": 730302,
+    "name": "[Random] Mystery Frog",
+    "rarity": 4
+  },
+  "730312": {
+    "element": "earth",
+    "guide_id": 9993,
+    "id": 730312,
+    "name": "[Lord] Mystery Frog",
+    "rarity": 4
+  },
+  "730322": {
+    "element": "earth",
+    "guide_id": 9994,
+    "id": 730322,
+    "name": "[Anima] Mystery Frog",
+    "rarity": 4
+  },
+  "730332": {
+    "element": "earth",
+    "guide_id": 9995,
+    "id": 730332,
+    "name": "[Breaker] Mystery Frog",
+    "rarity": 4
+  },
+  "730342": {
+    "element": "earth",
+    "guide_id": 9996,
+    "id": 730342,
+    "name": "[Guardian] Mystery Frog",
+    "rarity": 4
+  },
+  "730352": {
+    "element": "earth",
+    "guide_id": 9997,
+    "id": 730352,
+    "name": "[Oracle] Mystery Frog",
+    "rarity": 4
+  },
+  "730362": {
+    "element": "earth",
+    "guide_id": 9998,
+    "id": 730362,
+    "name": "[Rex] Mystery Frog",
+    "rarity": 4
+  },
   "740157": {
     "element": "thunder",
     "guide_id": 8329,
@@ -12744,6 +12793,13 @@
     "guide_id": 8542,
     "id": 820758,
     "name": "Skittish Chemist Charlie",
+    "rarity": 8
+  },
+  "820798": {
+    "element": "water",
+    "guide_id": 8607,
+    "id": 820798,
+    "name": "Seiðkona Aoife",
     "rarity": 8
   },
   "820808": {
