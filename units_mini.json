@@ -23922,7 +23922,7 @@
   "820867": {
     "bb": "14 combo Water attack on all foes (damage relative to remaining HP), boosts max HP, 50% damage reduction for 2 turns, fills BB gauge for 3 turns & fills OD gauge",
     "category": 820860,
-    "cost": 54,
+    "cost": 52,
     "element": "water",
     "es": "100% spark damage, 20% all parameters, negates all status ailments and Atk, Def, Rec reduction & add to BB/SBB (Removes all status ailments and Atk, Def, Rec reduction)",
     "gender": "female",
