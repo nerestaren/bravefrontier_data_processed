@@ -20929,7 +20929,7 @@
     "cost": 5,
     "element": "earth",
     "gender": "other",
-    "guide_id": 9992,
+    "guide_id": 9990,
     "id": 730302,
     "name": "[Random] Mystery Frog",
     "rarity": 4
@@ -20939,7 +20939,7 @@
     "cost": 5,
     "element": "earth",
     "gender": "other",
-    "guide_id": 9993,
+    "guide_id": 9991,
     "id": 730312,
     "name": "[Lord] Mystery Frog",
     "rarity": 4
@@ -20949,7 +20949,7 @@
     "cost": 5,
     "element": "earth",
     "gender": "other",
-    "guide_id": 9994,
+    "guide_id": 9992,
     "id": 730322,
     "name": "[Anima] Mystery Frog",
     "rarity": 4
@@ -20959,7 +20959,7 @@
     "cost": 5,
     "element": "earth",
     "gender": "other",
-    "guide_id": 9995,
+    "guide_id": 9993,
     "id": 730332,
     "name": "[Breaker] Mystery Frog",
     "rarity": 4
@@ -20969,7 +20969,7 @@
     "cost": 5,
     "element": "earth",
     "gender": "other",
-    "guide_id": 9996,
+    "guide_id": 9994,
     "id": 730342,
     "name": "[Guardian] Mystery Frog",
     "rarity": 4
@@ -20979,7 +20979,7 @@
     "cost": 5,
     "element": "earth",
     "gender": "other",
-    "guide_id": 9997,
+    "guide_id": 9995,
     "id": 730352,
     "name": "[Oracle] Mystery Frog",
     "rarity": 4
@@ -20989,7 +20989,7 @@
     "cost": 5,
     "element": "earth",
     "gender": "other",
-    "guide_id": 9998,
+    "guide_id": 9996,
     "id": 730362,
     "name": "[Rex] Mystery Frog",
     "rarity": 4
@@ -23919,6 +23919,36 @@
     "sbb": "15 combo Water attack on all foes (damage relative to remaining HP), 5 combo Water attack on single foe, probable all status ailments infliction, damage taken fills BB gauge restore HP for 3 turns & boosts damage against status afflicted foes for 3 turns",
     "ubb": "18 combo Water attack on all foes (damage relative to remaining HP), 100% damage reduction for 3 turns, adds all status ailments infliction to attack for 3 turns, damage taken fills BB gauge and restores HP for 3 turns & fills OD gauge"
   },
+  "820867": {
+    "bb": "14 combo Water attack on all foes (damage relative to remaining HP), boosts max HP, 50% damage reduction for 2 turns, fills BB gauge for 3 turns & fills OD gauge",
+    "category": 820860,
+    "cost": 54,
+    "element": "water",
+    "es": "100% spark damage, 20% all parameters, negates all status ailments and Atk, Def, Rec reduction & add to BB/SBB (Removes all status ailments and Atk, Def, Rec reduction)",
+    "gender": "female",
+    "guide_id": 8610,
+    "id": 820867,
+    "ls": "100% Atk, 120% Def, 100% Rec, 120% max HP, 150% spark damage, 20% OD gauge fill rate & spark damage fills BB gauge",
+    "name": "Meryl & Milly",
+    "rarity": 7,
+    "sbb": "16 combo Water attack on all foes (damage relative to remaining HP), 16 combo Water attack on all foes (damage relative to remaining HP), 50% damage reduction for 3 turns, boosts spark damage for 3 turns & boosts Atk, Rec relative to Def for 3 turns",
+    "ubb": "18 combo Water attack on all foes (damage relative to remaining HP), boosts spark damage for 3 turns, spark damage fills BB gauge for 3 turns, boosts Atk, Rec relative to Def for 3 turns & 100% damage reduction for 3 turns"
+  },
+  "820868": {
+    "bb": "18 combo Water attack on all foes (damage relative to remaining HP), boosts max HP, 50% damage reduction for 3 turns, fills BB gauge for 3 turns, fills OD gauge & may activate BB/SBB/UBB twice for 2 turns",
+    "category": 820860,
+    "cost": 60,
+    "element": "water",
+    "es": "25% critical damage for all allies, 100% spark damage, 30% all parameters, negates all status ailments and Atk, Def, Rec reduction & add to BB/SBB (Removes all status ailments and Atk, Def, Rec reduction)",
+    "gender": "female",
+    "guide_id": 8611,
+    "id": 820868,
+    "ls": "120% Atk, 150% Def, 120% Rec, 150% max HP, 250% spark damage, 20% damage reduction for 2 turns when damage taken is over 5k, 30% OD gauge fill rate & spark damage fills BB gauge",
+    "name": "Meryl & Milly",
+    "rarity": 8,
+    "sbb": "20 combo Water attack on all foes (damage relative to remaining HP), 20 combo Water attack on all foes (damage relative to remaining HP), 50% damage reduction for 3 turns, boosts spark damage for 3 turns, boosts Atk, Rec relative to Def for 3 turns & fills OD gauge per ally (up to 18% max)",
+    "ubb": "24 combo Water attack on all foes (damage relative to remaining HP), boosts spark damage for 4 turns, spark damage fills BB gauge for 4 turns, boosts Atk, Rec relative to Def for 4 turns, 100% damage reduction for 4 turns & activates BB/SBB/UBB twice for 3 turns"
+  },
   "820900": {
     "bb": "12 combo powerful Water attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 820900,
@@ -26470,6 +26500,36 @@
     "rarity": 8,
     "sbb": "21 combo Thunder attack on all foes (damage relative to remaining HP), 21 combo Thunder attack on all foes (damage relative to remaining HP), spark damage restores HP for 3 turns and fills BB gauge for 3 turns, boosts Atk, Rec relative to Def for 3 turns & fills OD gauge per ally (up to 18% max)",
     "ubb": "24 combo Thunder attack on all foes (damage relative to remaining HP), may raise allies from KO, fills BB gauge for 4 turns, activates BB/SBB/UBB twice for 3 turns, boosts Atk, Rec relative to Def for 4 turns & fully restores HP for 4 turns"
+  },
+  "840867": {
+    "bb": "18 combo Thunder attack on all foes (damage relative to remaining HP), 2 turns spark vulnerability infliction, probable evasion for 1 turn, damage taken fills BB gauge for 3 turns & boosts own max HP",
+    "category": 840860,
+    "cost": 52,
+    "element": "thunder",
+    "es": "Restores HP each turn when Silver AGL .45 Colt or Vash's Angel Arm or Atk Boosting sphere is equipped, 20% Thunder elemental damage for all allies, 20% all parameters & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "male",
+    "guide_id": 8608,
+    "id": 840867,
+    "ls": "150% Atk, 100% max HP, 30% critical rate, 200% Earth, Thunder elemental damage, damage taken fills BB gauge & probable spark critical",
+    "name": "Vash the Stampede",
+    "rarity": 7,
+    "sbb": "20 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), 7 combo Thunder attack on single foe (or probable 5% damage of foes' max HP), boosts Thunder elemental damage for 3 turns, boosts own spark damage for 3 turns & boosts own Atk relative to max HP for 3 turns",
+    "ubb": "26 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), probable evasion for 3 turns, boosts Thunder elemental damage for 3 turns, boosts own spark damage for 3 turns & boosts max HP"
+  },
+  "840868": {
+    "bb": "22 combo Thunder attack on all foes (damage relative to remaining HP), 3 turns spark vulnerability infliction, probable evasion for 2 turns, damage taken fills BB gauge for 4 turns, activates Taunt and boosts own Atk, Def and critical rate for 2 turns & boosts own max HP",
+    "category": 840860,
+    "cost": 60,
+    "element": "thunder",
+    "es": "Restores HP each turn when Silver AGL .45 Colt, Vash's Angel Arm or Atk Boosting sphere is equipped & probable 2 KO resistance when Vash's Angel Arm is equipped, 25% Thunder elemental damage and 25% spark damage for all allies, 30% all parameters & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "male",
+    "guide_id": 8609,
+    "id": 840868,
+    "ls": "200% Atk, 150% max HP, 30% critical rate, 300% Earth, Thunder elemental damage, damage taken fills BB gauge, probable spark critical & 100% critical and elemental damage reduction",
+    "name": "Vash the Stampede",
+    "rarity": 8,
+    "sbb": "28 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), 7 combo Thunder attack on single foe (or probable 5% damage of foes' max HP), boosts Thunder elemental damage for 4 turns, boosts own spark damage for 4 turns, boosts own Atk relative to max HP for 4 turns & probable spark critical for 4 turns",
+    "ubb": "32 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), 7 combo Thunder attack on single foe (25% active Pierce on Water, Thunder foes), evasion for 3 turns, boosts Thunder elemental damage for 4 turns, boosts own spark damage for 4 turns & boosts max HP"
   },
   "840900": {
     "bb": "12 combo powerful Thunder attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",

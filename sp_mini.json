@@ -11655,6 +11655,56 @@
       "desc": "Add to BB/SBB (50% damage reduction for 2 turns)"
     }
   ],
+  "820868": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "25% reduction to BB activation cost"
+    },
+    {
+      "bp": 20,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": ""
+    },
+    {
+      "bp": 20,
+      "desc": "Add to LS (Spark damage restores HP)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Fills OD gauge at turn's end for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Adds Water barrier)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 3 turns critical, elemental and spark vulnerability infliction)"
+    },
+    {
+      "bp": 35,
+      "desc": "Add to BB (May purge LS, ES Lock and DoT from random ally), UBB (Purges LS, ES Lock and DoT from all allies)"
+    }
+  ],
   "820900": [
     {
       "bp": 5,
@@ -13511,7 +13561,7 @@
     },
     {
       "bp": 20,
-      "desc": "add to BB/SBB (damage taken may restore HP for 3 turns)"
+      "desc": "Add to BB/SBB (Damage taken may restore HP for 3 turns)"
     },
     {
       "bp": 25,
@@ -14254,7 +14304,7 @@
     },
     {
       "bp": 20,
-      "desc": "add to BB/SBB (damage taken may restore HP for 3 turns)"
+      "desc": "Add to BB/SBB (Damage taken may restore HP for 3 turns)"
     }
   ],
   "840508": [
@@ -15216,6 +15266,56 @@
     {
       "bp": 20,
       "desc": "Add to UBB (Probable KO resistance)"
+    }
+  ],
+  "840868": [
+    {
+      "bp": 15,
+      "desc": "140% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 220k"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (250% spark damage)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Damage taken may restore HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Boosts OD gauge fill rate for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Activates own BB/SBB/UBB twice for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (34 combo Thunder attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts spark damage (Thunder) for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Probable 3 turns Atk, Def reduction infliction)"
     }
   ],
   "840900": [

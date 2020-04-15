@@ -11341,49 +11341,49 @@
   },
   "730302": {
     "element": "earth",
-    "guide_id": 9992,
+    "guide_id": 9990,
     "id": 730302,
     "name": "[Random] Mystery Frog",
     "rarity": 4
   },
   "730312": {
     "element": "earth",
-    "guide_id": 9993,
+    "guide_id": 9991,
     "id": 730312,
     "name": "[Lord] Mystery Frog",
     "rarity": 4
   },
   "730322": {
     "element": "earth",
-    "guide_id": 9994,
+    "guide_id": 9992,
     "id": 730322,
     "name": "[Anima] Mystery Frog",
     "rarity": 4
   },
   "730332": {
     "element": "earth",
-    "guide_id": 9995,
+    "guide_id": 9993,
     "id": 730332,
     "name": "[Breaker] Mystery Frog",
     "rarity": 4
   },
   "730342": {
     "element": "earth",
-    "guide_id": 9996,
+    "guide_id": 9994,
     "id": 730342,
     "name": "[Guardian] Mystery Frog",
     "rarity": 4
   },
   "730352": {
     "element": "earth",
-    "guide_id": 9997,
+    "guide_id": 9995,
     "id": 730352,
     "name": "[Oracle] Mystery Frog",
     "rarity": 4
   },
   "730362": {
     "element": "earth",
-    "guide_id": 9998,
+    "guide_id": 9996,
     "id": 730362,
     "name": "[Rex] Mystery Frog",
     "rarity": 4
@@ -12844,6 +12844,20 @@
     "name": "Faithless Seeker Renatus",
     "rarity": 8
   },
+  "820867": {
+    "element": "water",
+    "guide_id": 8610,
+    "id": 820867,
+    "name": "Meryl & Milly",
+    "rarity": 7
+  },
+  "820868": {
+    "element": "water",
+    "guide_id": 8611,
+    "id": 820868,
+    "name": "Meryl & Milly",
+    "rarity": 8
+  },
   "820900": {
     "element": "water",
     "guide_id": 8497,
@@ -14102,6 +14116,20 @@
     "guide_id": 8596,
     "id": 840848,
     "name": "Consecrated Sin Nimrah",
+    "rarity": 8
+  },
+  "840867": {
+    "element": "thunder",
+    "guide_id": 8608,
+    "id": 840867,
+    "name": "Vash the Stampede",
+    "rarity": 7
+  },
+  "840868": {
+    "element": "thunder",
+    "guide_id": 8609,
+    "id": 840868,
+    "name": "Vash the Stampede",
     "rarity": 8
   },
   "840900": {
