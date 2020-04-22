@@ -13488,6 +13488,20 @@
     "name": "Jade Edge Sasha",
     "rarity": 8
   },
+  "830867": {
+    "element": "earth",
+    "guide_id": 8612,
+    "id": 830867,
+    "name": "Nicholas D. Wolfwood",
+    "rarity": 7
+  },
+  "830868": {
+    "element": "earth",
+    "guide_id": 8613,
+    "id": 830868,
+    "name": "Nicholas D. Wolfwood",
+    "rarity": 8
+  },
   "830900": {
     "element": "earth",
     "guide_id": 8498,
@@ -14130,6 +14144,13 @@
     "guide_id": 8609,
     "id": 840868,
     "name": "Vash the Stampede",
+    "rarity": 8
+  },
+  "840878": {
+    "element": "thunder",
+    "guide_id": 8616,
+    "id": 840878,
+    "name": "Millions Knives",
     "rarity": 8
   },
   "840900": {
@@ -15523,6 +15544,20 @@
     "guide_id": 8580,
     "id": 860838,
     "name": "Shoryu",
+    "rarity": 8
+  },
+  "860867": {
+    "element": "dark",
+    "guide_id": 8614,
+    "id": 860867,
+    "name": "Legato Bluesummers",
+    "rarity": 7
+  },
+  "860868": {
+    "element": "dark",
+    "guide_id": 8615,
+    "id": 860868,
+    "name": "Legato Bluesummers",
     "rarity": 8
   },
   "860900": {
