@@ -17223,6 +17223,68 @@
       "desc": "Enhances boost to EXP gained effect on LS"
     }
   ],
+  "850858": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 45,
+      "desc": "Add to LS (250% spark damage)"
+    },
+    {
+      "bp": 45,
+      "desc": "Add to LS (250% critical damage)"
+    },
+    {
+      "bp": 45,
+      "desc": "Add to LS (250% all elemental damage)"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (100% critical and elemental damage reduction for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Removes and negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (fills OD gauge)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Light barrier)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Boosts spark damage for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (boosts critical damage for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (boosts all elemental damage for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (15% damage reduction from all element types for 3 turns)"
+    },
+    {
+      "bp": 50,
+      "desc": "Add to UBB (boosts spark damage, critical damage, all elemental damage for 4 turns)"
+    }
+  ],
   "850900": [
     {
       "bp": 5,

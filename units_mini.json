@@ -27972,6 +27972,21 @@
     "sbb": "23 combo massive Light attack on all foes (damage relative to remaining HP), enormously boosts BB gauge, damage taken hugely boosts BB gauge and may restore HP for 3 turns, enormously boosts BB Atk for 3 turns & hugely boosts Atk, Def, Rec relative to max HP for 3 turns",
     "ubb": "33 combo massive Light attack on all foes (uses all allies' BB gauge), fills all allies' BB gauge to max, damage taken hugely boosts BB gauge and enormously restores HP for 4 turns, 100% damage reduction for 3 turns & considerably boosts OD gauge"
   },
+  "850858": {
+    "bb": "8 combo Light attack on all foes (damage relative to remaining HP), may raise allies from KO, fills BB gauge for 3 turns, restores HP for 3 turns, removes all status ailments and Atk, Def, Rec reduction & probable KO resistance",
+    "category": 850850,
+    "cost": 60,
+    "element": "light",
+    "es": "10% reduction to BB activation cost and 5% damage reduction for all allies, 120% spark damage, negates all status ailments and Atk, Def, Rec reduction & 1 KO resistance when HP is below 100%",
+    "gender": "male",
+    "guide_id": 8617,
+    "id": 850858,
+    "ls": "150% all parameters, 400% BB Atk, damage taken fills BB gauge, 15% damage reduction & probable 1 KO resistance",
+    "name": "Silver Knight Joshua",
+    "rarity": 8,
+    "sbb": "5 combo Light attack on all foes (damage relative to remaining HP), 6 combo Light attack on all foes (damage relative to remaining HP), may raise allies from KO, boosts Atk, Def, Rec and critical rate (All elements) for 3 turns, boosts BB Atk for 3 turns & may activate BB/SBB/UBB twice for 3 turns",
+    "ubb": "13 combo Light attack on all foes (damage relative to remaining HP), 100% damage reduction for 4 turns, boosts max HP, boosts Atk, Def, Rec and critical rate (All elements) for 4 turns, probable KO resistance & activates BB/SBB/UBB twice for 3 turns"
+  },
   "850900": {
     "bb": "12 combo powerful Light attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 850900,
