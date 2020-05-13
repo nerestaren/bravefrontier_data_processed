@@ -13754,6 +13754,13 @@
     "name": "Deimos Thunderborn",
     "rarity": 7
   },
+  "840258": {
+    "element": "thunder",
+    "guide_id": 8618,
+    "id": 840258,
+    "name": "Deimos the Undaunted",
+    "rarity": 8
+  },
   "840277": {
     "element": "thunder",
     "guide_id": 8266,

@@ -13951,6 +13951,56 @@
       "desc": "Allows SBB's buff effects to last for additional turn"
     }
   ],
+  "840258": [
+    {
+      "bp": 10,
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "1-100% Atk, Def relative to remaining HP"
+    },
+    {
+      "bp": 10,
+      "desc": "130% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "25% DoT reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates ignore Def"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Probable evasion for 2 turns)"
+    },
+    {
+      "bp": 35,
+      "desc": "Add to BB/SBB (Boosts Spark damage for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Damage taken fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Boosts Atk, Def relative to max HP for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (17 combo Thunder attack on single foe)"
+    }
+  ],
   "840278": [
     {
       "bp": 10,
