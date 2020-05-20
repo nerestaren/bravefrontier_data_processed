@@ -25260,6 +25260,19 @@
     "sbb": "18 combo Earth attack on all foes (damage relative to remaining HP, boosts own critical rate), 20 combo random Earth attack on all foes, boosts own Atk, Def and critical rate for 3 turns, boosts Earth elemental damage for 3 turns, adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns & probable 3 turns critical, elemental and spark vulnerability infliction",
     "ubb": "20 combo Earth attack on all foes (damage relative to remaining HP, boosts own critical rate), 4 turns Atk, Def reduction infliction, boosts critical damage for 4 turns, boosts Earth elemental damage for 4 turns, boosts Atk, Def, Rec relative to max HP for 4 turns & fills OD gauge at turn's end for 4 turns"
   },
+  "830888": {
+    "bb": "MST_SKILLS_1830808_DESCRIPTION",
+    "category": 830880,
+    "cost": 60,
+    "element": "earth",
+    "gender": "female",
+    "guide_id": 8619,
+    "id": 830888,
+    "name": "Hypaea, the Starfallen",
+    "rarity": 8,
+    "sbb": "MST_SKILLS_1830808_DESCRIPTION",
+    "ubb": "MST_SKILLS_2830808_DESCRIPTION"
+  },
   "830900": {
     "bb": "12 combo powerful Earth attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 830900,
