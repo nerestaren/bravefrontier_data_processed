@@ -14860,6 +14860,20 @@
     "name": "Opal Goddess Tilith",
     "rarity": 8
   },
+  "850827": {
+    "element": "light",
+    "guide_id": 8620,
+    "id": 850827,
+    "name": "Kelsa",
+    "rarity": 7
+  },
+  "850828": {
+    "element": "light",
+    "guide_id": 8621,
+    "id": 850828,
+    "name": "Lightspur Bruiser Kelsa",
+    "rarity": 8
+  },
   "850858": {
     "element": "light",
     "guide_id": 8617,

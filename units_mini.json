@@ -21966,7 +21966,7 @@
   "810418": {
     "bb": "22 combo Fire, Thunder attack on all foes, spark damage fills BB gauge and restores HP for 3 turns, boosts Atk, Def for 3 turns & 100% critical and elemental damage reduction for 2 turns",
     "category": 810410,
-    "cost": 54,
+    "cost": 50,
     "element": "fire",
     "es": "20% all parameters, 100% spark damage and 100% Def for 2 turns when sparks dealt is over 15, negates Atk, Def, Rec reduction & probable damage reduction to 1",
     "gender": "female",
@@ -22753,19 +22753,19 @@
     "ubb": "13 combo massive Water attack on all foes, adds random status ailment infliction to attack for 3 turns, enormously boosts damage dealt against status afflicted foes for 3 turns & enormously boosts critical damage for 3 turns"
   },
   "820048": {
-    "bb": "15 combo powerful Water attack on all foes, 30 combo random Water attack on all foes, hugely boosts damage dealt against status afflicted foes for 3 turns, adds probable random status ailment infliction to attack for 3 turns & adds probable great 1 turn Atk, Def reduction effect to attack for 3 turns",
+    "bb": "15 combo Water attack on all foes, 30 combo random Water attack on all foes, boosts damage against status afflicted foes for 3 turns, adds probable 1 turns Atk, Def reduction infliction to attack for 3 turns & adds probable random status ailments infliction to attack for 3 turns",
     "category": 820040,
     "cost": 54,
     "element": "water",
-    "es": "Raises Atk parameter limits to 130000, damage taken boosts BB gauge, negates all status ailments for all allies, adds critical hit rate boost effect to BB/SBB for 3 turns & adds 23 combo powerful Water attack against Fire, Water types effect to SBB",
+    "es": "Damage taken fills BB gauge, raises Atk limit to 180k, add to BB/SBB (Boosts critical rate for 3 turns), add to SBB (23 combo Water attack on Fire/Water foes) & negates all status ailments for all allies",
     "gender": "female",
     "guide_id": 8326,
     "id": 820048,
-    "ls": "150% boost to Atk, 80% boost to Def, max HP of Water types, 20% damage reduction from Fire, Water types, considerably boosts ABP and CBP gain, probable considerable reduction of BB gauge fill rate for 2 turns & adds probable resistance against 1 KO attack",
+    "ls": "200% Atk, 80% Def, 80% max HP (Water), 20% damage reduction from Fire, Water types, adds probable 2 turns 50% BB gauge fill rate reduction infliction to attack, probable 1 KO resistance & 100% ABP, 50% CBP gain",
     "name": "Great Omniscience Sae",
     "rarity": 8,
-    "sbb": "18 combo powerful Water attack on all foes, 6 combo powerful Water attack on single foe, hugely boosts damage dealt against status afflicted foes for 3 turns, considerably boosts critical damage for 3 turns, probability of raising allies from KO & hugely boosts BB Atk for 3 turns",
-    "ubb": "21 combo massive Water attack on all foes, adds random status ailment infliction to attack for 3 turns, enormously boosts damage dealt against status afflicted foes for 3 turns, enormously boosts critical damage for 3 turns & raises allies from KO"
+    "sbb": "18 combo Water attack on all foes, 6 combo Water attack on single foe (damage relative to remaining HP), boosts damage against status afflicted foes for 3 turns, boosts critical damage for 3 turns, may raise allies from KO & boosts BB Atk for 3 turns",
+    "ubb": "21 combo Water attack on all foes, boosts damage against status afflicted foes for 3 turns, boosts critical damage for 3 turns, raises allies from KO, 1 turn Atk, Def reduction infliction & adds random status ailments infliction to attack for 3 turns"
   },
   "820114": {
     "bb": "6 combo powerful Water, Earth and Light attack on all enemies & chance of decreasing Def for 1 turn",
@@ -24644,19 +24644,19 @@
     "ubb": "25 combo massive Earth attack on all foes, enormously boosts all elemental damage for 3 turns, damage taken enormously restores HP for 3 turns, massive additional damage at turn's end for 3 turns & high probability of raising allies from KO"
   },
   "830438": {
-    "bb": "23 combo Earth attack on all foes, greatly boosts BB gauge for 3 turns, damage taken may slightly restore HP for 3 turns, powerful additional damage at turn's end for 3 turns & adds low probability of resistance against 1 KO attack",
+    "bb": "23 combo Earth attack on all foes, fills BB gauge for 3 turns, damage taken may restore HP for 3 turns, 3 turns DoT infliction & probable KO resistance",
     "category": 830430,
     "cost": 50,
     "element": "earth",
-    "es": "Boosts elemental damage & damage taken may restore HP of all allies",
+    "es": "Damage taken may restore HP and adds ignore Def to attack for all allies, 30% all parameters, 100% all elemental damage & 25% reduction to BB activation cost",
     "gender": "female",
     "guide_id": 8328,
     "id": 830438,
-    "ls": "60% boost to Atk, Rec, max HP, 15% damage reduction from Fire, Earth, Dark types, hugely boosts all elemental damage & Spark damage boosts BB gauge",
+    "ls": "120% all parameters, 15% damage reduction from Fire, Earth, Dark types, 175% all elemental damage, spark damage fills BB gauge & 400% BB Atk",
     "name": "Verdant Góēs Nimune",
     "rarity": 8,
-    "sbb": "26 combo powerful Earth, Fire, Dark attack on all foes, Spark damage boosts BB gauge for 3 turns, hugely boosts elemental damage for 3 turns, powerful additional damage at turn's end for 3 turns & probability of raising allies from KO",
-    "ubb": "33 combo massive Earth attack on all foes (with additional 5% damage of foes' max HP), enormously boosts all elemental damage for 3 turns, damage taken enormously restores HP for 3 turns, massive additional damage at turn's end for 3 turns & high probability of raising allies from KO"
+    "sbb": "26 combo Earth attack on all foes (damage relative to remaining HP), spark damage fills BB gauge for 3 turns, boosts all elemental damage for 3 turns, 3 turns DoT infliction, may raise allies from KO & probable all status ailments infliction",
+    "ubb": "33 combo Earth attack on all foes (damage relative to remaining HP, boosts own critical rate), inflicts 5% max HP damage to all foes, damage taken restores HP for 3 turns, 3 turns DoT infliction, may raise allies from KO & boosts all elemental damage for 3 turns"
   },
   "830504": {
     "bb": "14 combo powerful Earth attack to all enemies & boosts Spark damage for all allies for 2 turns",
@@ -28002,6 +28002,36 @@
     "sbb": "23 combo massive Light attack on all foes (damage relative to remaining HP), enormously boosts BB gauge, damage taken hugely boosts BB gauge and may restore HP for 3 turns, enormously boosts BB Atk for 3 turns & hugely boosts Atk, Def, Rec relative to max HP for 3 turns",
     "ubb": "33 combo massive Light attack on all foes (uses all allies' BB gauge), fills all allies' BB gauge to max, damage taken hugely boosts BB gauge and enormously restores HP for 4 turns, 100% damage reduction for 3 turns & considerably boosts OD gauge"
   },
+  "850827": {
+    "bb": "12 combo Light attack on all foes (damage relative to remaining HP), boosts Atk relative to Def for 3 turns, 2 turns DoT infliction, probable evasion for self for 3 turns & 15% BB gauge reduction",
+    "category": 850820,
+    "cost": 52,
+    "element": "light",
+    "es": "40% Atk, 15% critical rate for all allies, damage taken may inflict 30% BB gauge fill rate reduction for 1 turn, negates Atk, Def, Rec reduction & 100% spark damage",
+    "gender": "female",
+    "guide_id": 8620,
+    "id": 850827,
+    "ls": "120% Atk, 100% Def, 120% max HP and 30% critical rate (Light), 10% damage reduction from Light, Dark types, 200% spark damage, fills BB gauge each turn & probable spark critical",
+    "name": "Kelsa",
+    "rarity": 7,
+    "sbb": "14 combo Light attack on all foes (damage relative to remaining HP), 11 combo Light attack on single foe, 2 turns DoT infliction, boosts spark damage for 3 turns & boosts Atk relative to Def for 3 turns",
+    "ubb": "17 combo Light attack on all foes (damage relative to remaining HP), evasion for 3 turns, boosts spark damage for 3 turns, spark critical for 3 turns & boosts Atk relative to Def for 3 turns"
+  },
+  "850828": {
+    "bb": "15 combo Light attack on all foes (damage relative to remaining HP), boosts Atk relative to Def for 3 turns, 2 turns DoT infliction, probable evasion for self for 3 turns, adds probable 2 turns Atk, Def reduction infliction counter for 3 turns & 20% BB gauge reduction",
+    "category": 850820,
+    "cost": 60,
+    "element": "light",
+    "es": "50% Atk, 15% critical rate, damage taken may inflict 30% BB gauge fill rate reduction for 1 turn and adds ignore Def to attack for all allies, negates Atk, Def, Rec reduction & 100% spark damage",
+    "gender": "female",
+    "guide_id": 8621,
+    "id": 850828,
+    "ls": "150% Atk, 120% Def, 150% max HP and 30% critical rate (Light), 20% damage reduction from Light, Dark types, 250% spark damage, fills BB gauge each turn, probable spark critical & 135% ABP, 80% CBP gain",
+    "name": "Lightspur Bruiser Kelsa",
+    "rarity": 8,
+    "sbb": "17 combo Light attack on all foes (damage relative to remaining HP), 13 combo Light attack on single foe, 2 turns DoT infliction, boosts spark damage for 3 turns, activates Stealth and boosts own Atk and critical rate for 2 turns & boosts Atk relative to Def for 3 turns",
+    "ubb": "20 combo Light attack on all foes (damage relative to remaining HP), evasion for 3 turns, boosts spark damage for 4 turns, spark critical for 4 turns, adds probable 2 turns Atk, Def reduction infliction counter for 4 turns & boosts Atk relative to Def for 4 turns"
+  },
   "850858": {
     "bb": "8 combo Light attack on all foes (damage relative to remaining HP), may raise allies from KO, fills BB gauge for 3 turns, restores HP for 3 turns, removes all status ailments and Atk, Def, Rec reduction & probable KO resistance",
     "category": 850850,
@@ -28880,19 +28910,19 @@
     "ubb": "22 combo massive Dark attack on all foes, fully restores HP for 3 turns, enormously boosts OD gauge fill rate for 3 turns, enormously boosts Atk, Rec for 3 turns & adds high probability of resistance against 1 KO"
   },
   "860418": {
-    "bb": "16 combo powerful Dark attack on all foes, damage taken may slightly restore HP for 3 turns, considerably boosts OD gauge fill rate for 3 turns, removes all status ailments & negates all status ailments for 3 turns ",
+    "bb": "16 combo Dark attack on all foes, damage taken may restore HP for 3 turns, boosts OD gauge fill rate for 3 turns, removes all status ailments and Atk, Def, Rec reduction & negates all status ailments and Atk, Def, Rec reduction for 3 turns",
     "category": 860410,
     "cost": 50,
     "element": "dark",
-    "es": "Considerably boosts Def relative to HP remaining & restores HP each turn",
+    "es": "Spark damage restores HP for all allies, 30% all parameters, 0-100% Atk, Def relative to remaining HP, restores HP each turn & 100% Dark elemental damage",
     "gender": "female",
     "guide_id": 8299,
     "id": 860418,
-    "ls": "60% boost to max HP, 80% boost to Atk, Rec when HP is over 50%, reduces damage taken for 1 turn when HP is below 50% & damage taken may restore HP",
+    "ls": "120% Atk, 150% max HP, 120% Atk, Rec when HP is above 50%, 20% damage reduction for 1 turn when damage taken is over 5k, damage taken may restore HP & damage taken fills BB gauge",
     "name": "Hellborne Honeypot Luina",
     "rarity": 8,
-    "sbb": "19 combo powerful Dark attack on all foes, greatly restores HP, slightly boosts OD gauge, hugely boosts Atk, Rec for 3 turns & adds powerful additional attack at turn's end for 2 turns",
-    "ubb": "25 combo massive Dark attack on all foes, fully restores HP for 3 turns, enormously boosts OD gauge fill rate for 3 turns, enormously boosts Atk, Rec for 3 turns & adds high probability of resistance against 1 KO"
+    "sbb": "19 combo Dark attack on all foes (damage relative to remaining HP), restores HP, fills OD gauge, boosts Atk, Def, Rec for 3 turns, 2 turns DoT infliction & probable 2 turns Atk, Def reduction infliction",
+    "ubb": "25 combo Dark attack on all foes (damage relative to remaining HP), fully restores HP for 3 turns, boosts OD gauge fill rate for 5 turns, boosts Atk, Def, Rec for 3 turns, probable KO resistance for 999 turns & 3 turns Atk, Def reduction infliction"
   },
   "860427": {
     "bb": "14 combo powerful Dark attack on all foes (or 5% damage of foes' max HP), considerably boosts BB gauge, considerably boosts Def relative to Atk for 3 turns, boosts own Atk, Def, Rec for 3 turns & slight probable resistance against 1 KO attack",
