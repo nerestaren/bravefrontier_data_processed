@@ -775,7 +775,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Enhances BB gauge boost when attacked"
+      "desc": "Damage taken fills BB gauge"
     },
     {
       "bp": 20,
@@ -1151,7 +1151,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 15,
@@ -1221,7 +1221,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Enhances BB gauge boost when attacked"
+      "desc": "Damage taken fills BB gauge"
     },
     {
       "bp": 20,
@@ -3048,7 +3048,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Enhances BB gauge boost when attacked"
+      "desc": "Damage taken fills BB gauge"
     },
     {
       "bp": 20,
@@ -4940,7 +4940,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Enhances BB gauge boost when attacked"
+      "desc": "Damage taken fills BB gauge"
     },
     {
       "bp": 20,
@@ -7323,7 +7323,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 10,
@@ -7540,7 +7540,7 @@
   "720167": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 15,
@@ -7560,7 +7560,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -7568,7 +7568,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 25,
@@ -7590,7 +7590,7 @@
   "720237": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 15,
@@ -7660,7 +7660,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 30,
@@ -8208,7 +8208,7 @@
   "810148": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
@@ -8232,7 +8232,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 30,
@@ -8274,7 +8274,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -8367,7 +8367,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 10,
@@ -8417,7 +8417,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 20,
@@ -8777,11 +8777,11 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 30,
@@ -8960,7 +8960,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 40,
@@ -9002,7 +9002,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -9168,7 +9168,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 20,
@@ -9206,7 +9206,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -9240,7 +9240,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -9260,7 +9260,7 @@
     },
     {
       "bp": 15,
-      "desc": "Adds probable random status ailment infliction effect to BB/SBB"
+      "desc": "Add to BB/SBB (Probable random status ailments infliction)"
     },
     {
       "bp": 30,
@@ -9287,7 +9287,7 @@
   "810688": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 5,
@@ -9295,7 +9295,7 @@
     },
     {
       "bp": 10,
-      "desc": "200% boost to Spark damage"
+      "desc": "200% spark damage"
     },
     {
       "bp": 5,
@@ -9311,11 +9311,11 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 15,
-      "desc": "Probable resistance against 2 KO attacks"
+      "desc": "Probable 2 KO resistance"
     },
     {
       "bp": 25,
@@ -9331,7 +9331,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 15,
@@ -9443,7 +9443,7 @@
   "810758": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
@@ -9455,7 +9455,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -9857,7 +9857,7 @@
     {
       "bp": 5,
       "dependency": true,
-      "desc": "90% boost to max HP"
+      "desc": "90% max HP"
     },
     {
       "bp": 10,
@@ -9987,7 +9987,7 @@
   "820148": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
@@ -10011,7 +10011,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 10,
@@ -10187,7 +10187,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 10,
@@ -10233,7 +10233,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -10280,7 +10280,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 10,
@@ -10386,7 +10386,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -10846,7 +10846,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 10,
@@ -10892,7 +10892,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -10972,7 +10972,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     }
   ],
   "820628": [
@@ -11040,7 +11040,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -11185,7 +11185,7 @@
   "820688": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 5,
@@ -11251,7 +11251,7 @@
     },
     {
       "bp": 10,
-      "desc": "200% boost to Spark damage"
+      "desc": "200% spark damage"
     },
     {
       "bp": 10,
@@ -11309,7 +11309,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -11348,7 +11348,7 @@
   "820758": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
@@ -11360,7 +11360,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -11713,7 +11713,7 @@
     {
       "bp": 5,
       "dependency": true,
-      "desc": "90% boost to max HP"
+      "desc": "90% max HP"
     },
     {
       "bp": 10,
@@ -11870,7 +11870,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -11962,7 +11962,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 10,
@@ -12008,7 +12008,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -12059,7 +12059,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 20,
@@ -12248,7 +12248,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 10,
@@ -12772,7 +12772,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -12830,7 +12830,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 15,
@@ -12872,7 +12872,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 10,
@@ -12910,7 +12910,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -13004,32 +13004,32 @@
   "830688": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 5,
       "dependency": true,
-      "desc": "90% boost to max HP"
+      "desc": "90% max HP"
     },
     {
       "bp": 10,
-      "desc": "200% boost to Spark damage"
+      "desc": "200% spark damage"
     },
     {
       "bp": 10,
-      "desc": "Enhances BB gauge boost when attacked"
+      "desc": "Damage taken fills BB gauge"
     },
     {
       "bp": 5,
-      "desc": "Enormously restores HP each turn"
+      "desc": "Restores HP each turn"
     },
     {
       "bp": 15,
-      "desc": "Probable resistance against 2 KO attacks"
+      "desc": "Probable 2 KO resistance"
     },
     {
       "bp": 5,
-      "desc": "Negates all status ailments and Atk, Def, Rec reduction effects"
+      "desc": "Negates all status ailments and Atk, Def, Rec reduction"
     },
     {
       "bp": 10,
@@ -13037,31 +13037,31 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 15,
-      "desc": "Adds probable random status ailment infliction effect to BB/SBB"
+      "desc": "Add to BB/SBB (Probable random status ailments infliction)"
     },
     {
       "bp": 20,
-      "desc": "Adds all elemental damage reduction for 3 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (15% damage reduction from all elements for 3 turns)"
     },
     {
       "bp": 20,
-      "desc": "Adds 25% DoT reduction for 3 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (25% DoT reduction for 3 turns)"
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 30,
-      "desc": "Adds 50% damage reduction for 3 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (50% damage reduction for 3 turns)"
     },
     {
       "bp": 25,
-      "desc": "Adds probable resistance against 1 KO attack effect to BB/SBB"
+      "desc": "Add to BB/SBB (Probable KO resistance)"
     }
   ],
   "830698": [
@@ -13075,7 +13075,7 @@
     },
     {
       "bp": 10,
-      "desc": "Enhances BB gauge boost when attacked"
+      "desc": "Damage taken fills BB gauge"
     },
     {
       "bp": 10,
@@ -13169,7 +13169,7 @@
   "830758": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
@@ -13181,7 +13181,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -13248,7 +13248,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 15,
@@ -13274,7 +13274,7 @@
   "830788": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
@@ -13733,7 +13733,7 @@
     {
       "bp": 5,
       "dependency": true,
-      "desc": "90% boost to max HP"
+      "desc": "90% max HP"
     },
     {
       "bp": 10,
@@ -14074,7 +14074,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 15,
@@ -14479,7 +14479,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 15,
@@ -14625,7 +14625,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -14860,7 +14860,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -15054,7 +15054,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 25,
@@ -15068,7 +15068,7 @@
   "840758": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
@@ -15080,7 +15080,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -15139,7 +15139,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 20,
@@ -15269,7 +15269,7 @@
   "840808": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
@@ -15524,7 +15524,7 @@
     {
       "bp": 5,
       "dependency": true,
-      "desc": "90% boost to max HP"
+      "desc": "90% max HP"
     },
     {
       "bp": 10,
@@ -15904,7 +15904,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -16159,7 +16159,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -16623,7 +16623,7 @@
     },
     {
       "bp": 20,
-      "desc": "Adds all elemental damage reduction for 3 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (15% damage reduction from all elements for 3 turns)"
     },
     {
       "bp": 20,
@@ -16700,7 +16700,7 @@
   "850628": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
@@ -16740,7 +16740,7 @@
     },
     {
       "bp": 25,
-      "desc": "Adds probable resistance against 1 KO attack effect to BB/SBB"
+      "desc": "Add to BB/SBB (Probable KO resistance)"
     },
     {
       "bp": 25,
@@ -16859,7 +16859,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -16896,13 +16896,13 @@
     },
     {
       "bp": 15,
-      "desc": "Adds probable random status ailment infliction effect to BB/SBB"
+      "desc": "Add to BB/SBB (Probable random status ailments infliction)"
     }
   ],
   "850688": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 15,
@@ -17020,7 +17020,7 @@
   "850728": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
@@ -17040,7 +17040,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 20,
@@ -17152,7 +17152,7 @@
     },
     {
       "bp": 20,
-      "desc": "Adds all elemental damage reduction for 3 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (15% damage reduction from all elements for 3 turns)"
     },
     {
       "bp": 20,
@@ -17449,7 +17449,7 @@
     {
       "bp": 5,
       "dependency": true,
-      "desc": "90% boost to max HP"
+      "desc": "90% max HP"
     },
     {
       "bp": 10,
@@ -17742,7 +17742,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
@@ -17878,7 +17878,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -18001,7 +18001,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 40,
@@ -18250,7 +18250,7 @@
     },
     {
       "bp": 15,
-      "desc": "Probable resistance against 2 KO attacks"
+      "desc": "Probable 2 KO resistance"
     },
     {
       "bp": 5,
@@ -18539,7 +18539,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 15,
@@ -18713,7 +18713,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds status ailment and Atk, Def, Rec reduction removal effect to BB"
+      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
     },
     {
       "bp": 10,
@@ -18854,7 +18854,7 @@
     },
     {
       "bp": 5,
-      "desc": "90% boost to max HP"
+      "desc": "90% max HP"
     },
     {
       "bp": 20,
@@ -18912,7 +18912,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 15,
@@ -18932,7 +18932,7 @@
     },
     {
       "bp": 25,
-      "desc": "Adds probable resistance against 1 KO attack effect to BB/SBB"
+      "desc": "Add to BB/SBB (Probable KO resistance)"
     },
     {
       "bp": 25,
@@ -19055,7 +19055,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 180000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
@@ -19088,7 +19088,7 @@
     },
     {
       "bp": 15,
-      "desc": "Adds probable random status ailment infliction effect to BB/SBB"
+      "desc": "Add to BB/SBB (Probable random status ailments infliction)"
     },
     {
       "bp": 15,
@@ -19410,7 +19410,7 @@
     },
     {
       "bp": 10,
-      "desc": "200% boost to Spark damage"
+      "desc": "200% spark damage"
     },
     {
       "bp": 10,
@@ -19506,7 +19506,7 @@
   "860808": [
     {
       "bp": 10,
-      "desc": "100% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 15,
@@ -19711,7 +19711,7 @@
     {
       "bp": 5,
       "dependency": true,
-      "desc": "90% boost to max HP"
+      "desc": "90% max HP"
     },
     {
       "bp": 10,
