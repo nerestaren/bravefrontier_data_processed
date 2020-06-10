@@ -22573,6 +22573,21 @@
     "sbb": "6 combo Fire attack on all foes, 8 combo Fire attack on all foes (damage relative to remaining HP), boosts Fire elemental damage for 3 turns, probable 3 turns critical and elemental vulnerability infliction, fills BB gauge & 30% DoT reduction for 2 turns",
     "ubb": "20 combo Fire attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec relative to max HP for 4 turns, boosts Fire elemental damage for 4 turns, damage taken fills BB gauge and restores HP for 4 turns & 100% DoT reduction for 4 turns"
   },
+  "810898": {
+    "bb": "7 combo Fire attack on single foe, 19 combo Fire attack on all foes (damage relative to remaining HP), fills own BB gauge to max, probable evasion for 2 turns, probable KO resistance& fills OD gauge",
+    "category": 810890,
+    "cost": 60,
+    "element": "fire",
+    "es": "10-20% BB gauge consumed reduction for all allies, 30% all parameters, 150% spark damage for 2 turns when sparks dealt is over 20 times, 100% critical damage & fills BB gauge each turn",
+    "gender": "female",
+    "guide_id": 8622,
+    "id": 810898,
+    "ls": "200% Atk, 140% max HP, 30% critical rate, 250% spark damage, probable spark critical, spark damage fills BB gauge & probable 1 KO resistance",
+    "name": "Desert Paradise Nyami",
+    "rarity": 8,
+    "sbb": "9 combo Fire attack on single foe, 22 combo Fire attack on all foes (damage relative to remaining HP), activates Stealth and boosts own Atk and critical rate for 2 turns, boosts spark damage for 3 turns, boosts own spark damage for 3 turns & probable spark critical for 3 turns",
+    "ubb": "13 combo Fire attack on single foe (damage relative to remaining HP), 25 combo Fire attack on all foes (damage relative to remaining HP), boosts spark damage for 4 turns, 4 turns spark vulnerability infliction, spark damage fills BB gauge for 4 turns & fills OD gauge"
+  },
   "810900": {
     "bb": "12 combo powerful Fire attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 810900,
@@ -23949,6 +23964,21 @@
     "sbb": "20 combo Water attack on all foes (damage relative to remaining HP), 20 combo Water attack on all foes (damage relative to remaining HP), 50% damage reduction for 3 turns, boosts spark damage for 3 turns, boosts Atk, Rec relative to Def for 3 turns & fills OD gauge per ally (up to 18% max)",
     "ubb": "24 combo Water attack on all foes (damage relative to remaining HP), boosts spark damage for 4 turns, spark damage fills BB gauge for 4 turns, boosts Atk, Rec relative to Def for 4 turns, 100% damage reduction for 4 turns & activates BB/SBB/UBB twice for 3 turns"
   },
+  "820898": {
+    "bb": "16 combo Water attack on all foes, fills own BB gauge to max, activates Stealth and boosts own Atk and critical rate for 2 turns & removes and negate all status ailments and Atk, Def, Rec reduction for 3 turns",
+    "category": 820890,
+    "cost": 54,
+    "element": "water",
+    "es": "15% spark damage for all allies, 30% all parameters, 100% Water elemental damage & spark damage fills BB gauge",
+    "gender": "female",
+    "guide_id": 8623,
+    "id": 820898,
+    "ls": "150% Atk, 100% max HP, 30% critical rate, 200% spark damage when HP is above 50%, spark damage restores HP, fills BB gauge each turn & 30% OD gauge fill rate",
+    "name": "Isengrim Angler Faelan",
+    "rarity": 8,
+    "sbb": "19 combo Water attack on all foes (damage relative to remaining HP), 15 combo Water attack on single foe, boosts Atk, Def, Rec for 3 turns, boosts spark damage for 3 turns, boosts own spark damage for 3 turns & boosts BB Atk for 3 turns",
+    "ubb": "21 combo Water attack on all foes (damage relative to remaining HP), 15 combo Water attack on single foe (boosts own critical rate), boosts Atk, Def, Rec for 3 turns, boosts spark damage for 3 turns, spark damage fills BB gauge for 3 turns & adds all status ailments infliction to attack for 3 turns"
+  },
   "820900": {
     "bb": "12 combo powerful Water attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 820900,
@@ -24976,19 +25006,19 @@
     "ubb": "16 combo massive Earth attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), enormously boosts Def relative to Atk for 3 turns, 100% damage reduction for 3 turns, enormously boosts max HP & negates critical and elemental damage for 5 turns"
   },
   "830688": {
-    "bb": "13 combo powerful Earth attack on all foes (damage relative to remaining HP), boosts OD gauge, negates critical, elemental and Spark damage for 5 turns, activates Taunt and hugely boosts own Def for 2 turns, enormously boosts BB gauge & purges LS and ES Lock effects from one random ally",
+    "bb": "13 combo Earth attack on all foes (damage relative to remaining HP, boosts own critical rate), fills OD gauge, 100% critical, elemental and spark damage reduction for 5 turns, activates Taunt and boosts own Def for 2 turns, fills BB gauge & purges LS Lock and ES Lock from random ally",
     "category": 830680,
     "cost": 60,
     "element": "earth",
-    "es": "Greatly reduces BB gauge required for BB when Miracle of Khons or Blessing of Khons Sphere is equipped, 35% boost of Def, max HP for all allies, 15% DoT reduction for all allies & hugely boosts OD gauge fill rate",
+    "es": "30% reduction to BB activation cost when Miracle of Khons or Blessing of Khons Sphere is equipped, 35% Def, max HP and 15% DoT reduction for all allies & 50% OD gauge fill rate",
     "gender": "male",
     "guide_id": 8547,
     "id": 830688,
-    "ls": "150% boost to Def, max HP, damage taken hugely boosts BB gauge, enormously boosts BB gauge when guarding, 15% damage reduction & 20% damage reduction for 2 turns when damage taken has exceeded certain amount",
+    "ls": "150% Def, max HP, damage taken fills BB gauge, fills BB gauge when guarding, 15% damage reduction & 20% damage reduction for 2 turns when damage taken is over 5k",
     "name": "Osiris, Lord of Silence",
     "rarity": 8,
-    "sbb": "25 combo massive Earth attack on all foes (damage relative to remaining HP), 25 combo massive Earth attack on all foes (damage relative to remaining HP), considerably boosts OD gauge, hugely boosts Atk, Def, Rec relative to max HP for 4 turns, damage taken hugely boosts BB gauge for 4 turns & fills own BB gauge to max",
-    "ubb": "Enormously boosts max HP, 100% damage reduction for 4 turns, adds probable resistance against 1 KO attack, activates BB/SBB/UBB twice for 3 turns, probability of raising allies from KO & purges LS and ES Lock effects from all allies"
+    "sbb": "25 combo Earth attack on all foes (damage relative to remaining HP, boosts own critical rate), 25 combo Earth attack on all foes (damage relative to remaining HP, boosts own critical rate), fills OD gauge, boosts Atk, Def, Rec relative to max HP for 4 turns, damage taken fills BB gauge for 4 turns & fills own BB gauge to max",
+    "ubb": "Boosts max HP, 100% damage reduction for 4 turns, probable KO resistance for 999 turns, may raise allies from KO, activates BB/SBB/UBB twice for 3 turns & purges LS Lock and ES Lock from all allies"
   },
   "830697": {
     "bb": "5 combo powerful Earth attack on all foes (partial HP drain), greatly restores HP for 3 turns, greatly boosts max HP, 10% damage reduction from all element types for 3 turns & removes all status ailments and Atk, Def, Rec reduction effects",
@@ -25758,7 +25788,7 @@
     "ls": "150% max HP, negates all status ailments and Atk, Def, Rec reduction, damage taken fills BB gauge, 20% damage reduction for 2 turns when damage taken is over 5k & damage taken may restore HP",
     "name": "Deimos the Undaunted",
     "rarity": 8,
-    "sbb": "17 combo Thunder attack on all foes (damage relative to remaining HP), boosts spark damage (Thunder) for 3 turns, boosts Atk, Def, Rec for 3 turns, adds probable 2 turns Atk, Def reduction infliction counter for 2 turns, 50% damage reduction for 3 turns & damage taken may restore HP for 3 turns",
+    "sbb": "17 combo Thunder attack on all foes (damage relative to remaining HP), boosts spark damage (Thunder) for 3 turns, boosts Atk, Def, Rec for 3 turns, adds probable 2 turns Atk, Def reduction infliction counter for 3 turns, 50% damage reduction for 3 turns & damage taken may restore HP for 3 turns",
     "ubb": "21 combo Thunder attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec for 3 turns, 100% damage reduction for 3 turns, damage taken restores HP for 3 turns, boosts max HP & fills BB gauge to max"
   },
   "840277": {

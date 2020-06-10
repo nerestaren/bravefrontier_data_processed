@@ -12179,6 +12179,13 @@
     "name": "Scorching Blade Roy",
     "rarity": 8
   },
+  "810898": {
+    "element": "fire",
+    "guide_id": 8622,
+    "id": 810898,
+    "name": "Desert Paradise Nyami",
+    "rarity": 8
+  },
   "810900": {
     "element": "fire",
     "guide_id": 8496,
@@ -12856,6 +12863,13 @@
     "guide_id": 8611,
     "id": 820868,
     "name": "Meryl & Milly",
+    "rarity": 8
+  },
+  "820898": {
+    "element": "water",
+    "guide_id": 8623,
+    "id": 820898,
+    "name": "Isengrim Angler Faelan",
     "rarity": 8
   },
   "820900": {

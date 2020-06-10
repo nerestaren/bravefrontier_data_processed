@@ -9849,6 +9849,56 @@
       "desc": "Allows UBB's effects to last additional 1 turn"
     }
   ],
+  "810898": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Probable spark critical"
+    },
+    {
+      "bp": 5,
+      "desc": "Spark damage fills BB gauge"
+    },
+    {
+      "bp": 20,
+      "desc": "Spark damage restores HP"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "1 KO resistance when HP is below 30%"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Spark damage fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (3 turns spark vulnerability infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (30 combo Fire attack on single foe (damage relative to remaining HP))"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances BB's probable evasion for 2 turns effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows UBB's effects to last additional 1 turn"
+    }
+  ],
   "810900": [
     {
       "bp": 5,
@@ -11497,7 +11547,7 @@
     },
     {
       "bp": 25,
-      "desc": "Add to SBB (17 combo Water attack on single foe (damage relative to remaining HP))"
+      "desc": "Add to SBB (18 combo Water attack on single foe (damage relative to remaining HP))"
     }
   ],
   "820828": [
@@ -11703,6 +11753,52 @@
     {
       "bp": 35,
       "desc": "Add to BB (May purge LS, ES Lock and DoT from random ally), UBB (Purges LS, ES Lock and DoT from all allies)"
+    }
+  ],
+  "820898": [
+    {
+      "bp": 10,
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "120% Spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "150% critical damage"
+    },
+    {
+      "bp": 20,
+      "desc": "150% damage against status afflicted foes"
+    },
+    {
+      "bp": 25,
+      "desc": "25% reduction to BB activation cost"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (50% spark damage reduction for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Spark damage fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (probable random status ailments infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (probable spark critical for 3 turns)"
     }
   ],
   "820900": [
