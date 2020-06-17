@@ -15612,6 +15612,56 @@
       "desc": "Add to BB/SBB (3 turns spark vulnerability infliction)"
     }
   ],
+  "840888": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "150% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments and Atk, Def, Rec reductions"
+    },
+    {
+      "bp": 20,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates ignore Def"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (Spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Spark damage fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (boosts critical damage for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 3 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (3 turns spark vulnerability infliction)"
+    }
+  ],
   "840900": [
     {
       "bp": 5,

@@ -26636,6 +26636,21 @@
     "sbb": "25 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), 7 combo Thunder attack on single foe (boosts own critical rate), boosts own spark damage for 3 turns, boosts all elemental damage for 3 turns, boosts Atk relative to Def for 3 turns & adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns",
     "ubb": "34 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), 6 combo Thunder attack on single foe (boosts own critical rate), evasion for 3 turns, boosts Thunder elemental damage for 3 turns, damage taken fills BB gauge for 3 turns & 3 turns Atk, Def reduction infliction"
   },
+  "840888": {
+    "bb": "20 combo Thunder attack on all foes, boosts max HP, negates all status ailments and Atk, Def, Rec reduction for 3 turns, removes all status ailments and Atk, Def, Rec reduction, 100% critical and elemental damage reduction for 3 turns & probable KO resistance",
+    "category": 840880,
+    "cost": 60,
+    "element": "thunder",
+    "es": "20% all parameters and fills BB gauge each turn for all allies, probable spark critical, 30% reduction to BB activation cost & damage taken may restore HP",
+    "gender": "male",
+    "guide_id": 8624,
+    "id": 840888,
+    "ls": "140% all parameters and 30% critical rate (Thunder), 250% spark damage, 250% critical damage, spark damage fills BB gauge & spark damage restores HP",
+    "name": "Suizen, Stormlost Echo",
+    "rarity": 8,
+    "sbb": "16 combo Thunder attack on all foes (damage relative to remaining HP), 16 combo Thunder attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec for 3 turns, boosts spark damage for 3 turns, boosts own Atk, Def, Rec and critical rate for 3 turns & probable 3 turns Atk, Def reduction infliction",
+    "ubb": "34 combo Thunder attack on all foes (damage relative to remaining HP), boosts max HP, boosts spark damage for 4 turns, spark damage fills BB gauge for 4 turns, spark damage restores HP for 4 turns & probable KO resistance"
+  },
   "840900": {
     "bb": "12 combo powerful Thunder attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
     "category": 840900,
