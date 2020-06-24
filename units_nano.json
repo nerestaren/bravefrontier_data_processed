@@ -15595,6 +15595,20 @@
     "name": "Shadow Stalker Vohu",
     "rarity": 8
   },
+  "860827": {
+    "element": "dark",
+    "guide_id": 8625,
+    "id": 860827,
+    "name": "Kirke",
+    "rarity": 7
+  },
+  "860828": {
+    "element": "dark",
+    "guide_id": 8626,
+    "id": 860828,
+    "name": "Dusk Haunter Kirke",
+    "rarity": 8
+  },
   "860838": {
     "element": "dark",
     "guide_id": 8580,

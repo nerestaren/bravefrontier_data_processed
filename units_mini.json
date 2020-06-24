@@ -21288,19 +21288,19 @@
     "ubb": "20 combo massive Fire attack on all foes, considerably raises normal hit amount for 3 turns, enormously boosts critical damage for 3 turns & enormously boosts Atk, Def, Rec for 3 turns"
   },
   "810048": {
-    "bb": "17 combo powerful Fire attack on all foes, adds additional powerful attack at turn's end for 3 turns, raises normal hit amount for 3 turns, hugely boosts Atk, Def, Rec for 3 turns & boosts critical hit rate for 3 turns",
+    "bb": "17 combo Fire attack on all foes, 3 turns DoT infliction, raises normal hit amount for 3 turns, boosts Atk, Def, Rec and critical rate for 3 turns & boosts own max HP",
     "category": 810040,
     "cost": 54,
     "element": "fire",
-    "es": "Raises Atk parameter limits to 130000, adds resistance against 1 KO attack when HP is below 25%, considerably raises normal hit amount & adds 23 combo powerful Fire attack against Fire, Earth types to SBB",
+    "es": "Raises Atk limit to 180k, raises normal hit amount, resistance against 1 KO attack when HP is below 35% & add to SBB (23 combo Fire attack on Fire, Earth foes)",
     "gender": "male",
     "guide_id": 8318,
     "id": 810048,
-    "ls": "150% boost to Atk, 80% boost to Def, max HP of Fire types, 20% damage reduction from Fire, Earth types, considerably boosts ABP and CBP gain, probable considerable reduction of foe's BB gauge & probable normal attack on all foes",
+    "ls": "200% Atk, 80% Def, 80% max HP (Fire), 20% damage reduction from Fire, Earth types, adds probable 50% BB gauge reduction to attack, normal attacks may hit all foes & 100% ABP, 50% CBP gain",
     "name": "Immortal Firewing Blaze",
     "rarity": 8,
-    "sbb": "19 combo powerful Fire attack on all foes, 5 combo powerful Fire attack on single foe, raises normal hit amount for 3 turns, hugely boosts Atk, Def, Rec for 3 turns, enormously boosts critical hit rate for 3 turns, considerably boosts critical damage for 3 turns & boosts own Atk for 3 turns",
-    "ubb": "21 combo massive Fire attack on all foes, considerably raises normal hit amount for 3 turns, enormously boosts critical damage for 3 turns, enormously boosts Atk, Def, Rec for 3 turns & enormous 3 turn Atk, Def reduction"
+    "sbb": "19 combo Fire attack on all foes, 5 combo Fire attack on single foe (damage relative to remaining HP), raises normal hit amount for 3 turns, boosts Atk, Def, Rec and critical rate for 3 turns, boosts critical damage for 3 turns & boosts own Atk for 3 turns",
+    "ubb": "21 combo Fire attack on all foes, 3 turns Atk, Def reduction infliction, raises normal hit amount for 3 turns, boosts critical damage for 3 turns, boosts Atk, Def, Rec for 3 turns & normal attacks hits all foes for 3 turns"
   },
   "810104": {
     "bb": "10 combo Fire elemental attack on all enemies and boosts Atk of allies by 30% for 2 turns",
@@ -27583,19 +27583,19 @@
     "ubb": "25 combo powerful Light attack on all foes (damage relative to remaining HP), damage taken enormously boosts BB gauge for 3 turns, enormously boost Atk relative to max HP for 3 turns, damage taken enormously restores HP for 3 turns & adds high probability of resistance against 1 KO attack"
   },
   "850418": {
-    "bb": "21 combo powerful Light and Dark attack on all foes, negates critical and elemental damage for 1 turn, negates Atk, Def, Rec reductions for 1 turn & damage taken may restore HP for 3 turns",
+    "bb": "21 combo Light attack on all foes (damage relative to remaining HP), damage taken may restore HP for 3 turns, negates all status ailments and Atk, Def, Rec reduction for 3 turns, 100% critical and elemental damage reduction for 3 turns & boosts own Atk, Def, Rec for 3 turns",
     "category": 850410,
-    "cost": 48,
+    "cost": 50,
     "element": "light",
-    "es": "100% boost to Atk when damage received exceeds certain amount, absorbs HP while attacking & probable resistance against 2 KO attacks",
+    "es": "Negates ignore Def for all allies, 30% all parameters, boosts Atk for 2 turns when damage taken is over 5k, probable 2 KO resistance & probable damage reduction to 1",
     "gender": "female",
     "guide_id": 8234,
     "id": 850418,
-    "ls": "60% boost to max HP, boosts Atk, Def, Rec relative to remaining HP, damage taken may restore HP & considerably reduces BB gauge required for BB",
+    "ls": "160% max HP, 0-100% Atk, Def, Rec relative to remaining HP, probable 3 turns spark vulnerability infliction, 25% reduction to BB activation cost & damage taken may restore HP",
     "name": "Silver Queen Gabriela",
     "rarity": 8,
-    "sbb": "26 combo powerful Light attack on all foes (damage relative to remaining HP), 7 combo powerful Light attack on single foe (partial HP drain), boosts Atk relative to max HP for 3 turns, damage taken considerably boosts BB gauge for 3 turns & largely boosts own Atk, Def, Rec for 3 turns",
-    "ubb": "33 combo powerful Light attack on all foes (damage relative to remaining HP), damage taken enormously boosts BB gauge for 3 turns, enormously boost Atk relative to max HP for 3 turns, damage taken enormously restores HP for 3 turns & adds high probability of resistance against 1 KO attack"
+    "sbb": "26 combo Light attack on all foes (damage relative to remaining HP), 7 combo Light attack on single foe (partial HP drain), damage taken fills BB gauge for 3 turns, boosts BB Atk for 3 turns, probable evasion for 2 turns & boosts own Atk, Def relative to max HP for 3 turns",
+    "ubb": "33 combo Light attack on all foes (damage relative to remaining HP), boosts Atk, Def relative to max HP for 3 turns, boosts max HP, damage taken fills BB gauge for 3 turns, damage taken restores HP for 3 turns & probable KO resistance for 999 turns"
   },
   "850437": {
     "bb": "17 combo powerful Light attack on all foes, hugely boosts own Spark damage for 3 turns, Spark damage boosts BB gauge for 3 turns, hugely boosts BB Atk for 3 turns, hugely boosts Atk, Def, Rec for 3 turns & enormously boosts critical hit rate for 3 turns",
@@ -29508,6 +29508,36 @@
     "rarity": 8,
     "sbb": "16 combo Dark attack on all foes (damage relative to remaining HP), 9 combo Dark attack on all foes (consecutive uses boosts damage), 3 turns spark vulnerability infliction, may activate BB/SBB/UBB twice for 3 turns, spark damage restores HP for 3 turns & boosts Dark elemental damage for 3 turns",
     "ubb": "18 combo Dark attack on all foes (damage relative to remaining HP), 10 combo Dark attack on single foe (25% active Pierce on Light,Dark foes), spark damage fills BB gauge and restores HP for 4 turns, activates BB/SBB/UBB twice for 3 turns & boosts Dark elemental damage for 4 turns"
+  },
+  "860827": {
+    "bb": "12 combo Dark attack on all foes (damage relative to remaining HP), spark damage restores HP for 3 turns, boosts Atk, Def, Rec and critical rate (Dark) for 3 turns, 20% DoT reduction for 2 turns & 2 turns active healing reduction infliction (PvP modes only)",
+    "category": 860820,
+    "cost": 52,
+    "element": "dark",
+    "es": "15% critical damage for all allies, damage taken may inflict 30% BB gauge fill rate reduction for 1 turn, probable damage reduction to 1 & negates all status ailments",
+    "gender": "male",
+    "guide_id": 8625,
+    "id": 860827,
+    "ls": "120% Atk, 100% Def, 120% max HP and 30% critical rate (Dark), 10% damage reduction from Light, Dark types, 15% DoT reduction, spark damage restores HP & probable spark critical",
+    "name": "Kirke",
+    "rarity": 7,
+    "sbb": "14 combo Dark attack on all foes (damage relative to remaining HP), 10 combo Dark attack on single foe, boosts Atk, Def, Rec and critical rate (Dark) for 3 turns, probable spark critical for 3 turns & boosts own spark damage for 3 turns",
+    "ubb": "18 combo Dark attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate for 3 turns, spark damage restores HP for 3 turns, boosts spark damage for 3 turns & 100% DoT reduction for 3 turns"
+  },
+  "860828": {
+    "bb": "14 combo Dark attack on all foes (damage relative to remaining HP), spark damage restores HP for 3 turns, boosts Atk, Def, Rec and critical rate (Dark) for 3 turns, 30% DoT reduction for 2 turns, boosts own max HP & 2 turns active healing reduction infliction (PvP modes only)",
+    "category": 860820,
+    "cost": 60,
+    "element": "dark",
+    "es": "50% Atk, 15% critical rate, 25% critical damage and damage taken may inflict 30% BB gauge fill rate reduction for 1 turns for all allies, negates all status ailments & probable damage reduction to 1",
+    "gender": "male",
+    "guide_id": 8626,
+    "id": 860828,
+    "ls": "150% Atk, 120% Def, 150% max HP and 30% critical rate (Dark), 20% damage reduction from Light, Dark types, spark damage restores HP, 15% DoT reduction, probable spark critical & 135% ABP, 80% CBP gain",
+    "name": "Dusk Haunter Kirke",
+    "rarity": 8,
+    "sbb": "16 combo Dark attack on all foes (damage relative to remaining HP), 12 combo Dark attack on single foe, boosts Atk, Def, Rec and critical rate (Dark) for 3 turns, probable spark critical for 3 turns, boosts spark damage (Dark) for 3 turns & boosts own spark damage for 3 turns",
+    "ubb": "20 combo Dark attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate for 4 turns, spark damage restores HP for 4 turns, boosts spark damage for 4 turns, 100% DoT reduction for 4 turns & boosts max HP"
   },
   "860838": {
     "bb": "25 combo random Dark attack on all foes, raises normal hit amount for 3 turns, normal attacks hits all foes for 3 turns, adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns, probable 1 extra action for self for 1 turn & boosts own Atk and critical rate for 3 turns",
