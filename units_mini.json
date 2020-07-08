@@ -22603,6 +22603,21 @@
     "sbb": "14 combo massive Fire attack on all foes (damage relative to remaining HP), 50% damage reduction for 1 turn, greatly restores HP, hugely boosts Fire elemental damage for 3 turns & hugely boosts Atk, Def, Rec for 3 turns",
     "ubb": "18 combo massive Fire attack on all foes (uses all allies' BB gauge), 100% damage reduction from Earth types for 2 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts BB gauge for 3 turns & fully restores HP for 3 turns"
   },
+  "810908": {
+    "bb": "23 combo Fire attack on all foes (damage relative to remaining HP), damage taken may restore HP for 3 turns, activates Taunt and boosts own Def, adds Fire barrier, 50% damage reduction for 3 turns & 25% DoT reduction for 2 turns",
+    "category": 810908,
+    "cost": 54,
+    "element": "fire",
+    "es": "20% all parameters for all allies, 0-100% Atk, Def, Rec relative to remaining HP, negates all status ailments and Atk Def, Rec reduction & probable 2 KO resistance",
+    "gender": "male",
+    "guide_id": 8627,
+    "id": 810908,
+    "ls": "150% Def, Max HP, 200% spark damage when HP is above 50%, damage taken may restore HP, 20% damage reduction when damage taken is over 5k & 15% DoT reduction",
+    "name": "Gortius, Elysia's Crown",
+    "rarity": 8,
+    "sbb": "27 combo Fire attack on all foes (damage relative to remaining HP), 8 combo Fire attack on single foe, boosts all elemental damage for 3 turns, boosts Def relative to max HP for 3 turns, damage taken fills BB gauge for 3 turns & 50% damage reduction for 3 turns",
+    "ubb": "33 combo Fire attack on all foes (damage relative to remaining HP), boosts Fire elemental damage for 3 turns, boosts Def relative to Atk for 3 turns, adds Fire barrier, damage taken fills BB gauge for 3 turns & 100 damage reduction for 3 turns"
+  },
   "811016": {
     "bb": "15 combo powerful Fire attack on all foes & boosts critical hit rate for 3 turns",
     "category": 811010,
@@ -23725,19 +23740,19 @@
     "ubb": "18 combo massive Water attack on all foes (damage relative to remaining HP), enormously boosts Water elemental damage for 3 turns, enormously boosts Spark damage for 3 turns, enormously boosts critical damage for 3 turns & enormously boosts Atk, Def and enormously boosts critical hit rate for 3 turns"
   },
   "820688": {
-    "bb": "16 combo massive Water attack on single foe (or probable 5% damage of foes' max HP), damage taken may slightly restore HP for 3 turns, probable huge 2 turn Atk, Def reduction, critical and elemental vulnerability infliction for 3 turns, considerably boosts OD gauge & purges LS and ES Lock effects from one random ally",
+    "bb": "16 combo Water attack on single foe (or probable 5% damage of foes' max HP), damage taken may restore HP for 3 turns, probable 2 turns Atk, Def reduction infliction, 3 turns critical and elemental vulnerability infliction, fills OD gauge & purges LS and ES Lock from random ally",
     "category": 820680,
     "cost": 60,
     "element": "water",
-    "es": "Considerably reduces BB gauge required for BB when Cunei of Athum or Word of Athum is equipped, slightly boosts Water elemental damage and 35% boost to Atk, max HP for all allies & probable damage reduction to 1",
+    "es": "30% reduction to BB activation cost when Cunei of Athum or Word of Athum is equipped, 35% Atk, max HP and 20% Water elemental damage for all allies& probable damage reduction to 1",
     "gender": "female",
     "guide_id": 8557,
     "id": 820688,
-    "ls": "200% boost to Atk, 140% boost to max HP, 30% boost to critical hit rate of Water types, hugely boost Spark damage, enormously boosts Water elemental damage, 15% damage reduction from Fire, Water types & damage taken may restore HP",
+    "ls": "200% Atk, 140% max HP and 30% critical rate (Water), 180% spark damage, 225% Water elemental damage, 15% damage reduction from Fire, Water types & damage taken may restore HP",
     "name": "Thoth, Scribe of Gods",
     "rarity": 8,
-    "sbb": "18 combo powerful Water attack on all foes (damage relative to remaining HP), 4 combo massive Water attack on single foe (or probable 5% damage of foes' max HP), hugely boosts Atk, Def, Rec and enormously boosts critical hit rate for 4 turns, enormously boosts Water elemental damage for 4 turns, enormously boosts Spark damage for 4 turns & considerably boosts OD gauge",
-    "ubb": "25 combo massive Water attack on all foes (damage relative to remaining HP), enormously boosts Water elemental damage for 4 turns, enormously boosts Spark damage for 4 turns, enormously boosts critical damage for 4 turns, enormously boosts Atk, Def and enormously boosts critical hit rate for 4 turns & purges LS and ES Lock effects from all allies"
+    "sbb": "18 combo Water attack on all foes (damage relative to remaining HP), 4 combo Water attack on single foe (or probable 5% damage of foes' max HP), boosts Atk, Def, Rec and critical rate for 4 turns, boosts Water elemental damage for 4 turns, boosts spark damage for 4 turns & fills OD gauge",
+    "ubb": "25 combo Water attack on all foes (damage relative to remaining HP), boosts Water elemental damage for 4 turns, boosts spark damage for 4 turns, boosts critical damage for 4 turns, boosts Atk, Def and critical rate for 4 turns & purges LS and ES Lock effects from all allies"
   },
   "820717": {
     "bb": "10 combo powerful Water attack on all foes, greatly restores HP for 3 turns, negates critical and elemental damage for 3 turns & negates all status ailments and Atk, Def, Rec reduction effects for 3 turns",

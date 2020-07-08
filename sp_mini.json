@@ -1143,7 +1143,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 20,
@@ -7580,7 +7580,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds enormously boosts max HP effect to UBB"
+      "desc": "Add to UBB (Boosts max HP)"
     },
     {
       "bp": 25,
@@ -7602,7 +7602,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 15,
@@ -7780,7 +7780,7 @@
     },
     {
       "bp": 20,
-      "desc": "Add to BB/SBB (boosts BC efficacy for 3 turns)"
+      "desc": "Add to BB/SBB (Boosts BC efficacy for 3 turns)"
     },
     {
       "bp": 35,
@@ -7888,11 +7888,11 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 25,
@@ -9090,7 +9090,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 10,
@@ -9152,7 +9152,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 15,
@@ -9190,7 +9190,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 10,
@@ -9335,7 +9335,7 @@
     },
     {
       "bp": 15,
-      "desc": "Adds Spark vulnerability infliction for 3 turns effect to SBB"
+      "desc": "Add to SBB (4 turns spark vulnerability infliction)"
     },
     {
       "bp": 25,
@@ -9353,7 +9353,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 15,
@@ -9365,7 +9365,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 20,
@@ -9518,7 +9518,7 @@
     },
     {
       "bp": 15,
-      "desc": "Adds Spark vulnerability infliction for 3 turns effect to SBB"
+      "desc": "Add to SBB (4 turns spark vulnerability infliction)"
     },
     {
       "bp": 15,
@@ -9944,6 +9944,52 @@
       "desc": "Adds probable huge 1 turn Atk, Def reduction infliction effect to BB/SBB"
     }
   ],
+  "810908": [
+    {
+      "bp": 10,
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "130% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "100% critical and elemental damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "Enhances BB's Taunt duration"
+    },
+    {
+      "bp": 10,
+      "desc": "Enhances SBB's boosts Def relative to HP effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (100% critical and elemental damage reduction for 2 turns)"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to SBB (Boosts critical damage (Fire) for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Boosts BC efficacy for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (Boosts max HP), UBB (Boosts max HP)"
+    }
+  ],
   "811118": [
     {
       "bp": 10,
@@ -10322,7 +10368,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 15,
@@ -10880,7 +10926,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 20,
@@ -11137,7 +11183,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 15,
@@ -11145,7 +11191,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 30,
@@ -11239,19 +11285,19 @@
     },
     {
       "bp": 5,
-      "desc": "30% boost to Atk, max HP"
+      "desc": "30% Atk, max HP"
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 5,
-      "desc": "Spark damage boosts BB gauge"
+      "desc": "Spark damage fills BB gauge"
     },
     {
       "bp": 15,
-      "desc": "Considerable additional damage reduction effect"
+      "desc": "50% DoT reduction"
     },
     {
       "bp": 10,
@@ -11259,39 +11305,39 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 25,
-      "desc": "Adds huge boost to critical damage effect to LS"
+      "desc": "Add to LS (180% critical damage)"
     },
     {
       "bp": 10,
-      "desc": "Add enormously boosts OD gauge at turn's end for 3 turns effect to BB"
+      "desc": "Add to BB (Fills OD gauge at turn's end for 3 turns)"
     },
     {
       "bp": 30,
-      "desc": "Adds 21 combo powerful Water attack on single foe (damage relative to remaining HP) to SBB"
+      "desc": "Add to SBB (21 combo Water attack on single foe (damage relative to remaining HP)"
     },
     {
       "bp": 15,
-      "desc": "Adds Stealth on self boosting own Atk for 3 turns effect to SBB"
+      "desc": "Add to SBB (Activates Stealth and boosts own Atk for 3 turns)"
     },
     {
       "bp": 15,
-      "desc": "Adds Spark vulnerability infliction for 3 turns effect to SBB"
+      "desc": "Add to SBB (4 turns spark vulnerability infliction)"
     },
     {
       "bp": 20,
-      "desc": "Adds great critical damage boost for 3 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (Boosts critical damage for 3 turns)"
     },
     {
       "bp": 15,
-      "desc": "Adds critical damage boost for Water types for 3 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (Boosts critical damage (Water) for 3 turns)"
     },
     {
       "bp": 10,
-      "desc": "Adds enormously boosts max HP effect to UBB"
+      "desc": "Add to UBB (Boosts max HP)"
     }
   ],
   "820718": [
@@ -12902,7 +12948,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 10,
@@ -13217,7 +13263,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 15,
@@ -13225,7 +13271,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 20,
@@ -13490,7 +13536,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 25,
@@ -13610,7 +13656,7 @@
     },
     {
       "bp": 20,
-      "desc": "Add to BB/SBB (boosts BC efficacy for 3 turns)"
+      "desc": "Add to BB/SBB (Boosts BC efficacy for 3 turns)"
     },
     {
       "bp": 25,
@@ -13979,7 +14025,7 @@
     {
       "bp": 10,
       "dependency": true,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 30,
@@ -14902,7 +14948,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 15,
@@ -15070,7 +15116,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 15,
@@ -15078,7 +15124,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 15,
@@ -15188,7 +15234,7 @@
     },
     {
       "bp": 15,
-      "desc": "Adds Stealth on self boosting own Atk for 3 turns effect to SBB"
+      "desc": "Add to SBB (Activates Stealth and boosts own Atk for 3 turns)"
     },
     {
       "bp": 15,
@@ -15200,7 +15246,7 @@
     },
     {
       "bp": 10,
-      "desc": "Adds enormously boosts max HP effect to UBB"
+      "desc": "Add to UBB (Boosts max HP)"
     },
     {
       "bp": 15,
@@ -15231,7 +15277,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 10,
@@ -16849,7 +16895,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 10,
@@ -16953,7 +16999,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 20,
@@ -17117,7 +17163,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 15,
@@ -17125,7 +17171,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 20,
@@ -17177,7 +17223,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 25,
@@ -17277,7 +17323,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 10,
@@ -17289,7 +17335,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 30,
@@ -19103,7 +19149,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 15,
@@ -19357,7 +19403,7 @@
     },
     {
       "bp": 10,
-      "desc": "170% boost to Spark damage"
+      "desc": "170% Spark Damage"
     },
     {
       "bp": 15,
@@ -19365,7 +19411,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 20,
@@ -19413,7 +19459,7 @@
     },
     {
       "bp": 15,
-      "desc": "Raises Atk parameter limits to 200000"
+      "desc": "Raises Atk limit to 200k"
     },
     {
       "bp": 25,
