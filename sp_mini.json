@@ -17632,6 +17632,56 @@
       "desc": "Add to UBB (boosts spark damage, critical damage, all elemental damage for 4 turns)"
     }
   ],
+  "850888": [
+    {
+      "bp": 10,
+      "desc": "130% Def, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 25,
+      "desc": "30-50% BB gauge consumed reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 200000"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (250% all elemental damage)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (100% critical and elemental damage reduction for 5 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Probable 1 KO resistance)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (Adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (17 combo Light attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows UBB's effects to last additional 1 turn"
+    }
+  ],
   "850900": [
     {
       "bp": 5,

@@ -14909,6 +14909,13 @@
     "name": "Silver Knight Joshua",
     "rarity": 8
   },
+  "850888": {
+    "element": "light",
+    "guide_id": 8628,
+    "id": 850888,
+    "name": "Kyria, the Dawnrider",
+    "rarity": 8
+  },
   "850900": {
     "element": "light",
     "guide_id": 8500,
