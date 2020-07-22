@@ -22199,19 +22199,19 @@
     "ubb": "23 combo massive Fire attack on all foes, enormously boosts BB gauge for 3 turns, hugely boosts all elemental damage for 3 turns, fully restores HP for 3 turns & enormously boosts Atk, Def, Rec for 3 turns"
   },
   "810558": {
-    "bb": "17 combo powerful Fire attack on all foes, reduce foe's BB gauge fill rate for 3 turns, damage taken hugely boosts BB gauge for 3 turns, hugely restores HP for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Fire types for 3 turns & activates Water shield for 2 turns",
-    "category": 811110,
+    "bb": "17 combo Fire on all foes, 3 turns 30% BB gauge fill rate reduction infliction, damage taken fills BB gauge for 3 turns, restores HP for 3 turns, boosts Atk, Def, Rec and critical rate (Fire) for 3 turns & adds Water shield for 3 turns",
+    "category": 810550,
     "cost": 60,
     "element": "fire",
-    "es": "25% boost to all parameters of Fire types, greatly boosts BB/SBB activation rates for all allies, damage taken may slightly reduce foe's BB gauge fill rate for 1 turn & adds powerful Fire attack on single foe effect to BB/SBB",
+    "es": "25% all parameters (Fire) and 10% BB/SBB activation rates for all allies, 120% own spark damage, damage taken may inflict 1 turn 20% BB gauge fill rate reduction & add to BB (17 combo Fire attack on single foe), SBB (24 combo Fire attack on single foe)",
     "gender": "female",
     "guide_id": 8382,
     "id": 810558,
-    "ls": "80% boost to Atk, max HP, 120% boost to Def, Rec of Fire types, considerably restores HP each turn, hugely boosts BB gauge when damage dealt has exceeded certain amount & damage taken hugely boosts BB gauge",
+    "ls": "100% Atk, 140% Def, 140% Rec, 100% max HP (Fire), restores HP each turn, fills BB gauge when damage dealt is over 5k, damage taken fills BB gauge & negates all status ailments and Atk, Def, Rec reduction",
     "name": "Calescent Yan & Yuan",
     "rarity": 8,
-    "sbb": "21 combo powerful Fire attack on all foes, 4 combo powerful Fire attack on single foe, damage taken hugely boosts BB gauge for 3 turns, hugely restores HP for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Fire types for 3 turns & activates Water shield for 2 turns",
-    "ubb": "25 combo massive Fire attack on all foes, enormously boosts BB gauge for 3 turns, hugely boosts all elemental damage for 3 turns, fully restores HP for 3 turns, enormously boosts Atk, Def, Rec for 3 turns & enormously boosts OD gauge"
+    "sbb": "21 combo Fire attack on all foes (damage relative to remaining HP), 4 combo Fire attack on single foe, damage taken fills BB gauge for 3 turns, restores HP for 3 turns, boosts Atk, Def, Rec and critical rate (Fire) for 3 turns & adds Water shield for 3 turns",
+    "ubb": "25 combo Fire attack on all foes (damage relative to remaining HP), fills BB gauge for 4 turns, boosts all elemental damage for 3 turns, fully restores HP for 4 turns, boosts Atk, Def, Rec and critical rate for 4 turns & fills OD gauge"
   },
   "810587": {
     "bb": "12 combo Fire attack on all foes (damage relative to remaining HP, enormously boosts own critical hit rate), considerably boosts own Atk relative to max HP for 3 turns, hugely boosts BB Atk for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Fire types for 3 turns & boosts own max HP",
@@ -24008,6 +24008,21 @@
     "rarity": 8,
     "sbb": "14 combo massive Water attack on all foes (damage relative to remaining HP), 50% damage reduction for 1 turn, greatly restores HP, hugely boosts Water elemental damage for 3 turns & hugely boosts Atk, Def, Rec for 3 turns",
     "ubb": "18 combo massive Water attack on all foes (uses all allies' BB gauge), 100% damage reduction from Fire types for 2 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts BB gauge for 3 turns & fully restores HP for 3 turns"
+  },
+  "820938": {
+    "bb": "10 combo Water attack on single foe (damage relative to remaining HP), 8 combo Water attack on single foe (partial HP drain), fills OD gauge, fills own BB gauge to max, probable evasion for self for 3 turns & 1 extra action for self for 1 turns",
+    "category": 820930,
+    "cost": 60,
+    "element": "water",
+    "es": "25% critical damage for all allies when Icy Steel René is in the same squad or when Critical sphere is equipped, 25% all parameters (Water) and damage taken fills BB gauge for all allies, 100% critical and elemental damage reduction & 100% critical damage",
+    "gender": "female",
+    "guide_id": 8629,
+    "id": 820938,
+    "ls": "140% Atk, Def, max HP and 30% critical rate (Water), 250% critical damage, probable spark critical, critical damage fills BB gauge & 30% OD gauge fill rate",
+    "name": "Serpent Legacy Hilda",
+    "rarity": 8,
+    "sbb": "12 combo Water attack on all foes (damage relative to remaining HP), 9 combo Water attack on single foe, boosts own Atk and critical rate for 3 turns, boosts critical damage (Water) for 3 turns, boosts critical damage for 3 turns & boosts own spark damage for 3 turns",
+    "ubb": "20 combo Water attack on all foes (damage relative to remaining HP), 9 combo Water attack on single foe (25% active Pierce on Fire, Water foes), boosts critical damage for 4 turns, 4 turns spark vulnerability infliction, evasion for 3 turns & 3 turns Atk, Def reduction infliction"
   },
   "830003": {
     "bb": "4 combo Earth elemental power attack on all enemies",
