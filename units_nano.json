@@ -12200,6 +12200,13 @@
     "name": "Gortius, Elysia's Crown",
     "rarity": 8
   },
+  "810918": {
+    "element": "fire",
+    "guide_id": 8631,
+    "id": 810918,
+    "name": "Sun Tse",
+    "rarity": 8
+  },
   "811016": {
     "element": "fire",
     "guide_id": 8150,
@@ -12891,6 +12898,13 @@
     "guide_id": 8629,
     "id": 820938,
     "name": "Serpent Legacy Hilda",
+    "rarity": 8
+  },
+  "820948": {
+    "element": "water",
+    "guide_id": 8630,
+    "id": 820948,
+    "name": "Icy Steel René",
     "rarity": 8
   },
   "830003": {

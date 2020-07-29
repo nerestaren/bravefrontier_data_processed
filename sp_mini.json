@@ -9990,6 +9990,48 @@
       "desc": "Add to BB (Boosts max HP), UBB (Boosts max HP)"
     }
   ],
+  "810918": [
+    {
+      "bp": 10,
+      "desc": "80% boost to all parameters"
+    },
+    {
+      "bp": 15,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts damage against status afflicted foes for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Boosts Atk, Def relative to max HP for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Probable evasion for 2 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Adds Fire shield for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (2 turns passive healing and HC effectiveness reduction infliction (PvP modes only))"
+    }
+  ],
   "811118": [
     {
       "bp": 10,
@@ -10638,45 +10680,48 @@
   ],
   "820418": [
     {
-      "bp": 20,
-      "desc": "20% boost to all parameters"
-    },
-    {
-      "bp": 40,
-      "dependency": true,
-      "desc": "Raises all parameters boost from 20% to 50%"
-    },
-    {
-      "bp": 20,
-      "desc": "Negates all status ailments"
+      "bp": 10,
+      "desc": "80% all parameters"
     },
     {
       "bp": 10,
-      "desc": "Negates Def ignoring damage"
+      "desc": "300% elemental damage"
     },
     {
       "bp": 20,
-      "desc": "Enhances LS's Def, max HP boost effect"
+      "desc": "Negates all status ailments and Atk, Def, Rec reductions"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates ignore Def"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 20,
+      "desc": "1 KO resistance when HP is below 30%"
+    },
+    {
+      "bp": 10,
+      "desc": "Enhances SBB's boosts Atk, Def, Rec relative to HP effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (damage taken fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to SBB (Adds Water barrier)"
     },
     {
       "bp": 30,
-      "desc": "Enhances SBB's Atk, Def relative to max HP boost effect"
+      "desc": "Add to BB/SBB (100% critical and elemental damage reduction for 2 turns)"
     },
     {
-      "bp": 30,
-      "desc": "Enhances SBB/UBB's max HP boost effect"
-    },
-    {
-      "bp": 30,
-      "desc": "Adds critical damage negation to BB/SBB"
-    },
-    {
-      "bp": 30,
-      "desc": "Adds elemental damage negation effect to BB/SBB"
-    },
-    {
-      "bp": 40,
-      "desc": "Adds resistance against 1 KO attack when HP is below 20%"
+      "bp": 20,
+      "desc": "Add to BB/SBB (20% DoT reduction for 3 turns)"
     }
   ],
   "820438": [
@@ -11774,7 +11819,7 @@
     },
     {
       "bp": 10,
-      "desc": ""
+      "desc": "Raises Atk parameter limits to 200k"
     },
     {
       "bp": 20,
@@ -11940,6 +11985,56 @@
     {
       "bp": 10,
       "desc": "Add to BB/SBB (Probable all status ailments infliction)"
+    }
+  ],
+  "820948": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "25% reduction to BB activation cost"
+    },
+    {
+      "bp": 10,
+      "desc": "30% DoT reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "10% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk parameter limits to 200k"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Boosts OD gauge fill rate for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Boosts spark damage for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Boosts Atk, Def, Rec and critical rate for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Boosts own max HP ), UBB (Boosts max HP )"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Probable 1 KO resistance), UBB (Probable 1 KO resistance)"
     }
   ],
   "830048": [
@@ -12611,41 +12706,48 @@
   ],
   "830418": [
     {
-      "bp": 20,
-      "desc": "20% boost to all parameters"
+      "bp": 10,
+      "desc": "80% all parameters"
     },
     {
       "bp": 10,
-      "desc": "Enhances LS's all parameters boost by 10%"
+      "desc": "300% elemental damage"
     },
     {
-      "bp": 30,
-      "desc": "Adds negation of Atk, Def, Rec reducing effects for 2 turns effect to BB"
+      "bp": 10,
+      "desc": "Spark damage fills BB gauge"
     },
     {
-      "bp": 40,
-      "desc": "Adds fill own BB gauge to max effect to SBB"
+      "bp": 10,
+      "desc": "25% DoT reduction"
     },
     {
-      "bp": 30,
-      "desc": "Allows BB buff effects to last for 5 turns"
-    },
-    {
-      "bp": 40,
-      "desc": "Adds Earth barrier effect to SBB"
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
-      "dependency": true,
-      "desc": "Enhances BB/SBB's barrier effect"
+      "desc": "Allows BB buff effects to last for 5 turns"
     },
     {
-      "bp": 40,
+      "bp": 20,
+      "desc": "Enhances BB/UBB's barrier effect"
+    },
+    {
+      "bp": 20,
       "desc": "Enhances SBB/UBB's BB Atk boost effect"
     },
     {
-      "bp": 30,
-      "desc": "Enhances SBB/UBB's damage boost against status afflicted foes"
+      "bp": 20,
+      "desc": "Enhances SBB/UBB's damage boost against status afflicted foes effect"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB(Fills own BB gauge to max)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
     }
   ],
   "830438": [
@@ -13744,7 +13846,7 @@
     },
     {
       "bp": 20,
-      "desc": "Add to BB (negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+      "desc": "Add to BB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
     },
     {
       "bp": 20,
