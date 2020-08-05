@@ -28182,6 +28182,21 @@
     "sbb": "14 combo massive Light attack on all foes (damage relative to remaining HP), 50% damage reduction for 1 turn, greatly restores HP, hugely boosts Light elemental damage for 3 turns & hugely boosts Atk, Def, Rec for 3 turns",
     "ubb": "18 combo massive Light attack on all foes (uses all allies' BB gauge), 100% damage reduction from Dark types for 2 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts BB gauge for 3 turns & fully restores HP for 3 turns"
   },
+  "850918": {
+    "bb": "12 combo Light attack on all foes, boosts Atk, Def, Rec for 3 turns, restores HP for 3 turns, fills BB gauge for 3 turns & probable KO resistance",
+    "category": 850910,
+    "cost": 45,
+    "element": "light",
+    "es": "30% all parameters, fills BB gauge each turn, probable 2 KO resistance & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "female",
+    "guide_id": 8633,
+    "id": 850918,
+    "ls": "100% all parameters, 15% damage reduction, probable 1 KO resistance, 40% BC, HC, 5% Item, 20% Zel, 30% Karma drop rates & negates all status ailments and Atk, Def, Rec reduction",
+    "name": "Florence Nightingale",
+    "rarity": 8,
+    "sbb": "16 combo Light attack on all foes (damage relative to remaining HP), restores HP, fills BB gauge, adds non-elemental shield for 2 turns & boosts BB Atk for 3 turns",
+    "ubb": "18 combo Light attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec for 3 turns, fully restores HP for 3 turns, fills BB gauge for 3 turns & may raise allies from KO"
+  },
   "850977": {
     "bb": "12 combo Light attack on all foes, considerably restores HP, negates Atk, Def, Rec reduction effects for 1 turn & hugely boosts Def for 3 turns",
     "category": 850970,

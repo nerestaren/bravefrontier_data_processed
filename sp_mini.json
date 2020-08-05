@@ -9993,7 +9993,7 @@
   "810918": [
     {
       "bp": 10,
-      "desc": "80% boost to all parameters"
+      "desc": "80% all parameters"
     },
     {
       "bp": 15,
@@ -11466,7 +11466,7 @@
     },
     {
       "bp": 30,
-      "desc": "Adds huge boost to Atk, Def, Rec for 4 turns effect to SBB"
+      "desc": "Adds huge boost to Atk, Def, Rec and critical hit rate for 4 turns effect to SBB"
     },
     {
       "bp": 20,
@@ -17561,7 +17561,7 @@
     },
     {
       "bp": 10,
-      "desc": "Add to SBB (probable random status ailments infliction)"
+      "desc": "Add to SBB (Probable random status ailments infliction)"
     }
   ],
   "850798": [
@@ -17753,7 +17753,7 @@
     },
     {
       "bp": 15,
-      "desc": "Add to BB (Removes and negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+      "desc": "Add to BB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
     },
     {
       "bp": 25,
@@ -17877,6 +17877,49 @@
       "bp": 20,
       "dependency": true,
       "desc": "Adds probable huge 1 turn Atk, Def reduction infliction effect to BB/SBB"
+    }
+  ],
+  "850918": [
+    {
+      "bp": 10,
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (100% critical and elemental damage reduction for 2 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to SBB (Probable random status ailments infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts Atk, Def relative to max HP for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Probable 2 turns Atk, Def reduction infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Boosts damage against status afflicted foes for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Removes all status ailments and Atk, Def, Rec reduction)"
+    },
+    {
+      "bp": 30,
+      "dependency": true,
+      "desc": "Add to BB/SBB (Negates all status ailments and Atk, Def, Rec reduction effects for 3 turns)"
     }
   ],
   "850978": [
