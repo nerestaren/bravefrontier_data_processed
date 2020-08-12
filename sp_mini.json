@@ -10032,6 +10032,52 @@
       "desc": "Add to BB/SBB (2 turns passive healing and HC effectiveness reduction infliction (PvP modes only))"
     }
   ],
+  "810928": [
+    {
+      "bp": 10,
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 15,
+      "desc": "150% critical damage"
+    },
+    {
+      "bp": 15,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Critical damage fills BB gauge"
+    },
+    {
+      "bp": 20,
+      "desc": "Critical damage restores HP for 1 turn"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 2 turns Atk, Def reduction infliction)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (Probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Spark damage fills BB gauge for 3 turns)"
+    }
+  ],
   "811118": [
     {
       "bp": 10,
@@ -11584,7 +11630,7 @@
     },
     {
       "bp": 20,
-      "desc": "Add to SBB (boosts damage against status afflicted foes for 3 turns)"
+      "desc": "Add to SBB (Boosts damage against status afflicted foes for 3 turns)"
     },
     {
       "bp": 25,
@@ -11956,7 +12002,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 220k"
+      "desc": "Raises Atk limits to 220k"
     },
     {
       "bp": 15,
@@ -11964,7 +12010,7 @@
     },
     {
       "bp": 20,
-      "desc": "Add to SBB (boosts damage against status afflicted foes for 3 turns)"
+      "desc": "Add to SBB (Boosts damage against status afflicted foes for 3 turns)"
     },
     {
       "bp": 25,
@@ -13662,7 +13708,7 @@
     },
     {
       "bp": 20,
-      "desc": "Add to SBB (boosts damage against status afflicted foes for 3 turns)"
+      "desc": "Add to SBB (Boosts damage against status afflicted foes for 3 turns)"
     }
   ],
   "830808": [
@@ -14062,6 +14108,48 @@
       "bp": 20,
       "dependency": true,
       "desc": "Adds probable huge 1 turn Atk, Def reduction infliction effect to BB/SBB"
+    }
+  ],
+  "830918": [
+    {
+      "bp": 10,
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 15,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "150% critical damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Critical damage fills BB gauge"
+    },
+    {
+      "bp": 20,
+      "desc": "Critical damage restores HP for 1 turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 25,
+      "desc": "Enhances BB's raises normal hit amount effect"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Boosts own max HP)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Probable spark critical for 3 turns)"
     }
   ],
   "840048": [
@@ -17920,6 +18008,56 @@
       "bp": 30,
       "dependency": true,
       "desc": "Add to BB/SBB (Negates all status ailments and Atk, Def, Rec reduction effects for 3 turns)"
+    }
+  ],
+  "850928": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limits to 220k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Removes and negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts damage against status afflicted foes for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (3 turns spark vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (25 combo Light attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Boosts Atk, Def, Rec and critical rate for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Fills OD gauge at turn's end for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows UBB's effects to last additional 1 turn"
     }
   ],
   "850978": [

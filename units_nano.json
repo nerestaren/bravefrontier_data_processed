@@ -12207,6 +12207,13 @@
     "name": "Sun Tse",
     "rarity": 8
   },
+  "810928": {
+    "element": "fire",
+    "guide_id": 8634,
+    "id": 810928,
+    "name": "Grimgeist Leopold",
+    "rarity": 8
+  },
   "811016": {
     "element": "fire",
     "guide_id": 8150,
@@ -13556,6 +13563,13 @@
     "guide_id": 8498,
     "id": 830900,
     "name": "Orebi Terra Geode",
+    "rarity": 8
+  },
+  "830918": {
+    "element": "earth",
+    "guide_id": 8632,
+    "id": 830918,
+    "name": "D'Artagnan",
     "rarity": 8
   },
   "840003": {
@@ -14949,6 +14963,13 @@
     "guide_id": 8633,
     "id": 850918,
     "name": "Florence Nightingale",
+    "rarity": 8
+  },
+  "850928": {
+    "element": "light",
+    "guide_id": 8635,
+    "id": 850928,
+    "name": "Faetouched Sidonie",
     "rarity": 8
   },
   "850977": {
