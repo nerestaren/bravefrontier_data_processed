@@ -20331,6 +20331,56 @@
       "desc": "Add to UBB (1 extra action for 1 turn)"
     }
   ],
+  "860888": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 25,
+      "desc": "25% reduction to BB activation cost"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "1 KO resistance"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (100% critical and elemental damage reduction for 5 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (boosts own max HP)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (3 turns spark vulnerability infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (29 combo Dark attack on single foe (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to UBB (Probable KO resistance)"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows UBB's effects to last additional 1 turn"
+    }
+  ],
   "860900": [
     {
       "bp": 5,

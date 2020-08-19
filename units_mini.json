@@ -22634,7 +22634,7 @@
     "ubb": "21 combo Fire attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec for 3 turns, all status ailments infliction, 3 turns Atk, Def reduction infliction & boosts max HP"
   },
   "810928": {
-    "bb": "11 combo Fire attack on all foes, adds ignore Def to attack for 5 turns, boosts BC, HC drop rate, Item drop rate for 3 turns, boosts max HP for all allies & probable evasion for self for 2 turns",
+    "bb": "11 combo Fire attack on all foes, adds ignore Def to attack for 5 turns, boosts BC, HC drop rate, Item drop rate for 3 turns, boosts max HP & probable evasion for self for 2 turns",
     "category": 810920,
     "cost": 54,
     "element": "fire",
@@ -29718,6 +29718,21 @@
     "rarity": 8,
     "sbb": "20 combo Dark attack on all foes (damage relative to remaining HP), 15 combo Dark attack on single foe (damage relative to remaining HP), boosts spark damage for 3 turns, boosts Atk relative to Def for 3 turns, fills OD gauge & probable 3 turns Atk, Def reduction infliction",
     "ubb": "22 combo Dark attack on all foes (damage relative to remaining HP), damage taken fills BB gauge for 4 turns, boosts Def relative to Atk for 4 turns, boosts spark damage for 4 turns, 100% damage reduction for 4 turns & fills OD gauge"
+  },
+  "860888": {
+    "bb": "22 combo Dark attack on all foes (damage relative to remaining HP), 15% damage reduction from all element types for 2 turns, spark damage fills BB gauge for 3 turns, restores HP for 3 turns, probable evasion for 2 turns & probable KO resistance",
+    "category": 860880,
+    "cost": 60,
+    "element": "dark",
+    "es": "20% all parameters and 20% all elemental damage for all allies, probable spark critical, 10% damage reduction & fills BB gauge each turn",
+    "gender": "other",
+    "guide_id": 8636,
+    "id": 860888,
+    "ls": "100% Atk, Def, Rec, 150% max HP, 220% all elemental damage, spark damage fills BB gauge, probable 1 KO resistance & probable damage reduction to 1",
+    "name": "Gwyll, Waning Eclipse",
+    "rarity": 8,
+    "sbb": "20 combo Dark attack on all foes (damage relative to remaining HP), 10 combo Dark attack on single foe, boosts all elemental damage for 3 turns, probable 3 turns critical and elemental vulnerability infliction, may activate BB/SBB/UBB twice for 3 turns, may raises allies from KO",
+    "ubb": "34 combo Dark attack on all foes (damage relative to remaining HP), boosts all elemental damage for 4 turns, boosts critical damage for 4 turns, spark damage fills BB gauge for 4 turns, activates BB/SBB/UBB twice for 3 turns & raises allies from KO"
   },
   "860900": {
     "bb": "12 combo powerful Dark attack on all foes, 50% damage reduction for 1 turn, greatly restores HP, slightly boosts OD gauge & greatly boosts max HP",
