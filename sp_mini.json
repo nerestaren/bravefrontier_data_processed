@@ -5968,7 +5968,7 @@
     },
     {
       "bp": 20,
-      "desc": "Add to BB/SBB (restores HP for 3 turns)"
+      "desc": "Add to BB/SBB (Restores HP for 3 turns)"
     },
     {
       "bp": 20,
@@ -8806,45 +8806,48 @@
   ],
   "810438": [
     {
-      "bp": 20,
-      "desc": "40% boost to all parameters"
+      "bp": 10,
+      "desc": "80% all parameters"
     },
     {
       "bp": 10,
-      "dependency": true,
-      "desc": "Raises all parameters boost from 40% to 60%"
+      "desc": "50% Atk, Def  when HP is above 50%"
     },
     {
       "bp": 10,
-      "desc": "Boost to Atk, Def when HP is over 50%"
-    },
-    {
-      "bp": 30,
-      "desc": "Adds Spark damage boosts BB gauge for 3 turns effect to BB"
+      "desc": "120% Spark damage"
     },
     {
       "bp": 20,
-      "desc": "Negates all status ailments"
+      "desc": "Negates all status ailments and Atk, Def, Rec reductions"
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 150000"
+      "desc": "Raises Atk limit to 180k"
     },
     {
-      "bp": 30,
-      "desc": "Adds 10% damage reduction from Water, Thunder, Light elemental types effect to LS"
+      "bp": 20,
+      "desc": "1 KO resistance when HP is below 30%"
     },
     {
-      "bp": 40,
-      "desc": "Enhances BB/SBB's damage reduction from all elemental types effect"
+      "bp": 25,
+      "desc": "Add to LS (15% damage reduction from Water, Thunder, Light types)"
     },
     {
-      "bp": 30,
-      "desc": "Adds probable 1 turn huge Atk reduction effect to BB/SBB"
+      "bp": 25,
+      "desc": "Add to BB (Spark damage fills BB gauge for 3 turns)"
     },
     {
-      "bp": 40,
-      "desc": "Adds resistance against 1 KO attack when HP is below 20%"
+      "bp": 25,
+      "desc": "Add to BB/SBB (50% damage reduction for 2 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Restores HP for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Probable 3 turns Atk, Def reduction infliction)"
     }
   ],
   "810508": [
@@ -10961,53 +10964,51 @@
   "820558": [
     {
       "bp": 10,
-      "desc": "60% boost to all parameters"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
-      "dependency": true,
-      "desc": "30% boost to Def, max HP"
+      "desc": "30% Atk, Def, Rec each turn (5 times)"
     },
     {
       "bp": 10,
-      "desc": "Boosts Atk, Def, Rec each turn (for up to 3 turns)"
-    },
-    {
-      "bp": 10,
-      "desc": "Hugely boosts critical hit damage"
-    },
-    {
-      "bp": 30,
-      "desc": "Probable resistance against 1 KO attack"
+      "desc": "150% spark damage"
     },
     {
       "bp": 15,
-      "desc": "Enhances BB/SBB's greatly restores HP effect"
+      "desc": "150% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
-      "desc": "Enhances BB/SBB's Thunder shield effect"
+      "desc": "Resistance against 1 KO attack"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (50% spark damage reduction for 3 turns)"
     },
     {
       "bp": 10,
-      "desc": "Adds foe's BB gauge reduction effect to SBB"
-    },
-    {
-      "bp": 30,
-      "desc": "Adds powerful attack at turn's end for 2 turns effect to BB/SBB, adds massive attack at turn's end for 2 turns effect to UBB"
-    },
-    {
-      "bp": 35,
-      "desc": "Adds 50% damage reduction for 2 turns effect to BB/SBB"
+      "desc": "Add to SBB (20% BB gauge reduction)"
     },
     {
       "bp": 25,
-      "desc": "Adds considerable Atk, Def, Rec boost for Water types for 3 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (Boosts Atk, Def, Rec (Water) for 3 turns)"
     },
     {
-      "bp": 15,
-      "dependency": true,
-      "desc": "Enhances BB/SBB's considerable Atk, Def, Rec boost for Water types effect"
+      "bp": 35,
+      "desc": "Add to BB/SBB (50% damage reduction for 2 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Boosts BB Atk for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (2 turns DoT infliction), UBB (2 turns DoT infliction)"
     }
   ],
   "820568": [
@@ -12002,7 +12003,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk limits to 220k"
+      "desc": "Raises Atk limit to 220k"
     },
     {
       "bp": 15,
@@ -14152,6 +14153,56 @@
       "desc": "Add to BB/SBB (Probable spark critical for 3 turns)"
     }
   ],
+  "830958": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "150% elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Fills BB gauge)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (Probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (Boosts critical damage (Earth) for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (23 combo Earth attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to BB/SBB (Probable random status ailments infliction to attack for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Probable 3 turns Atk, Def reduction infliction)"
+    }
+  ],
   "840048": [
     {
       "bp": 10,
@@ -14753,43 +14804,47 @@
   "840418": [
     {
       "bp": 10,
-      "desc": "50% boost to Atk"
-    },
-    {
-      "bp": 15,
-      "desc": "30% boost to Def, max HP"
-    },
-    {
-      "bp": 15,
-      "desc": "100% boost to Spark damage"
+      "desc": "80% all parameters"
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 130000"
+      "desc": "30% Def, max HP"
     },
     {
       "bp": 10,
-      "desc": "Damage taken boosts BB gauge"
+      "desc": "120% Spark damage"
     },
     {
-      "bp": 20,
-      "desc": "Enhances SBB's success rate of Spark critical effect"
+      "bp": 15,
+      "desc": "150% critical damage"
     },
     {
-      "bp": 35,
-      "desc": "Enhances BB/SBB's evasion effect"
+      "bp": 10,
+      "desc": "200% elemental damage"
     },
     {
-      "bp": 40,
-      "desc": "Adds huge Atk boost relative to Def for 3 turns effect to BB/SBB"
+      "bp": 15,
+      "desc": "Damage taken fills BB gauge"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
-      "desc": "Enhances BB/SBB's Atk boost effect"
+      "desc": "Enhances BB/SBB's probable evasion effect and duration"
     },
     {
-      "bp": 35,
-      "desc": "Adds probable considerable Spark vulnerability for 1 turn to BB/SBB"
+      "bp": 15,
+      "desc": "Add to SBB (2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Boosts Atk relative to Def for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (3 turns spark vulnerability infliction)"
     }
   ],
   "840438": [
@@ -18025,7 +18080,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk limits to 220k"
+      "desc": "Raises Atk limit to 220k"
     },
     {
       "bp": 25,
@@ -18898,7 +18953,7 @@
     },
     {
       "bp": 20,
-      "desc": "Add to BB/SBB (restores HP for 3 turns)"
+      "desc": "Add to BB/SBB (Restores HP for 3 turns)"
     },
     {
       "bp": 20,

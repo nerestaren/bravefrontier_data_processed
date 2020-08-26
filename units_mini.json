@@ -22024,19 +22024,19 @@
     "ubb": "15 combo powerful Fire, Dark attack on all foes, 8 combo powerful Fire attack on all foes (damage relative to remaining HP), activates Fire barrier, hugely boosts max HP, fully restores HP for 3 turns & enormously boosts Atk, Def, Rec for 3 turns"
   },
   "810438": {
-    "bb": "16 combo powerful Fire, Dark attack on all foes, hugely boosts Atk, Def, Rec for 3 turns, slight damage reduction from all elemental types for 1 turn, Spark damage considerably restores HP for 3 turns & greatly boosts max HP",
+    "bb": "16 combo Fire attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec for 3 turns, 10% damage reduction from all element types for 2 turns, spark damage restores HP for 3 turns, boosts max HP & probable KO resistance",
     "category": 810430,
     "cost": 50,
     "element": "fire",
-    "es": "Considerably reduces damage taken for 2 turns when HP is below 50% & damage taken boosts BB gauge",
+    "es": "Negates ignore Def for all allies, 40% all parameters, 25% damage reduction for 2 turns when HP is below 50% & damage taken fills BB gauge",
     "gender": "other",
     "guide_id": 8352,
     "id": 810438,
-    "ls": "60% boost to Atk, max HP, considerably boosts Atk, Def relative to remaining HP, 10% damage reduction from Fire, Earth, Dark elemental types & enormously boosts BB Atk when HP is over 50%",
+    "ls": "120% Atk, 150% max HP, 0-80% Atk, Def, Rec relative to remaining HP, 15% damage reduction from Fire, Earth, Dark types, 550% BB Atk when HP is above 50% & damage taken may restore HP",
     "name": "Fate-Holder al-Akqat",
     "rarity": 8,
-    "sbb": "12 combo powerful Fire, Dark attack on all foes, 7 combo powerful Fire attack on all foes (damage relative to remaining HP), slight damage reduction from all elemental types for 1 turn, slight additional damage reduction for 3 turns & greatly boosts Atk, Def relative to max HP for 3 turns",
-    "ubb": "24 combo powerful Fire, Dark attack on all foes, 9 combo powerful Fire attack on all foes (damage relative to remaining HP), activates Fire barrier, hugely boosts max HP, fully restores HP for 3 turns & enormously boosts Atk, Def, Rec for 3 turns"
+    "sbb": "12 combo Fire, Dark attack on all foes, 7 combo Fire attack on all foes (damage relative to remaining HP), 15% damage reduction from all element types for 2 turns, 25% DoT reduction for 3 turns, boosts Atk, Def, Rec relative to max HP for 3 turns & spark damage fills BB gauge for 3 turns",
+    "ubb": "24 combo Fire attack on all foes (damage relative to remaining HP), 9 combo Fire, Dark attack on all foes, adds Fire barrier, boosts max HP, fully restores HP for 3 turns & boosts Atk, Def, Rec for 3 turns"
   },
   "810507": {
     "bb": "14 combo powerful Fire attack on all foes, boosts max HP, considerably boosts Def relative to max HP for 3 turns & damage taken may restore HP for 3 turns",
@@ -23560,19 +23560,19 @@
     "ubb": "19 combo massive Water attack on all foes, damage taken enormously boosts BB gauge for 3 turns, fully restores HP for 3 turns, enormously boosts Atk, Def, Rec for 3 turns & enormously boosts Atk relative to Def for 3 turns"
   },
   "820558": {
-    "bb": "16 combo powerful Water attack on all foes, reduce foe's BB gauge, hugely boosts BC efficacy for 3 turns, hugely restores HP, hugely boosts Atk relative to Def for 3 turns & activates Thunder shield for 2 turns",
+    "bb": "16 combo Water attack on all foes, 3 turns 30% BB gauge fill rate reduction infliction, boosts BC efficacy for 3 turns, restores HP, boosts Atk relative to Def for 3 turns & adds Thunder shield for 3 turns",
     "category": 820550,
     "cost": 60,
     "element": "water",
-    "es": "Probable damage reduction to 1 for all allies, probable 50% damage counter for all allies, damage taken may slightly reduce foe's BB gauge fill rate for 1 turn & adds 16 combo (BB)/23 combo (SBB) powerful Water attack on single foe to BB/SBB",
+    "es": "Probable damage reduction to 1 and probable 50% damage counter for all allies, damage taken may inflict 1 turn 20% BB gauge fill rate reduction, negates ignore Def & add to BB (16 combo Water attack on single foe), SBB (22 combo Water attack on single foe)",
     "gender": "male",
     "guide_id": 8396,
     "id": 820558,
-    "ls": "80% boost to Atk, max HP, 120% boost to Def, Rec of Water types, enormously boosts HC efficacy, greatly boosts BC, HC drop rate & enormously boosts BB gauge each turn",
+    "ls": "100% Atk, 140% Def, Rec, 100% max HP (Water), 75% HC efficacy, 45% BC, HC drop rates, fills BB gauge each turn & damage taken may restore HP",
     "name": "Glacial Vail & Vidron",
     "rarity": 8,
-    "sbb": "18 combo powerful Water attack on all foes, 5 combo powerful Water attack on single foe (damage relative to remaining HP), hugely boosts BC efficacy for 3 turns, hugely restores HP, hugely boosts Atk relative to Def for 3 turns & activates Thunder shield for 2 turns",
-    "ubb": "22 combo massive Water attack on all foes, damage taken enormously boosts BB gauge for 3 turns, fully restores HP for 3 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts Atk relative to Def for 3 turns & activates Water barrier"
+    "sbb": "18 combo Water attack on all foes (damage relative to remaining HP), 5 combo Water attack on single foe (damage relative to remaining HP), boosts BC efficacy for 3 turns, restores HP, boosts Atk relative to Def for 3 turns & adds Thunder shield for 3 turns",
+    "ubb": "22 combo Water attack on all foes (damage relative to remaining HP), damage taken fills BB gauge for 4 turns, fully restores HP for 4 turns, boosts Atk, Def, Rec and critical rate for 4 turns, boosts Atk relative to Def for 3 turns & adds Water barrier"
   },
   "820567": {
     "bb": "18 combo massive Water attack on single foe (or 5% damage of foes' max HP), boosts own max HP, slightly boosts OD gauge per ally (up to 12% max), hugely boosts OD gauge at turn's end for 3 turns & inflicts Injury, Weakness, Sick, Paralysis effects",
@@ -25410,6 +25410,21 @@
     "sbb": "18 combo Earth attack on all foes (damage relative to remaining HP), 6 combo Earth attack on single foe, probable 3 turns Atk, Def reduction infliction, boosts critical damage for 3 turns & boosts own Atk and critical rate for 3 turns",
     "ubb": "22 combo Earth attack on all foes (damage relative to remaining HP), probable 3 turns Atk, Def reduction infliction, raises normal hit amount for 3 turns, boosts critical damage for 3 turns & evasion for 2 turns"
   },
+  "830958": {
+    "bb": "10 combo Earth attack on single foe (damage relative to remaining HP, boosts own critical rate), restores HP for 3 turns, probable KO resistance, probable evasion for 2 turns, boosts own max HP & adds Earth barrier",
+    "category": 830958,
+    "cost": 60,
+    "element": "earth",
+    "es": "100% spark damage when Atk Boosting Type Sphere is equipped, 25% critical damage and adds ignore Def to attack for all allies, 30-50% BB gauge consumed reduction & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "female",
+    "guide_id": 8637,
+    "id": 830958,
+    "ls": "200% Atk, 140% max HP, 30% critical rate, 300% critical damage, critical damage fills BB gauge, probable spark critical & probable damage reduction to 1",
+    "name": "War Declaration Teresa",
+    "rarity": 8,
+    "sbb": "12 combo Earth attack on all foes (damage relative to remaining HP), 12 combo Earth attack on single foe, boosts critical damage for 3 turns, activates Stealth and boosts own Atk and critical rate for 2 turns, boosts Earth elemental damage for 3 turns & fills own BB gauge to max",
+    "ubb": "21 combo Earth attack on all foes (damage relative to remaining HP), 9 combo Earth attack on single foe (25% active Pierce on Earth, Thunder foes), boosts critical damage for 4 turns, boosts Earth elemental damage for 4 turns, evasion for 3 turns & fully restores HP for 4 turns"
+  },
   "840003": {
     "bb": "3 combo Thunder elemental attack on all enemies",
     "category": 840000,
@@ -26172,19 +26187,19 @@
     "ubb": "23 combo massive Thunder attack on all foes, enormously boosts Atk for 5 turns, boosts critical hit rate for 3 turns, normal attacks hit all foes for 3 turns & considerably raises normal hit amount for 3 turns"
   },
   "840418": {
-    "bb": "20 combo powerful Thunder attack on all foes, adds probable evasion for 1 turn, hugely boosts Atk for 3 turns, boosts critical hit rate for 3 turns & normal attacks hit all foes for 3 turns",
+    "bb": "20 combo Thunder attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate for 3 turns, adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns, normal attacks hits all foes for 3 turns, probable evasion for 2 turns & raises normal hit amount for 3 turns",
     "category": 840410,
     "cost": 50,
     "element": "thunder",
-    "es": "Greatly boosts Atk when BB gauge is full & adds resistance against 1 KO attack when HP is below 20%",
+    "es": "Raises normal hit amount for all allies, 40% all parameters, 1 KO resistance when HP is below 40% & 100% Atk when BB gauge is above 50%",
     "gender": "male",
     "guide_id": 8264,
     "id": 840418,
-    "ls": "60% boost to Atk, max HP, 30% boost to critical hit rate, greatly boosts BB Atk, hugely boosts critical damage & considerably boosts OD gauge fill rate",
+    "ls": "150% Atk, 120% max HP, 30% critical rate, 200% critical damage, 350% BB Atk, 30% OD gauge fill rate & 20% damage reduction for 2 turns when damage taken is over 5k",
     "name": "Owlrider Jute Eerikki",
     "rarity": 8,
-    "sbb": "25 combo powerful Thunder attack on all foes (consecutive usage boosts damage), adds probable evasion for 1 turn, considerably boosts critical damage for 3 turns, hugely boosts Atk for 3 turns, boosts critical hit rate for 3 turns, adds probable Spark critical for 3 turns & hugely boosts own Atk for 3 turns",
-    "ubb": "28 combo massive Thunder attack on all foes, hugely boosts max HP, enormously boosts Atk for 5 turns, boosts critical hit rate for 3 turns, normal attacks hit all foes for 3 turns & hugely raises normal hit amount for 3 turns"
+    "sbb": "25 combo Thunder attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate for 3 turns, boosts critical damage for 3 turns, probable spark critical for 3 turns, normal attacks hits all foes for 3 turns & probable evasion for 2 turns",
+    "ubb": "28 combo Thunder attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate for 3 turns, boosts max HP, raises normal hit amount for 3 turns, probable spark critical for 3 turns & boosts critical damage for 3 turns"
   },
   "840437": {
     "bb": "13 combo Thunder attack on all foes, 16 combo powerful Thunder attack on single foe (damage relative to remaining HP), activates Taunt and hugely boosts own Def for 1 turn & probable HP absorption for self when attacking for 3 turns",
