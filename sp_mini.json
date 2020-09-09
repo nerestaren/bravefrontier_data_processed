@@ -11866,7 +11866,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 200k"
+      "desc": "Raises Atk limits to 200k"
     },
     {
       "bp": 20,
@@ -12061,7 +12061,7 @@
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 200k"
+      "desc": "Raises Atk limits to 200k"
     },
     {
       "bp": 15,
@@ -18020,6 +18020,52 @@
       "bp": 20,
       "dependency": true,
       "desc": "Adds probable huge 1 turn Atk, Def reduction infliction effect to BB/SBB"
+    }
+  ],
+  "850908": [
+    {
+      "bp": 10,
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "130% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limits to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Fills BB gauge)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Fills OD gauge at turn's end for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Boosts spark damage (Light) for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Adds Light shield for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (Boosts max HP), UBB (Boosts max HP)"
     }
   ],
   "850918": [

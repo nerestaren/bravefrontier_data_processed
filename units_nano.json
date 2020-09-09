@@ -14965,6 +14965,13 @@
     "name": "Orebi Lux Geode",
     "rarity": 8
   },
+  "850908": {
+    "element": "light",
+    "guide_id": 8638,
+    "id": 850908,
+    "name": "Harakhte, Sky Prince",
+    "rarity": 8
+  },
   "850918": {
     "element": "light",
     "guide_id": 8633,

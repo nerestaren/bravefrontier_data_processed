@@ -28227,6 +28227,21 @@
     "sbb": "14 combo massive Light attack on all foes (damage relative to remaining HP), 50% damage reduction for 1 turn, greatly restores HP, hugely boosts Light elemental damage for 3 turns & hugely boosts Atk, Def, Rec for 3 turns",
     "ubb": "18 combo massive Light attack on all foes (uses all allies' BB gauge), 100% damage reduction from Dark types for 2 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts BB gauge for 3 turns & fully restores HP for 3 turns"
   },
+  "850908": {
+    "bb": "16 combo Light attack on all foes (damage relative to remaining HP), probable KO resistance, 100% critical and elemental damage reduction for 3 turns, purges LS Lock and ES Lock from one random ally, probable evasion for self for 2 turns & fills OD gauge",
+    "category": 850900,
+    "cost": 54,
+    "element": "light",
+    "es": "15% spark damage for all allies, 100% Atk when BB gauge is above 50%, fills BB gauge each turn & probable damage reduction to 1",
+    "gender": "male",
+    "guide_id": 8638,
+    "id": 850908,
+    "ls": "150% Atk, max HP, 200% spark damage for 2 turns when sparks dealt is over 15 times, spark damage fills BB gauge, 300% BB Atk & 30% OD gauge fill rate",
+    "name": "Harakhte, Sky Prince",
+    "rarity": 8,
+    "sbb": "18 combo Light attack on all foes (damage relative to remaining HP), 6 combo Light attack on single foe, probable 3 turns Atk, Def reduction infliction, boosts Atk, Def, Rec for 3 turns, boosts spark damage for 3 turns & spark damage fills BB gauge for 3 turns",
+    "ubb": "22 combo Light attack on all foes (damage relative to remaining HP), 3 turns Atk, Def reduction infliction, probable KO resistance, evasion for 2 turns, boosts spark damage for 3 turns & spark damage fills BB gauge for 3 turns"
+  },
   "850918": {
     "bb": "12 combo Light attack on all foes, boosts Atk, Def, Rec for 3 turns, restores HP for 3 turns, fills BB gauge for 3 turns & probable KO resistance",
     "category": 850910,
