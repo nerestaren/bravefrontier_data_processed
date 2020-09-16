@@ -10081,6 +10081,56 @@
       "desc": "Add to SBB (Spark damage fills BB gauge for 3 turns)"
     }
   ],
+  "810958": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "200% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "150% damage against status afflicted foes"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (250% spark damage)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Adds Fire shield for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (Spark damage fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (boosts own max HP)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts damage against status afflicted foes for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
+    }
+  ],
   "811118": [
     {
       "bp": 10,
@@ -12993,51 +13043,51 @@
   "830558": [
     {
       "bp": 10,
-      "desc": "Raises all parameters boost to 80%"
-    },
-    {
-      "bp": 20,
-      "desc": "Enormously boosts elemental damage"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
-      "desc": "Considerable boost to BB/SBB's activation rate"
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "20% BB/SBB activation rates"
     },
     {
       "bp": 10,
       "desc": "Activates at turn's end effects during turn's start instead"
     },
     {
-      "bp": 30,
-      "desc": "Probable resistance against 1 KO attack"
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
-      "desc": "Enhances BB/SBB's considerable Atk, Def, Rec boost for Earth types effect"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances BB/SBB's Fire shield effect"
+      "desc": "Resistance against 1 KO attack"
     },
     {
       "bp": 10,
-      "desc": "Adds foe's BB gauge fill rate reduction for 3 turns effect to SBB"
-    },
-    {
-      "bp": 30,
-      "desc": "Adds enormous BB gauge boost for 3 turns effect to BB/SBB"
+      "desc": "Add to SBB (3 turns 30% BB gauge fill rate reduction infliction)"
     },
     {
       "bp": 20,
-      "desc": "Adds considerable OD gauge fill rate boost for 3 turns effect to BB/SBB"
+      "desc": "Add to SBB (Boosts critical damage for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Boosts OD gauge fill rate for 3 turns)"
     },
     {
       "bp": 25,
-      "desc": "Adds great critical damage boost for 3 turns effect to SBB"
-    },
-    {
-      "bp": 30,
-      "desc": "Adds status ailment negation for 3 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
     }
   ],
   "830588": [
