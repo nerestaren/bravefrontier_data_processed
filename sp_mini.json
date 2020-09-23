@@ -11943,6 +11943,56 @@
       "desc": "Add to BB (May purge LS, ES Lock and DoT from random ally), UBB (Purges LS, ES Lock and DoT from all allies)"
     }
   ],
+  "820888": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 5,
+      "desc": "Restores HP each turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Boosts OD gauge fill rate for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (boosts own max HP)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 3 turns critical, elemental and spark vulnerability infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Activates Taunt and boosts own Atk, Def for 2 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Fills OD gauge)"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to BB/SBB (50% damage reduction for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Allows BB's base effects to last additional 1 turn"
+    }
+  ],
   "820898": [
     {
       "bp": 10,
@@ -17950,7 +18000,7 @@
     },
     {
       "bp": 25,
-      "desc": "Add to BB/SBB (fills OD gauge)"
+      "desc": "Add to BB/SBB (Fills OD gauge)"
     },
     {
       "bp": 15,

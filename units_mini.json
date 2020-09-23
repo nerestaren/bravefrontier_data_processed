@@ -24024,6 +24024,21 @@
     "sbb": "20 combo Water attack on all foes (damage relative to remaining HP), 20 combo Water attack on all foes (damage relative to remaining HP), 50% damage reduction for 3 turns, boosts spark damage for 3 turns, boosts Atk, Rec relative to Def for 3 turns & fills OD gauge per ally (up to 18% max)",
     "ubb": "24 combo Water attack on all foes (damage relative to remaining HP), boosts spark damage for 4 turns, spark damage fills BB gauge for 4 turns, boosts Atk, Rec relative to Def for 4 turns, 100% damage reduction for 4 turns & activates BB/SBB/UBB twice for 3 turns"
   },
+  "820888": {
+    "bb": "18 combo Water attack on all foes (damage relative to remaining HP), 15% damage reduction from all element types for 3 turns, 100% critical, elemental and spark damage reduction for 3 turns, damage taken may restore HP for 3 turns & probable KO resistance",
+    "category": 820880,
+    "cost": 60,
+    "element": "water",
+    "es": "20% all parameters, 5% damage reduction and probable 40% damage counter for all allies, 100% Water elemental damage & damage taken fills BB gauge",
+    "gender": "female",
+    "guide_id": 8640,
+    "id": 820888,
+    "ls": "100% Atk, Def, Rec, 150% max HP, 250% Water elemental damage, 20% damage reduction for 1 turn when damage taken is over 5k, probable damage reduction to 1 & damage taken may restore HP",
+    "name": "Inara, the Deluge",
+    "rarity": 8,
+    "sbb": "20 combo Water attack on all foes (damage relative to remaining HP), 8 combo Water attack on all foes (damage relative to remaining HP), probable 3 turns Atk, Def reduction infliction, 15% damage reduction from all element types for 3 turns, boosts Atk, Def, Rec for 3 turns & boosts Water elemental damage for 3 turns",
+    "ubb": "32 combo Water attack on all foes (damage relative to remaining HP), 100% damage reduction for 4 turns, boosts max HP, boosts Water elemental damage for 4 turns, damage taken restores HP for 4 turns & probable KO resistance"
+  },
   "820898": {
     "bb": "16 combo Water attack on all foes, fills own BB gauge to max, activates Stealth and boosts own Atk and critical rate for 2 turns & removes and negate all status ailments and Atk, Def, Rec reduction for 3 turns",
     "category": 820890,
