@@ -16148,6 +16148,56 @@
       "desc": "Adds probable huge 1 turn Atk, Def reduction infliction effect to BB/SBB"
     }
   ],
+  "840958": [
+    {
+      "bp": 10,
+      "desc": "120% Atk, Def, 100% max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments and Atk, Def, Rec reductions"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 20,
+      "desc": "1 KO resistance when HP is below 30%"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (250% all elemental damage)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Damage taken may restore HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Damage taken fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts Atk, Def, Rec relative to max HP for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (27 combo Thunder attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Probable 2 turns Atk, Def reduction infliction)"
+    }
+  ],
   "850018": [
     {
       "bp": 10,

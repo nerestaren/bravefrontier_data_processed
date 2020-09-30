@@ -26801,6 +26801,21 @@
     "sbb": "14 combo massive Thunder attack on all foes (damage relative to remaining HP), 50% damage reduction for 1 turn, greatly restores HP, hugely boosts Thunder elemental damage for 3 turns & hugely boosts Atk, Def, Rec for 3 turns",
     "ubb": "18 combo massive Thunder attack on all foes (uses all allies' BB gauge), 100% damage reduction from Water types for 2 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts BB gauge for 3 turns & fully restores HP for 3 turns"
   },
+  "840958": {
+    "bb": "14 combo Thunder attack on all foes (damage relative to remaining HP), activates Taunt and boosts own Def for 2 turns, fills BB gauge when guarding for 3 turns, 50% damage reduction for 3 turns, boosts own max HP & fills OD gauge at turn's end for 3 turns",
+    "category": 840950,
+    "cost": 60,
+    "element": "thunder",
+    "es": "20% Atk, Def each turn (3 times) for all allies when Status Boost Type Sphere is equipped, 10-20% BB gauge consumed reduction for all allies, 40% all parameters, 100% spark damage reduction & negates ignore Def",
+    "gender": "male",
+    "guide_id": 8641,
+    "id": 840958,
+    "ls": "100% Atk, Def, Rec, 150% max HP, 400% BB Atk, 20% damage reduction for 1 turn when damage taken is over 5k, 10% damage reduction when guarding & fills BB gauge when guarding",
+    "name": "Silent Strength Gilbert",
+    "rarity": 8,
+    "sbb": "17 combo Thunder attack on all foes (damage relative to remaining HP), 11 combo Thunder attack on single foe, 50% damage reduction for 3 turns, boosts Thunder elemental damage for 3 turns, probable 3 turns critical and elemental vulnerability infliction & adds Thunder barrier",
+    "ubb": "21 combo Thunder attack on all foes (damage relative to remaining HP), 100% damage reduction for 4 turns, boosts Thunder elemental damage for 4 turns, damage taken fills BB gauge for 4 turns, fills OD gauge at turn's end for 4 turns & boosts max HP"
+  },
   "850003": {
     "bb": "12 combo powerful Light random attack on all enemies",
     "category": 850000,
