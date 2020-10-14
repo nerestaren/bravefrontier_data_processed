@@ -15089,53 +15089,52 @@
   "840558": [
     {
       "bp": 10,
-      "desc": "90% boost to Atk, max HP"
+      "desc": "120% Atk, max HP"
     },
     {
       "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "150% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "30% DoT reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 20,
+      "desc": "Resistance against 1 KO attack"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to SBB (20% BB gauge reduction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Restores HP for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (30% DoT reduction for 2 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (2 turns DoT infliction)"
+    },
+    {
+      "bp": 15,
       "dependency": true,
-      "desc": "Raises Atk, max HP boost from 90% to 120%"
+      "desc": "Enhances BB/SBB's DoT infliction effect"
     },
     {
-      "bp": 20,
-      "desc": "30% additional damage reduction"
-    },
-    {
-      "bp": 10,
-      "desc": "Raises Atk parameter limits to 150000"
-    },
-    {
-      "bp": 30,
-      "desc": "Probable resistance against 1 KO attack"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances BB/SBB's Earth shield effect"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances BB/SBB's considerable Atk, Def, Rec boost for Thunder types effect"
-    },
-    {
-      "bp": 10,
-      "desc": "Adds foe's BB gauge reduction effect to SBB"
-    },
-    {
-      "bp": 20,
-      "desc": "Adds great HP restoration for 3 turns effect to BB/SBB"
-    },
-    {
-      "bp": 20,
-      "desc": "Adds considerable damage reduction of additional attacks for 1 turn effect to BB/SBB"
-    },
-    {
-      "bp": 30,
-      "desc": "Adds powerful attack at turn's end for 2 turns to BB/SBB"
-    },
-    {
-      "bp": 20,
-      "dependency": true,
-      "desc": "Enhances BB/SBB's additional damage at turn's end effect but reduces duration to 1 turn"
+      "bp": 25,
+      "desc": "Add to BB (Boosts max HP), UBB (Boosts max HP)"
     }
   ],
   "840568": [
@@ -18309,6 +18308,56 @@
     {
       "bp": 15,
       "desc": "Allows UBB's effects to last additional 1 turn"
+    }
+  ],
+  "850958": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Spark damage restores HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (250% spark damage)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (20 combo Light attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (Probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable evasion for 2 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Allows BB's effects to last additional 1 turn"
     }
   ],
   "850978": [

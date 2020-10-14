@@ -26337,19 +26337,19 @@
     "ubb": "20 combo massive Thunder attack on all foes, damage taken enormously restores HP for 3 turns, adds evasion to self for 1 turn, enormously boosts Atk, Def, Rec for 3 turns & enormously boosts BB gauge for 3 turns"
   },
   "840558": {
-    "bb": "16 combo powerful Thunder attack on all foes, reduces foe's BB gauge, adds probable evasion to self for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Thunder types for 3 turns, enormously boosts BC efficacy for 3 turns & activates Earth shield for 2 turns",
+    "bb": "16 combo Thunder attack on all foes, 20% BB gauge reduction, boosts Atk, Def, Rec and critical rate (Thunder) for 3 turns, boosts BC efficacy for 3 turns, adds Earth shield for 3 turns & probable evasion for self for 3 turns",
     "category": 840550,
     "cost": 60,
     "element": "thunder",
-    "es": "15% additional damage reduction for all allies, considerably boosts Atk when BB gauge is over 50%, damage taken may slightly reduce foe's BB gauge fill rate for 1 turn & adds 16 combo (BB)/25 combo (SBB) powerful Thunder attack on single foe to BB/SBB",
+    "es": "25% all parameters (Thunder) and 15% DoT reduction for all allies, 100% Atk when BB gauge is above 50%, damage taken may inflict BB gauge fill rate reduction for 1 turn & add to BB (16 combo Thunder attack on single foe), SBB (25 combo Thunder attack on single foe)",
     "gender": "female",
     "guide_id": 8416,
     "id": 840558,
-    "ls": "80% boost to Atk, max HP, 120% boost to Def, Rec of Thunder types, Spark damage considerably boosts BB gauge, enormously boost BB gauge each turn & 15% additional damage reduction",
+    "ls": "100% Atk, 140% Def, Rec, 100% max HP (Thunder), spark damage fills BB gauge, spark damage restores HP, fills BB gauge each turn & 15% DoT reduction",
     "name": "Fearless Tate & Tama",
     "rarity": 8,
-    "sbb": "18 combo powerful Thunder attack on all foes, 8 combo powerful Thunder attack on single foe, casts stealth on self boosting own Atk and critical hit rate for 2 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Thunder types for 3 turns, enormously boost BB gauge for 3 turns & activates Earth shield for 2 turns",
-    "ubb": "22 combo massive Thunder attack on all foes, damage taken enormously restores HP for 3 turns, adds evasion to self for 1 turn, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts BB gauge for 3 turns & 50% additional damage reduction for 5 turns"
+    "sbb": "18 combo Thunder attack on all foes (damage relative to remaining HP), 8 combo Thunder attack on single foe, boosts Atk, Def, Rec and critical rate (Thunder) for 3 turns, fills BB gauge for 3 turns, adds Earth shield for 3 turns & activates Stealth and boosts own Atk and critical rate for 2 turns",
+    "ubb": "22 combo Thunder attack on all foes (damage relative to remaining HP), evasion for 3 turns, boosts Atk, Def, Rec and critical rate for 4 turns, fills BB gauge for 4 turns, 100% DoT reduction for 4 turns & damage taken restores HP for 4 turns"
   },
   "840567": {
     "bb": "12 combo powerful Thunder attack on all foes, adds all elements to attack for 3 turns, adds Def ignoring effect to attack for 3 turns, hugely boosts OD gauge fill rate for 3 turns & slightly boosts OD gauge",
@@ -28316,6 +28316,21 @@
     "rarity": 8,
     "sbb": "17 combo Light attack on all foes (damage relative to remaining HP), 9 combo Light attack on single foe (or probable 5% damage of foes' max HP), boosts Light elemental damage for 3 turns, probable 3 turns critical and elemental vulnerability infliction, activates Stealth and boosts own Atk and critical rate for 3 turns & fills OD gauge",
     "ubb": "22 combo Light attack on all foes (damage relative to remaining HP), fully restores HP for 4 turns, boosts Light elemental damage for 4 turns, spark damage fills BB gauge for 4 turns, boosts own spark damage for 4 turns & fills OD gauge"
+  },
+  "850958": {
+    "bb": "15 combo Light attack on all foes (damage relative to remaining HP), probable evasion for 2 turns, fills BB gauge, 100% critical, elemental damage reduction for 3 turns, restores HP for 3 turns & fills OD gauge at turn's end for 3 turns",
+    "category": 850950,
+    "cost": 60,
+    "element": "light",
+    "es": "Probable spark critical when Critical Type sphere is equipped, 15% DoT reduction for all allies, 150% critical damage, 0-100% Atk, Def, Rec relative to remaining HP & probable 2 KO resistance",
+    "gender": "male",
+    "guide_id": 8642,
+    "id": 850958,
+    "ls": "140% all parameters and 30% critical rate (Light), 300% critical damage, critical damage fills BB gauge, negates all status ailments and Atk, Def, Rec reduction & restores HP each turn",
+    "name": "Explosive Artisan Carlos",
+    "rarity": 8,
+    "sbb": "18 combo Light attack on all foes (damage relative to remaining HP), 30 combo random Light attack on all foes, boosts critical damage for 3 turns, boosts critical damage (Light) for 3 turns, adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns & boosts own Atk, Def and critical rate for 3 turns",
+    "ubb": "20 combo Light attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate for 4 turns, boosts critical damage for 4 turns, adds probable 1 turn Atk, Def reduction infliction to attack for 4 turns, fills BB gauge for 4 turns & fills OD gauge at turn's end for 4 turns"
   },
   "850977": {
     "bb": "12 combo Light attack on all foes, considerably restores HP, negates Atk, Def, Rec reduction effects for 1 turn & hugely boosts Def for 3 turns",
