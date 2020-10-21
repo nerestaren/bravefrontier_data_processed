@@ -12179,6 +12179,13 @@
     "name": "Scorching Blade Roy",
     "rarity": 8
   },
+  "810888": {
+    "element": "fire",
+    "guide_id": 8643,
+    "id": 810888,
+    "name": "Ascha, the Devourer",
+    "rarity": 8
+  },
   "810898": {
     "element": "fire",
     "guide_id": 8622,

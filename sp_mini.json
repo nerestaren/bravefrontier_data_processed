@@ -9852,6 +9852,56 @@
       "desc": "Allows UBB's effects to last additional 1 turn"
     }
   ],
+  "810888": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Fills BB gauge each turn"
+    },
+    {
+      "bp": 5,
+      "desc": "Restores HP each turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Damage taken fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Activates Taunt and boosts own Atk, Def for 2 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (34 combo Fire attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Boosts own max HP ), UBB (Boosts max HP )"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows UBB's effects to last additional 1 turn"
+    }
+  ],
   "810898": [
     {
       "bp": 10,

@@ -22573,6 +22573,21 @@
     "sbb": "6 combo Fire attack on all foes, 8 combo Fire attack on all foes (damage relative to remaining HP), boosts Fire elemental damage for 3 turns, probable 3 turns critical and elemental vulnerability infliction, fills BB gauge & 30% DoT reduction for 2 turns",
     "ubb": "20 combo Fire attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec relative to max HP for 4 turns, boosts Fire elemental damage for 4 turns, damage taken fills BB gauge and restores HP for 4 turns & 100% DoT reduction for 4 turns"
   },
+  "810888": {
+    "bb": "20 combo Fire attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec relative to max HP for 4 turns, fills BB gauge for 3 turns, 100% critical, elemental and spark damage reduction for 5 turns, 50% damage reduction for 3 turns & damage taken may restore HP for 3 turns",
+    "category": 810880,
+    "cost": 60,
+    "element": "fire",
+    "es": "20% Fire elemental damage and 10% reduction to BB activation cost for all allies, 30% all parameters, probable damage reduction to 1 & damage taken fills BB gauge",
+    "gender": "female",
+    "guide_id": 8643,
+    "id": 810888,
+    "ls": "200% Atk, 140% max HP, 30% critical rate, 250% Fire elemental damage, 250% critical damage, 30% reduction to BB activation cost & 100% critical and elemental damage reduction",
+    "name": "Ascha, the Devourer",
+    "rarity": 8,
+    "sbb": "20 combo Fire attack on all foes (damage relative to remaining HP), 15 combo Fire attack on all foes (partial HP drain), boosts Fire elemental damage for 3 turns, boosts critical damage for 3 turns, may activate BB/SBB/UBB twice for 3 turns & boosts own Atk, Def, Rec and critical rate for 3 turns",
+    "ubb": "28 combo Fire attack on all foes (damage relative to remaining HP), 12 combo Fire attack on single foe (25% active Pierce on Fire, Earth foes), fills BB gauge for 4 turns, boosts Fire elemental damage for 4 turns, 100% damage reduction for 4 turns & activates BB/SBB/UBB twice for 3 turns"
+  },
   "810898": {
     "bb": "7 combo Fire attack on single foe, 19 combo Fire attack on all foes (damage relative to remaining HP), fills own BB gauge to max, probable evasion for 2 turns, probable KO resistance& fills OD gauge",
     "category": 810890,
