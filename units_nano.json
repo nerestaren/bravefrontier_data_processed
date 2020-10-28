@@ -14272,6 +14272,13 @@
     "name": "Silent Strength Gilbert",
     "rarity": 8
   },
+  "840968": {
+    "element": "thunder",
+    "guide_id": 8644,
+    "id": 840968,
+    "name": "Fractured Mind Ydra",
+    "rarity": 8
+  },
   "850003": {
     "element": "light",
     "guide_id": 8012,
@@ -15754,6 +15761,13 @@
     "guide_id": 8501,
     "id": 860900,
     "name": "Orebi Umbra Geode",
+    "rarity": 8
+  },
+  "860968": {
+    "element": "dark",
+    "guide_id": 8645,
+    "id": 860968,
+    "name": "Dark Ego Saya",
     "rarity": 8
   },
   "870034": {

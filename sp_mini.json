@@ -16247,6 +16247,56 @@
       "desc": "Add to SBB (Probable 2 turns Atk, Def reduction infliction)"
     }
   ],
+  "840968": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (250% spark damage)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (boosts own max HP)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (Probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (31 combo Thunder attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Boosts Thunder elemental damage for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Adds Thunder barrier)"
+    }
+  ],
   "850018": [
     {
       "bp": 10,
@@ -20774,6 +20824,52 @@
       "bp": 20,
       "dependency": true,
       "desc": "Adds probable huge 1 turn Atk, Def reduction infliction effect to BB/SBB"
+    }
+  ],
+  "860968": [
+    {
+      "bp": 10,
+      "desc": "120% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "120% Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "150% critical damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Adds ignore Def to attack"
+    },
+    {
+      "bp": 10,
+      "desc": "25% DoT reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limits to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to SBB (Boosts critical damage (Dark) for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (Probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Boosts BC efficacy for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Probable evasion for 2 turns)"
     }
   ]
 }
