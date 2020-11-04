@@ -28392,6 +28392,21 @@
     "sbb": "19 combo powerful Light attack on all foes, damage taken may restore HP for 3 turns, hugely boosts Atk relative to Def for 3 turns, activates Light barrier & considerably boosts Atk, Def, Rec of Light types for 3 turns",
     "ubb": "23 combo massive Light attack on all foes, negates all status ailments for 3 turns, negates Atk, Def, Rec reduction effects for 3 turns, enormously boosts Def for 3 turns & enormously boosts Atk relative to Def for 3 turns"
   },
+  "850988": {
+    "bb": "19 combo Light attack on all foes (damage relative to remaining HP), spark damage restores HP for 3 turns, fills own BB gauge to max, 1 extra action for self for 1 turn, 15% damage reduction from all element for 3 turns & boosts Atk, Def, Rec and critical rate for 3 turns",
+    "category": 850980,
+    "cost": 60,
+    "element": "light",
+    "es": "Probable spark critical when Chaos Core, Luminous Core or Atk Boosting sphere is equipped & probable 2 KO resistance when Luminous Core or Atk Boosting sphere is equipped, 25% spark damage for all allies, 0-100% Atk, Def, Rec relative to remaining HP, probable damage reduction to 1 & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "other",
+    "guide_id": 8646,
+    "id": 850988,
+    "ls": "200% Atk, 150% max HP, 30% critical rate, 300% spark damage, probable spark critical, 15% damage reduction & spark damage restores HP",
+    "name": "Kranus, the Argent",
+    "rarity": 8,
+    "sbb": "21 combo Light attack on all foes (damage relative to remaining HP), 10 combo Light attack on single foe (or probable 5% damage of foes' max HP), boosts spark damage for 3 turns, boosts own spark damage for 3 turns, fills OD gauge & spark damage fills BB gauge for 3 turns",
+    "ubb": "23 combo Light attack on all foes (damage relative to remaining HP), 12 combo Light attack on single foe (25% active Pierce on Light, Dark foes), boosts spark damage for 4 turns, spark damage restores HP for 4 turns, boosts Atk, Def, Rec for 4 turns & 1 extra action for 1 turn"
+  },
   "860003": {
     "bb": "7 combo Dark elemental attack on single enemy",
     "category": 860000,
@@ -29870,7 +29885,7 @@
     "ubb": "18 combo massive Dark attack on all foes (uses all allies' BB gauge), 100% damage reduction from Light types for 2 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts BB gauge for 3 turns & fully restores HP for 3 turns"
   },
   "860968": {
-    "bb": "17 combo Dark attack on all foes (damage relative to remaining HP), boosts own Atk and critical rate for 3 turns, boosts max HP, 100% critical, elemental damage reduction for 3 turns, fills BB gauge & 3 turns DoT infliction",
+    "bb": "17 combo Dark attack on all foes (damage relative to remaining HP), boosts own Atk and critical rate for 3 turns, boosts max HP, 100% critical and elemental damage reduction for 3 turns, fills BB gauge & 3 turns DoT infliction",
     "category": 860960,
     "cost": 54,
     "element": "dark",

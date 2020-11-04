@@ -15042,6 +15042,13 @@
     "name": "Logi",
     "rarity": 8
   },
+  "850988": {
+    "element": "light",
+    "guide_id": 8646,
+    "id": 850988,
+    "name": "Kranus, the Argent",
+    "rarity": 8
+  },
   "860003": {
     "element": "dark",
     "guide_id": 8015,

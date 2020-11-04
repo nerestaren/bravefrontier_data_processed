@@ -18502,6 +18502,60 @@
       "desc": "Adds probable resistance against 1 KO attack effect to BB/SBB"
     }
   ],
+  "850988": [
+    {
+      "bp": 15,
+      "desc": "140% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "25% reduction to BB activation cost"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to LS (30% reduction to BB activation cost)"
+    },
+    {
+      "bp": 15,
+      "desc": "Enhances SBB's boost to own Spark damage effect"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (boosts own max HP)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts spark damage (Light, Dark) for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (30 combo Light attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Adds Light barrier)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/UBB (Purges Doom effect from self)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to UBB (100% damage reduction for 4 turns)"
+    }
+  ],
   "860018": [
     {
       "bp": 10,
