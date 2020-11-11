@@ -12935,6 +12935,13 @@
     "name": "Icy Steel René",
     "rarity": 8
   },
+  "820958": {
+    "element": "water",
+    "guide_id": 8647,
+    "id": 820958,
+    "name": "Liquid Barrage Sheena",
+    "rarity": 8
+  },
   "830003": {
     "element": "earth",
     "guide_id": 8006,

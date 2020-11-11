@@ -12234,6 +12234,56 @@
       "desc": "Add to BB (Probable 1 KO resistance), UBB (Probable 1 KO resistance)"
     }
   ],
+  "820958": [
+    {
+      "bp": 10,
+      "desc": "130% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (250% Water elemental damage)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (Fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Probable 3 turns Atk, Def reduction infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts spark damage (Water) for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (27 combo Water attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 10,
+      "desc": "Allows BB's effects to last additional 1 turn"
+    }
+  ],
   "830048": [
     {
       "bp": 10,

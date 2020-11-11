@@ -24114,6 +24114,21 @@
     "sbb": "16 combo Water attack on all foes (damage relative to remaining HP), 16 combo Water attack on all foes (damage relative to remaining HP), spark damage fills BB gauge for 3 turns, spark damage restores HP for 3 turns, adds Water barrier & boosts spark damage (Water) for 3 turns",
     "ubb": "20 combo Water attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec for 4 turns, boosts spark damage for 4 turns, fully restores HP for 4 turns, fills BB gauge to max & raises allies from KO"
   },
+  "820958": {
+    "bb": "19 combo Water attack on all foes (damage relative to remaining HP), boosts own max HP, boosts BC efficacy for 3 turns, boosts OD gauge fill rate for 3 turns, activates Stealth and boosts own Atk and critical rate for 2 turns & spark damage restores HP for 3 turns",
+    "category": 820950,
+    "cost": 60,
+    "element": "water",
+    "es": "120% spark damage when spark type sphere equipped, 20% all parameters, 10-20% BB gauge consumed reduction for all allies, fills BB gauge each turn & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "female",
+    "guide_id": 8647,
+    "id": 820958,
+    "ls": "140% Atk, 140% Def, 140% max HP and 30% critical rate (Water), 100% Atk, 100% Def when BB gauge is above 50%, 250% spark damage, 50% spark damage reduction & fills BB gauge each turn",
+    "name": "Liquid Barrage Sheena",
+    "rarity": 8,
+    "sbb": "14 combo Water attack on all foes (damage relative to remaining HP), 14 combo Water attack on single foe, boosts Atk, Def, Rec and critical rate (Water) for 3 turns, boosts spark damage for 3 turns, probable spark critical for 4 turns & 4 turns spark vulnerability infliction",
+    "ubb": "23 combo Water attack on all foes (damage relative to remaining HP), boosts max HP, fills BB gauge for 4 turns, boosts spark damage for 4 turns, probable spark critical for 4 turns & 4 turns spark vulnerability infliction"
+  },
   "830003": {
     "bb": "4 combo Earth elemental power attack on all enemies",
     "category": 830000,
