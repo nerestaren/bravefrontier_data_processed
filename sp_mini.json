@@ -14403,6 +14403,60 @@
       "desc": "Add to BB/SBB (Probable 3 turns Atk, Def reduction infliction)"
     }
   ],
+  "830978": [
+    {
+      "bp": 10,
+      "desc": "120% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "250% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "25% reduction to BB activation cost"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to LS (Spark damage restores HP)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Boosts max HP)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (29 combo Earth attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts spark damage (Earth) for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Restores HP for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (50% damage reduction for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to BB/SBB (Adds Earth barrier)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Probable 1 KO resistance), UBB (Probable 1 KO resistance)"
+    }
+  ],
   "840048": [
     {
       "bp": 10,
@@ -20974,6 +21028,56 @@
     {
       "bp": 25,
       "desc": "Add to BB/SBB (Probable evasion for 2 turns)"
+    }
+  ],
+  "860978": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters, 60% critical rate"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% critical damage"
+    },
+    {
+      "bp": 15,
+      "desc": "150% damage against status afflicted foes"
+    },
+    {
+      "bp": 25,
+      "desc": "50% reduction to BB activation cost"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "100% OD gauge fill rate"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limits to 200k"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (200% critical damage)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to SBB (Fills OD gauge)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (probable random status ailments infliction)"
+    },
+    {
+      "bp": 30,
+      "desc": "Allows UBB's self-buff effects to last for 10 turns"
     }
   ]
 }

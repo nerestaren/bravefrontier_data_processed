@@ -13607,6 +13607,13 @@
     "name": "War Declaration Teresa",
     "rarity": 8
   },
+  "830978": {
+    "element": "earth",
+    "guide_id": 8648,
+    "id": 830978,
+    "name": "Sun-kissed Tilith",
+    "rarity": 8
+  },
   "840003": {
     "element": "thunder",
     "guide_id": 8009,
@@ -15782,6 +15789,13 @@
     "guide_id": 8645,
     "id": 860968,
     "name": "Dark Ego Saya",
+    "rarity": 8
+  },
+  "860978": {
+    "element": "dark",
+    "guide_id": 8649,
+    "id": 860978,
+    "name": "Berserk Ezra",
     "rarity": 8
   },
   "870034": {
