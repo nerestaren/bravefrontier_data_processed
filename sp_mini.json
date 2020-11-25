@@ -17391,52 +17391,52 @@
   "850558": [
     {
       "bp": 10,
-      "desc": "Raises all parameters boost to 80%"
+      "desc": "100% all parameters"
     },
     {
       "bp": 10,
-      "dependency": true,
-      "desc": "30% boost to Def, Rec, max HP"
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "20% BB/SBB activation rates"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
-      "desc": "Enormously boosts elemental damage"
+      "desc": "Resistance against 1 KO attack"
     },
     {
       "bp": 10,
-      "desc": "Considerable boost to BB/SBB's activation rate"
+      "desc": "Add to SBB (3 turns 30% BB gauge fill rate reduction infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (30% DoT reduction for 2 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Restores HP for 3 turns)"
     },
     {
       "bp": 10,
-      "desc": "Raises Atk parameter limits to 160000"
+      "desc": "Add to BB/SBB (3 turns DoT infliction)"
+    },
+    {
+      "bp": 15,
+      "dependency": true,
+      "desc": "Enhances BB/SBB's DoT infliction effect"
     },
     {
       "bp": 30,
-      "desc": "Probable resistance against 1 KO attack"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances BB/SBB's Light Shield effect"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances BB/SBB's considerable Atk, Def, Rec boost for Light types effect"
-    },
-    {
-      "bp": 10,
-      "desc": "Adds foe's BB gauge fill rate reduction for 3 turns effect to SBB"
-    },
-    {
-      "bp": 20,
-      "desc": "Adds great HP restoration for 3 turns effect to BB/SBB"
-    },
-    {
-      "bp": 10,
-      "desc": "Adds powerful additional attack at turn's end effect for 3 turns to BB/SBB"
-    },
-    {
-      "bp": 40,
-      "desc": "Allows UBB's self Atk and Spark damage boost effects to last for 12 turns"
+      "desc": "Allows UBB self damage boost effects to last for 12 turns"
     }
   ],
   "850568": [

@@ -27913,19 +27913,19 @@
     "ubb": "20 combo massive Light attack on all foes, enormously boosts Def, Rec relative to Atk for 3 turns, enormously boosts BB gauge for 3 turns, hugely boosts own Atk for 3 turns & greatly boosts own Spark damage for 3 turns"
   },
   "850558": {
-    "bb": "16 combo powerful Light attack on all foes, reduces foe's BB gauge fill rate for 3 turns, normal attacks hit all foes for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Light types for 3 turns, enormously boosts BC efficacy for 3 turns & activates Light shield for 2 turns",
+    "bb": "16 combo Light attack on all foes, probable 3 turns 30% BB gauge fill rate reduction infliction, normal attacks hits all foes for 3 turns, boosts Atk, Def, Rec and critical rate (Light) for 3 turns, boosts BC efficacy for 3 turns & adds Light shield for 3 turns",
     "category": 850550,
     "cost": 60,
     "element": "light",
-    "es": "25% boost to all parameters of Light types, hugely boosts BB/SBB activation rates for all allies, damage taken may slightly reduce foe's BB gauge fill rate for 1 turn & adds 16 combo (BB)/29 combo (SBB) powerful Light attack on single foe to BB/SBB",
+    "es": "25% all parameters (Light) and 10% BB/SBB activation rates for all allies, damage taken may inflict 1 turn 20% BB gauge fill rate reduction, raises normal hit amount & add to BB (16 combo Light attack on single foe), SBB (29 combo Light attack on single foe)",
     "gender": "male",
     "guide_id": 8424,
     "id": 850558,
-    "ls": "80% boost to Atk, max HP, 120% boost to Def, Rec of Light types, probable normal attack on all foes, probable damage reduction to 1 & adds Def ignoring effect to attack",
+    "ls": "100% Atk, 140% Def, Rec, 100% max HP (Light), normal attacks may hit all foes, raises normal hit amount, probable damage reduction to 1& adds ignore Def to attack",
     "name": "Canny Quentin & Quinn",
     "rarity": 8,
-    "sbb": "22 combo powerful Light attack on all foes, 8 combo powerful Light attack on single foe (partial HP drain), hugely boosts Def, Rec relative to Atk for 3 turns, considerably boosts Atk, Def, Rec and enormously boosts critical hit rate of Light types for 3 turns, enormously boost BB gauge for 3 turns & activates Light shield for 2 turns",
-    "ubb": "26 combo massive Light attack on all foes, activates Light shield for 3 turns, enormously boosts Def, Rec relative to Atk for 3 turns, enormously boosts BB gauge for 3 turns, hugely boosts own Atk for 3 turns & greatly boosts own Spark damage for 3 turns"
+    "sbb": "22 combo Light attack on all foes (damage relative to remaining HP), 8 combo Light attack on single foe (partial HP drain), boosts Def, Rec relative to Atk for 3 turns, boosts Atk, Def, Rec and critical rate (Light) for 3 turns, fills BB gauge for 3 turns & adds Light shield for 3 turns",
+    "ubb": "26 combo Light attack on all foes (damage relative to remaining HP), adds Light shield for 4 turns, boosts Def, Rec relative to Atk for 4 turns, fills BB gauge for 4 turns, boosts own Atk for 4 turns & boosts own spark damage for 4 turns"
   },
   "850567": {
     "bb": "15 combo powerful Light attack on all foes, 50% damage reduction for 2 turns, damage taken hugely boosts BB gauge for 3 turns, slightly boosts OD gauge & Spark damage reduction for 2 turns",
