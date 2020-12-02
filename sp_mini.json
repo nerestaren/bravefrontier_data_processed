@@ -8397,47 +8397,51 @@
   "810288": [
     {
       "bp": 10,
-      "desc": "Atk, Def boost when BB gauge is over 50%"
-    },
-    {
-      "bp": 15,
-      "desc": "30% boost to Def, Rec, max HP"
-    },
-    {
-      "bp": 20,
-      "desc": "Boosts critical hit damage"
-    },
-    {
-      "bp": 15,
-      "desc": "Boosts elemental damage"
-    },
-    {
-      "bp": 20,
-      "desc": "Considerably reduces BB gauge required for BB"
+      "desc": "100% Atk, Def when BB gauge is above 50%"
     },
     {
       "bp": 10,
-      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
+      "desc": "120% Spark damage"
     },
     {
-      "bp": 20,
-      "desc": "Enhances BB/SBB's Atk, Def, Rec boost effects"
+      "bp": 10,
+      "desc": "200% critical damage"
     },
     {
-      "bp": 20,
-      "desc": "Enhances SBB's Atk, Def boost relative to Rec for 3 turns effect"
-    },
-    {
-      "bp": 20,
-      "desc": "Adds damage taken considerably boosts BB gauge for 3 turns effect to BB"
+      "bp": 10,
+      "desc": "200% elemental damage"
     },
     {
       "bp": 25,
-      "desc": "Adds slight damage reduction from Fire, Earth types for 2 turns effect to BB/SBB"
+      "desc": "25% reduction to BB activation cost"
     },
     {
-      "bp": 40,
-      "desc": "Enhances SBB/UBB's BB Atk boost effect"
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Damage taken fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts critical damage (Fire) for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (15% damage reduction from all element types for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (25 combo Fire attack on single foe )"
     }
   ],
   "810318": [
@@ -14791,47 +14795,51 @@
   "840288": [
     {
       "bp": 10,
-      "desc": "30% boost to Def, max HP"
+      "desc": "100% Atk, Def when BB gauge is above 50%"
     },
     {
       "bp": 10,
-      "desc": "Atk, Def boost when BB gauge is over 50%"
+      "desc": "200% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "150% elemental damage"
     },
     {
       "bp": 15,
-      "desc": "Critical hit damage boosts BB gauge"
+      "desc": "Critical damage fills BB gauge"
     },
     {
-      "bp": 20,
-      "desc": "Boosts critical hit damage"
-    },
-    {
-      "bp": 15,
-      "desc": "Boosts elemental damage"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances BB/SBB's Atk, Def, Rec boost effects"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances SBB's Atk boost relative to Def effect"
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 25,
-      "desc": "Adds Water & Thunder damage reduction for 2 turns effect to BB/SBB"
+      "desc": "Add to SBB (Probable 2 turns Atk, Def reduction infliction)"
     },
     {
-      "bp": 30,
-      "desc": "Adds Atk, Def, Rec reducing effects negation for 2 turns effect to BB/SBB"
+      "bp": 20,
+      "desc": "Add to SBB (Boosts damage against status afflicted foes for 3 turns)"
     },
     {
-      "bp": 30,
-      "desc": "Adds huge damage boost against status afflicted foes for 3 turns effect to BB/SBB"
+      "bp": 25,
+      "desc": "Add to SBB (23 combo Thunder attack on single foe )"
     },
     {
-      "bp": 30,
-      "desc": "Adds damage taken may slightly restore HP for 3 turns effect to BB/SBB"
+      "bp": 20,
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (15% damage reduction from all element types for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (Damage taken may restore HP for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Allows UBB's effects to last additional 1 turn"
     }
   ],
   "840318": [

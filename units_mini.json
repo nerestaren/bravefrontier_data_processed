@@ -21704,19 +21704,19 @@
     "ubb": "26 combo massive Fire attack on all foes, enormously boosts BB Atk for 3 turns, fully restores HP for 3 turns & hugely boosts max HP"
   },
   "810288": {
-    "bb": "21 combo powerful Fire attack on all foes, greatly boosts Fire types' Atk, Def, Rec for 3 turns, enormously boosts Fire types' critical hit rate for 3 turns, greatly restores HP & negates all status ailments for 3 turns",
+    "bb": "21 combo Fire attack on all foes (damage relative to remaining HP, boosts own critical rate), boosts Atk, Def, Rec and critical rate (Fire) for 3 turns, restores HP, negates all status ailments and Atk, Def, Rec reduction for 3 turns, 30% DoT reduction for 2 turns & activates Stealth and boosts own Atk and critical rate for 2 turns",
     "category": 810280,
-    "cost": 54,
+    "cost": 60,
     "element": "fire",
-    "es": "50% boost to Atk of Fire types, negates all status ailments, adds Fire barrier effect to BB/SBB & raises Atk parameter limits to 130000<br>50% boost to Rec of Fire types, adds 25 combo powerful Fire attack on Earth types effect to SBB & boosts Fire elemental damage for all allies in Guild Raid",
+    "es": "50% Atk (Fire) for all allies, 30% all parameters, negates all status ailments and Atk, Def, Rec reduction & add to BB/SBB (Adds Fire barrier)<br>50% Rec (Fire), 25% Fire elemental damage for all allies & add to SBB (25 combo Fire attack on Earth foes) in Guild Raid",
     "gender": "female",
     "guide_id": 8316,
     "id": 810288,
-    "ls": "60% boost to Atk, max HP, damage taken boosts BB gauge, damage taken may restore HP & enormously boosts BB Atk when HP is above 50%",
+    "ls": "150% Atk, max HP, 30% critical rate, damage taken fills BB gauge, damage taken may restore HP, 550% BB Atk when HP is above 50% & probable damage reduction to 1",
     "name": "Battle Admiral Laresa",
     "rarity": 8,
-    "sbb": "25 combo powerful Fire attack on all foes, greatly boosts Fire types' Atk, Def, Rec for 3 turns, enormously boosts Fire types' critical hit rate for 3 turns, hugely boosts BC and HC drop rates for 3 turns, hugely boosts BB Atk for 3 turns, hugely boosts Atk, Def relative to Rec for 3 turns & greatly restores HP",
-    "ubb": "29 combo massive Fire attack on all foes, enormously boosts BB Atk for 3 turns, enormously boosts Atk, Def relative to Rec for 3 turns, fully restores HP for 3 turns & hugely boosts max HP"
+    "sbb": "25 combo Fire attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate (Fire) for 3 turns, boosts BC, HC drop rate for 3 turns, boosts BB Atk for 3 turns, boosts Atk, Def relative to Rec for 3 turns & restores HP",
+    "ubb": "29 combo Fire attack on all foes (damage relative to remaining HP), boosts BB Atk for 3 turns, boosts Atk, Def relative to Rec for 3 turns, fully restores HP for 3 turns, boosts max HP & 100% DoT reduction for 3 turns"
   },
   "810315": {
     "bb": "9 combo powerful Fire attack on all foes, adds Def ignoring effect to attack for 2 turns & boosts Atk and critical hit rate for 3 turns",
@@ -26017,19 +26017,19 @@
     "ubb": "23 combo massive Thunder attack on all foes, enormously boosts Atk relative to Def for 3 turns, enormously boosts critical damage for 3 turns & adds Injury, Weak, Sick infliction to attack for 3 turns"
   },
   "840288": {
-    "bb": "19 combo powerful Thunder attack on all foes, greatly boosts Atk, Def, Rec of Thunder types for 3 turns, enormously boosts critical hit rate of Thunder types for 3 turns, highly probable Injury, Weak, Sick infliction & considerably boosts BC, HC drop rate for 3 turns",
+    "bb": "19 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), boosts Atk, Def, Rec and critical rate (Thunder) for 3 turns, probable Injury, Weakness, Sickness infliction, boosts BC, HC drop rate for 3 turns, fills BB gauge for 3 turns & probable evasion for 2 turns",
     "category": 840280,
-    "cost": 54,
+    "cost": 60,
     "element": "thunder",
-    "es": "50% boost to Atk of Thunder types, enormously boosts damage against status afflicted foes, adds Thunder barrier effect to BB/SBB & raises Atk parameter limits to 130000<br>Considerably boosts critical damage, adds 23 combo powerful Thunder attack on Water types effect to SBB and boosts Thunder elemental damage for all allies in Guild Raid",
+    "es": "50% Atk (Thunder) for all allies, 30% all parameters, 150% damage against status afflicted foes & add to BB/SBB (Adds Thunder barrier)<br>25% Thunder elemental damage for all allies, 150% critical damage & add to SBB (23 combo Thunder attack on Water foes) in Guild Raid",
     "gender": "female",
     "guide_id": 8331,
     "id": 840288,
-    "ls": "60% boost to Atk, max HP, hugely boosts critical hit rate, hugely boosts critical damage, negates all status ailments & damage taken boosts BB gauge",
+    "ls": "150% Atk, max HP, 30% critical rate, 250% critical damage, damage taken fills BB gauge, negates all status ailments and Atk, Def, Rec reduction & 25% reduction to BB activation cost",
     "name": "Sonic Blaster Vashi",
     "rarity": 8,
-    "sbb": "23 combo powerful Thunder attack on all foes, greatly boosts Atk, Def, Rec of Thunder types for 3 turns, enormously boosts critical hit rate of Thunder types for 3 turns, boosts critical damage of Thunder types for 3 turns, hugely boosts Atk relative to Def for 3 turns, Injury, Weak, Sick infliction & negates critical damage for 2 turns",
-    "ubb": "27 combo massive Thunder attack on all foes, enormously boosts Atk relative to Def for 3 turns, enormously boosts critical damage for 3 turns, adds Injury, Weak, Sick infliction to attack for 3 turns & damage taken enormously restores HP for 3 turns"
+    "sbb": "23 combo Thunder attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate (Thunder) for 3 turns, Injury, Weakness, Sickness infliction, boosts Atk, Rec relative to Def for 3 turns, boosts critical damage (Thunder) for 3 turns & 100% critical, elemental damage reduction for 3 turns",
+    "ubb": "27 combo Thunder attack on all foes (damage relative to remaining HP), boosts Atk, Rec relative to Def for 3 turns, boosts critical damage for 3 turns, damage taken restores HP for 3 turns, adds Injury, Weakness, Sickness infliction to attack for 3 turns & fills BB gauge for 3 turns"
   },
   "840315": {
     "bb": "7 combo powerful Thunder attack on all foes, 50% damage reduction for 1 turn & guarding boosts BB gauge for 3 turns",
