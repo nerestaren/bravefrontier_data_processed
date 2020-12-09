@@ -20992,6 +20992,56 @@
       "desc": "Adds probable huge 1 turn Atk, Def reduction infliction effect to BB/SBB"
     }
   ],
+  "860958": [
+    {
+      "bp": 10,
+      "desc": "120% Atk, Def, 100% max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "150% damage against status afflicted foes"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 20,
+      "desc": "1 KO resistance when HP is below 30%"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (250% Dark elemental damage)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Adds Dark shield for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (29 combo Dark attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to SBB (Probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts damage against status afflicted foes for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows UBB's effects to last additional 1 turn"
+    }
+  ],
   "860968": [
     {
       "bp": 10,

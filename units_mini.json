@@ -29914,6 +29914,21 @@
     "sbb": "14 combo massive Dark attack on all foes (damage relative to remaining HP), 50% damage reduction for 1 turn, greatly restores HP, hugely boosts Dark elemental damage for 3 turns & hugely boosts Atk, Def, Rec for 3 turns",
     "ubb": "18 combo massive Dark attack on all foes (uses all allies' BB gauge), 100% damage reduction from Light types for 2 turns, enormously boosts Atk, Def, Rec for 3 turns, enormously boosts BB gauge for 3 turns & fully restores HP for 3 turns"
   },
+  "860958": {
+    "bb": "18 combo Dark attack on all foes (damage relative to remaining HP), Injury, Weakness, Sickness, Paralysis infliction, boosts max HP, fills BB gauge, spark damage restores HP for 3 turns & activates Stealth and boosts own Atk and critical rate for 2 turns",
+    "category": 860950,
+    "cost": 60,
+    "element": "dark",
+    "es": "200% critical damage when Sheena is in squad or crit type sphere equipped, 10-20% BB gauge consumed reduction, 20% all parameters for all allies, probable damage reduction to 1 & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "female",
+    "guide_id": 8650,
+    "id": 860958,
+    "ls": "200% Atk, 140% Def, max HP and 30% critical rate (Dark), 250% critical damage, 400% BB Atk, fills BB gauge each turn & 100% critical, elemental damage reduction",
+    "name": "Fatal Ruffles Vanessa",
+    "rarity": 8,
+    "sbb": "22 combo Dark attack on all foes (damage relative to remaining HP), 8 combo Dark attack on single foe, probable 3 turns Atk, Def reduction infliction, boosts Atk, Def, Rec and critical rate (Dark) for 3 turns, boosts BB Atk for 3 turns & boosts critical damage for 3 turns",
+    "ubb": "22 combo Dark attack on all foes (damage relative to remaining HP), 8 combo Dark attack on single foe (25% active Pierce on Light, Dark foes), 4 turns Atk, Def reduction infliction, boosts Atk, Def, Rec and critical rate for 4 turns, boosts critical damage for 4 turns & boosts max HP"
+  },
   "860968": {
     "bb": "17 combo Dark attack on all foes (damage relative to remaining HP), boosts own Atk and critical rate for 3 turns, boosts max HP, 100% critical and elemental damage reduction for 3 turns, fills BB gauge & 3 turns DoT infliction",
     "category": 860960,
