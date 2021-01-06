@@ -16203,7 +16203,7 @@
     },
     {
       "bp": 20,
-      "desc": "Add to BB/SBB (2 turns DoT [1000%] infliction)"
+      "desc": "Add to BB/SBB (2 turns DoT infliction)"
     },
     {
       "bp": 25,
@@ -21282,6 +21282,56 @@
     {
       "bp": 30,
       "desc": "Allows UBB's self-buff effects to last for 10 turns"
+    }
+  ],
+  "860998": [
+    {
+      "bp": 15,
+      "desc": "140% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Spark damage restores HP"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (250% Dark elemental damage)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (Fills OD gauge)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (100% critical and elemental damage reduction for 5 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 3 turns critical, elemental and spark vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (2 turns DoT infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Boosts Dark elemental damage for 3 turns), UBB (Boosts Dark elemental damage for 4 turns)"
     }
   ]
 }

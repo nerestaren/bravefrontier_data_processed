@@ -30004,6 +30004,21 @@
     "sbb": "23 combo Dark attack on all foes (damage relative to remaining HP), 16 combo Dark attack on all foes (partial HP drain), 4 turns spark vulnerability infliction, boosts Atk, Def, Rec relative to max HP for 3 turns, boosts all elemental damage for 3 turns & fills OD gauge at turn's end for 3 turns",
     "ubb": "35 combo Dark attack on all foes (damage relative to remaining HP), 5 turns spark vulnerability infliction, fills OD gauge at turn's end for 4 turns, 1 extra action for self for 5 turns, boosts own Atk, Def, Rec for 5 turns & boosts own spark damage for 5 turns"
   },
+  "860998": {
+    "bb": "20 combo Dark attack on all foes (damage relative to remaining HP), probable KO resistance, activates Stealth and boosts own Atk and critical rate for 2 turns, probable evasion for self for 2 turns, fills own BB gauge to max & 1 extra action for self for 1 turn",
+    "category": 860990,
+    "cost": 60,
+    "element": "dark",
+    "es": "50% all parameters for self when Maeri or Kisrai is in squad or Status Boost sphere is equipped, 30% all parameters, adds ignore Def to attack for all allies, 30-50% BB gauge consumed reduction & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "male",
+    "guide_id": 8654,
+    "id": 860998,
+    "ls": "200% Atk, 140% max HP, 30% critical rate, 300% spark damage, probable spark critical, spark damage restores HP & 100% critical, elemental damage reduction",
+    "name": "Dismal Omen Luro",
+    "rarity": 8,
+    "sbb": "20 combo Dark attack on all foes (damage relative to remaining HP), 17 combo Dark attack on all foes (damage relative to remaining HP), 15 combo Dark attack on single foe (or probable 5% damage of foes' max HP), boosts spark damage (Dark) for 3 turns, probable spark critical for 4 turns & boosts own spark damage for 3 turns",
+    "ubb": "28 combo Dark attack on all foes (damage relative to remaining HP), 12 combo Dark attack on single foe (25% active Pierce on Light, Dark foes), boosts spark damage for 4 turns, spark critical for 4 turns, evasion for 3 turns & probable KO resistance"
+  },
   "870034": {
     "category": 800034,
     "cost": 1,
