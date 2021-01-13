@@ -16555,6 +16555,56 @@
       "desc": "Add to BB/SBB (Adds Thunder barrier)"
     }
   ],
+  "840998": [
+    {
+      "bp": 15,
+      "desc": "140% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 20,
+      "desc": "1 KO resistance when HP is below 30%"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to LS (30% reduction to BB activation cost)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (31 combo Thunder attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Adds Thunder shield for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (25% DoT reduction for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Boosts spark damage for 3 turns), UBB (Boosts spark damage for 4 turns)"
+    }
+  ],
   "850018": [
     {
       "bp": 10,
@@ -18812,6 +18862,52 @@
     {
       "bp": 25,
       "desc": "Add to UBB (100% damage reduction for 4 turns)"
+    }
+  ],
+  "850998": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters, 60% critical rate"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Critical damage fills BB gauge"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments and Atk, Def, Rec reductions"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Boosts own max HP)"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to SBB (2 turns max HP reduction infliction on single foe (PvP modes only))"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Boosts spark damage (Light) for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Adds Light barrier)"
     }
   ],
   "860018": [

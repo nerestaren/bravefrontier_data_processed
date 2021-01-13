@@ -26921,6 +26921,21 @@
     "sbb": "16 combo Thunder attack on all foes (damage relative to remaining HP), 16 combo Thunder attack on single foe (or probable 5% damage of foes' max HP), activates Stealth and boosts own Atk and critical rate for 3 turns, boosts own spark damage for 4 turns, boosts spark damage (Thunder) for 3 turns & boosts critical damage for 3 turns",
     "ubb": "26 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), 13 combo Thunder attack on single foe (25% active Pierce on Water, Thunder foes), 1 extra action for 1 turn, boosts spark damage for 4 turns, boosts critical damage for 4 turns & fills OD gauge at turn's end for 4 turns"
   },
+  "840998": {
+    "bb": "18 combo Thunder attack on all foes (damage relative to remaining HP), 15% damage reduction from all element types for 3 turns, spark damage fills BB gauge for 3 turns, spark damage restores HP for 3 turns, fills OD gauge at turn's end for 3 turns & boosts OD gauge fill rate for 3 turns",
+    "category": 840990,
+    "cost": 60,
+    "element": "thunder",
+    "es": "120% spark damage when Luro or Ni'en is in squad or spark type sphere equipped, 20% Thunder elemental damage, 15% DoT reduction for all allies, 40% all parameters & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "female",
+    "guide_id": 8655,
+    "id": 840998,
+    "ls": "150% Atk, Def, 100% Rec, 150% max HP, 250% Thunder elemental damage, 15% damage reduction, probable spark critical & 30% OD gauge fill rate",
+    "name": "Whitefang Kisrai",
+    "rarity": 8,
+    "sbb": "18 combo Thunder attack on all foes (damage relative to remaining HP), 14 combo Thunder attack on single foe (or probable 5% damage of foes' max HP), probable 3 turns critical and elemental vulnerability infliction, probable spark critical for 4 turns, boosts Thunder elemental damage for 3 turns & boosts Atk, Def, Rec relative to max HP for 3 turns",
+    "ubb": "20 combo Thunder attack on all foes (damage relative to remaining HP), 12 combo Thunder attack on single foe (25% active Pierce on Water, Thunder foes), boosts Atk, Def, Rec relative to max HP for 4 turns, boosts Thunder elemental damage for 4 turns, spark damage fills BB gauge for 4 turns & boosts max HP"
+  },
   "850003": {
     "bb": "12 combo powerful Light random attack on all enemies",
     "category": 850000,
@@ -28481,6 +28496,21 @@
     "rarity": 8,
     "sbb": "21 combo Light attack on all foes (damage relative to remaining HP), 10 combo Light attack on single foe (or probable 5% damage of foes' max HP), boosts spark damage for 3 turns, boosts own spark damage for 3 turns, fills OD gauge & spark damage fills BB gauge for 3 turns",
     "ubb": "23 combo Light attack on all foes (damage relative to remaining HP), 12 combo Light attack on single foe (25% active Pierce on Light, Dark foes), boosts spark damage for 4 turns, spark damage restores HP for 4 turns, boosts Atk, Def, Rec for 4 turns & 1 extra action for 1 turn"
+  },
+  "850998": {
+    "bb": "15 combo Light attack on all foes (damage relative to remaining HP), adds probable 2 turns Atk, Def reduction infliction counter for 3 turns, 50% damage reduction for 3 turns, damage taken may restore HP for 3 turns, damage taken fills BB gauge for 3 turns & activates Taunt and boosts own Def for 2 turns",
+    "category": 850990,
+    "cost": 54,
+    "element": "light",
+    "es": "150% critical damage when Luro or Kisrai is in squad or Crit type sphere is equipped, probable 40% damage counter, 10% BB/SBB activation rates for all allies, 40% Atk, Def each turn (3 times) & negates ignore Def",
+    "gender": "male",
+    "guide_id": 8656,
+    "id": 850998,
+    "ls": "120% Atk, 100% Def, Rec, 120% max HP, 20% damage reduction for 1 turn when damage taken is over 5k, 50% damage reduction from all element types for first 2 turns, 25% BB/SBB activation rates & 100% ABP, 50% CBP gain",
+    "name": "Spirited Beast Ni'en",
+    "rarity": 8,
+    "sbb": "15 combo Light attack on all foes (damage relative to remaining HP, boosts own critical rate), 15 combo Light attack on all foes (damage relative to remaining HP, boosts own critical rate), boosts Atk, Def, Rec and critical rate (Light) for 3 turns, boosts Light elemental damage for 3 turns, boosts critical damage for 3 turns & boosts critical damage (Light) for 3 turns",
+    "ubb": "20 combo Light attack on all foes (damage relative to remaining HP), boosts critical damage for 3 turns, boosts max HP, boosts Atk, Def, Rec and critical rate for 3 turns, damage taken restores HP for 3 turns & damage taken fills BB gauge for 3 turns"
   },
   "860003": {
     "bb": "7 combo Dark elemental attack on single enemy",
