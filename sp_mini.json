@@ -16978,47 +16978,51 @@
   "850288": [
     {
       "bp": 10,
-      "desc": "30% boost to Atk, max HP"
+      "desc": "80% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "120% Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Fills BB gauge each turn"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
+    },
+    {
+      "bp": 20,
+      "desc": "Resistance against 1 KO attack"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (24 combo Light attack on Dark foes)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (50% damage reduction for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Damage taken fills BB gauge for 3 turns)"
     },
     {
       "bp": 15,
-      "desc": "120% boost to Spark damage"
+      "desc": "Add to BB/SBB (15% damage reduction from all element types for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Normal attacks hits all foes for 3 turns)"
     },
     {
       "bp": 20,
-      "desc": "Boosts critical hit damage"
-    },
-    {
-      "bp": 35,
-      "desc": "Adds considerable boost to BB gauge when attacked for 3 turns effect to BB/SBB"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances SBB's Atk boost relative to Def effect"
-    },
-    {
-      "bp": 25,
-      "desc": "Enhances BB's max HP boost effect"
-    },
-    {
-      "bp": 35,
       "desc": "Allows SBB's buff effects to last for additional turn"
-    },
-    {
-      "bp": 20,
-      "desc": "Enhances BB/SBB's Atk, Def, Rec boost effects"
-    },
-    {
-      "bp": 25,
-      "desc": "Adds slight damage reduction from Light, Dark types for 2 turns effect to SBB"
-    },
-    {
-      "bp": 30,
-      "desc": "Enhances SBB's critical damage boost effect"
-    },
-    {
-      "bp": 35,
-      "desc": "Adds normal attack hits all foes for 3 turns effect to BB/SBB"
     }
   ],
   "850298": [
@@ -18874,40 +18878,44 @@
       "desc": "150% spark damage"
     },
     {
-      "bp": 15,
-      "desc": "200% elemental damage"
-    },
-    {
-      "bp": 15,
-      "desc": "Critical damage fills BB gauge"
+      "bp": 10,
+      "desc": "200% critical damage"
     },
     {
       "bp": 10,
-      "desc": "Negates all status ailments and Atk, Def, Rec reductions"
+      "desc": "Fills BB gauge each turn"
     },
     {
       "bp": 10,
-      "desc": "Raises Atk limit to 200k"
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
-      "desc": "Probable 2 KO resistance"
+      "desc": "Resistance against 1 KO attack"
     },
     {
       "bp": 25,
-      "desc": "Add to BB (Boosts own max HP)"
-    },
-    {
-      "bp": 30,
-      "desc": "Add to SBB (2 turns max HP reduction infliction on single foe (PvP modes only))"
+      "desc": "Add to SBB (24 combo Light attack on Dark foes)"
     },
     {
       "bp": 25,
-      "desc": "Add to SBB (Boosts spark damage (Light) for 3 turns)"
+      "desc": "Add to BB/SBB (50% damage reduction for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Damage taken fills BB gauge for 3 turns)"
     },
     {
       "bp": 15,
-      "desc": "Add to BB/SBB (Adds Light barrier)"
+      "desc": "Add to BB/SBB (15% damage reduction from all element types for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Normal attacks hits all foes for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows SBB's buff effects to last for additional turn"
     }
   ],
   "860018": [
@@ -19412,48 +19420,52 @@
   ],
   "860288": [
     {
-      "bp": 10,
-      "desc": "50% boost to max HP"
-    },
-    {
       "bp": 15,
-      "desc": "120% boost to Spark damage"
-    },
-    {
-      "bp": 20,
-      "desc": "Boosts critical hit damage"
-    },
-    {
-      "bp": 15,
-      "desc": "Boosts elemental damage"
+      "desc": "130% Def, max HP"
     },
     {
       "bp": 10,
-      "desc": "Adds probable Spark critical for 3 turns effect to BB/SBB"
+      "desc": "120% Spark damage"
     },
     {
       "bp": 10,
-      "desc": "Adds probable Spark vulnerability infliction for 2 turns effect to BB/SBB"
+      "desc": "150% critical damage"
+    },
+    {
+      "bp": 10,
+      "desc": "100% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
-      "desc": "Adds fill own BB gauge to max effect to SBB"
+      "desc": "Add to SBB(Fills own BB gauge to max)"
     },
     {
       "bp": 20,
-      "desc": "Enhances BB/SBB's Atk, Def, Rec boost effects"
+      "desc": "Add to SBB (Spark damage restores HP for 3 turns)"
     },
     {
       "bp": 20,
-      "desc": "Adds considerable HP restoration during Spark for 3 turns effect to SBB"
+      "desc": "Add to BB/SBB (Probable spark critical for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (3 turns spark vulnerability infliction)"
     },
     {
       "bp": 25,
-      "desc": "Adds slight damage reduction from Light, Dark types for 2 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (15% damage reduction from all element types for 3 turns)"
     },
     {
-      "bp": 30,
-      "desc": "Enhances SBB's Spark damage boosts BB gauge effect "
+      "bp": 15,
+      "desc": "Add to BB/SBB (Fills OD gauge at turn's end for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Allows UBB's effects to last additional 1 turn"
     }
   ],
   "860318": [
