@@ -22693,6 +22693,21 @@
     "sbb": "17 combo Fire attack on all foes (damage relative to remaining HP, boosts own critical rate), 15 combo Fire attack on single foe (or probable 5% damage of foes' max HP), probable 3 turns critical and elemental vulnerability infliction, boosts Atk, Def, Rec and critical rate (Fire) for 3 turns, boosts Fire elemental damage for 3 turns & boosts critical damage (Fire) for 3 turns",
     "ubb": "23 combo Fire attack on all foes (damage relative to remaining HP, boosts own critical rate), boosts Atk, Def, Rec and critical rate for 4 turns, fully restores HP for 4 turns, raises allies from KO, boosts critical damage for 4 turns & boosts max HP"
   },
+  "811008": {
+    "bb": "22 combo Fire attack on all foes (damage relative to remaining HP), raises normal hit amount for 3 turns, normal attacks hits all foes for 3 turns, probable evasion for self for 2 turns, fills own BB gauge to max & 1 extra action for self for 1 turn",
+    "category": 810990,
+    "cost": 60,
+    "element": "fire",
+    "es": "150% Fire elemental damage when Nabris in squad or Atk boosting Sphere is equipped, 25% spark damage for all allies, probable damage reduction to 1, raises normal hit amount & negates all status ailments and Atk, Def, Rec reduction",
+    "gender": "female",
+    "guide_id": 8657,
+    "id": 811008,
+    "ls": "150% Atk, Def, 100% Rec, 150% max HP, spark damage restores HP, probable spark critical, raises normal hit amount & normal attacks may hit all foes",
+    "name": "Heartstringer Guinne",
+    "rarity": 8,
+    "sbb": "22 combo Fire attack on all foes (damage relative to remaining HP), 15 combo Fire attack on single foe (or probable 5% damage of foes' max HP), boosts Atk, Def, Rec and critical rate for 3 turns, adds Fire shield for 3 turns, boosts spark damage for 3 turns & probable spark critical for 3 turns",
+    "ubb": "30 combo Fire attack on all foes (damage relative to remaining HP, boosts own critical rate), boosts Atk, Def, Rec and critical rate for 4 turns, boosts spark damage for 4 turns, raises normal hit amount for 4 turns, evasion for 3 turns & 1 extra action for 1 turn"
+  },
   "811016": {
     "bb": "15 combo powerful Fire attack on all foes & boosts critical hit rate for 3 turns",
     "category": 811010,

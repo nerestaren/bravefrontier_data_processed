@@ -10235,6 +10235,56 @@
       "desc": "Add to SBB (May activate BB/SBB/UBB twice for 3 turns), UBB (Activates BB/SBB/UBB twice for 3 turns)"
     }
   ],
+  "811008": [
+    {
+      "bp": 15,
+      "desc": "140% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises normal hit amount"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable 2 KO resistance"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (300% spark damage)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to SBB (Boosts spark damage (Fire) for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (36 combo Fire attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to UBB (Normal attacks hits all foes for 4 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Probable 1 KO resistance), UBB (Probable 1 KO resistance)"
+    }
+  ],
   "811118": [
     {
       "bp": 10,
