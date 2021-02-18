@@ -12729,48 +12729,51 @@
   ],
   "830288": [
     {
-      "bp": 20,
-      "desc": "30% boost to all parameters"
-    },
-    {
-      "bp": 15,
-      "dependency": true,
-      "desc": "Raises all parameters boost from 30% to 50%"
-    },
-    {
-      "bp": 20,
-      "desc": "Boosts critical hit damage"
-    },
-    {
-      "bp": 5,
-      "desc": "Considerably raises own normal hit amount"
+      "bp": 10,
+      "desc": "80% all parameters"
     },
     {
       "bp": 10,
-      "desc": "Add to BB (Removes all status ailments and Atk, Def, Rec reduction)"
+      "desc": "120% Spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% critical damage"
+    },
+    {
+      "bp": 15,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises normal hit amount"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 180k"
     },
     {
       "bp": 20,
-      "desc": "Enhances SBB's Atk boost relative to Def effect"
+      "desc": "Enhances UBB's raises normal hit amount effect"
     },
     {
       "bp": 20,
-      "desc": "Enhances hit count and damage of UBB's hugely raises normal hit amount effect"
+      "desc": "Add to BB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
     },
     {
       "bp": 20,
-      "desc": "Enhances BB/SBB's Atk, Def, Rec boost effects"
+      "desc": "Add to SBB (19 combo Earth attack on single foe)"
     },
     {
       "bp": 25,
-      "desc": "Adds damage reduction from Earth & Thunder types for 2 turns effect to BB/SBB"
+      "desc": "Add to BB/SBB (15% damage reduction from all element types for 3 turns)"
     },
     {
-      "bp": 30,
-      "desc": "Adds great HP restoration effect for 3 turns to BB/SBB"
+      "bp": 20,
+      "desc": "Add to BB/SBB (Restores HP for 3 turns)"
     },
     {
-      "bp": 35,
+      "bp": 20,
       "desc": "Allows SBB's buff effects to last for additional turn"
     }
   ],
@@ -21490,6 +21493,56 @@
     {
       "bp": 25,
       "desc": "Add to SBB (Boosts Dark elemental damage for 3 turns), UBB (Boosts Dark elemental damage for 4 turns)"
+    }
+  ],
+  "861008": [
+    {
+      "bp": 10,
+      "desc": "100% all parameters"
+    },
+    {
+      "bp": 10,
+      "desc": "50% Atk, Def when HP is above 50%"
+    },
+    {
+      "bp": 10,
+      "desc": "150% spark damage"
+    },
+    {
+      "bp": 15,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments and Atk, Def, Rec reduction"
+    },
+    {
+      "bp": 20,
+      "desc": "Probable damage reduction to 1"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB (Fills OD gauge)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Adds probable 3 turns Atk, Def, Rec reduction infliction to attack for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB/SBB (3 turns spark vulnerability infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Boosts max HP), UBB (Boosts max HP)"
+    },
+    {
+      "bp": 20,
+      "desc": "Allows UBB's effects to last additional 1 turn"
     }
   ]
 }

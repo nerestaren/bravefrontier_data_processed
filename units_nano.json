@@ -15854,6 +15854,13 @@
     "name": "Dismal Omen Luro",
     "rarity": 8
   },
+  "861008": {
+    "element": "dark",
+    "guide_id": 8658,
+    "id": 861008,
+    "name": "Umbral Whisper Nabris",
+    "rarity": 8
+  },
   "870034": {
     "element": "light",
     "guide_id": 8031,

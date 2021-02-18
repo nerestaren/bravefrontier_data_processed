@@ -22695,7 +22695,7 @@
   },
   "811008": {
     "bb": "22 combo Fire attack on all foes (damage relative to remaining HP), raises normal hit amount for 3 turns, normal attacks hits all foes for 3 turns, probable evasion for self for 2 turns, fills own BB gauge to max & 1 extra action for self for 1 turn",
-    "category": 810990,
+    "category": 811000,
     "cost": 60,
     "element": "fire",
     "es": "150% Fire elemental damage when Nabris in squad or Atk boosting Sphere is equipped, 25% spark damage for all allies, probable damage reduction to 1, raises normal hit amount & negates all status ailments and Atk, Def, Rec reduction",
@@ -24549,19 +24549,19 @@
     "ubb": "19 combo massive Earth attack on all foes, enormously boosts Atk relative to Def for 3 turns, raises normal hit amount for 3 turns & hugely boosts max HP"
   },
   "830288": {
-    "bb": "16 combo powerful Earth attack on all foes, greatly boosts Earth types' Atk, Def, Rec for 3 turns, enormously boosts Earth types' critical hit rate for 3 turns, damage taken may slightly restore HP for 3 turns & boosts max HP",
+    "bb": "16 combo Earth attack on all foes (damage relative to remaining HP, boosts own critical rate), boosts Atk, Def, Rec and critical rate (Earth) for 3 turns, damage taken may restore HP for 3 turns, boosts max HP, normal attacks hits all foes for 3 turns & 2 turns DoT infliction",
     "category": 830280,
-    "cost": 54,
+    "cost": 60,
     "element": "earth",
-    "es": "50% boost to Atk of Earth types, 100% boost to Atk when BB gauge is over 50%, adds Earth barrier effect to BB/SBB & raises Atk parameter limits to 130000<br> 50% boost to Atk, Def when HP is over 50%, raises normal hit amount & boosts Earth elemental damage for all allies in Guild Raid",
+    "es": "50% Atk (Earth) for all allies, 30% all parameters, 100% Atk when BB gauge is above 50% & add to BB/SBB (Adds Earth barrier)<br>25% Earth elemental damage for all allies, raises normal hit amount & add to SBB (19 combo Earth attack on Thunder foes) in Guild Raid",
     "gender": "female",
     "guide_id": 8311,
     "id": 830288,
-    "ls": "60% boost to Atk, max HP, hugely boosts critical damage, enormously boosts BC, HC drop rate & boosts Atk, Def relative to remaining HP",
+    "ls": "150% Atk, max HP, 30% critical rate, 250% critical damage, 0-80% Atk, Def relative to remaining HP, 50% BC, HC, 9% Item, 50% Zel, Karma drop rates & 30% OD gauge fill rate",
     "name": "Steel Magus Dessit",
     "rarity": 8,
-    "sbb": "19 combo powerful Earth attack on all foes, greatly boosts Earth types' Atk, Def, Rec for 3 turns, enormously boosts Earth types' critical hit rate for 3 turns, hugely boosts Atk relative to Def for 3 turns, considerably boosts OD gauge fill rate at turn's end for 3 turns, hugely boosts BC, HC drop rate for 3 turns & raises normal hit amount for 3 turns",
-    "ubb": "22 combo massive Earth attack on all foes, enormously boosts Atk relative to Def for 3 turns, enormously boosts OD gauge fill rate at turn's end for 3 turns, hugely raises normal hit amount for 3 turns & hugely boosts max HP"
+    "sbb": "19 combo Earth attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec and critical rate (Earth) for 3 turns, boosts Atk relative to Def for 3 turns, raises normal hit amount for 3 turns, boosts BC, HC drop rate for 3 turns & fills OD gauge at turn's end for 3 turns",
+    "ubb": "22 combo Earth attack on all foes (damage relative to remaining HP), boosts Atk relative to Def for 3 turns, raises normal hit amount for 3 turns, normal attacks hits all foes for 3 turns, boosts max HP & fills OD gauge at turn's end for 3 turns"
   },
   "830297": {
     "bb": "11 combo powerful Earth attack on all foes, 5 combo massive Earth attack on single Thunder foe, Spark damage boosts BB gauge for 3 turns & probable 1 turn huge Atk reduction",
@@ -30063,6 +30063,21 @@
     "rarity": 8,
     "sbb": "20 combo Dark attack on all foes (damage relative to remaining HP), 17 combo Dark attack on all foes (damage relative to remaining HP), 15 combo Dark attack on single foe (or probable 5% damage of foes' max HP), boosts spark damage (Dark) for 3 turns, probable spark critical for 4 turns & boosts own spark damage for 3 turns",
     "ubb": "28 combo Dark attack on all foes (damage relative to remaining HP), 12 combo Dark attack on single foe (25% active Pierce on Light, Dark foes), boosts spark damage for 4 turns, spark critical for 4 turns, evasion for 3 turns & probable KO resistance"
+  },
+  "861008": {
+    "bb": "17 combo Dark attack on all foes (partial HP drain), probable all status ailments infliction, boosts Atk, Def, Rec for 3 turns, damage taken may restore HP for 3 turns & probable KO resistance",
+    "category": 861000,
+    "cost": 60,
+    "element": "dark",
+    "es": "30-50% BB gauge consumed reduction when Guinne is in squad or BB gauge sphere is equipped, 20% all elemental damage for all allies, 0-100% Atk, Def, Rec relative to remaining HP, 10% damage reduction & 175% damage against status afflicted foes",
+    "gender": "male",
+    "guide_id": 8658,
+    "id": 861008,
+    "ls": "140% all parameters, 200% all elemental damage, 175% damage against status afflicted foes, damage taken may restore HP & 30% OD gauge fill rate",
+    "name": "Umbral Whisper Nabris",
+    "rarity": 8,
+    "sbb": "19 combo Dark attack on all foes (damage relative to remaining HP, boosts own critical rate), 30 combo random Dark attack on all foes, boosts all elemental damage for 3 turns, boosts damage against status afflicted foes for 3 turns, damage taken fills BB gauge for 3 turns & activates Stealth and boosts own Atk and critical rate for 2 turns",
+    "ubb": "22 combo Dark attack on all foes (damage relative to remaining HP), boosts Dark elemental damage for 3 turns, adds probable 1 turn Atk, Def reduction infliction to attack for 3 turns, boosts damage against status afflicted foes for 3 turns, damage taken restores HP for 3 turns & damage taken fills BB gauge for 3 turns"
   },
   "870034": {
     "category": 800034,
