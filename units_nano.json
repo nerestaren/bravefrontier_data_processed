@@ -15105,6 +15105,13 @@
     "name": "Spirited Beast Ni'en",
     "rarity": 8
   },
+  "851018": {
+    "element": "light",
+    "guide_id": 8659,
+    "id": 851018,
+    "name": "Sightless Light Phaedra",
+    "rarity": 8
+  },
   "860003": {
     "element": "dark",
     "guide_id": 8015,

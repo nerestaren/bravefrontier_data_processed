@@ -7772,7 +7772,7 @@
     },
     {
       "bp": 15,
-      "desc": "Add to BB (probable 1 KO resistance)"
+      "desc": "Add to BB (Probable 1 KO resistance)"
     },
     {
       "bp": 25,
@@ -13764,12 +13764,12 @@
   ],
   "830698": [
     {
-      "bp": 15,
-      "desc": "100% boost to all parameters"
+      "bp": 10,
+      "desc": "120% all parameters"
     },
     {
       "bp": 15,
-      "desc": "Enormously boosts elemental damage"
+      "desc": "300% elemental damage"
     },
     {
       "bp": 10,
@@ -13781,35 +13781,35 @@
     },
     {
       "bp": 15,
-      "desc": "probable damage reduction to 1"
-    },
-    {
-      "bp": 20,
-      "desc": "Adds negates all status ailments and Atk, Def, Rec reduction effects for 3 turns effect to BB"
-    },
-    {
-      "bp": 20,
-      "desc": "Adds damage taken hugely boosts BB gauge for 3 turns effect to BB/SBB"
+      "desc": "Probable damage reduction to 1"
     },
     {
       "bp": 10,
-      "desc": "Adds damage taken may considerably restore HP for 3 turns effect to BB/SBB"
+      "desc": "Raises Atk limits to 200k"
     },
     {
       "bp": 25,
-      "desc": "Adds boost to Atk, Def, Rec of all elemental types for 3 turns effect to SBB"
+      "desc": "Enhances SBB's may raise allies from KO"
     },
     {
-      "bp": 10,
-      "desc": "Enhances BB's greatly restores HP for 3 turns effect"
+      "bp": 15,
+      "desc": "Add to BB (Negates all status ailments and Atk, Def, Rec reduction for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (100% critical and elemental damage reduction for 5 turns)"
     },
     {
       "bp": 20,
-      "desc": "Enhances SBB's Earth barrier effect"
+      "desc": "Add to SBB (Boosts Atk, Def, Rec and critical rate for 3 turns)"
     },
     {
-      "bp": 25,
-      "desc": "Enhances SBB's probability of raising allies from KO effect"
+      "bp": 20,
+      "desc": "Add to BB/SBB (Damage taken fills BB gauge for 3 turns)"
+    },
+    {
+      "bp": 10,
+      "desc": "Add to BB/SBB (Damage taken may restore HP for 3 turns)"
     }
   ],
   "830708": [
@@ -14404,7 +14404,7 @@
     },
     {
       "bp": 15,
-      "desc": "Add to BB (probable 1 KO resistance)"
+      "desc": "Add to BB (Probable 1 KO resistance)"
     },
     {
       "bp": 15,
@@ -18969,6 +18969,56 @@
     {
       "bp": 20,
       "desc": "Allows SBB's buff effects to last for additional turn"
+    }
+  ],
+  "851018": [
+    {
+      "bp": 15,
+      "desc": "140% Atk, max HP"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "200% elemental damage"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates all status ailments and Atk, Def, Rec reductions"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 220k"
+    },
+    {
+      "bp": 30,
+      "desc": "Add to LS (300% Light elemental damage)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Probable 1 KO resistance)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (39 combo Light attack on all foes (damage relative to remaining HP))"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB/SBB (Fills OD gauge at turn's end for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Spark damage restores HP for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (2 turns DoT infliction)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Boosts Light elemental damage for 3 turns), UBB (Boosts Light elemental damage for 4 turns)"
     }
   ],
   "860018": [

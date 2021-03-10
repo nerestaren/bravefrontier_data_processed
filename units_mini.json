@@ -25216,19 +25216,19 @@
     "ubb": "13 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 3 turns, enormously boosts max HP, damage taken enormously boosts BB gauge for 3 turns, damage taken enormously restores HP for 3 turns, probability of raising allies from KO"
   },
   "830698": {
-    "bb": "6 combo powerful Earth attack on all foes (partial HP drain), greatly restores HP for 3 turns, greatly boosts max HP, 15% damage reduction from all element types for 3 turns, slightly boosts OD gauge & removes all status ailments and Atk, Def, Rec reduction effects",
+    "bb": "6 combo Earth attack on all foes (partial HP drain), restores HP for 3 turns, boosts max HP, 15% damage reduction from all element types for 3 turns, removes all status ailments and Atk, Def, Rec reduction & fills OD gauge",
     "category": 830690,
     "cost": 60,
     "element": "earth",
-    "es": "20% boost to all parameters for all allies, 3% reduction to damage received for all allies, negates critical and elemental damage, restores HP each turn & resistance against 1 KO attack when HP is below 40%",
+    "es": "25% all parameters, 5% damage reduction for all allies, restores HP each turn, 1 KO resistance when HP is below 40% & 100% critical, elemental damage reduction",
     "gender": "female",
     "guide_id": 8505,
     "id": 830698,
-    "ls": "100% boost to Atk, Def, Rec and 120% boost to max HP, enormously boosts BB gauge each turn, restores HP each turn, negates all status ailments and Atk, Def, Rec reduction effects & adds probable resistance against 1 KO attack",
+    "ls": "120% Atk, Def, Rec, 140% max HP, restores HP each turn, fills BB gauge each turn, probable 1 KO resistance & negates all status ailments and Atk, Def, Rec reduction",
     "name": "Deepwood Syrinx Miell",
     "rarity": 8,
-    "sbb": "8 combo powerful Earth attack on all foes (partial HP drain), hugely restores HP, activates Earth barrier, 15% damage reduction from all element types for 3 turns, boosts OD gauge & probability of raising allies from KO",
-    "ubb": "15 combo massive Earth attack on all foes (damage relative to remaining HP), enormously boosts Atk, Def, Rec for 4 turns, enormously boosts max HP, damage taken enormously boosts BB gauge for 4 turns, damage taken enormously restores HP for 4 turns, raises allies from KO"
+    "sbb": "8 combo Earth attack on all foes (partial HP drain), restores HP, adds Earth barrier, 15% damage reduction from all element types for 3 turns, may raise allies from KO  & fills OD gauge per ally",
+    "ubb": "15 combo Earth attack on all foes (damage relative to remaining HP), boosts Atk, Def, Rec  and critical rate for 4 turns, boosts max HP, damage taken fills BB gauge for 4 turns, damage taken restores HP for 4 turns & raises allies from KO"
   },
   "830708": {
     "bb": "14 combo massive Earth attack on single foe (or probable 5% damage of foe's max HP), 3 combo powerful Earth attack on single foe (damage relative to remaining HP), probability of purging Curse negation effect from single foe, enormously boosts Earth elemental damage for 3 turns, Spark vulnerability infliction for 3 turns & probable random status ailment infliction",
@@ -28526,6 +28526,21 @@
     "rarity": 8,
     "sbb": "15 combo Light attack on all foes (damage relative to remaining HP, boosts own critical rate), 15 combo Light attack on all foes (damage relative to remaining HP, boosts own critical rate), boosts Atk, Def, Rec and critical rate (Light) for 3 turns, boosts Light elemental damage for 3 turns, boosts critical damage for 3 turns & boosts critical damage (Light) for 3 turns",
     "ubb": "20 combo Light attack on all foes (damage relative to remaining HP), boosts critical damage for 3 turns, boosts max HP, boosts Atk, Def, Rec and critical rate for 3 turns, damage taken restores HP for 3 turns & damage taken fills BB gauge for 3 turns"
+  },
+  "851018": {
+    "bb": "16 combo Light attack on all foes (consecutive uses boosts damage), adds ignore Def to attack for 5 turns, activates Stealth and boosts own Atk and critical rate for 2 turns, fills own BB gauge to max, 1 extra action for self for 1 turn & fills OD gauge",
+    "category": 851010,
+    "cost": 60,
+    "element": "light",
+    "es": "Probable 2 KO resistance when Angahl or Miell is in squad or spark type sphere equipped, Negates all status ailments, 25% spark damage for all allies, 40% Atk, Def, Rec each turn (3 times) & 150% Light elemental damage",
+    "gender": "female",
+    "guide_id": 8659,
+    "id": 851018,
+    "ls": "200% Atk, 150% max HP, 30% critical rate, 300% spark damage, probable damage reduction to 1, 30% reduction to BB activation cost & 30% OD gauge fill rate",
+    "name": "Sightless Light Phaedra",
+    "rarity": 8,
+    "sbb": "20 combo Light attack on all foes (damage relative to remaining HP), 20 combo Light attack on single foe (or probable 5% damage of foes' max HP), 3 turns spark vulnerability infliction, boosts Atk, Def, Rec relative to max HP for 3 turns, boosts spark damage (Light) for 3 turns & may activate BB/SBB/UBB twice for 3 turns",
+    "ubb": "34 combo Light attack on all foes (damage relative to remaining HP), 12 combo Light attack on single foe (25% active Pierce on Light, Dark foes), 4 turns spark vulnerability infliction, boosts Atk, Def, Rec relative to max HP for 4 turns, boosts spark damage for 4 turns & activates BB/SBB/UBB twice for 3 turns"
   },
   "860003": {
     "bb": "7 combo Dark elemental attack on single enemy",
