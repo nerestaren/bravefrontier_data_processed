@@ -14660,6 +14660,56 @@
       "desc": "Add to BB (Boosts max HP), UBB (Boosts max HP)"
     }
   ],
+  "831018": [
+    {
+      "bp": 15,
+      "desc": "120% all parameters, 60% critical rate"
+    },
+    {
+      "bp": 10,
+      "desc": "200% spark damage"
+    },
+    {
+      "bp": 10,
+      "desc": "300% elemental damage"
+    },
+    {
+      "bp": 15,
+      "desc": "Probable 25% damage reduction"
+    },
+    {
+      "bp": 10,
+      "desc": "Negates ignore Def"
+    },
+    {
+      "bp": 10,
+      "desc": "Raises Atk limit to 200k"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to BB (Probable all status ailments infliction counter for 3 turns)"
+    },
+    {
+      "bp": 15,
+      "desc": "Add to BB (Adds probable 2 turns Atk, Def, Rec reduction infliction counter for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Add to SBB (Probable 2 turns critical and elemental vulnerability infliction)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (Adds Earth shield for 3 turns)"
+    },
+    {
+      "bp": 20,
+      "desc": "Add to BB/SBB (25% DoT reduction for 3 turns)"
+    },
+    {
+      "bp": 25,
+      "desc": "Allows UBB's effects to last additional 1 turn"
+    }
+  ],
   "840048": [
     {
       "bp": 10,

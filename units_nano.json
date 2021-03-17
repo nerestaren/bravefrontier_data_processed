@@ -13642,6 +13642,13 @@
     "name": "Arboreal Glaes",
     "rarity": 8
   },
+  "831018": {
+    "element": "earth",
+    "guide_id": 8660,
+    "id": 831018,
+    "name": "Somber Guardian Angahl",
+    "rarity": 8
+  },
   "840003": {
     "element": "thunder",
     "guide_id": 8009,
