@@ -22736,6 +22736,21 @@
     "sbb": "32 combo powerful Fire, Light attack on all foes, largely boosts Spark damage for 3 turns & 1 turn Atk, Def reduction for 3 turns",
     "ubb": "36 combo massive Fire, Light attack on all foes, boosts BB Atk for 3 turns & largely boosts elemental based damage for 3 turns"
   },
+  "811028": {
+    "bb": "15 combo Fire attack on all foes (damage relative to remaining HP), 15% damage reduction from all element types for 2 turns, probable KO resistance, fills OD gauge at turn's end for 3 turns, boosts OD gauge fill rate for 3 turns & boosts BC, HC drop rate, Item drop rate for 3 turns",
+    "category": 811020,
+    "cost": 60,
+    "element": "fire",
+    "es": "150% spark damage when Lleva or Bonnie is in squad or spark type sphere equipped, 0-100% Atk, Def, Rec relative to remaining HP, probable damage reduction to 1 & 1 KO resistance when HP is below 40%",
+    "gender": "male",
+    "guide_id": 8662,
+    "id": 811028,
+    "ls": "140% all parameters, 30% critical rate, 250% critical damage, 250% spark damage, 30% OD gauge fill rate, 50% BC, HC, 18% Item, 60% Zel, Karma drop rates & 25% EXP gained",
+    "name": "Blast Brigadier Buck",
+    "rarity": 8,
+    "sbb": "19 combo Fire attack on all foes (damage relative to remaining HP, boosts own critical rate), 19 combo Fire attack on all foes (damage relative to remaining HP, boosts own critical rate), boosts critical damage for 3 turns, boosts spark damage (Fire) for 3 turns, boosts own spark damage for 3 turns & boosts own Atk, Def and critical rate for 3 turns",
+    "ubb": "20 combo Fire attack on all foes (damage relative to remaining HP), 19 combo Fire attack on single foe (25% active Pierce on Fire, Earth foes), boosts critical damage for 3 turns, boosts spark damage for 3 turns, boosts BC, HC drop rate, Item drop rate for 3 turns & fills OD gauge"
+  },
   "811116": {
     "bb": "18 combo powerful Fire and Water attack on all enemies & boost to spark damage for 3 turns",
     "category": 811110,
@@ -25751,19 +25766,19 @@
     "ubb": "18 combo Fire, Thunder, Dark attack on all foes (damage relative to remaining HP). boosts BB Atk and boosts damage against status afflicted foes for 3 turns"
   },
   "840118": {
-    "bb": "18 combo powerful Fire, Thunder, Dark attack on all foes, enormously boosts BB gauge for 3 turns, hugely boosts BC efficacy for 3 turns, hugely boosts Atk, Def, Rec for 3 turns & probable random status ailment infliction",
+    "bb": "18 combo Fire, Thunder, Dark attack on all foes, probable all status ailments infliction, boosts Atk, Def, Rec for 3 turns, fills BB gauge for 3 turns, boosts BC efficacy for 3 turns & boosts max HP",
     "category": 840110,
-    "cost": 54,
+    "cost": 60,
     "element": "thunder",
-    "es": "100% boost to Atk when BB gauge is above 50%, adds Def ignoring effect to BB/SBB for 3 turns, adds all elements to attack for 3 turns to BB/SBB/UBB & boosts damage against status afflicted foes for all allies",
+    "es": "50% damage against status afflicted foes for all allies, 100% Atk when BB gauge is above 50%, add to BB/SBB (Adds ignore Def to attack for 3 turns) & add to BB/SBB/UBB (Adds all elements to attack for 3 turns)",
     "gender": "female",
     "guide_id": 8517,
     "id": 840118,
-    "ls": "80% boost to all parameters, enormously boosts BC efficacy, greatly reduces BB gauge required for BB, greatly boosts BB Atk & Spark damage considerably boosts BB gauge",
+    "ls": "140% Atk, 120% Def, Rec, 140% max HP, 400% BB Atk, spark damage fills BB gauge, 70% BC efficacy & 30% reduction to BB activation cost",
     "name": "Hyper Tank Bonnie",
     "rarity": 8,
-    "sbb": "20 combo powerful Fire, Thunder, Dark attack on all foes, 30 combo massive random Thunder attack on all foes, Spark damage considerably boosts BB gauge for 3 turns, enormously boosts BB Atk for 3 turns, enormously boosts damage against status afflicted foes for 3 turns & adds probable status ailment infliction to attack for 3 turns",
-    "ubb": "23 combo massive Fire, Thunder, Dark attack on all foes, Spark damage hugely boosts BB gauge for 3 turns, enormously boosts BB gauge for 3 turns, enormously boosts BB Atk for 3 turns, enormously boosts Atk, Def, Rec for 3 turns & random status ailment infliction"
+    "sbb": "20 combo Fire, Thunder, Dark attack on all foes, 30 combo random Thunder attack on all foes, spark damage fills BB gauge for 3 turns, boosts BB Atk for 3 turns, boosts damage against status afflicted foes for 3 turns & adds probable all status ailments infliction to attack for 3 turns",
+    "ubb": "23 combo Fire, Thunder, Dark attack on all foes, boosts Atk, Def, Rec  and critical rate for 4 turns, boosts BB Atk for 4 turns, fills BB gauge for 4 turns, spark damage fills BB gauge for 4 turns & adds all status ailments infliction to attack for 3 turns"
   },
   "840124": {
     "bb": "6 combo powerful Thunder attack on single enemy & adds chance of decreasing Atk and Def for 1 turn",
@@ -26965,6 +26980,21 @@
     "rarity": 8,
     "sbb": "18 combo Thunder attack on all foes (damage relative to remaining HP), 14 combo Thunder attack on single foe (or probable 5% damage of foes' max HP), probable 3 turns critical and elemental vulnerability infliction, probable spark critical for 4 turns, boosts Thunder elemental damage for 3 turns & boosts Atk, Def, Rec relative to max HP for 3 turns",
     "ubb": "20 combo Thunder attack on all foes (damage relative to remaining HP), 12 combo Thunder attack on single foe (25% active Pierce on Water, Thunder foes), boosts Atk, Def, Rec relative to max HP for 4 turns, boosts Thunder elemental damage for 4 turns, spark damage fills BB gauge for 4 turns & boosts max HP"
+  },
+  "841028": {
+    "bb": "15 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), probable 3 turns critical, elemental and spark vulnerability infliction, restores HP, may raise allies from KO, may activate BB/SBB/UBB twice for 3 turns & fills OD gauge",
+    "category": 841020,
+    "cost": 60,
+    "element": "thunder",
+    "es": "150% Thunder elemental damage when Buck or Bonnie is in squad or Atk boosting Sphere is equipped, 25% critical damage for all allies, fills BB gauge each turn, negates all status ailments and Atk, Def, Rec reduction & add to BB/SBB (Removes all status ailments and Atk, Def, Rec reduction)",
+    "gender": "female",
+    "guide_id": 8661,
+    "id": 841028,
+    "ls": "150% Atk, 100% Def, 150% Rec, max HP, 30% critical rate, 300% spark damage, restores HP each turn, 30% reduction to BB activation cost & 20% damage reduction for 2 turns when damage taken is over 5k",
+    "name": "Boltstriker Lleva",
+    "rarity": 8,
+    "sbb": "17 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), 13 combo Thunder attack on single foe (or probable 5% damage of foes' max HP), probable 3 turns Atk, Def reduction infliction, boosts Atk, Def, Rec and critical rate (Thunder) for 3 turns, boosts spark damage for 3 turns & boosts critical damage (Thunder) for 3 turns",
+    "ubb": "23 combo Thunder attack on all foes (damage relative to remaining HP, boosts own critical rate), 4 turns Atk, Def reduction infliction, boosts Atk, Def, Rec and critical rate for 4 turns, fully restores HP for 4 turns, raises allies from KO & activates BB/SBB/UBB twice for 3 turns"
   },
   "850003": {
     "bb": "12 combo powerful Light random attack on all enemies",

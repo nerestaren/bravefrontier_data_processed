@@ -12256,6 +12256,13 @@
     "name": "Perdition Goddess Lucia",
     "rarity": 7
   },
+  "811028": {
+    "element": "fire",
+    "guide_id": 8662,
+    "id": 811028,
+    "name": "Blast Brigadier Buck",
+    "rarity": 8
+  },
   "811116": {
     "element": "fire",
     "guide_id": 8170,
@@ -14333,6 +14340,13 @@
     "guide_id": 8655,
     "id": 840998,
     "name": "Whitefang Kisrai",
+    "rarity": 8
+  },
+  "841028": {
+    "element": "thunder",
+    "guide_id": 8661,
+    "id": 841028,
+    "name": "Boltstriker Lleva",
     "rarity": 8
   },
   "850003": {
